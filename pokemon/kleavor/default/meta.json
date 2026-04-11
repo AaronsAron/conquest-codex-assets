@@ -1,0 +1,63 @@
+{
+  "pokemonId": "kleavor",
+  "variantId": "default",
+  "displayName": "Kleavor",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 900,
+  "types": ["bug", "rock"],
+  "baseStats": {
+    "hp": 70,
+    "atk": 135,
+    "def": 95,
+    "spa": 45,
+    "spd": 70,
+    "spe": 85
+  },
+  "stats": {
+    "hp": 250,
+    "attack": 275,
+    "defense": 170,
+    "speed": 175,
+    "bst": 870
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

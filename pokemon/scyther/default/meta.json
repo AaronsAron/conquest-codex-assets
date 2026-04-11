@@ -1,0 +1,61 @@
+{
+  "pokemonId": "scyther",
+  "variantId": "default",
+  "displayName": "Scyther",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 123,
+  "types": ["bug", "flying"],
+  "baseStats": {
+    "hp": 70,
+    "atk": 110,
+    "def": 80,
+    "spa": 55,
+    "spd": 80,
+    "spe": 105
+  },
+  "stats": {
+    "hp": 250,
+    "attack": 225,
+    "defense": 165,
+    "speed": 215,
+    "bst": 855
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

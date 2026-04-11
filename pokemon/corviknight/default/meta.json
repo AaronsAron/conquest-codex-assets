@@ -1,0 +1,71 @@
+{
+  "pokemonId": "corviknight",
+  "variantId": "default",
+  "displayName": "Corviknight",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 823,
+  "types": ["flying", "steel"],
+  "baseStats": {
+    "hp": 98,
+    "atk": 87,
+    "def": 105,
+    "spa": 53,
+    "spd": 85,
+    "spe": 67
+  },
+  "stats": {
+    "hp": 306,
+    "attack": 179,
+    "defense": 195,
+    "speed": 139,
+    "bst": 819
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "nataniel-sama", "role": "draw" },
+      { "name": "Garbage", "role": "draw" },
+      { "name": "Soulja", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "nataniel-sama", "role": "draw" },
+      { "name": "Garbage", "role": "draw" },
+      { "name": "Soulja", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

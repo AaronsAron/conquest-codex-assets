@@ -1,0 +1,63 @@
+{
+  "pokemonId": "rotom",
+  "variantId": "default",
+  "displayName": "Rotom",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 479,
+  "types": ["electric", "ghost"],
+  "baseStats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 77,
+    "spa": 95,
+    "spd": 77,
+    "spe": 91
+  },
+  "stats": {
+    "hp": 210,
+    "attack": 195,
+    "defense": 159,
+    "speed": 187,
+    "bst": 751
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "float",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

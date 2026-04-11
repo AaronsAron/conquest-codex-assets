@@ -1,0 +1,85 @@
+{
+  "pokemonId": "wigglytuff",
+  "variantId": "default",
+  "displayName": "Wigglytuff",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 40,
+  "types": ["normal", "fairy"],
+  "baseStats": {
+    "hp": 140,
+    "atk": 70,
+    "def": 45,
+    "spa": 85,
+    "spd": 50,
+    "spe": 45
+  },
+  "stats": {
+    "hp": 390,
+    "attack": 175,
+    "defense": 100,
+    "speed": 95,
+    "bst": 760
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "joyful": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "sad": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "fierce": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "shocked": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "joyful": "2026-04-01",
+      "sad": "2026-04-01",
+      "fierce": "2026-04-01",
+      "shocked": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

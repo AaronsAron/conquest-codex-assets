@@ -1,0 +1,63 @@
+{
+  "pokemonId": "combusken",
+  "variantId": "default",
+  "displayName": "Combusken",
+  "tags": ["default", "not-fully-evolved", "starter"],
+
+  "nationalDexNumber": 256,
+  "types": ["fire", "fighting"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 85,
+    "def": 60,
+    "spa": 85,
+    "spd": 60,
+    "spe": 55
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 175,
+    "defense": 125,
+    "speed": 115,
+    "bst": 645
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,65 @@
+{
+  "pokemonId": "genesect",
+  "variantId": "default",
+  "displayName": "Genesect",
+  "tags": ["default", "fully-evolved", "mythical"],
+
+  "nationalDexNumber": 649,
+  "types": ["bug", "steel"],
+  "baseStats": {
+    "hp": 71,
+    "atk": 120,
+    "def": 95,
+    "spa": 120,
+    "spd": 95,
+    "spe": 99
+  },
+  "stats": {
+    "hp": 252,
+    "attack": 245,
+    "defense": 195,
+    "speed": 203,
+    "bst": 895
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Emboarger", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

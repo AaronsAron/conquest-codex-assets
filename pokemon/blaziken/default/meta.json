@@ -1,0 +1,63 @@
+{
+  "pokemonId": "blaziken",
+  "variantId": "default",
+  "displayName": "Blaziken",
+  "tags": ["default", "fully-evolved", "starter"],
+
+  "nationalDexNumber": 257,
+  "types": ["fire", "fighting"],
+  "baseStats": {
+    "hp": 80,
+    "atk": 120,
+    "def": 70,
+    "spa": 110,
+    "spd": 70,
+    "spe": 80
+  },
+  "stats": {
+    "hp": 270,
+    "attack": 245,
+    "defense": 145,
+    "speed": 165,
+    "bst": 825
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

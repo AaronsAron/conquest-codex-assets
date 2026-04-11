@@ -1,0 +1,63 @@
+{
+  "pokemonId": "indeedee",
+  "variantId": "default",
+  "displayName": "Indeedee-Male",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 876,
+  "types": ["psychic", "normal"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 55,
+    "spa": 105,
+    "spd": 95,
+    "spe": 95
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 215,
+    "defense": 155,
+    "speed": 195,
+    "bst": 795
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,65 @@
+{
+  "pokemonId": "togedemaru",
+  "variantId": "default",
+  "displayName": "Togedemaru",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 777,
+  "types": ["electric", "steel"],
+  "baseStats": {
+    "hp": 65,
+    "atk": 98,
+    "def": 63,
+    "spa": 40,
+    "spd": 73,
+    "spe": 96
+  },
+  "stats": {
+    "hp": 240,
+    "attack": 201,
+    "defense": 141,
+    "speed": 197,
+    "bst": 779
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "emmuffin", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

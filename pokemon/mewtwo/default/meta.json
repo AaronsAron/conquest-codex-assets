@@ -1,0 +1,73 @@
+{
+  "pokemonId": "mewtwo",
+  "variantId": "default",
+  "displayName": "Mewtwo",
+  "tags": ["default", "fully-evolved", "legendary"],
+
+  "nationalDexNumber": 150,
+  "types": ["psychic"],
+  "baseStats": {
+    "hp": 106,
+    "atk": 110,
+    "def": 90,
+    "spa": 154,
+    "spd": 90,
+    "spe": 130
+  },
+  "stats": {
+    "hp": 322,
+    "attack": 313,
+    "defense": 185,
+    "speed": 265,
+    "bst": 1085
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "fierce"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "fierce": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "fierce": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

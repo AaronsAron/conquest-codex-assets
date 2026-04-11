@@ -1,0 +1,62 @@
+{
+  "pokemonId": "dracozolt",
+  "variantId": "default",
+  "displayName": "Dracozolt",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 880,
+  "types": ["electric", "dragon"],
+  "baseStats": {
+    "hp": 90,
+    "atk": 100,
+    "def": 90,
+    "spa": 80,
+    "spd": 70,
+    "spe": 75
+  },
+  "stats": {
+    "hp": 290,
+    "attack": 205,
+    "defense": 165,
+    "speed": 155,
+    "bst": 815
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

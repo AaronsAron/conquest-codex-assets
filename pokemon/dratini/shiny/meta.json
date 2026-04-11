@@ -1,0 +1,65 @@
+{
+  "pokemonId": "dratini",
+  "variantId": "shiny",
+  "displayName": "Dratini-Shiny",
+  "tags": ["shiny", "unevolved"],
+
+  "nationalDexNumber": 147,
+  "types": ["dragon"],
+  "baseStats": {
+    "hp": 41,
+    "atk": 64,
+    "def": 45,
+    "spa": 50,
+    "spd": 50,
+    "spe": 50
+  },
+  "stats": {
+    "hp": 192,
+    "attack": 133,
+    "defense": 100,
+    "speed": 105,
+    "bst": 530
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

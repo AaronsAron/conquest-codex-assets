@@ -1,0 +1,24 @@
+{
+  "pokemonId": "samurott",
+  "variantId": "hisui-alt",
+  "displayName": "Samurott-Hisui",
+  "tags": ["alternate", "hisui", "fully-evolved", "starter"],
+
+  "inheritsFrom": "hisui",
+
+  "animationFlags": {"asymmetric": false, "longAttack": true},
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "recolor" }
+    ]
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01"
+  },
+
+  "history": [],
+  "notes": ""
+}

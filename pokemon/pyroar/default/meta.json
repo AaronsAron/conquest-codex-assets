@@ -1,0 +1,62 @@
+{
+  "pokemonId": "pyroar",
+  "variantId": "default",
+  "displayName": "Pyroar-Male",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 668,
+  "types": ["fire", "normal"],
+  "baseStats": {
+    "hp": 86,
+    "atk": 68,
+    "def": 72,
+    "spa": 109,
+    "spd": 66,
+    "spe": 106
+  },
+  "stats": {
+    "hp": 282,
+    "attack": 223,
+    "defense": 143,
+    "speed": 217,
+    "bst": 865
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

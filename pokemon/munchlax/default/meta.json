@@ -1,0 +1,61 @@
+{
+  "pokemonId": "munchlax",
+  "variantId": "default",
+  "displayName": "Munchlax",
+  "tags": ["default", "unevolved", "baby"],
+
+  "nationalDexNumber": 446,
+  "types": ["normal"],
+  "baseStats": {
+    "hp": 135,
+    "atk": 85,
+    "def": 40,
+    "spa": 40,
+    "spd": 85,
+    "spe": 5
+  },
+  "stats": {
+    "hp": 380,
+    "attack": 175,
+    "defense": 130,
+    "speed": 15,
+    "bst": 700
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

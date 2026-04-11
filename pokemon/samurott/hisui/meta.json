@@ -1,0 +1,65 @@
+{
+  "pokemonId": "samurott",
+  "variantId": "hisui",
+  "displayName": "Samurott-Hisui",
+  "tags": ["hisui", "fully-evolved", "starter"],
+
+  "nationalDexNumber": 503,
+  "types": ["water", "dark"],
+  "baseStats": {
+    "hp": 90,
+    "atk": 108,
+    "def": 80,
+    "spa": 100,
+    "spd": 65,
+    "spe": 85
+  },
+  "stats": {
+    "hp": 290,
+    "attack": 221,
+    "defense": 150,
+    "speed": 175,
+    "bst": 836
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

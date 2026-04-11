@@ -1,0 +1,62 @@
+{
+  "pokemonId": "regieleki",
+  "variantId": "default",
+  "displayName": "Regieleki",
+  "tags": ["default", "fully-evolved", "legendary"],
+
+  "nationalDexNumber": 894,
+  "types": ["electric"],
+  "baseStats": {
+    "hp": 80,
+    "atk": 100,
+    "def": 50,
+    "spa": 100,
+    "spd": 50,
+    "spe": 200
+  },
+  "stats": {
+    "hp": 270,
+    "attack": 205,
+    "defense": 105,
+    "speed": 405,
+    "bst": 985
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,65 @@
+{
+  "pokemonId": "dusclops",
+  "variantId": "shiny",
+  "displayName": "Dusclops-Shiny",
+  "tags": ["shiny", "not-fully-evolved"],
+
+  "nationalDexNumber": 356,
+  "types": ["ghost"],
+  "baseStats": {
+    "hp": 40,
+    "atk": 70,
+    "def": 130,
+    "spa": 60,
+    "spd": 130,
+    "spe": 25
+  },
+  "stats": {
+    "hp": 190,
+    "attack": 145,
+    "defense": 265,
+    "speed": 55,
+    "bst": 655
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

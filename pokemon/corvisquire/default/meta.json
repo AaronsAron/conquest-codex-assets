@@ -1,0 +1,67 @@
+{
+  "pokemonId": "corvisquire",
+  "variantId": "default",
+  "displayName": "Corvisquire",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 822,
+  "types": ["flying"],
+  "baseStats": {
+    "hp": 68,
+    "atk": 67,
+    "def": 55,
+    "spa": 43,
+    "spd": 55,
+    "spe": 77
+  },
+  "stats": {
+    "hp": 246,
+    "attack": 139,
+    "defense": 115,
+    "speed": 159,
+    "bst": 659
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Emmuffin", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "Emmuffin", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

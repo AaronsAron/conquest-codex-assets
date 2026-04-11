@@ -1,0 +1,61 @@
+{
+  "pokemonId": "ekans",
+  "variantId": "default",
+  "displayName": "Ekans",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 23,
+  "types": ["poison"],
+  "baseStats": {
+    "hp": 35,
+    "atk": 60,
+    "def": 44,
+    "spa": 40,
+    "spd": 54,
+    "spe": 55
+  },
+  "stats": {
+    "hp": 180,
+    "attack": 125,
+    "defense": 103,
+    "speed": 115,
+    "bst": 523
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

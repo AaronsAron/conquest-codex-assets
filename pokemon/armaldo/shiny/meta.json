@@ -1,0 +1,65 @@
+{
+  "pokemonId": "armaldo",
+  "variantId": "shiny",
+  "displayName": "Armaldo-Shiny",
+  "tags": ["shiny", "fully-evolved"],
+
+  "nationalDexNumber": 348,
+  "types": ["rock", "bug"],
+  "baseStats": {
+    "hp": 75,
+    "atk": 125,
+    "def": 100,
+    "spa": 70,
+    "spd": 80,
+    "spe": 45
+  },
+  "stats": {
+    "hp": 260,
+    "attack": 255,
+    "defense": 185,
+    "speed": 95,
+    "bst": 795
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

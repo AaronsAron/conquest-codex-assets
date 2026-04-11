@@ -1,0 +1,69 @@
+{
+  "pokemonId": "sentret",
+  "variantId": "default",
+  "displayName": "Sentret",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 161,
+  "types": ["normal"],
+  "baseStats": {
+    "hp": 35,
+    "atk": 46,
+    "def": 34,
+    "spa": 35,
+    "spd": 45,
+    "spe": 20
+  },
+  "stats": {
+    "hp": 180,
+    "attack": 97,
+    "defense": 84,
+    "speed": 45,
+    "bst": 406
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Emmuffin", "role": "edit" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Emmuffin", "role": "edit" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

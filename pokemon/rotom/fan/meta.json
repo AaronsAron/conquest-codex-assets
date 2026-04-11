@@ -1,0 +1,62 @@
+{
+  "pokemonId": "rotom",
+  "variantId": "fan",
+  "displayName": "Rotom-Fan",
+  "tags": ["fan", "fully-evolved"],
+
+  "nationalDexNumber": 479,
+  "types": ["electric", "flying"],
+  "baseStats": {
+    "hp": 50,
+    "atk": 65,
+    "def": 107,
+    "spa": 105,
+    "spd": 107,
+    "spe": 86
+  },
+  "stats": {
+    "hp": 210,
+    "attack": 215,
+    "defense": 219,
+    "speed": 177,
+    "bst": 821
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "float",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

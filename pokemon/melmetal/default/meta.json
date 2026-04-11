@@ -1,0 +1,63 @@
+{
+  "pokemonId": "melmetal",
+  "variantId": "default",
+  "displayName": "Melmetal",
+  "tags": ["default", "fully-evolved", "mythical"],
+
+  "nationalDexNumber": 809,
+  "types": ["steel"],
+  "baseStats": {
+    "hp": 135,
+    "atk": 143,
+    "def": 143,
+    "spa": 80,
+    "spd": 65,
+    "spe": 34
+  },
+  "stats": {
+    "hp": 380,
+    "attack": 291,
+    "defense": 213,
+    "speed": 73,
+    "bst": 957
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

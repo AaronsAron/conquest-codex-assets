@@ -1,0 +1,63 @@
+{
+  "pokemonId": "wimpod",
+  "variantId": "default",
+  "displayName": "Wimpod",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 767,
+  "types": ["bug", "water"],
+  "baseStats": {
+    "hp": 25,
+    "atk": 35,
+    "def": 40,
+    "spa": 20,
+    "spd": 30,
+    "spe": 80
+  },
+  "stats": {
+    "hp": 160,
+    "attack": 75,
+    "defense": 75,
+    "speed": 165,
+    "bst": 475
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

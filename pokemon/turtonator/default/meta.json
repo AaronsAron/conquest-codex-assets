@@ -1,0 +1,65 @@
+{
+  "pokemonId": "turtonator",
+  "variantId": "default",
+  "displayName": "Turtonator",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 776,
+  "types": ["fire", "dragon"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 78,
+    "def": 135,
+    "spa": 91,
+    "spd": 85,
+    "spe": 36
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 187,
+    "defense": 225,
+    "speed": 77,
+    "bst": 719
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "zlolxd", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

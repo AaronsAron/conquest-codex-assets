@@ -1,0 +1,63 @@
+{
+  "pokemonId": "stonjourner",
+  "variantId": "default",
+  "displayName": "Stonjourner",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 874,
+  "types": ["rock"],
+  "baseStats": {
+    "hp": 100,
+    "atk": 125,
+    "def": 135,
+    "spa": 20,
+    "spd": 20,
+    "spe": 70
+  },
+  "stats": {
+    "hp": 310,
+    "attack": 255,
+    "defense": 160,
+    "speed": 145,
+    "bst": 870
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

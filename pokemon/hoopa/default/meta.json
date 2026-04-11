@@ -1,0 +1,65 @@
+{
+  "pokemonId": "hoopa",
+  "variantId": "default",
+  "displayName": "Hoopa-Confined",
+  "tags": ["default", "fully-evolved", "mythical"],
+
+  "nationalDexNumber": 720,
+  "types": ["psychic", "ghost"],
+  "baseStats": {
+    "hp": 80,
+    "atk": 110,
+    "def": 60,
+    "spa": 150,
+    "spd": 130,
+    "spe": 70
+  },
+  "stats": {
+    "hp": 270,
+    "attack": 305,
+    "defense": 195,
+    "speed": 145,
+    "bst": 915
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "programmedsleepstate", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

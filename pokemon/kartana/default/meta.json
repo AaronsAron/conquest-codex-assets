@@ -1,0 +1,65 @@
+{
+  "pokemonId": "kartana",
+  "variantId": "default",
+  "displayName": "Kartana",
+  "tags": ["default", "fully-evolved", "ultra-beast"],
+
+  "nationalDexNumber": 798,
+  "types": ["grass", "steel"],
+  "baseStats": {
+    "hp": 59,
+    "atk": 181,
+    "def": 131,
+    "spa": 59,
+    "spd": 31,
+    "spe": 109
+  },
+  "stats": {
+    "hp": 228,
+    "attack": 367,
+    "defense": 167,
+    "speed": 223,
+    "bst": 985
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "top_kec", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

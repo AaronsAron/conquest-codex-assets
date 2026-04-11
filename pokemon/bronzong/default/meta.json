@@ -1,0 +1,65 @@
+{
+  "pokemonId": "bronzong",
+  "variantId": "default",
+  "displayName": "Bronzong",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 437,
+  "types": ["steel", "psychic"],
+  "baseStats": {
+    "hp": 67,
+    "atk": 89,
+    "def": 116,
+    "spa": 79,
+    "spd": 116,
+    "spe": 33
+  },
+  "stats": {
+    "hp": 244,
+    "attack": 183,
+    "defense": 237,
+    "speed": 71,
+    "bst": 735
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "float",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

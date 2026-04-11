@@ -1,0 +1,65 @@
+{
+  "pokemonId": "piplup",
+  "variantId": "shiny",
+  "displayName": "Piplup-Shiny",
+  "tags": ["shiny", "unevolved", "starter"],
+
+  "nationalDexNumber": 393,
+  "types": ["water"],
+  "baseStats": {
+    "hp": 53,
+    "atk": 51,
+    "def": 53,
+    "spa": 61,
+    "spd": 56,
+    "spe": 40
+  },
+  "stats": {
+    "hp": 216,
+    "attack": 127,
+    "defense": 114,
+    "speed": 85,
+    "bst": 542
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

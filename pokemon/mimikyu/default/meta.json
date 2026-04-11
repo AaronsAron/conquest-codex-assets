@@ -1,0 +1,67 @@
+{
+  "pokemonId": "mimikyu",
+  "variantId": "default",
+  "displayName": "Mimikyu-Disguised",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 778,
+  "types": ["ghost", "fairy"],
+  "baseStats": {
+    "hp": 55,
+    "atk": 90,
+    "def": 80,
+    "spa": 50,
+    "spd": 105,
+    "spe": 96
+  },
+  "stats": {
+    "hp": 220,
+    "attack": 185,
+    "defense": 190,
+    "speed": 197,
+    "bst": 792
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

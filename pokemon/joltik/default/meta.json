@@ -1,0 +1,61 @@
+{
+  "pokemonId": "joltik",
+  "variantId": "default",
+  "displayName": "Joltik",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 595,
+  "types": ["bug", "electric"],
+  "baseStats": {
+    "hp": 50,
+    "atk": 47,
+    "def": 50,
+    "spa": 57,
+    "spd": 50,
+    "spe": 65
+  },
+  "stats": {
+    "hp": 210,
+    "attack": 119,
+    "defense": 105,
+    "speed": 135,
+    "bst": 569
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

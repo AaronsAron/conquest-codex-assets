@@ -1,0 +1,81 @@
+{
+  "pokemonId": "staravia",
+  "variantId": "default",
+  "displayName": "Staravia",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 397,
+  "types": ["normal", "flying"],
+  "baseStats": {
+    "hp": 55,
+    "atk": 75,
+    "def": 50,
+    "spa": 40,
+    "spd": 40,
+    "spe": 80
+  },
+  "stats": {
+    "hp": 220,
+    "attack": 155,
+    "defense": 95,
+    "speed": 165,
+    "bst": 635
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "joyful": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "fierce": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "shocked": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "joyful": "2026-04-01",
+      "fierce": "2026-04-01",
+      "shocked": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

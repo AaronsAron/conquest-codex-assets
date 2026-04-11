@@ -1,0 +1,65 @@
+{
+  "pokemonId": "virizion",
+  "variantId": "default",
+  "displayName": "Virizion",
+  "tags": ["default", "fully-evolved", "legendary"],
+
+  "nationalDexNumber": 640,
+  "types": ["grass", "fighting"],
+  "baseStats": {
+    "hp": 91,
+    "atk": 90,
+    "def": 72,
+    "spa": 90,
+    "spd": 129,
+    "spe": 108
+  },
+  "stats": {
+    "hp": 292,
+    "attack": 185,
+    "defense": 206,
+    "speed": 221,
+    "bst": 904
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

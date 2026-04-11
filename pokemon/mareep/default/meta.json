@@ -1,0 +1,61 @@
+{
+  "pokemonId": "mareep",
+  "variantId": "default",
+  "displayName": "Mareep",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 179,
+  "types": ["electric"],
+  "baseStats": {
+    "hp": 55,
+    "atk": 40,
+    "def": 40,
+    "spa": 65,
+    "spd": 45,
+    "spe": 35
+  },
+  "stats": {
+    "hp": 220,
+    "attack": 135,
+    "defense": 90,
+    "speed": 75,
+    "bst": 520
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

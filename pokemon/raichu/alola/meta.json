@@ -1,0 +1,65 @@
+{
+  "pokemonId": "raichu",
+  "variantId": "alola",
+  "displayName": "Raichu-Alola",
+  "tags": ["alola", "fully-evolved"],
+
+  "nationalDexNumber": 26,
+  "types": ["electric", "psychic"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 85,
+    "def": 50,
+    "spa": 95,
+    "spd": 85,
+    "spe": 110
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 195,
+    "defense": 140,
+    "speed": 225,
+    "bst": 780
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

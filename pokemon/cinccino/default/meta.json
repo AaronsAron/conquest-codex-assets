@@ -1,0 +1,61 @@
+{
+  "pokemonId": "cinccino",
+  "variantId": "default",
+  "displayName": "Cinccino",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 573,
+  "types": ["normal"],
+  "baseStats": {
+    "hp": 75,
+    "atk": 95,
+    "def": 60,
+    "spa": 65,
+    "spd": 60,
+    "spe": 115
+  },
+  "stats": {
+    "hp": 260,
+    "attack": 195,
+    "defense": 125,
+    "speed": 235,
+    "bst": 815
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

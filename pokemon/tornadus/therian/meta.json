@@ -1,0 +1,62 @@
+{
+  "pokemonId": "tornadus",
+  "variantId": "therian",
+  "displayName": "Tornadus-Therian",
+  "tags": ["therian", "fully-evolved", "legendary"],
+
+  "nationalDexNumber": 641,
+  "types": ["flying"],
+  "baseStats": {
+    "hp": 79,
+    "atk": 100,
+    "def": 80,
+    "spa": 110,
+    "spd": 90,
+    "spe": 121
+  },
+  "stats": {
+    "hp": 268,
+    "attack": 225,
+    "defense": 175,
+    "speed": 247,
+    "bst": 915
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

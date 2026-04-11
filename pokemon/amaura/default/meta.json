@@ -1,0 +1,63 @@
+{
+  "pokemonId": "amaura",
+  "variantId": "default",
+  "displayName": "Amaura",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 698,
+  "types": ["rock", "ice"],
+  "baseStats": {
+    "hp": 77,
+    "atk": 59,
+    "def": 50,
+    "spa": 67,
+    "spd": 63,
+    "spe": 46
+  },
+  "stats": {
+    "hp": 264,
+    "attack": 139,
+    "defense": 118,
+    "speed": 97,
+    "bst": 618
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

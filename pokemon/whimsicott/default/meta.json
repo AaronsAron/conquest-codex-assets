@@ -1,0 +1,61 @@
+{
+  "pokemonId": "whimsicott",
+  "variantId": "default",
+  "displayName": "Whimsicott",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 547,
+  "types": ["grass", "fairy"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 67,
+    "def": 85,
+    "spa": 77,
+    "spd": 75,
+    "spe": 116
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 159,
+    "defense": 165,
+    "speed": 237,
+    "bst": 791
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,65 @@
+{
+  "pokemonId": "starly",
+  "variantId": "shiny",
+  "displayName": "Starly-Shiny",
+  "tags": ["shiny", "unevolved"],
+
+  "nationalDexNumber": 396,
+  "types": ["normal", "flying"],
+  "baseStats": {
+    "hp": 40,
+    "atk": 55,
+    "def": 30,
+    "spa": 30,
+    "spd": 30,
+    "spe": 60
+  },
+  "stats": {
+    "hp": 190,
+    "attack": 115,
+    "defense": 65,
+    "speed": 125,
+    "bst": 495
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

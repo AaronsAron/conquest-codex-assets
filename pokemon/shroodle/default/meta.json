@@ -1,0 +1,63 @@
+{
+  "pokemonId": "shroodle",
+  "variantId": "default",
+  "displayName": "Shroodle",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 944,
+  "types": ["poison", "normal"],
+  "baseStats": {
+    "hp": 40,
+    "atk": 65,
+    "def": 35,
+    "spa": 40,
+    "spd": 35,
+    "spe": 75
+  },
+  "stats": {
+    "hp": 190,
+    "attack": 135,
+    "defense": 75,
+    "speed": 155,
+    "bst": 555
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

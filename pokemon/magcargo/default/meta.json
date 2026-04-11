@@ -1,0 +1,63 @@
+{
+  "pokemonId": "magcargo",
+  "variantId": "default",
+  "displayName": "Magcargo",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 219,
+  "types": ["fire", "rock"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 50,
+    "def": 120,
+    "spa": 90,
+    "spd": 80,
+    "spe": 30
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 185,
+    "defense": 205,
+    "speed": 65,
+    "bst": 685
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

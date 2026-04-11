@@ -1,0 +1,65 @@
+{
+  "pokemonId": "piloswine",
+  "variantId": "default",
+  "displayName": "Piloswine",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 221,
+  "types": ["ice", "ground"],
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 80,
+    "spa": 60,
+    "spd": 60,
+    "spe": 50
+  },
+  "stats": {
+    "hp": 310,
+    "attack": 205,
+    "defense": 145,
+    "speed": 105,
+    "bst": 765
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Soulja", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Soulja", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

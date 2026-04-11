@@ -1,0 +1,84 @@
+{
+  "pokemonId": "luxio",
+  "variantId": "shiny",
+  "displayName": "Luxio-Shiny",
+  "tags": ["shiny", "not-fully-evolved"],
+
+  "nationalDexNumber": 404,
+  "types": ["electric"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 85,
+    "def": 49,
+    "spa": 60,
+    "spd": 49,
+    "spe": 60
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 175,
+    "defense": 103,
+    "speed": 125,
+    "bst": 633
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "fierce", "shocked"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "fierce": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "shocked": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "fierce": "2026-04-01",
+      "shocked": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

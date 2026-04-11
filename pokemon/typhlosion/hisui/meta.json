@@ -1,0 +1,67 @@
+{
+  "pokemonId": "typhlosion",
+  "variantId": "hisui",
+  "displayName": "Typhlosion-Hisui",
+  "tags": ["hisui", "fully-evolved", "starter"],
+
+  "nationalDexNumber": 157,
+  "types": ["fire", "ghost"],
+  "baseStats": {
+    "hp": 73,
+    "atk": 84,
+    "def": 78,
+    "spa": 119,
+    "spd": 85,
+    "spe": 95
+  },
+  "stats": {
+    "hp": 256,
+    "attack": 243,
+    "defense": 168,
+    "speed": 195,
+    "bst": 862
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Caitemis", "role": "edit" },
+      { "name": "Soviet", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

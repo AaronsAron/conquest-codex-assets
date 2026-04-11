@@ -1,0 +1,61 @@
+{
+  "pokemonId": "petilil",
+  "variantId": "default",
+  "displayName": "Petilil",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 548,
+  "types": ["grass"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 35,
+    "def": 50,
+    "spa": 70,
+    "spd": 50,
+    "spe": 30
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 145,
+    "defense": 105,
+    "speed": 65,
+    "bst": 515
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

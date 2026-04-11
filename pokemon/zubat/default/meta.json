@@ -1,0 +1,61 @@
+{
+  "pokemonId": "zubat",
+  "variantId": "default",
+  "displayName": "Zubat",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 41,
+  "types": ["poison", "flying"],
+  "baseStats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 35,
+    "spa": 30,
+    "spd": 40,
+    "spe": 55
+  },
+  "stats": {
+    "hp": 190,
+    "attack": 95,
+    "defense": 80,
+    "speed": 115,
+    "bst": 480
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

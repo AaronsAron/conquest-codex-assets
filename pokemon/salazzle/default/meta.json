@@ -1,0 +1,63 @@
+{
+  "pokemonId": "salazzle",
+  "variantId": "default",
+  "displayName": "Salazzle",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 758,
+  "types": ["poison", "fire"],
+  "baseStats": {
+    "hp": 68,
+    "atk": 64,
+    "def": 60,
+    "spa": 111,
+    "spd": 60,
+    "spe": 117
+  },
+  "stats": {
+    "hp": 246,
+    "attack": 227,
+    "defense": 125,
+    "speed": 239,
+    "bst": 837
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

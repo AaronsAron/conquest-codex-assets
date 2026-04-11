@@ -1,0 +1,65 @@
+{
+  "pokemonId": "magnemite",
+  "variantId": "default",
+  "displayName": "Magnemite",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 81,
+  "types": ["electric", "steel"],
+  "baseStats": {
+    "hp": 25,
+    "atk": 35,
+    "def": 70,
+    "spa": 95,
+    "spd": 55,
+    "spe": 45
+  },
+  "stats": {
+    "hp": 160,
+    "attack": 195,
+    "defense": 130,
+    "speed": 95,
+    "bst": 580
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

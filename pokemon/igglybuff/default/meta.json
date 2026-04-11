@@ -1,0 +1,61 @@
+{
+  "pokemonId": "igglybuff",
+  "variantId": "default",
+  "displayName": "Igglybuff",
+  "tags": ["default", "unevolved", "baby"],
+
+  "nationalDexNumber": 174,
+  "types": ["normal", "fairy"],
+  "baseStats": {
+    "hp": 90,
+    "atk": 30,
+    "def": 15,
+    "spa": 40,
+    "spd": 20,
+    "spe": 15
+  },
+  "stats": {
+    "hp": 290,
+    "attack": 85,
+    "defense": 40,
+    "speed": 35,
+    "bst": 450
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,65 @@
+{
+  "pokemonId": "pawmot",
+  "variantId": "default",
+  "displayName": "Pawmot",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 923,
+  "types": ["electric", "fighting"],
+  "baseStats": {
+    "hp": 70,
+    "atk": 115,
+    "def": 70,
+    "spa": 70,
+    "spd": 60,
+    "spe": 105
+  },
+  "stats": {
+    "hp": 250,
+    "attack": 235,
+    "defense": 135,
+    "speed": 215,
+    "bst": 835
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

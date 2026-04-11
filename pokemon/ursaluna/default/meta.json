@@ -1,0 +1,63 @@
+{
+  "pokemonId": "ursaluna",
+  "variantId": "default",
+  "displayName": "Ursaluna",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 901,
+  "types": ["ground", "normal"],
+  "baseStats": {
+    "hp": 130,
+    "atk": 140,
+    "def": 105,
+    "spa": 45,
+    "spd": 80,
+    "spe": 50
+  },
+  "stats": {
+    "hp": 370,
+    "attack": 285,
+    "defense": 190,
+    "speed": 105,
+    "bst": 950
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

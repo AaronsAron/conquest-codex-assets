@@ -1,0 +1,63 @@
+{
+  "pokemonId": "toxtricity",
+  "variantId": "gigantimax",
+  "displayName": "Toxtricity-Gigantimax",
+  "tags": ["gigantimax"],
+
+  "nationalDexNumber": 849,
+  "types": ["electric", "poison"],
+  "baseStats": {
+    "hp": 75,
+    "atk": 98,
+    "def": 70,
+    "spa": 114,
+    "spd": 70,
+    "spe": 75
+  },
+  "stats": {
+    "hp": 260,
+    "attack": 233,
+    "defense": 145,
+    "speed": 155,
+    "bst": 793
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "RedMageCole", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "RedMageCole", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

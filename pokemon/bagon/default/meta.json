@@ -1,0 +1,63 @@
+{
+  "pokemonId": "bagon",
+  "variantId": "default",
+  "displayName": "Bagon",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 371,
+  "types": ["dragon"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 75,
+    "def": 60,
+    "spa": 40,
+    "spd": 30,
+    "spe": 50
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 155,
+    "defense": 95,
+    "speed": 105,
+    "bst": 555
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

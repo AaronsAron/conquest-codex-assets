@@ -1,0 +1,77 @@
+{
+  "pokemonId": "gigalith",
+  "variantId": "default",
+  "displayName": "Gigalith",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 526,
+  "types": ["rock"],
+  "baseStats": {
+    "hp": 85,
+    "atk": 135,
+    "def": 130,
+    "spa": 60,
+    "spd": 80,
+    "spe": 25
+  },
+  "stats": {
+    "hp": 280,
+    "attack": 275,
+    "defense": 215,
+    "speed": 55,
+    "bst": 825
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "joyful", "fierce"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "joyful": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "fierce": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "joyful": "2026-04-01",
+      "fierce": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

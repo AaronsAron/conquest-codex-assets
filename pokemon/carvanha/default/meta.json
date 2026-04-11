@@ -1,0 +1,67 @@
+{
+  "pokemonId": "carvanha",
+  "variantId": "default",
+  "displayName": "Carvanha",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 318,
+  "types": ["water", "dark"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 90,
+    "def": 20,
+    "spa": 65,
+    "spd": 20,
+    "spe": 65
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 185,
+    "defense": 45,
+    "speed": 135,
+    "bst": 565
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

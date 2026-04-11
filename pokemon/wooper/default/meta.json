@@ -1,0 +1,61 @@
+{
+  "pokemonId": "wooper",
+  "variantId": "default",
+  "displayName": "Wooper",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 194,
+  "types": ["water", "ground"],
+  "baseStats": {
+    "hp": 55,
+    "atk": 45,
+    "def": 45,
+    "spa": 25,
+    "spd": 25,
+    "spe": 15
+  },
+  "stats": {
+    "hp": 220,
+    "attack": 95,
+    "defense": 75,
+    "speed": 35,
+    "bst": 425
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

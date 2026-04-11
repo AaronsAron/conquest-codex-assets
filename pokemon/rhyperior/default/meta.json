@@ -1,0 +1,77 @@
+{
+  "pokemonId": "rhyperior",
+  "variantId": "default",
+  "displayName": "Rhyperior",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 464,
+  "types": ["ground", "rock"],
+  "baseStats": {
+    "hp": 115,
+    "atk": 140,
+    "def": 130,
+    "spa": 55,
+    "spd": 55,
+    "spe": 40
+  },
+  "stats": {
+    "hp": 340,
+    "attack": 285,
+    "defense": 190,
+    "speed": 85,
+    "bst": 900
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "joyful", "fierce"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "joyful": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "fierce": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "joyful": "2026-04-01",
+      "fierce": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

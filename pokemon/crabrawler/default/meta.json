@@ -1,0 +1,63 @@
+{
+  "pokemonId": "crabrawler",
+  "variantId": "default",
+  "displayName": "Crabrawler",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 739,
+  "types": ["fighting"],
+  "baseStats": {
+    "hp": 47,
+    "atk": 82,
+    "def": 57,
+    "spa": 42,
+    "spd": 47,
+    "spe": 63
+  },
+  "stats": {
+    "hp": 204,
+    "attack": 169,
+    "defense": 109,
+    "speed": 131,
+    "bst": 613
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

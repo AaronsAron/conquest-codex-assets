@@ -1,0 +1,73 @@
+{
+  "pokemonId": "haunter",
+  "variantId": "default",
+  "displayName": "Haunter",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 93,
+  "types": ["ghost", "poison"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 50,
+    "def": 45,
+    "spa": 115,
+    "spd": 55,
+    "spe": 95
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 235,
+    "defense": 105,
+    "speed": 195,
+    "bst": 735
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "shocked"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "shocked": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "shocked": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

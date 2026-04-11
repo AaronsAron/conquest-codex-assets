@@ -1,0 +1,63 @@
+{
+  "pokemonId": "staryu",
+  "variantId": "default",
+  "displayName": "Staryu",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 120,
+  "types": ["water"],
+  "baseStats": {
+    "hp": 30,
+    "atk": 45,
+    "def": 55,
+    "spa": 70,
+    "spd": 55,
+    "spe": 85
+  },
+  "stats": {
+    "hp": 170,
+    "attack": 145,
+    "defense": 115,
+    "speed": 175,
+    "bst": 605
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

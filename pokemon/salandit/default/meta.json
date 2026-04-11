@@ -1,0 +1,63 @@
+{
+  "pokemonId": "salandit",
+  "variantId": "default",
+  "displayName": "Salandit",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 757,
+  "types": ["poison", "fire"],
+  "baseStats": {
+    "hp": 48,
+    "atk": 44,
+    "def": 40,
+    "spa": 71,
+    "spd": 40,
+    "spe": 77
+  },
+  "stats": {
+    "hp": 206,
+    "attack": 147,
+    "defense": 85,
+    "speed": 159,
+    "bst": 597
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

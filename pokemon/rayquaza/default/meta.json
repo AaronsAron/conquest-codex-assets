@@ -1,0 +1,88 @@
+{
+  "pokemonId": "rayquaza",
+  "variantId": "default",
+  "displayName": "Rayquaza",
+  "tags": ["default", "fully-evolved", "legendary"],
+
+  "nationalDexNumber": 384,
+  "types": ["dragon", "flying"],
+  "baseStats": {
+    "hp": 105,
+    "atk": 150,
+    "def": 90,
+    "spa": 150,
+    "spd": 90,
+    "spe": 95
+  },
+  "stats": {
+    "hp": 320,
+    "attack": 305,
+    "defense": 185,
+    "speed": 195,
+    "bst": 1005
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "joyful", "fierce"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "WhatAUsernameIHave", "role": "recolor" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "WhatAUsernameIHave", "role": "recolor" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "WhatAUsernameIHave", "role": "recolor" },
+        { "name": "Aaron's Aron", "role": "edit" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "WhatAUsernameIHave", "role": "recolor" },
+        { "name": "Aaron's Aron", "role": "edit" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "joyful": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "fierce": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "joyful": "2026-04-01",
+      "fierce": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

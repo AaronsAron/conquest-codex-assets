@@ -1,0 +1,61 @@
+{
+  "pokemonId": "abra",
+  "variantId": "default",
+  "displayName": "Abra",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 63,
+  "types": ["psychic"],
+  "baseStats": {
+    "hp": 25,
+    "atk": 20,
+    "def": 15,
+    "spa": 105,
+    "spd": 55,
+    "spe": 90
+  },
+  "stats": {
+    "hp": 160,
+    "attack": 215,
+    "defense": 75,
+    "speed": 185,
+    "bst": 635
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

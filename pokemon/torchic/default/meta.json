@@ -1,0 +1,65 @@
+{
+  "pokemonId": "torchic",
+  "variantId": "default",
+  "displayName": "Torchic",
+  "tags": ["default", "unevolved", "starter"],
+
+  "nationalDexNumber": 255,
+  "types": ["fire"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 60,
+    "def": 40,
+    "spa": 70,
+    "spd": 50,
+    "spe": 45
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 145,
+    "defense": 95,
+    "speed": 95,
+    "bst": 535
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Spoopy Ace", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Spoopy Ace", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

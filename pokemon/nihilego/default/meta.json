@@ -1,0 +1,66 @@
+{
+  "pokemonId": "nihilego",
+  "variantId": "default",
+  "displayName": "Nihilego",
+  "tags": ["default", "fully-evolved", "ultra-beast"],
+
+  "nationalDexNumber": 793,
+  "types": ["rock", "poison"],
+  "baseStats": {
+    "hp": 109,
+    "atk": 53,
+    "def": 47,
+    "spa": 127,
+    "spd": 131,
+    "spe": 103
+  },
+  "stats": {
+    "hp": 328,
+    "attack": 259,
+    "defense": 183,
+    "speed": 211,
+    "bst": 981
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Emmuffin", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,65 @@
+{
+  "pokemonId": "decidueye",
+  "variantId": "default",
+  "displayName": "Decidueye",
+  "tags": ["default", "fully-evolved", "starter"],
+
+  "nationalDexNumber": 724,
+  "types": ["grass", "ghost"],
+  "baseStats": {
+    "hp": 78,
+    "atk": 107,
+    "def": 75,
+    "spa": 100,
+    "spd": 100,
+    "spe": 70
+  },
+  "stats": {
+    "hp": 266,
+    "attack": 219,
+    "defense": 180,
+    "speed": 145,
+    "bst": 810
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soviet", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

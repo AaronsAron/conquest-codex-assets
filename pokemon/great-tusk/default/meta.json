@@ -1,0 +1,66 @@
+{
+  "pokemonId": "great-tusk",
+  "variantId": "default",
+  "displayName": "Great Tusk",
+  "tags": ["default", "fully-evolved", "paradox"],
+
+  "nationalDexNumber": 984,
+  "types": ["ground", "fighting"],
+  "baseStats": {
+    "hp": 115,
+    "atk": 131,
+    "def": 131,
+    "spa": 53,
+    "spd": 53,
+    "spe": 87
+  },
+  "stats": {
+    "hp": 340,
+    "attack": 267,
+    "defense": 189,
+    "speed": 179,
+    "bst": 975
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "DavKriz", "role": "draw" },
+      { "name": "Soulja", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,61 @@
+{
+  "pokemonId": "lilligant",
+  "variantId": "default",
+  "displayName": "Lilligant",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 549,
+  "types": ["grass"],
+  "baseStats": {
+    "hp": 70,
+    "atk": 60,
+    "def": 75,
+    "spa": 110,
+    "spd": 75,
+    "spe": 90
+  },
+  "stats": {
+    "hp": 250,
+    "attack": 225,
+    "defense": 155,
+    "speed": 185,
+    "bst": 815
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": true},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

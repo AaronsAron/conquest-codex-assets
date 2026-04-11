@@ -1,0 +1,63 @@
+{
+  "pokemonId": "heracross",
+  "variantId": "default",
+  "displayName": "Heracross",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 214,
+  "types": ["bug", "fighting"],
+  "baseStats": {
+    "hp": 80,
+    "atk": 125,
+    "def": 75,
+    "spa": 40,
+    "spd": 95,
+    "spe": 85
+  },
+  "stats": {
+    "hp": 270,
+    "attack": 255,
+    "defense": 175,
+    "speed": 175,
+    "bst": 875
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Doanmit", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Doanmit", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

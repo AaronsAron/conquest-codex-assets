@@ -1,0 +1,65 @@
+{
+  "pokemonId": "lanturn",
+  "variantId": "default",
+  "displayName": "Lanturn",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 171,
+  "types": ["water", "electric"],
+  "baseStats": {
+    "hp": 125,
+    "atk": 58,
+    "def": 58,
+    "spa": 76,
+    "spd": 76,
+    "spe": 67
+  },
+  "stats": {
+    "hp": 360,
+    "attack": 157,
+    "defense": 139,
+    "speed": 139,
+    "bst": 795
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

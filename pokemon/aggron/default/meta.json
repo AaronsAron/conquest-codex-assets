@@ -1,0 +1,85 @@
+{
+  "pokemonId": "aggron",
+  "variantId": "default",
+  "displayName": "Aggron",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 306,
+  "types": ["steel", "rock"],
+  "baseStats": {
+    "hp": 70,
+    "atk": 110,
+    "def": 180,
+    "spa": 60,
+    "spd": 60,
+    "spe": 50
+  },
+  "stats": {
+    "hp": 250,
+    "attack": 225,
+    "defense": 245,
+    "speed": 105,
+    "bst": 825
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": true},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "joyful": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "sad": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "fierce": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "shocked": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "joyful": "2026-04-01",
+      "sad": "2026-04-01",
+      "fierce": "2026-04-01",
+      "shocked": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

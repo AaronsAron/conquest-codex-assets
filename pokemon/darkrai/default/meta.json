@@ -1,0 +1,65 @@
+{
+  "pokemonId": "darkrai",
+  "variantId": "default",
+  "displayName": "Darkrai",
+  "tags": ["default", "fully-evolved", "mythical"],
+
+  "nationalDexNumber": 491,
+  "types": ["dark"],
+  "baseStats": {
+    "hp": 70,
+    "atk": 90,
+    "def": 90,
+    "spa": 135,
+    "spd": 90,
+    "spe": 125
+  },
+  "stats": {
+    "hp": 250,
+    "attack": 275,
+    "defense": 185,
+    "speed": 255,
+    "bst": 965
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

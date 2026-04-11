@@ -1,0 +1,65 @@
+{
+  "pokemonId": "spiritomb",
+  "variantId": "shiny",
+  "displayName": "Spiritomb-Shiny",
+  "tags": ["shiny", "fully-evolved"],
+
+  "nationalDexNumber": 442,
+  "types": ["ghost", "dark"],
+  "baseStats": {
+    "hp": 50,
+    "atk": 92,
+    "def": 108,
+    "spa": 92,
+    "spd": 108,
+    "spe": 35
+  },
+  "stats": {
+    "hp": 210,
+    "attack": 189,
+    "defense": 221,
+    "speed": 75,
+    "bst": 695
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

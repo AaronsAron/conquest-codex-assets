@@ -1,0 +1,65 @@
+{
+  "pokemonId": "yanmega",
+  "variantId": "default",
+  "displayName": "Yanmega",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 469,
+  "types": ["bug", "flying"],
+  "baseStats": {
+    "hp": 86,
+    "atk": 76,
+    "def": 86,
+    "spa": 116,
+    "spd": 56,
+    "spe": 95
+  },
+  "stats": {
+    "hp": 282,
+    "attack": 237,
+    "defense": 147,
+    "speed": 195,
+    "bst": 861
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

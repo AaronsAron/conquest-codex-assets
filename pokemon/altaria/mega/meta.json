@@ -1,0 +1,63 @@
+{
+  "pokemonId": "altaria",
+  "variantId": "mega",
+  "displayName": "Altaria-Mega",
+  "tags": ["mega"],
+
+  "nationalDexNumber": 334,
+  "types": ["dragon", "fairy"],
+  "baseStats": {
+    "hp": 75,
+    "atk": 110,
+    "def": 110,
+    "spa": 110,
+    "spd": 105,
+    "spe": 80
+  },
+  "stats": {
+    "hp": 260,
+    "attack": 225,
+    "defense": 220,
+    "speed": 165,
+    "bst": 870
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "RedMageCole", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "RedMageCole", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,63 @@
+{
+  "pokemonId": "ivysaur",
+  "variantId": "default",
+  "displayName": "Ivysaur",
+  "tags": ["default", "not-fully-evolved", "starter"],
+
+  "nationalDexNumber": 2,
+  "types": ["grass", "poison"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 62,
+    "def": 63,
+    "spa": 80,
+    "spd": 80,
+    "spe": 60
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 165,
+    "defense": 148,
+    "speed": 125,
+    "bst": 668
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Doanmit", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Doanmit", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

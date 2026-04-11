@@ -1,0 +1,63 @@
+{
+  "pokemonId": "lileep",
+  "variantId": "default",
+  "displayName": "Lileep",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 345,
+  "types": ["rock", "grass"],
+  "baseStats": {
+    "hp": 66,
+    "atk": 41,
+    "def": 77,
+    "spa": 61,
+    "spd": 87,
+    "spe": 23
+  },
+  "stats": {
+    "hp": 242,
+    "attack": 127,
+    "defense": 169,
+    "speed": 51,
+    "bst": 589
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

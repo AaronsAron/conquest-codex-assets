@@ -1,0 +1,23 @@
+{
+  "pokemonId": "skarmory",
+  "variantId": "default-alt",
+  "displayName": "Skarmory",
+  "tags": ["alternate", "default", "fully-evolved"],
+
+  "inheritsFrom": "default",
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ]
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01"
+  },
+
+  "history": [],
+  "notes": ""
+}

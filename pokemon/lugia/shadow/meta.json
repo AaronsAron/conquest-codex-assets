@@ -1,0 +1,63 @@
+{
+  "pokemonId": "lugia",
+  "variantId": "shadow",
+  "displayName": "Lugia-Shadow",
+  "tags": ["shadow", "fully-evolved", "legendary"],
+
+  "nationalDexNumber": 249,
+  "types": ["psychic", "flying"],
+  "baseStats": {
+    "hp": 106,
+    "atk": 90,
+    "def": 130,
+    "spa": 90,
+    "spd": 154,
+    "spe": 110
+  },
+  "stats": {
+    "hp": 322,
+    "attack": 185,
+    "defense": 289,
+    "speed": 225,
+    "bst": 1021
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Genius Sonority", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "Genius Sonority", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

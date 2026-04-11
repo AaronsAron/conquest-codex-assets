@@ -1,0 +1,61 @@
+{
+  "pokemonId": "drifblim",
+  "variantId": "default",
+  "displayName": "Drifblim",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 426,
+  "types": ["ghost", "flying"],
+  "baseStats": {
+    "hp": 150,
+    "atk": 80,
+    "def": 44,
+    "spa": 90,
+    "spd": 54,
+    "spe": 80
+  },
+  "stats": {
+    "hp": 410,
+    "attack": 185,
+    "defense": 103,
+    "speed": 165,
+    "bst": 863
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

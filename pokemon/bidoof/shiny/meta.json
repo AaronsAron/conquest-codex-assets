@@ -1,0 +1,65 @@
+{
+  "pokemonId": "bidoof",
+  "variantId": "shiny",
+  "displayName": "Bidoof-Shiny",
+  "tags": ["shiny", "unevolved"],
+
+  "nationalDexNumber": 399,
+  "types": ["normal"],
+  "baseStats": {
+    "hp": 59,
+    "atk": 45,
+    "def": 40,
+    "spa": 35,
+    "spd": 40,
+    "spe": 31
+  },
+  "stats": {
+    "hp": 228,
+    "attack": 95,
+    "defense": 85,
+    "speed": 67,
+    "bst": 475
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

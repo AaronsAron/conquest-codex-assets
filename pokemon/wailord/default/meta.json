@@ -1,0 +1,63 @@
+{
+  "pokemonId": "wailord",
+  "variantId": "default",
+  "displayName": "Wailord",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 321,
+  "types": ["water"],
+  "baseStats": {
+    "hp": 170,
+    "atk": 90,
+    "def": 45,
+    "spa": 90,
+    "spd": 45,
+    "spe": 60
+  },
+  "stats": {
+    "hp": 450,
+    "attack": 185,
+    "defense": 95,
+    "speed": 125,
+    "bst": 855
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

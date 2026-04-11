@@ -1,0 +1,63 @@
+{
+  "pokemonId": "honedge",
+  "variantId": "default",
+  "displayName": "Honedge",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 679,
+  "types": ["steel", "ghost"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 80,
+    "def": 100,
+    "spa": 35,
+    "spd": 37,
+    "spe": 28
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 165,
+    "defense": 142,
+    "speed": 61,
+    "bst": 568
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,63 @@
+{
+  "pokemonId": "toxel",
+  "variantId": "default",
+  "displayName": "Toxel",
+  "tags": ["default", "unevolved", "baby"],
+
+  "nationalDexNumber": 848,
+  "types": ["electric", "poison"],
+  "baseStats": {
+    "hp": 40,
+    "atk": 38,
+    "def": 35,
+    "spa": 54,
+    "spd": 35,
+    "spe": 40
+  },
+  "stats": {
+    "hp": 190,
+    "attack": 113,
+    "defense": 75,
+    "speed": 85,
+    "bst": 463
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

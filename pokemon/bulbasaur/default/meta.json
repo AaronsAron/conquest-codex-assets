@@ -1,0 +1,63 @@
+{
+  "pokemonId": "bulbasaur",
+  "variantId": "default",
+  "displayName": "Bulbasaur",
+  "tags": ["default", "unevolved", "starter"],
+
+  "nationalDexNumber": 1,
+  "types": ["grass", "poison"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 49,
+    "def": 49,
+    "spa": 65,
+    "spd": 65,
+    "spe": 45
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 135,
+    "defense": 119,
+    "speed": 95,
+    "bst": 549
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Doanmit", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Doanmit", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

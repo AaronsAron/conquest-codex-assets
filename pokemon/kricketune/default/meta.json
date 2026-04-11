@@ -1,0 +1,65 @@
+{
+  "pokemonId": "kricketune",
+  "variantId": "default",
+  "displayName": "Kricketune",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 402,
+  "types": ["bug"],
+  "baseStats": {
+    "hp": 77,
+    "atk": 85,
+    "def": 51,
+    "spa": 55,
+    "spd": 51,
+    "spe": 65
+  },
+  "stats": {
+    "hp": 264,
+    "attack": 175,
+    "defense": 107,
+    "speed": 135,
+    "bst": 681
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

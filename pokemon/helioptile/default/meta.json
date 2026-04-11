@@ -1,0 +1,63 @@
+{
+  "pokemonId": "helioptile",
+  "variantId": "default",
+  "displayName": "Helioptile",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 694,
+  "types": ["electric", "normal"],
+  "baseStats": {
+    "hp": 44,
+    "atk": 38,
+    "def": 33,
+    "spa": 61,
+    "spd": 43,
+    "spe": 70
+  },
+  "stats": {
+    "hp": 198,
+    "attack": 127,
+    "defense": 81,
+    "speed": 145,
+    "bst": 551
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

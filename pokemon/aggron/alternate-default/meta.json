@@ -1,0 +1,24 @@
+{
+  "pokemonId": "aggron",
+  "variantId": "default-alt",
+  "displayName": "Aggron",
+  "tags": ["alternate", "default", "fully-evolved"],
+
+  "inheritsFrom": "default",
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ]
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01"
+  },
+
+  "history": [],
+  "notes": ""
+}

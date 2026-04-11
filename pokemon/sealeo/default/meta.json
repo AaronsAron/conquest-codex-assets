@@ -1,0 +1,61 @@
+{
+  "pokemonId": "sealeo",
+  "variantId": "default",
+  "displayName": "Sealeo",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 364,
+  "types": ["ice", "water"],
+  "baseStats": {
+    "hp": 90,
+    "atk": 60,
+    "def": 70,
+    "spa": 75,
+    "spd": 70,
+    "spe": 45
+  },
+  "stats": {
+    "hp": 290,
+    "attack": 155,
+    "defense": 145,
+    "speed": 95,
+    "bst": 685
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": true},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

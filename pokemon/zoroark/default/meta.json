@@ -1,0 +1,73 @@
+{
+  "pokemonId": "zoroark",
+  "variantId": "default",
+  "displayName": "Zoroark",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 571,
+  "types": ["dark"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 105,
+    "def": 60,
+    "spa": 120,
+    "spd": 60,
+    "spe": 105
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 245,
+    "defense": 125,
+    "speed": 215,
+    "bst": 815
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "joyful"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "joyful": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "joyful": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

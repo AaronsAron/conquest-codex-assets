@@ -1,0 +1,65 @@
+{
+  "pokemonId": "tropius",
+  "variantId": "default",
+  "displayName": "Tropius",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 357,
+  "types": ["grass", "flying"],
+  "baseStats": {
+    "hp": 99,
+    "atk": 68,
+    "def": 83,
+    "spa": 72,
+    "spd": 87,
+    "spe": 51
+  },
+  "stats": {
+    "hp": 308,
+    "attack": 149,
+    "defense": 175,
+    "speed": 107,
+    "bst": 739
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

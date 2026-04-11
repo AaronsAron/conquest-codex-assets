@@ -1,0 +1,63 @@
+{
+  "pokemonId": "kommo-o",
+  "variantId": "default",
+  "displayName": "Kommo-o",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 784,
+  "types": ["dragon", "fighting"],
+  "baseStats": {
+    "hp": 75,
+    "atk": 110,
+    "def": 125,
+    "spa": 100,
+    "spd": 105,
+    "spe": 85
+  },
+  "stats": {
+    "hp": 260,
+    "attack": 225,
+    "defense": 235,
+    "speed": 175,
+    "bst": 895
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

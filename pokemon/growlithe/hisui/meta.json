@@ -1,0 +1,63 @@
+{
+  "pokemonId": "growlithe",
+  "variantId": "hisui",
+  "displayName": "Growlithe-Hisui",
+  "tags": ["hisui", "unevolved"],
+
+  "nationalDexNumber": 58,
+  "types": ["fire", "rock"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 75,
+    "def": 45,
+    "spa": 65,
+    "spd": 50,
+    "spe": 55
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 155,
+    "defense": 100,
+    "speed": 115,
+    "bst": 600
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,66 @@
+{
+  "pokemonId": "espurr",
+  "variantId": "default",
+  "displayName": "Espurr",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 677,
+  "types": ["psychic"],
+  "baseStats": {
+    "hp": 62,
+    "atk": 48,
+    "def": 54,
+    "spa": 63,
+    "spd": 60,
+    "spe": 68
+  },
+  "stats": {
+    "hp": 234,
+    "attack": 131,
+    "defense": 119,
+    "speed": 141,
+    "bst": 625
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "NeroIntruder", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

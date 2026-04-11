@@ -1,0 +1,65 @@
+{
+  "pokemonId": "lunatone",
+  "variantId": "default",
+  "displayName": "Lunatone",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 337,
+  "types": ["rock", "psychic"],
+  "baseStats": {
+    "hp": 90,
+    "atk": 55,
+    "def": 65,
+    "spa": 95,
+    "spd": 85,
+    "spe": 70
+  },
+  "stats": {
+    "hp": 290,
+    "attack": 195,
+    "defense": 155,
+    "speed": 145,
+    "bst": 785
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

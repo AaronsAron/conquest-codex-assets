@@ -1,0 +1,63 @@
+{
+  "pokemonId": "skitty",
+  "variantId": "default",
+  "displayName": "Skitty",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 300,
+  "types": ["normal"],
+  "baseStats": {
+    "hp": 50,
+    "atk": 45,
+    "def": 45,
+    "spa": 35,
+    "spd": 35,
+    "spe": 50
+  },
+  "stats": {
+    "hp": 210,
+    "attack": 95,
+    "defense": 85,
+    "speed": 105,
+    "bst": 495
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

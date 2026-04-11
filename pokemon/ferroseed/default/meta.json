@@ -1,0 +1,63 @@
+{
+  "pokemonId": "ferroseed",
+  "variantId": "default",
+  "displayName": "Ferroseed",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 597,
+  "types": ["grass", "steel"],
+  "baseStats": {
+    "hp": 44,
+    "atk": 50,
+    "def": 91,
+    "spa": 24,
+    "spd": 86,
+    "spe": 10
+  },
+  "stats": {
+    "hp": 198,
+    "attack": 105,
+    "defense": 182,
+    "speed": 25,
+    "bst": 510
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

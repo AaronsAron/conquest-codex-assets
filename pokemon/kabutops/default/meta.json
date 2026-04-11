@@ -1,0 +1,65 @@
+{
+  "pokemonId": "kabutops",
+  "variantId": "default",
+  "displayName": "Kabutops",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 141,
+  "types": ["rock", "water"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 115,
+    "def": 105,
+    "spa": 65,
+    "spd": 70,
+    "spe": 80
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 235,
+    "defense": 180,
+    "speed": 165,
+    "bst": 810
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

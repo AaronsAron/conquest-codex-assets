@@ -1,0 +1,61 @@
+{
+  "pokemonId": "lairon",
+  "variantId": "default",
+  "displayName": "Lairon",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 305,
+  "types": ["steel", "rock"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 90,
+    "def": 140,
+    "spa": 50,
+    "spd": 50,
+    "spe": 40
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 185,
+    "defense": 195,
+    "speed": 85,
+    "bst": 695
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

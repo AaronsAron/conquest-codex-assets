@@ -1,0 +1,65 @@
+{
+  "pokemonId": "trevenant",
+  "variantId": "default",
+  "displayName": "Trevenant",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 709,
+  "types": ["ghost", "grass"],
+  "baseStats": {
+    "hp": 85,
+    "atk": 110,
+    "def": 76,
+    "spa": 65,
+    "spd": 82,
+    "spe": 56
+  },
+  "stats": {
+    "hp": 280,
+    "attack": 225,
+    "defense": 163,
+    "speed": 117,
+    "bst": 785
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

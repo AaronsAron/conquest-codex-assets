@@ -1,0 +1,63 @@
+{
+  "pokemonId": "ferrothorn",
+  "variantId": "default",
+  "displayName": "Ferrothorn",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 598,
+  "types": ["grass", "steel"],
+  "baseStats": {
+    "hp": 74,
+    "atk": 94,
+    "def": 131,
+    "spa": 54,
+    "spd": 116,
+    "spe": 20
+  },
+  "stats": {
+    "hp": 258,
+    "attack": 193,
+    "defense": 252,
+    "speed": 45,
+    "bst": 748
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

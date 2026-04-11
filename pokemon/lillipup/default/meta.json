@@ -1,0 +1,65 @@
+{
+  "pokemonId": "lillipup",
+  "variantId": "default",
+  "displayName": "Lillipup",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 506,
+  "types": ["normal"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 60,
+    "def": 45,
+    "spa": 25,
+    "spd": 45,
+    "spe": 55
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 125,
+    "defense": 95,
+    "speed": 115,
+    "bst": 535
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

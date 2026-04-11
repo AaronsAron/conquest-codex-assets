@@ -1,0 +1,65 @@
+{
+  "pokemonId": "leavanny",
+  "variantId": "shiny",
+  "displayName": "Leavanny-Shiny",
+  "tags": ["shiny", "fully-evolved"],
+
+  "nationalDexNumber": 542,
+  "types": ["bug", "grass"],
+  "baseStats": {
+    "hp": 75,
+    "atk": 103,
+    "def": 80,
+    "spa": 70,
+    "spd": 80,
+    "spe": 92
+  },
+  "stats": {
+    "hp": 260,
+    "attack": 211,
+    "defense": 165,
+    "speed": 189,
+    "bst": 825
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

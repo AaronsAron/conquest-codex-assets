@@ -1,0 +1,63 @@
+{
+  "pokemonId": "stufful",
+  "variantId": "default",
+  "displayName": "Stufful",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 759,
+  "types": ["normal", "fighting"],
+  "baseStats": {
+    "hp": 70,
+    "atk": 75,
+    "def": 50,
+    "spa": 45,
+    "spd": 50,
+    "spe": 50
+  },
+  "stats": {
+    "hp": 250,
+    "attack": 155,
+    "defense": 105,
+    "speed": 105,
+    "bst": 615
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

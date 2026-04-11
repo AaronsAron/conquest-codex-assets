@@ -1,0 +1,65 @@
+{
+  "pokemonId": "drilbur",
+  "variantId": "shiny",
+  "displayName": "Drilbur-Shiny",
+  "tags": ["shiny", "unevolved"],
+
+  "nationalDexNumber": 529,
+  "types": ["ground"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 85,
+    "def": 40,
+    "spa": 30,
+    "spd": 45,
+    "spe": 68
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 175,
+    "defense": 90,
+    "speed": 141,
+    "bst": 636
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

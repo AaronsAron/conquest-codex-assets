@@ -1,0 +1,63 @@
+{
+  "pokemonId": "frigibax",
+  "variantId": "default",
+  "displayName": "Frigibax",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 996,
+  "types": ["dragon", "ice"],
+  "baseStats": {
+    "hp": 65,
+    "atk": 75,
+    "def": 45,
+    "spa": 35,
+    "spd": 45,
+    "spe": 55
+  },
+  "stats": {
+    "hp": 240,
+    "attack": 155,
+    "defense": 95,
+    "speed": 115,
+    "bst": 605
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

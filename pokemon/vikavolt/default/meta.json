@@ -1,0 +1,63 @@
+{
+  "pokemonId": "vikavolt",
+  "variantId": "default",
+  "displayName": "Vikavolt",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 738,
+  "types": ["bug", "electric"],
+  "baseStats": {
+    "hp": 77,
+    "atk": 70,
+    "def": 90,
+    "spa": 145,
+    "spd": 75,
+    "spe": 43
+  },
+  "stats": {
+    "hp": 264,
+    "attack": 295,
+    "defense": 170,
+    "speed": 91,
+    "bst": 820
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

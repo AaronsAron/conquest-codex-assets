@@ -1,0 +1,61 @@
+{
+  "pokemonId": "larvitar",
+  "variantId": "default",
+  "displayName": "Larvitar",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 246,
+  "types": ["rock", "ground"],
+  "baseStats": {
+    "hp": 50,
+    "atk": 64,
+    "def": 50,
+    "spa": 45,
+    "spd": 50,
+    "spe": 41
+  },
+  "stats": {
+    "hp": 210,
+    "attack": 133,
+    "defense": 105,
+    "speed": 87,
+    "bst": 535
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

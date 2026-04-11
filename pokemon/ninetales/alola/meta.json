@@ -1,0 +1,67 @@
+{
+  "pokemonId": "ninetales",
+  "variantId": "alola",
+  "displayName": "Ninetales-Alola",
+  "tags": ["alola", "fully-evolved"],
+
+  "nationalDexNumber": 38,
+  "types": ["ice", "fairy"],
+  "baseStats": {
+    "hp": 73,
+    "atk": 67,
+    "def": 75,
+    "spa": 81,
+    "spd": 100,
+    "spe": 109
+  },
+  "stats": {
+    "hp": 256,
+    "attack": 167,
+    "defense": 180,
+    "speed": 223,
+    "bst": 826
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "NeroIntruder", "role": "draw" },
+      { "name": "baronessfaron", "role": "edit" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

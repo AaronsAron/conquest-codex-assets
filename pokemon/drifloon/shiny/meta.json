@@ -1,0 +1,65 @@
+{
+  "pokemonId": "drifloon",
+  "variantId": "shiny",
+  "displayName": "Drifloon-Shiny",
+  "tags": ["shiny", "unevolved"],
+
+  "nationalDexNumber": 425,
+  "types": ["ghost", "flying"],
+  "baseStats": {
+    "hp": 90,
+    "atk": 50,
+    "def": 34,
+    "spa": 60,
+    "spd": 44,
+    "spe": 70
+  },
+  "stats": {
+    "hp": 290,
+    "attack": 125,
+    "defense": 83,
+    "speed": 145,
+    "bst": 643
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

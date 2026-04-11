@@ -1,0 +1,73 @@
+{
+  "pokemonId": "dialga",
+  "variantId": "default",
+  "displayName": "Dialga",
+  "tags": ["default", "fully-evolved", "legendary"],
+
+  "nationalDexNumber": 483,
+  "types": ["steel", "dragon"],
+  "baseStats": {
+    "hp": 100,
+    "atk": 120,
+    "def": 120,
+    "spa": 150,
+    "spd": 100,
+    "spe": 90
+  },
+  "stats": {
+    "hp": 310,
+    "attack": 305,
+    "defense": 225,
+    "speed": 185,
+    "bst": 1025
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "fierce"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "fierce": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "fierce": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

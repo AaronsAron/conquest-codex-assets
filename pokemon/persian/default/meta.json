@@ -1,0 +1,61 @@
+{
+  "pokemonId": "persian",
+  "variantId": "default",
+  "displayName": "Persian",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 53,
+  "types": ["normal"],
+  "baseStats": {
+    "hp": 65,
+    "atk": 70,
+    "def": 60,
+    "spa": 65,
+    "spd": 65,
+    "spe": 115
+  },
+  "stats": {
+    "hp": 240,
+    "attack": 145,
+    "defense": 130,
+    "speed": 235,
+    "bst": 750
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

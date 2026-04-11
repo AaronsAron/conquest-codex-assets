@@ -1,0 +1,63 @@
+{
+  "pokemonId": "dewpider",
+  "variantId": "default",
+  "displayName": "Dewpider",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 751,
+  "types": ["water", "bug"],
+  "baseStats": {
+    "hp": 38,
+    "atk": 40,
+    "def": 52,
+    "spa": 40,
+    "spd": 72,
+    "spe": 27
+  },
+  "stats": {
+    "hp": 186,
+    "attack": 85,
+    "defense": 129,
+    "speed": 59,
+    "bst": 459
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

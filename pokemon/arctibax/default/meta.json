@@ -1,0 +1,63 @@
+{
+  "pokemonId": "arctibax",
+  "variantId": "default",
+  "displayName": "Arctibax",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 997,
+  "types": ["dragon", "ice"],
+  "baseStats": {
+    "hp": 90,
+    "atk": 95,
+    "def": 66,
+    "spa": 45,
+    "spd": 65,
+    "spe": 62
+  },
+  "stats": {
+    "hp": 290,
+    "attack": 195,
+    "defense": 136,
+    "speed": 129,
+    "bst": 750
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

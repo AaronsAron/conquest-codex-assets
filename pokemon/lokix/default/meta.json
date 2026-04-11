@@ -1,0 +1,63 @@
+{
+  "pokemonId": "lokix",
+  "variantId": "default",
+  "displayName": "Lokix",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 920,
+  "types": ["bug", "dark"],
+  "baseStats": {
+    "hp": 71,
+    "atk": 102,
+    "def": 78,
+    "spa": 52,
+    "spd": 55,
+    "spe": 92
+  },
+  "stats": {
+    "hp": 252,
+    "attack": 209,
+    "defense": 138,
+    "speed": 189,
+    "bst": 788
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

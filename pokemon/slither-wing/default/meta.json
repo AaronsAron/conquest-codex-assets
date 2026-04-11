@@ -1,0 +1,67 @@
+{
+  "pokemonId": "slither-wing",
+  "variantId": "default",
+  "displayName": "Slither Wing",
+  "tags": ["default", "fully-evolved", "paradox"],
+
+  "nationalDexNumber": 988,
+  "types": ["bug", "fighting"],
+  "baseStats": {
+    "hp": 85,
+    "atk": 135,
+    "def": 79,
+    "spa": 85,
+    "spd": 105,
+    "spe": 81
+  },
+  "stats": {
+    "hp": 280,
+    "attack": 275,
+    "defense": 189,
+    "speed": 167,
+    "bst": 911
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "RedMageCole", "role": "recolor" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "RedMageCole", "role": "recolor" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

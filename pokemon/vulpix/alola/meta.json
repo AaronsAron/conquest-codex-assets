@@ -1,0 +1,69 @@
+{
+  "pokemonId": "vulpix",
+  "variantId": "alola",
+  "displayName": "Vulpix-Alola",
+  "tags": ["alola", "unevolved"],
+
+  "nationalDexNumber": 37,
+  "types": ["ice"],
+  "baseStats": {
+    "hp": 38,
+    "atk": 41,
+    "def": 40,
+    "spa": 50,
+    "spd": 65,
+    "spe": 65
+  },
+  "stats": {
+    "hp": 186,
+    "attack": 105,
+    "defense": 110,
+    "speed": 135,
+    "bst": 536
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "NeroIntruder", "role": "draw" },
+      { "name": "baronessfaron", "role": "edit" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "NeroIntruder", "role": "draw" },
+      { "name": "baronessfaron", "role": "edit" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,63 @@
+{
+  "pokemonId": "venusaur",
+  "variantId": "default",
+  "displayName": "Venusaur",
+  "tags": ["default", "fully-evolved", "starter"],
+
+  "nationalDexNumber": 3,
+  "types": ["grass", "poison"],
+  "baseStats": {
+    "hp": 80,
+    "atk": 82,
+    "def": 83,
+    "spa": 100,
+    "spd": 100,
+    "spe": 80
+  },
+  "stats": {
+    "hp": 270,
+    "attack": 205,
+    "defense": 188,
+    "speed": 165,
+    "bst": 828
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Doanmit", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Doanmit", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

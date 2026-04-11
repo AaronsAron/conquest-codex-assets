@@ -1,0 +1,77 @@
+{
+  "pokemonId": "rayquaza",
+  "variantId": "shiny",
+  "displayName": "Rayquaza-Shiny",
+  "tags": ["shiny", "fully-evolved", "legendary"],
+
+  "nationalDexNumber": 384,
+  "types": ["dragon", "flying"],
+  "baseStats": {
+    "hp": 105,
+    "atk": 150,
+    "def": 90,
+    "spa": 150,
+    "spd": 90,
+    "spe": 95
+  },
+  "stats": {
+    "hp": 320,
+    "attack": 305,
+    "defense": 185,
+    "speed": 195,
+    "bst": 1005
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "joyful", "fierce"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "joyful": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "fierce": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "joyful": "2026-04-01",
+      "fierce": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

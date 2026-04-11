@@ -1,0 +1,65 @@
+{
+  "pokemonId": "rhyhorn",
+  "variantId": "shiny",
+  "displayName": "Rhyhorn-Shiny",
+  "tags": ["shiny", "unevolved"],
+
+  "nationalDexNumber": 111,
+  "types": ["ground", "rock"],
+  "baseStats": {
+    "hp": 80,
+    "atk": 85,
+    "def": 95,
+    "spa": 30,
+    "spd": 30,
+    "spe": 25
+  },
+  "stats": {
+    "hp": 270,
+    "attack": 175,
+    "defense": 130,
+    "speed": 55,
+    "bst": 630
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,65 @@
+{
+  "pokemonId": "spectrier",
+  "variantId": "default",
+  "displayName": "Spectrier",
+  "tags": ["default", "fully-evolved", "legendary"],
+
+  "nationalDexNumber": 897,
+  "types": ["ghost"],
+  "baseStats": {
+    "hp": 100,
+    "atk": 65,
+    "def": 60,
+    "spa": 145,
+    "spd": 80,
+    "spe": 130
+  },
+  "stats": {
+    "hp": 310,
+    "attack": 295,
+    "defense": 145,
+    "speed": 265,
+    "bst": 1015
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

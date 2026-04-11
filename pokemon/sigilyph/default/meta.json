@@ -1,0 +1,63 @@
+{
+  "pokemonId": "sigilyph",
+  "variantId": "default",
+  "displayName": "Sigilyph",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 561,
+  "types": ["psychic", "flying"],
+  "baseStats": {
+    "hp": 72,
+    "atk": 58,
+    "def": 80,
+    "spa": 103,
+    "spd": 80,
+    "spe": 97
+  },
+  "stats": {
+    "hp": 254,
+    "attack": 211,
+    "defense": 165,
+    "speed": 199,
+    "bst": 829
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

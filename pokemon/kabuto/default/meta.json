@@ -1,0 +1,65 @@
+{
+  "pokemonId": "kabuto",
+  "variantId": "default",
+  "displayName": "Kabuto",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 140,
+  "types": ["rock", "water"],
+  "baseStats": {
+    "hp": 30,
+    "atk": 80,
+    "def": 90,
+    "spa": 55,
+    "spd": 45,
+    "spe": 55
+  },
+  "stats": {
+    "hp": 170,
+    "attack": 165,
+    "defense": 140,
+    "speed": 115,
+    "bst": 590
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

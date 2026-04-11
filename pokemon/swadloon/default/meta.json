@@ -1,0 +1,61 @@
+{
+  "pokemonId": "swadloon",
+  "variantId": "default",
+  "displayName": "Swadloon",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 541,
+  "types": ["bug", "grass"],
+  "baseStats": {
+    "hp": 55,
+    "atk": 63,
+    "def": 90,
+    "spa": 50,
+    "spd": 80,
+    "spe": 42
+  },
+  "stats": {
+    "hp": 220,
+    "attack": 131,
+    "defense": 175,
+    "speed": 89,
+    "bst": 615
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

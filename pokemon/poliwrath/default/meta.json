@@ -1,0 +1,65 @@
+{
+  "pokemonId": "poliwrath",
+  "variantId": "default",
+  "displayName": "Poliwrath",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 62,
+  "types": ["water", "fighting"],
+  "baseStats": {
+    "hp": 90,
+    "atk": 95,
+    "def": 95,
+    "spa": 70,
+    "spd": 90,
+    "spe": 70
+  },
+  "stats": {
+    "hp": 290,
+    "attack": 195,
+    "defense": 190,
+    "speed": 145,
+    "bst": 820
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Soulja", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Soulja", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

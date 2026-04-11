@@ -1,0 +1,61 @@
+{
+  "pokemonId": "dusknoir",
+  "variantId": "default",
+  "displayName": "Dusknoir",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 477,
+  "types": ["ghost"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 100,
+    "def": 135,
+    "spa": 65,
+    "spd": 135,
+    "spe": 45
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 205,
+    "defense": 275,
+    "speed": 95,
+    "bst": 775
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

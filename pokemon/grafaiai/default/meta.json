@@ -1,0 +1,63 @@
+{
+  "pokemonId": "grafaiai",
+  "variantId": "default",
+  "displayName": "Grafaiai",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 945,
+  "types": ["poison", "normal"],
+  "baseStats": {
+    "hp": 63,
+    "atk": 95,
+    "def": 65,
+    "spa": 80,
+    "spd": 72,
+    "spe": 110
+  },
+  "stats": {
+    "hp": 236,
+    "attack": 195,
+    "defense": 142,
+    "speed": 225,
+    "bst": 798
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

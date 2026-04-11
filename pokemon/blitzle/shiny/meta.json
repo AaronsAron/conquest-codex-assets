@@ -1,0 +1,65 @@
+{
+  "pokemonId": "blitzle",
+  "variantId": "shiny",
+  "displayName": "Blitzle-Shiny",
+  "tags": ["shiny", "unevolved"],
+
+  "nationalDexNumber": 522,
+  "types": ["electric"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 60,
+    "def": 32,
+    "spa": 50,
+    "spd": 32,
+    "spe": 76
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 125,
+    "defense": 69,
+    "speed": 157,
+    "bst": 551
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

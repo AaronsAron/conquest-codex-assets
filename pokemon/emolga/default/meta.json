@@ -1,0 +1,61 @@
+{
+  "pokemonId": "emolga",
+  "variantId": "default",
+  "displayName": "Emolga",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 587,
+  "types": ["electric", "flying"],
+  "baseStats": {
+    "hp": 55,
+    "atk": 75,
+    "def": 60,
+    "spa": 75,
+    "spd": 60,
+    "spe": 103
+  },
+  "stats": {
+    "hp": 220,
+    "attack": 155,
+    "defense": 125,
+    "speed": 211,
+    "bst": 711
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

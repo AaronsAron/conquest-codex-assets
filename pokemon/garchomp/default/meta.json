@@ -1,0 +1,61 @@
+{
+  "pokemonId": "garchomp",
+  "variantId": "default",
+  "displayName": "Garchomp",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 445,
+  "types": ["dragon", "ground"],
+  "baseStats": {
+    "hp": 108,
+    "atk": 130,
+    "def": 95,
+    "spa": 80,
+    "spd": 85,
+    "spe": 102
+  },
+  "stats": {
+    "hp": 326,
+    "attack": 265,
+    "defense": 185,
+    "speed": 209,
+    "bst": 985
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

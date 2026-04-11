@@ -1,0 +1,61 @@
+{
+  "pokemonId": "aron",
+  "variantId": "default",
+  "displayName": "Aron",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 304,
+  "types": ["steel", "rock"],
+  "baseStats": {
+    "hp": 50,
+    "atk": 70,
+    "def": 100,
+    "spa": 40,
+    "spd": 40,
+    "spe": 30
+  },
+  "stats": {
+    "hp": 210,
+    "attack": 145,
+    "defense": 145,
+    "speed": 65,
+    "bst": 565
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

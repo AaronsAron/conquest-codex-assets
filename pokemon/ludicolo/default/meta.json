@@ -1,0 +1,65 @@
+{
+  "pokemonId": "ludicolo",
+  "variantId": "default",
+  "displayName": "Ludicolo",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 272,
+  "types": ["water", "grass"],
+  "baseStats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 70,
+    "spa": 90,
+    "spd": 100,
+    "spe": 70
+  },
+  "stats": {
+    "hp": 270,
+    "attack": 185,
+    "defense": 175,
+    "speed": 145,
+    "bst": 775
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Chunsoft", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "Chunsoft", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

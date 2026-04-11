@@ -1,0 +1,61 @@
+{
+  "pokemonId": "zweilous",
+  "variantId": "default",
+  "displayName": "Zweilous",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 634,
+  "types": ["dark", "dragon"],
+  "baseStats": {
+    "hp": 72,
+    "atk": 85,
+    "def": 70,
+    "spa": 65,
+    "spd": 70,
+    "spe": 58
+  },
+  "stats": {
+    "hp": 254,
+    "attack": 175,
+    "defense": 145,
+    "speed": 121,
+    "bst": 695
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

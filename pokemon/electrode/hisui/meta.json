@@ -1,0 +1,63 @@
+{
+  "pokemonId": "electrode",
+  "variantId": "hisui",
+  "displayName": "Electrode-Hisui",
+  "tags": ["hisui", "fully-evolved"],
+
+  "nationalDexNumber": 101,
+  "types": ["electric"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 50,
+    "def": 70,
+    "spa": 80,
+    "spd": 80,
+    "spe": 150
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 165,
+    "defense": 155,
+    "speed": 305,
+    "bst": 855
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

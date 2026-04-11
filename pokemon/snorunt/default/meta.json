@@ -1,0 +1,73 @@
+{
+  "pokemonId": "snorunt",
+  "variantId": "default",
+  "displayName": "Snorunt",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 361,
+  "types": ["ice"],
+  "baseStats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 50,
+    "spa": 50,
+    "spd": 50,
+    "spe": 50
+  },
+  "stats": {
+    "hp": 210,
+    "attack": 105,
+    "defense": 105,
+    "speed": 105,
+    "bst": 525
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": ["default", "fierce"],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    },
+    "emotions": {
+      "default": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "fierce": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    },
+    "emotions": {
+      "default": "2026-04-01",
+      "fierce": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

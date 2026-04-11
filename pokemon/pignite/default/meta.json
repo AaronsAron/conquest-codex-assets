@@ -1,0 +1,61 @@
+{
+  "pokemonId": "pignite",
+  "variantId": "default",
+  "displayName": "Pignite",
+  "tags": ["default", "not-fully-evolved", "starter"],
+
+  "nationalDexNumber": 499,
+  "types": ["fire", "fighting"],
+  "baseStats": {
+    "hp": 90,
+    "atk": 93,
+    "def": 55,
+    "spa": 70,
+    "spd": 55,
+    "spe": 55
+  },
+  "stats": {
+    "hp": 290,
+    "attack": 191,
+    "defense": 115,
+    "speed": 115,
+    "bst": 711
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

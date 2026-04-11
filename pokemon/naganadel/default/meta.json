@@ -1,0 +1,65 @@
+{
+  "pokemonId": "naganadel",
+  "variantId": "default",
+  "displayName": "Naganadel",
+  "tags": ["default", "fully-evolved", "ultra-beast"],
+
+  "nationalDexNumber": 804,
+  "types": ["poison", "dragon"],
+  "baseStats": {
+    "hp": 73,
+    "atk": 73,
+    "def": 73,
+    "spa": 127,
+    "spd": 73,
+    "spe": 121
+  },
+  "stats": {
+    "hp": 256,
+    "attack": 259,
+    "defense": 151,
+    "speed": 247,
+    "bst": 913
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "top_kec", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

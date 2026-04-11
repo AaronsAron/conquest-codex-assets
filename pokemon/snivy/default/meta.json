@@ -1,0 +1,61 @@
+{
+  "pokemonId": "snivy",
+  "variantId": "default",
+  "displayName": "Snivy",
+  "tags": ["default", "unevolved", "starter"],
+
+  "nationalDexNumber": 495,
+  "types": ["grass"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 45,
+    "def": 55,
+    "spa": 45,
+    "spd": 55,
+    "spe": 63
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 95,
+    "defense": 115,
+    "speed": 131,
+    "bst": 541
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

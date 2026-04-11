@@ -1,0 +1,63 @@
+{
+  "pokemonId": "dunsparce",
+  "variantId": "default",
+  "displayName": "Dunsparce",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 206,
+  "types": ["normal"],
+  "baseStats": {
+    "hp": 100,
+    "atk": 70,
+    "def": 70,
+    "spa": 65,
+    "spd": 65,
+    "spe": 45
+  },
+  "stats": {
+    "hp": 310,
+    "attack": 145,
+    "defense": 140,
+    "speed": 95,
+    "bst": 690
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

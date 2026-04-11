@@ -1,0 +1,65 @@
+{
+  "pokemonId": "stunfisk",
+  "variantId": "default",
+  "displayName": "Stunfisk",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 618,
+  "types": ["ground", "electric"],
+  "baseStats": {
+    "hp": 109,
+    "atk": 66,
+    "def": 84,
+    "spa": 81,
+    "spd": 99,
+    "spe": 32
+  },
+  "stats": {
+    "hp": 328,
+    "attack": 167,
+    "defense": 188,
+    "speed": 69,
+    "bst": 752
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "powercristal", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

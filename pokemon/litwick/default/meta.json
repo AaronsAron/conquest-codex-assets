@@ -1,0 +1,61 @@
+{
+  "pokemonId": "litwick",
+  "variantId": "default",
+  "displayName": "Litwick",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 607,
+  "types": ["ghost", "fire"],
+  "baseStats": {
+    "hp": 50,
+    "atk": 30,
+    "def": 55,
+    "spa": 65,
+    "spd": 55,
+    "spe": 20
+  },
+  "stats": {
+    "hp": 210,
+    "attack": 135,
+    "defense": 115,
+    "speed": 45,
+    "bst": 505
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

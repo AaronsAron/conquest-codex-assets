@@ -1,0 +1,63 @@
+{
+  "pokemonId": "type-null",
+  "variantId": "default",
+  "displayName": "Type: Null",
+  "tags": ["default", "unevolved", "legendary"],
+
+  "nationalDexNumber": 772,
+  "types": ["normal"],
+  "baseStats": {
+    "hp": 95,
+    "atk": 95,
+    "def": 95,
+    "spa": 95,
+    "spd": 95,
+    "spe": 59
+  },
+  "stats": {
+    "hp": 300,
+    "attack": 195,
+    "defense": 195,
+    "speed": 123,
+    "bst": 813
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

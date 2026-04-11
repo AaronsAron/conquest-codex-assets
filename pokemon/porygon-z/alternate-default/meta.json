@@ -1,0 +1,23 @@
+{
+  "pokemonId": "porygon-z",
+  "variantId": "default-alt",
+  "displayName": "Porygon-Z",
+  "tags": ["alternate", "default", "fully-evolved"],
+
+  "inheritsFrom": "default",
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "credits": {
+    "animation": [
+      { "name": "Snap", "role": "draw" }
+    ]
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01"
+  },
+
+  "history": [],
+  "notes": ""
+}

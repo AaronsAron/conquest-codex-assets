@@ -1,0 +1,63 @@
+{
+  "pokemonId": "nymble",
+  "variantId": "default",
+  "displayName": "Nymble",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 919,
+  "types": ["bug"],
+  "baseStats": {
+    "hp": 33,
+    "atk": 46,
+    "def": 40,
+    "spa": 21,
+    "spd": 25,
+    "spe": 45
+  },
+  "stats": {
+    "hp": 176,
+    "attack": 97,
+    "defense": 70,
+    "speed": 95,
+    "bst": 438
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,65 @@
+{
+  "pokemonId": "skorupi",
+  "variantId": "shiny",
+  "displayName": "Skorupi-Shiny",
+  "tags": ["shiny", "unevolved"],
+
+  "nationalDexNumber": 451,
+  "types": ["poison", "bug"],
+  "baseStats": {
+    "hp": 40,
+    "atk": 50,
+    "def": 90,
+    "spa": 30,
+    "spd": 55,
+    "spe": 65
+  },
+  "stats": {
+    "hp": 190,
+    "attack": 105,
+    "defense": 150,
+    "speed": 135,
+    "bst": 580
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

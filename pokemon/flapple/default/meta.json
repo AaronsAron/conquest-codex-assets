@@ -1,0 +1,65 @@
+{
+  "pokemonId": "flapple",
+  "variantId": "default",
+  "displayName": "Flapple",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 841,
+  "types": ["grass", "dragon"],
+  "baseStats": {
+    "hp": 70,
+    "atk": 110,
+    "def": 80,
+    "spa": 95,
+    "spd": 60,
+    "spe": 70
+  },
+  "stats": {
+    "hp": 250,
+    "attack": 225,
+    "defense": 145,
+    "speed": 145,
+    "bst": 765
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Emmuffin", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "Emmuffin", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

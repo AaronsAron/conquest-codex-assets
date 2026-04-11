@@ -1,0 +1,65 @@
+{
+  "pokemonId": "deoxys",
+  "variantId": "default",
+  "displayName": "Deoxys-Normal",
+  "tags": ["default", "fully-evolved", "mythical"],
+
+  "nationalDexNumber": 386,
+  "types": ["psychic"],
+  "baseStats": {
+    "hp": 50,
+    "atk": 150,
+    "def": 50,
+    "spa": 150,
+    "spd": 50,
+    "spe": 150
+  },
+  "stats": {
+    "hp": 210,
+    "attack": 305,
+    "defense": 105,
+    "speed": 305,
+    "bst": 925
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,66 @@
+{
+  "pokemonId": "incineroar",
+  "variantId": "default",
+  "displayName": "Incineroar",
+  "tags": ["default", "fully-evolved", "starter"],
+
+  "nationalDexNumber": 727,
+  "types": ["fire", "dark"],
+  "baseStats": {
+    "hp": 95,
+    "atk": 115,
+    "def": 90,
+    "spa": 80,
+    "spd": 90,
+    "spe": 60
+  },
+  "stats": {
+    "hp": 300,
+    "attack": 235,
+    "defense": 185,
+    "speed": 125,
+    "bst": 845
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "avalancheman", "role": "draw" },
+      { "name": "time.gear", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,71 @@
+{
+  "pokemonId": "rookidee",
+  "variantId": "default",
+  "displayName": "Rookidee",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 821,
+  "types": ["flying"],
+  "baseStats": {
+    "hp": 38,
+    "atk": 47,
+    "def": 35,
+    "spa": 33,
+    "spd": 35,
+    "spe": 57
+  },
+  "stats": {
+    "hp": 186,
+    "attack": 99,
+    "defense": 75,
+    "speed": 119,
+    "bst": 479
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Michael12", "role": "draw" },
+      { "name": "Soulja", "role": "draw" },
+      { "name": "Caitemis", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "Michael12", "role": "draw" },
+      { "name": "Soulja", "role": "draw" },
+      { "name": "Caitemis", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

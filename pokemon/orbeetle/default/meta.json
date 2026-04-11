@@ -1,0 +1,65 @@
+{
+  "pokemonId": "orbeetle",
+  "variantId": "default",
+  "displayName": "Orbeetle",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 826,
+  "types": ["bug", "psychic"],
+  "baseStats": {
+    "hp": 60,
+    "atk": 45,
+    "def": 110,
+    "spa": 80,
+    "spd": 120,
+    "spe": 90
+  },
+  "stats": {
+    "hp": 230,
+    "attack": 165,
+    "defense": 235,
+    "speed": 185,
+    "bst": 815
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Jhony Ryu", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

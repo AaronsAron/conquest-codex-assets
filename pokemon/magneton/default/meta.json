@@ -1,0 +1,65 @@
+{
+  "pokemonId": "magneton",
+  "variantId": "default",
+  "displayName": "Magneton",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 82,
+  "types": ["electric", "steel"],
+  "baseStats": {
+    "hp": 50,
+    "atk": 60,
+    "def": 95,
+    "spa": 120,
+    "spd": 70,
+    "spe": 70
+  },
+  "stats": {
+    "hp": 210,
+    "attack": 245,
+    "defense": 170,
+    "speed": 145,
+    "bst": 770
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

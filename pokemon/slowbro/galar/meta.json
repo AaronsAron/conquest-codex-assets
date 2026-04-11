@@ -1,0 +1,62 @@
+{
+  "pokemonId": "slowbro",
+  "variantId": "galar",
+  "displayName": "Slowbro-Galar",
+  "tags": ["galar", "fully-evolved"],
+
+  "nationalDexNumber": 80,
+  "types": ["poison", "psychic"],
+  "baseStats": {
+    "hp": 95,
+    "atk": 100,
+    "def": 95,
+    "spa": 100,
+    "spd": 70,
+    "spe": 30
+  },
+  "stats": {
+    "hp": 300,
+    "attack": 205,
+    "defense": 170,
+    "speed": 65,
+    "bst": 740
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

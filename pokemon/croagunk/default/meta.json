@@ -1,0 +1,61 @@
+{
+  "pokemonId": "croagunk",
+  "variantId": "default",
+  "displayName": "Croagunk",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 453,
+  "types": ["poison", "fighting"],
+  "baseStats": {
+    "hp": 48,
+    "atk": 61,
+    "def": 40,
+    "spa": 61,
+    "spd": 40,
+    "spe": 50
+  },
+  "stats": {
+    "hp": 206,
+    "attack": 127,
+    "defense": 85,
+    "speed": 105,
+    "bst": 523
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

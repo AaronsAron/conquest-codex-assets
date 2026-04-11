@@ -1,0 +1,62 @@
+{
+  "pokemonId": "darmanitan",
+  "variantId": "galar-zen",
+  "displayName": "Darmanitan-Galar-Zen",
+  "tags": ["galar", "zen", "fully-evolved"],
+
+  "nationalDexNumber": 555,
+  "types": ["ice", "fire"],
+  "baseStats": {
+    "hp": 105,
+    "atk": 160,
+    "def": 55,
+    "spa": 30,
+    "spd": 55,
+    "spe": 135
+  },
+  "stats": {
+    "hp": 320,
+    "attack": 325,
+    "defense": 115,
+    "speed": 275,
+    "bst": 1035
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

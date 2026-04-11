@@ -1,0 +1,63 @@
+{
+  "pokemonId": "floragato",
+  "variantId": "default",
+  "displayName": "Floragato",
+  "tags": ["default", "not-fully-evolved", "starter"],
+
+  "nationalDexNumber": 907,
+  "types": ["grass"],
+  "baseStats": {
+    "hp": 61,
+    "atk": 80,
+    "def": 63,
+    "spa": 60,
+    "spd": 63,
+    "spe": 83
+  },
+  "stats": {
+    "hp": 232,
+    "attack": 165,
+    "defense": 131,
+    "speed": 171,
+    "bst": 699
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

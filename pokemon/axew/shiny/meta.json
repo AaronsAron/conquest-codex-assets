@@ -1,0 +1,65 @@
+{
+  "pokemonId": "axew",
+  "variantId": "shiny",
+  "displayName": "Axew-Shiny",
+  "tags": ["shiny", "unevolved"],
+
+  "nationalDexNumber": 610,
+  "types": ["dragon"],
+  "baseStats": {
+    "hp": 46,
+    "atk": 87,
+    "def": 60,
+    "spa": 30,
+    "spd": 40,
+    "spe": 57
+  },
+  "stats": {
+    "hp": 202,
+    "attack": 179,
+    "defense": 105,
+    "speed": 119,
+    "bst": 605
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

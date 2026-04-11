@@ -1,0 +1,63 @@
+{
+  "pokemonId": "accelgor",
+  "variantId": "default",
+  "displayName": "Accelgor",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 617,
+  "types": ["bug"],
+  "baseStats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 40,
+    "spa": 100,
+    "spd": 60,
+    "spe": 145
+  },
+  "stats": {
+    "hp": 270,
+    "attack": 205,
+    "defense": 105,
+    "speed": 295,
+    "bst": 875
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Snap", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

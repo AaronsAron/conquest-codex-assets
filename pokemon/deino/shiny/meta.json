@@ -1,0 +1,65 @@
+{
+  "pokemonId": "deino",
+  "variantId": "shiny",
+  "displayName": "Deino-Shiny",
+  "tags": ["shiny", "unevolved"],
+
+  "nationalDexNumber": 633,
+  "types": ["dark", "dragon"],
+  "baseStats": {
+    "hp": 52,
+    "atk": 65,
+    "def": 50,
+    "spa": 45,
+    "spd": 50,
+    "spe": 38
+  },
+  "stats": {
+    "hp": 214,
+    "attack": 135,
+    "defense": 105,
+    "speed": 81,
+    "bst": 535
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" },
+      { "name": "Bagon", "role": "recolor" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" },
+        { "name": "Bagon", "role": "recolor" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

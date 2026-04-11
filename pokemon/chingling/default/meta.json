@@ -1,0 +1,61 @@
+{
+  "pokemonId": "chingling",
+  "variantId": "default",
+  "displayName": "Chingling",
+  "tags": ["default", "unevolved", "baby"],
+
+  "nationalDexNumber": 433,
+  "types": ["psychic"],
+  "baseStats": {
+    "hp": 45,
+    "atk": 30,
+    "def": 50,
+    "spa": 65,
+    "spd": 50,
+    "spe": 45
+  },
+  "stats": {
+    "hp": 200,
+    "attack": 135,
+    "defense": 105,
+    "speed": 95,
+    "bst": 535
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "float",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Koei Tecmo", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ],
+      "intro": [
+        { "name": "Koei Tecmo", "role": "draw" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,63 @@
+{
+  "pokemonId": "doublade",
+  "variantId": "default",
+  "displayName": "Doublade",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 680,
+  "types": ["steel", "ghost"],
+  "baseStats": {
+    "hp": 59,
+    "atk": 110,
+    "def": 150,
+    "spa": 45,
+    "spd": 49,
+    "spe": 35
+  },
+  "stats": {
+    "hp": 228,
+    "attack": 225,
+    "defense": 204,
+    "speed": 75,
+    "bst": 732
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Soulja", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

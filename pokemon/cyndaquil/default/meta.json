@@ -1,0 +1,67 @@
+{
+  "pokemonId": "cyndaquil",
+  "variantId": "default",
+  "displayName": "Cyndaquil",
+  "tags": ["default", "unevolved", "starter"],
+
+  "nationalDexNumber": 155,
+  "types": ["fire"],
+  "baseStats": {
+    "hp": 39,
+    "atk": 52,
+    "def": 43,
+    "spa": 60,
+    "spd": 50,
+    "spe": 65
+  },
+  "stats": {
+    "hp": 188,
+    "attack": 125,
+    "defense": 98,
+    "speed": 135,
+    "bst": 546
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

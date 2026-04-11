@@ -1,0 +1,63 @@
+{
+  "pokemonId": "tyrantrum",
+  "variantId": "default",
+  "displayName": "Tyrantrum",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 697,
+  "types": ["rock", "dragon"],
+  "baseStats": {
+    "hp": 82,
+    "atk": 121,
+    "def": 119,
+    "spa": 69,
+    "spd": 59,
+    "spe": 71
+  },
+  "stats": {
+    "hp": 274,
+    "attack": 247,
+    "defense": 183,
+    "speed": 147,
+    "bst": 851
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "icons": [
+      { "name": "Soulja", "role": "draw" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,66 @@
+{
+  "pokemonId": "porygon",
+  "variantId": "default",
+  "displayName": "Porygon",
+  "tags": ["default", "unevolved"],
+
+  "nationalDexNumber": 137,
+  "types": ["normal"],
+  "baseStats": {
+    "hp": 65,
+    "atk": 60,
+    "def": 70,
+    "spa": 85,
+    "spd": 75,
+    "spe": 40
+  },
+  "stats": {
+    "hp": 240,
+    "attack": 175,
+    "defense": 150,
+    "speed": 85,
+    "bst": 650
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "Chunsoft", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "Chunsoft", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,65 @@
+{
+  "pokemonId": "sawsbuck",
+  "variantId": "default",
+  "displayName": "Sawsbuck-Spring",
+  "tags": ["default", "fully-evolved"],
+
+  "nationalDexNumber": 586,
+  "types": ["normal", "grass"],
+  "baseStats": {
+    "hp": 80,
+    "atk": 100,
+    "def": 70,
+    "spa": 60,
+    "spd": 70,
+    "spe": 95
+  },
+  "stats": {
+    "hp": 270,
+    "attack": 205,
+    "defense": 145,
+    "speed": 195,
+    "bst": 815
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "icons": [
+      { "name": "baronessfaron", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

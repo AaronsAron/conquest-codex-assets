@@ -1,0 +1,69 @@
+{
+  "pokemonId": "marill",
+  "variantId": "default",
+  "displayName": "Marill",
+  "tags": ["default", "not-fully-evolved"],
+
+  "nationalDexNumber": 183,
+  "types": ["water", "fairy"],
+  "baseStats": {
+    "hp": 70,
+    "atk": 20,
+    "def": 50,
+    "spa": 20,
+    "spd": 50,
+    "spe": 40
+  },
+  "stats": {
+    "hp": 250,
+    "attack": 45,
+    "defense": 105,
+    "speed": 85,
+    "bst": 485
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": true, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "JFain", "role": "edit" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "icons": [
+      { "name": "Chunsoft", "role": "draw" },
+      { "name": "JFain", "role": "edit" },
+      { "name": "RedMageCole", "role": "convert" },
+      { "name": "Aaron's Aron", "role": "edit" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,62 @@
+{
+  "pokemonId": "latios",
+  "variantId": "default",
+  "displayName": "Latios",
+  "tags": ["default", "fully-evolved", "legendary"],
+
+  "nationalDexNumber": 381,
+  "types": ["dragon", "psychic"],
+  "baseStats": {
+    "hp": 80,
+    "atk": 90,
+    "def": 80,
+    "spa": 130,
+    "spd": 110,
+    "spe": 110
+  },
+  "stats": {
+    "hp": 270,
+    "attack": 265,
+    "defense": 195,
+    "speed": 225,
+    "bst": 955
+  },
+
+  "inheritsFrom": null,
+
+  "animationFlags": {"asymmetric": false, "longAttack": false},
+
+  "idleMotion": "grounded",
+
+  "portraitEmotions": [],
+
+  "credits": {
+    "animation": [],
+    "icons": [
+      { "name": "GameFreak", "role": "draw" },
+      { "name": "Aaron's Aron", "role": "convert" }
+    ],
+    "portraits": {
+      "profile": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ],
+      "intro": [
+        { "name": "GameFreak", "role": "draw" },
+        { "name": "Aaron's Aron", "role": "convert" }
+      ]
+    }
+  },
+
+  "dateModified": {
+    "animation": "2026-04-01",
+    "icons": "2026-04-01",
+    "portraits": {
+      "profile": "2026-04-01",
+      "intro": "2026-04-01"
+    }
+  },
+
+  "history": [],
+  "notes": ""
+}
