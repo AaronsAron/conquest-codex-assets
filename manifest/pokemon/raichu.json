@@ -5,7 +5,7 @@
       "alola": {
             "displayName": "Raichu-Alola",
             "types": ["electric", "psychic"],
-            "tags": ["alola", "fully-evolved"],
+            "tags": ["alola", "regional", "fully-evolved"],
             "stats": {
                     "hp": 230,
                     "attack": 195,

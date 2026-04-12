@@ -42,7 +42,7 @@
       "hisui": {
             "displayName": "Zoroark-Hisui",
             "types": ["normal", "ghost"],
-            "tags": ["hisui", "fully-evolved"],
+            "tags": ["hisui", "regional", "fully-evolved"],
             "stats": {
                     "hp": 230,
                     "attack": 245,

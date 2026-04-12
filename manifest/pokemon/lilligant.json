@@ -39,7 +39,7 @@
       "hisui": {
             "displayName": "Lilligant-Hisui",
             "types": ["grass", "fighting"],
-            "tags": ["hisui", "fully-evolved"],
+            "tags": ["hisui", "regional", "fully-evolved"],
             "stats": {
                     "hp": 250,
                     "attack": 215,

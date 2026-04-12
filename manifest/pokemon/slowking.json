@@ -5,7 +5,7 @@
       "galar": {
             "displayName": "Slowking-Galar",
             "types": ["poison", "psychic"],
-            "tags": ["galar", "fully-evolved"],
+            "tags": ["galar", "regional", "fully-evolved"],
             "stats": {
                     "hp": 300,
                     "attack": 225,

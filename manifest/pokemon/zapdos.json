@@ -5,7 +5,7 @@
       "galar": {
             "displayName": "Zapdos-Galar",
             "types": ["fighting", "flying"],
-            "tags": ["galar", "fully-evolved", "legendary"],
+            "tags": ["galar", "regional", "fully-evolved", "legendary"],
             "stats": {
                     "hp": 290,
                     "attack": 255,

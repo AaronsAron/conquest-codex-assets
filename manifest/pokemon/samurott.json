@@ -43,7 +43,7 @@
       "hisui": {
             "displayName": "Samurott-Hisui",
             "types": ["water", "dark"],
-            "tags": ["hisui", "fully-evolved", "starter"],
+            "tags": ["hisui", "regional", "fully-evolved", "starter"],
             "stats": {
                     "hp": 290,
                     "attack": 221,

@@ -3,7 +3,7 @@
   "nationalDexNumber": 773,
   "variants": {
       "default": {
-            "displayName": "Silvally-Normal",
+            "displayName": "Silvally",
             "types": ["normal"],
             "tags": ["default", "fully-evolved", "legendary"],
             "stats": {

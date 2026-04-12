@@ -39,7 +39,7 @@
       "hisui": {
             "displayName": "Typhlosion-Hisui",
             "types": ["fire", "ghost"],
-            "tags": ["hisui", "fully-evolved", "starter"],
+            "tags": ["hisui", "regional", "fully-evolved", "starter"],
             "stats": {
                     "hp": 256,
                     "attack": 243,

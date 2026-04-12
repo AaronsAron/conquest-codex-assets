@@ -5,7 +5,7 @@
       "hisui": {
             "displayName": "Goodra-Hisui",
             "types": ["dragon", "steel"],
-            "tags": ["hisui", "fully-evolved"],
+            "tags": ["hisui", "regional", "fully-evolved"],
             "stats": {
                     "hp": 270,
                     "attack": 225,

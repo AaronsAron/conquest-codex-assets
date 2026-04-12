@@ -5,7 +5,7 @@
       "alola": {
             "displayName": "Golem-Alola",
             "types": ["rock", "electric"],
-            "tags": ["alola", "fully-evolved"],
+            "tags": ["alola", "regional", "fully-evolved"],
             "stats": {
                     "hp": 270,
                     "attack": 245,

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-11T21:25:11-04:00",
+  "generatedAt": "2026-04-12T19:01:55-04:00",
   "assetBase": "https://raw.githubusercontent.com/AaronsAron/conquest-codex-assets/main/",
   "rows": [
       {
@@ -695,7 +695,7 @@
             "displayName": "Raichu-Alola",
             "nationalDexNumber": 26,
             "types": ["electric", "psychic"],
-            "tags": ["alola", "fully-evolved"],
+            "tags": ["alola", "regional", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/raichu/alola/icons/full-left.png"
                   },
@@ -817,7 +817,7 @@
             "displayName": "Sandslash-Alola",
             "nationalDexNumber": 28,
             "types": ["ice", "steel"],
-            "tags": ["alola", "fully-evolved"],
+            "tags": ["alola", "regional", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/sandslash/alola/icons/full-left.png"
                   },
@@ -897,7 +897,7 @@
             "displayName": "Vulpix-Alola",
             "nationalDexNumber": 37,
             "types": ["ice"],
-            "tags": ["alola", "unevolved"],
+            "tags": ["alola", "regional", "unevolved"],
             "thumb": {
                     "icon": "pokemon/vulpix/alola/icons/full-left.png"
                   },
@@ -937,7 +937,7 @@
             "displayName": "Ninetales-Alola",
             "nationalDexNumber": 38,
             "types": ["ice", "fairy"],
-            "tags": ["alola", "fully-evolved"],
+            "tags": ["alola", "regional", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/ninetales/alola/icons/full-left.png"
                   },
@@ -1463,7 +1463,7 @@
             "displayName": "Growlithe-Hisui",
             "nationalDexNumber": 58,
             "types": ["fire", "rock"],
-            "tags": ["hisui", "unevolved"],
+            "tags": ["hisui", "regional", "unevolved"],
             "thumb": {
                     "icon": "pokemon/growlithe/hisui/icons/full-left.png"
                   },
@@ -1503,7 +1503,7 @@
             "displayName": "Arcanine-Hisui",
             "nationalDexNumber": 59,
             "types": ["fire", "rock"],
-            "tags": ["hisui", "fully-evolved"],
+            "tags": ["hisui", "regional", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/arcanine/hisui/icons/full-left.png"
                   },
@@ -2107,7 +2107,7 @@
             "displayName": "Golem-Alola",
             "nationalDexNumber": 76,
             "types": ["rock", "electric"],
-            "tags": ["alola", "fully-evolved"],
+            "tags": ["alola", "regional", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/golem/alola/icons/full-left.png"
                   },
@@ -2147,7 +2147,7 @@
             "displayName": "Slowbro-Galar",
             "nationalDexNumber": 80,
             "types": ["poison", "psychic"],
-            "tags": ["galar", "fully-evolved"],
+            "tags": ["galar", "regional", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/slowbro/galar/icons/full-left.png"
                   },
@@ -2591,7 +2591,7 @@
             "displayName": "Voltorb-Hisui",
             "nationalDexNumber": 100,
             "types": ["electric", "grass"],
-            "tags": ["hisui", "unevolved"],
+            "tags": ["hisui", "regional", "unevolved"],
             "thumb": {
                     "icon": "pokemon/voltorb/hisui/icons/full-left.png"
                   },
@@ -2631,7 +2631,7 @@
             "displayName": "Electrode-Hisui",
             "nationalDexNumber": 101,
             "types": ["electric"],
-            "tags": ["hisui", "fully-evolved"],
+            "tags": ["hisui", "regional", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/electrode/hisui/icons/full-left.png"
                   },
@@ -3923,7 +3923,7 @@
             "displayName": "Zapdos-Galar",
             "nationalDexNumber": 145,
             "types": ["fighting", "flying"],
-            "tags": ["galar", "fully-evolved", "legendary"],
+            "tags": ["galar", "regional", "fully-evolved", "legendary"],
             "thumb": {
                     "icon": "pokemon/zapdos/galar/icons/full-left.png"
                   },
@@ -4405,7 +4405,7 @@
             "displayName": "Typhlosion-Hisui",
             "nationalDexNumber": 157,
             "types": ["fire", "ghost"],
-            "tags": ["hisui", "fully-evolved", "starter"],
+            "tags": ["hisui", "regional", "fully-evolved", "starter"],
             "thumb": {
                     "icon": "pokemon/typhlosion/hisui/icons/full-left.png"
                   },
@@ -5207,7 +5207,7 @@
             "displayName": "Wooper-Paldea",
             "nationalDexNumber": 194,
             "types": ["poison", "ground"],
-            "tags": ["paldea", "unevolved"],
+            "tags": ["paldea", "regional", "unevolved"],
             "thumb": {
                     "icon": "pokemon/wooper/paldea/icons/full-left.png"
                   },
@@ -5531,7 +5531,7 @@
             "displayName": "Slowking-Galar",
             "nationalDexNumber": 199,
             "types": ["poison", "psychic"],
-            "tags": ["galar", "fully-evolved"],
+            "tags": ["galar", "regional", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/slowking/galar/icons/full-left.png"
                   },
@@ -15442,7 +15442,7 @@
             "displayName": "Samurott-Hisui",
             "nationalDexNumber": 503,
             "types": ["water", "dark"],
-            "tags": ["hisui", "fully-evolved", "starter"],
+            "tags": ["hisui", "regional", "fully-evolved", "starter"],
             "thumb": {
                     "icon": "pokemon/samurott/hisui/icons/full-left.png"
                   },
@@ -17891,7 +17891,7 @@
             "displayName": "Lilligant-Hisui",
             "nationalDexNumber": 549,
             "types": ["grass", "fighting"],
-            "tags": ["hisui", "fully-evolved"],
+            "tags": ["hisui", "regional", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/lilligant/hisui/icons/full-left.png"
                   },
@@ -18338,7 +18338,7 @@
             "displayName": "Darmanitan-Galar-Zen",
             "nationalDexNumber": 555,
             "types": ["ice", "fire"],
-            "tags": ["galar", "zen", "fully-evolved"],
+            "tags": ["galar", "regional", "zen", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/darmanitan/galar-zen/icons/full-left.png"
                   },
@@ -18742,7 +18742,7 @@
             "displayName": "Zoroark-Hisui",
             "nationalDexNumber": 571,
             "types": ["normal", "ghost"],
-            "tags": ["hisui", "fully-evolved"],
+            "tags": ["hisui", "regional", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/zoroark/hisui/icons/full-left.png"
                   },
@@ -22495,7 +22495,7 @@
             "displayName": "Sliggoo-Hisui",
             "nationalDexNumber": 705,
             "types": ["dragon", "steel"],
-            "tags": ["hisui", "not-fully-evolved"],
+            "tags": ["hisui", "regional", "not-fully-evolved"],
             "thumb": {
                     "icon": "pokemon/sliggoo/hisui/icons/full-left.png"
                   },
@@ -22535,7 +22535,7 @@
             "displayName": "Goodra-Hisui",
             "nationalDexNumber": 706,
             "types": ["dragon", "steel"],
-            "tags": ["hisui", "fully-evolved"],
+            "tags": ["hisui", "regional", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/goodra/hisui/icons/full-left.png"
                   },
@@ -22560,8 +22560,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["emmuffin", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["emmuffin", "Aaron's Aron"],
+                    "artistsAll": ["Emmuffin", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["Emmuffin", "Aaron's Aron"],
                     "artistsIcons": ["GameFreak", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
@@ -23452,7 +23452,7 @@
       {
             "pokemonId": "silvally",
             "variantId": "default",
-            "displayName": "Silvally-Normal",
+            "displayName": "Silvally",
             "nationalDexNumber": 773,
             "types": ["normal"],
             "tags": ["default", "fully-evolved", "legendary"],
@@ -23560,8 +23560,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["emmuffin", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["emmuffin", "Aaron's Aron"],
+                    "artistsAll": ["Emmuffin", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["Emmuffin", "Aaron's Aron"],
                     "artistsIcons": ["GameFreak", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
@@ -23735,7 +23735,7 @@
             "displayName": "Kommo-o",
             "nationalDexNumber": 784,
             "types": ["dragon", "fighting"],
-            "tags": ["default", "not-fully-evolved"],
+            "tags": ["default", "fully-evolved"],
             "thumb": {
                     "icon": "pokemon/kommo-o/default/icons/full-left.png"
                   },
@@ -24520,8 +24520,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["JaiFain", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["JaiFain", "Aaron's Aron"],
+                    "artistsAll": ["JFain", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["JFain", "Aaron's Aron"],
                     "artistsIcons": ["GameFreak", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
@@ -25200,8 +25200,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["JaiFain", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["JaiFain", "Aaron's Aron"],
+                    "artistsAll": ["JFain", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["JFain", "Aaron's Aron"],
                     "artistsIcons": ["GameFreak", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []

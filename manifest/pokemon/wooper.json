@@ -39,7 +39,7 @@
       "paldea": {
             "displayName": "Wooper-Paldea",
             "types": ["poison", "ground"],
-            "tags": ["paldea", "unevolved"],
+            "tags": ["paldea", "regional", "unevolved"],
             "stats": {
                     "hp": 220,
                     "attack": 95,

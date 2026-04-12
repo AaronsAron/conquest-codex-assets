@@ -5,7 +5,7 @@
       "alola": {
             "displayName": "Ninetales-Alola",
             "types": ["ice", "fairy"],
-            "tags": ["alola", "fully-evolved"],
+            "tags": ["alola", "regional", "fully-evolved"],
             "stats": {
                     "hp": 256,
                     "attack": 167,

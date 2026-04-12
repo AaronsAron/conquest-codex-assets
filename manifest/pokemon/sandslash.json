@@ -5,7 +5,7 @@
       "alola": {
             "displayName": "Sandslash-Alola",
             "types": ["ice", "steel"],
-            "tags": ["alola", "fully-evolved"],
+            "tags": ["alola", "regional", "fully-evolved"],
             "stats": {
                     "hp": 260,
                     "attack": 205,

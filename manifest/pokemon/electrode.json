@@ -5,7 +5,7 @@
       "hisui": {
             "displayName": "Electrode-Hisui",
             "types": ["electric"],
-            "tags": ["hisui", "fully-evolved"],
+            "tags": ["hisui", "regional", "fully-evolved"],
             "stats": {
                     "hp": 230,
                     "attack": 165,

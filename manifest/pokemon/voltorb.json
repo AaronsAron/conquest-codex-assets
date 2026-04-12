@@ -5,7 +5,7 @@
       "hisui": {
             "displayName": "Voltorb-Hisui",
             "types": ["electric", "grass"],
-            "tags": ["hisui", "unevolved"],
+            "tags": ["hisui", "regional", "unevolved"],
             "stats": {
                     "hp": 190,
                     "attack": 115,

@@ -5,7 +5,7 @@
       "hisui": {
             "displayName": "Growlithe-Hisui",
             "types": ["fire", "rock"],
-            "tags": ["hisui", "unevolved"],
+            "tags": ["hisui", "regional", "unevolved"],
             "stats": {
                     "hp": 230,
                     "attack": 155,

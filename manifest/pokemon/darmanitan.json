@@ -45,7 +45,7 @@
       "galar-zen": {
             "displayName": "Darmanitan-Galar-Zen",
             "types": ["ice", "fire"],
-            "tags": ["galar", "zen", "fully-evolved"],
+            "tags": ["galar", "regional", "zen", "fully-evolved"],
             "stats": {
                     "hp": 320,
                     "attack": 325,

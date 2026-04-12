@@ -5,7 +5,7 @@
       "hisui": {
             "displayName": "Sliggoo-Hisui",
             "types": ["dragon", "steel"],
-            "tags": ["hisui", "not-fully-evolved"],
+            "tags": ["hisui", "regional", "not-fully-evolved"],
             "stats": {
                     "hp": 226,
                     "attack": 171,

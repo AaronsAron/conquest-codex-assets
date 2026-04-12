@@ -5,7 +5,7 @@
       "default": {
             "displayName": "Kommo-o",
             "types": ["dragon", "fighting"],
-            "tags": ["default", "not-fully-evolved"],
+            "tags": ["default", "fully-evolved"],
             "stats": {
                     "hp": 260,
                     "attack": 225,

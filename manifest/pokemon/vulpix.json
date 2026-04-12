@@ -5,7 +5,7 @@
       "alola": {
             "displayName": "Vulpix-Alola",
             "types": ["ice"],
-            "tags": ["alola", "unevolved"],
+            "tags": ["alola", "regional", "unevolved"],
             "stats": {
                     "hp": 186,
                     "attack": 105,
