@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-12T19:01:55-04:00",
+  "generatedAt": "2026-04-12T19:31:58-04:00",
   "assetBase": "https://raw.githubusercontent.com/AaronsAron/conquest-codex-assets/main/",
   "rows": [
       {
@@ -558,10 +558,10 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["Koei  Tecmo"],
-                    "artistsAnimation": ["Koei  Tecmo"],
-                    "artistsIcons": ["Koei  Tecmo"],
-                    "artistsPortraits": ["Koei  Tecmo"],
+                    "artistsAll": ["Koei Tecmo"],
+                    "artistsAnimation": ["Koei Tecmo"],
+                    "artistsIcons": ["Koei Tecmo"],
+                    "artistsPortraits": ["Koei Tecmo"],
                     "artistsEmotions": []
                   },
             "detail": "manifest/pokemon/arbok.json#default"
@@ -8090,9 +8090,9 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["Chunsoft", "SpoopyAce", "Snap", "GameFreak", "Aaron's Aron"],
-                    "artistsAnimation": ["Chunsoft", "SpoopyAce", "Snap"],
-                    "artistsIcons": ["Chunsoft", "SpoopyAce", "Snap"],
+                    "artistsAll": ["Chunsoft", "Spoopy Ace", "Snap", "GameFreak", "Aaron's Aron"],
+                    "artistsAnimation": ["Chunsoft", "Spoopy Ace", "Snap"],
+                    "artistsIcons": ["Chunsoft", "Spoopy Ace", "Snap"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
                   },
@@ -21960,8 +21960,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["NeroIntruder", "Garbage", "RedMageCole", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["NeroIntruder", "Garbage", "RedMageCole", "Aaron's Aron"],
+                    "artistsAll": ["NeroIntruder", "G", "RedMageCole", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["NeroIntruder", "G", "RedMageCole", "Aaron's Aron"],
                     "artistsIcons": ["GameFreak", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
@@ -22640,8 +22640,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["top_kec", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["top_kec", "Aaron's Aron"],
+                    "artistsAll": ["Top_Kec", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["Top_Kec", "Aaron's Aron"],
                     "artistsIcons": ["GameFreak", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
@@ -22800,8 +22800,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["avalancheman", "time.gear", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["avalancheman", "time.gear", "Aaron's Aron"],
+                    "artistsAll": ["avalancheman", "G", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["avalancheman", "G", "Aaron's Aron"],
                     "artistsIcons": ["GameFreak", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
@@ -23840,8 +23840,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["top_kec", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["top_kec", "Aaron's Aron"],
+                    "artistsAll": ["Top_Kec", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["Top_Kec", "Aaron's Aron"],
                     "artistsIcons": ["GameFreak", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
@@ -23880,8 +23880,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["top_kec", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["top_kec", "Aaron's Aron"],
+                    "artistsAll": ["Top_Kec", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["Top_Kec", "Aaron's Aron"],
                     "artistsIcons": ["GameFreak", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
@@ -23960,8 +23960,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["top_kec", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["top_kec", "Aaron's Aron"],
+                    "artistsAll": ["Top_Kec", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["Top_Kec", "Aaron's Aron"],
                     "artistsIcons": ["GameFreak", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
@@ -24120,9 +24120,9 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["nataniel-sama", "Garbage", "Soulja", "RedMageCole", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["nataniel-sama", "Garbage", "Soulja", "RedMageCole", "Aaron's Aron"],
-                    "artistsIcons": ["nataniel-sama", "Garbage", "Soulja", "RedMageCole", "Aaron's Aron"],
+                    "artistsAll": ["nataniel-sama", "G", "Soulja", "RedMageCole", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["nataniel-sama", "G", "Soulja", "RedMageCole", "Aaron's Aron"],
+                    "artistsIcons": ["nataniel-sama", "G", "Soulja", "RedMageCole", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
                   },
@@ -25360,8 +25360,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["top_kec", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["top_kec", "Aaron's Aron"],
+                    "artistsAll": ["Top_Kec", "Aaron's Aron", "top_kec", "GameFreak"],
+                    "artistsAnimation": ["Top_Kec", "Aaron's Aron"],
                     "artistsIcons": ["top_kec", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
@@ -25920,9 +25920,9 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["time.gear", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["time.gear", "Aaron's Aron"],
-                    "artistsIcons": ["time.gear", "Aaron's Aron"],
+                    "artistsAll": ["G", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["G", "Aaron's Aron"],
+                    "artistsIcons": ["G", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
                   },
@@ -25960,8 +25960,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["top_kec", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["top_kec", "Aaron's Aron"],
+                    "artistsAll": ["Top_Kec", "Aaron's Aron", "GameFreak"],
+                    "artistsAnimation": ["Top_Kec", "Aaron's Aron"],
                     "artistsIcons": ["GameFreak", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []
@@ -26120,8 +26120,8 @@
                     "dateModifiedPortraitsMax": "2026-04-01"
                   },
             "searchKeys": {
-                    "artistsAll": ["top_kec", "Aaron's Aron", "GameFreak"],
-                    "artistsAnimation": ["top_kec", "Aaron's Aron"],
+                    "artistsAll": ["Top_Kec", "Aaron's Aron", "top_kec", "GameFreak"],
+                    "artistsAnimation": ["Top_Kec", "Aaron's Aron"],
                     "artistsIcons": ["top_kec", "Aaron's Aron"],
                     "artistsPortraits": ["GameFreak", "Aaron's Aron"],
                     "artistsEmotions": []

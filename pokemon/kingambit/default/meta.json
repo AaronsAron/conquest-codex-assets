@@ -32,7 +32,7 @@
 
   "credits": {
     "animation": [
-      { "name": "top_kec", "role": "draw" },
+      { "name": "Top_Kec", "role": "draw" },
       { "name": "Aaron's Aron", "role": "convert" }
     ],
     "icons": [

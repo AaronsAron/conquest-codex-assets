@@ -32,17 +32,17 @@
 
   "credits": {
     "animation": [
-      { "name": "Koei  Tecmo", "role": "draw" }
+      { "name": "Koei Tecmo", "role": "draw" }
     ],
     "icons": [
-      { "name": "Koei  Tecmo", "role": "draw" }
+      { "name": "Koei Tecmo", "role": "draw" }
     ],
     "portraits": {
       "profile": [
-        { "name": "Koei  Tecmo", "role": "draw" }
+        { "name": "Koei Tecmo", "role": "draw" }
       ],
       "intro": [
-        { "name": "Koei  Tecmo", "role": "draw" }
+        { "name": "Koei Tecmo", "role": "draw" }
       ]
     }
   },

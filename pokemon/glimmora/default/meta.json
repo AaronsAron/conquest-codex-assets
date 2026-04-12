@@ -32,11 +32,11 @@
 
   "credits": {
     "animation": [
-      { "name": "time.gear", "role": "draw" },
+      { "name": "G", "role": "draw" },
       { "name": "Aaron's Aron", "role": "convert" }
     ],
     "icons": [
-      { "name": "time.gear", "role": "draw" },
+      { "name": "G", "role": "draw" },
       { "name": "Aaron's Aron", "role": "convert" }
     ],
     "portraits": {

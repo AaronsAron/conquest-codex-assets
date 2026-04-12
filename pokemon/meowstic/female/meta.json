@@ -33,7 +33,7 @@
   "credits": {
     "animation": [
       { "name": "NeroIntruder", "role": "draw" },
-      { "name": "Garbage", "role": "draw" },
+      { "name": "G", "role": "draw" },
       { "name": "RedMageCole", "role": "convert" },
       { "name": "Aaron's Aron", "role": "edit" }
     ],

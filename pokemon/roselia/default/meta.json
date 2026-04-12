@@ -33,12 +33,12 @@
   "credits": {
     "animation": [
       { "name": "Chunsoft", "role": "draw" },
-      { "name": "SpoopyAce", "role": "convert" },
+      { "name": "Spoopy Ace", "role": "convert" },
       { "name": "Snap", "role": "Edit" }
     ],
     "icons": [
       { "name": "Chunsoft", "role": "draw" },
-      { "name": "SpoopyAce", "role": "convert" },
+      { "name": "Spoopy Ace", "role": "convert" },
       { "name": "Snap", "role": "Edit" }
     ],
     "portraits": {
