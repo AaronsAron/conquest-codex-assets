@@ -1,0 +1,39 @@
+{
+  "pokemonId": "arctibax",
+  "nationalDexNumber": 997,
+  "variants": {
+      "default": {
+            "displayName": "Arctibax",
+            "types": ["dragon", "ice"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 195,
+                    "defense": 136,
+                    "speed": 129,
+                    "bst": 750
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/arctibax/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/arctibax/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/arctibax/default/icons/full-left.png",
+                              "fullRight": "pokemon/arctibax/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/arctibax/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/arctibax/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/arctibax/default/portraits/profile.png",
+                              "intro": "pokemon/arctibax/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

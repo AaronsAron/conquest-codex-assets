@@ -1,0 +1,73 @@
+{
+  "pokemonId": "swadloon",
+  "nationalDexNumber": 541,
+  "variants": {
+      "default": {
+            "displayName": "Swadloon",
+            "types": ["bug", "grass"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 131,
+                    "defense": 175,
+                    "speed": 89,
+                    "bst": 615
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/swadloon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/swadloon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/swadloon/default/icons/full-left.png",
+                              "fullRight": "pokemon/swadloon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/swadloon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/swadloon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/swadloon/default/portraits/profile.png",
+                              "intro": "pokemon/swadloon/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Swadloon-Shiny",
+            "types": ["bug", "grass"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 131,
+                    "defense": 175,
+                    "speed": 89,
+                    "bst": 615
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/swadloon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/swadloon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/swadloon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/swadloon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/swadloon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/swadloon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/swadloon/shiny/portraits/profile.png",
+                              "intro": "pokemon/swadloon/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "mamoswine",
+  "nationalDexNumber": 473,
+  "variants": {
+      "default": {
+            "displayName": "Mamoswine",
+            "types": ["ice", "ground"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 330,
+                    "attack": 265,
+                    "defense": 145,
+                    "speed": 165,
+                    "bst": 905
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/mamoswine/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mamoswine/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mamoswine/default/icons/full-left.png",
+                              "fullRight": "pokemon/mamoswine/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/mamoswine/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mamoswine/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mamoswine/default/portraits/profile.png",
+                              "intro": "pokemon/mamoswine/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

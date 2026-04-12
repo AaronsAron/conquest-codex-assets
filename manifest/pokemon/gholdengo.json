@@ -1,0 +1,39 @@
+{
+  "pokemonId": "gholdengo",
+  "nationalDexNumber": 1000,
+  "variants": {
+      "default": {
+            "displayName": "Gholdengo",
+            "types": ["steel", "ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 284,
+                    "attack": 271,
+                    "defense": 191,
+                    "speed": 173,
+                    "bst": 919
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gholdengo/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gholdengo/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gholdengo/default/icons/full-left.png",
+                              "fullRight": "pokemon/gholdengo/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gholdengo/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gholdengo/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gholdengo/default/portraits/profile.png",
+                              "intro": "pokemon/gholdengo/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "audino",
+  "nationalDexNumber": 531,
+  "variants": {
+      "default": {
+            "displayName": "Audino",
+            "types": ["normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 316,
+                    "attack": 125,
+                    "defense": 177,
+                    "speed": 105,
+                    "bst": 723
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/audino/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/audino/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/audino/default/icons/full-left.png",
+                              "fullRight": "pokemon/audino/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/audino/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/audino/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/audino/default/portraits/profile.png",
+                              "intro": "pokemon/audino/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Audino-Shiny",
+            "types": ["normal"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 316,
+                    "attack": 125,
+                    "defense": 177,
+                    "speed": 105,
+                    "bst": 723
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/audino/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/audino/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/audino/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/audino/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/audino/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/audino/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/audino/shiny/portraits/profile.png",
+                              "intro": "pokemon/audino/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "exeggutor",
+  "nationalDexNumber": 103,
+  "variants": {
+      "kanto": {
+            "displayName": "Exeggutor",
+            "types": ["grass", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 255,
+                    "defense": 165,
+                    "speed": 115,
+                    "bst": 835
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/exeggutor/kanto/meta.json",
+                    "battle": {
+                              "animation": "pokemon/exeggutor/kanto/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/exeggutor/kanto/icons/full-left.png",
+                              "fullRight": "pokemon/exeggutor/kanto/icons/full-right.png",
+                              "croppedLeft": "pokemon/exeggutor/kanto/icons/cropped-left.png",
+                              "croppedRight": "pokemon/exeggutor/kanto/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/exeggutor/kanto/portraits/profile.png",
+                              "intro": "pokemon/exeggutor/kanto/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

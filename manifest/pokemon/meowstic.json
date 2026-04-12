@@ -1,0 +1,73 @@
+{
+  "pokemonId": "meowstic",
+  "nationalDexNumber": 678,
+  "variants": {
+      "default": {
+            "displayName": "Meowstic-Male",
+            "types": ["psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 258,
+                    "attack": 171,
+                    "defense": 162,
+                    "speed": 213,
+                    "bst": 804
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/meowstic/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/meowstic/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/meowstic/default/icons/full-left.png",
+                              "fullRight": "pokemon/meowstic/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/meowstic/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/meowstic/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/meowstic/default/portraits/profile.png",
+                              "intro": "pokemon/meowstic/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "female": {
+            "displayName": "Meowstic-Female",
+            "types": ["psychic"],
+            "tags": ["female", "fully-evolved"],
+            "stats": {
+                    "hp": 258,
+                    "attack": 171,
+                    "defense": 162,
+                    "speed": 213,
+                    "bst": 804
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/meowstic/female/meta.json",
+                    "battle": {
+                              "animation": "pokemon/meowstic/female/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/meowstic/female/icons/full-left.png",
+                              "fullRight": "pokemon/meowstic/female/icons/full-right.png",
+                              "croppedLeft": "pokemon/meowstic/female/icons/cropped-left.png",
+                              "croppedRight": "pokemon/meowstic/female/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/meowstic/female/portraits/profile.png",
+                              "intro": "pokemon/meowstic/female/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

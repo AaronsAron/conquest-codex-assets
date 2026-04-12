@@ -1,0 +1,39 @@
+{
+  "pokemonId": "rampardos",
+  "nationalDexNumber": 409,
+  "variants": {
+      "default": {
+            "displayName": "Rampardos",
+            "types": ["rock"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 304,
+                    "attack": 335,
+                    "defense": 115,
+                    "speed": 121,
+                    "bst": 875
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/rampardos/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rampardos/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rampardos/default/icons/full-left.png",
+                              "fullRight": "pokemon/rampardos/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/rampardos/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rampardos/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rampardos/default/portraits/profile.png",
+                              "intro": "pokemon/rampardos/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

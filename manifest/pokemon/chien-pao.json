@@ -1,0 +1,39 @@
+{
+  "pokemonId": "chien-pao",
+  "nationalDexNumber": 1002,
+  "variants": {
+      "default": {
+            "displayName": "Chien-Pao",
+            "types": ["dark", "ice"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 245,
+                    "defense": 150,
+                    "speed": 275,
+                    "bst": 940
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/chien-pao/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/chien-pao/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/chien-pao/default/icons/full-left.png",
+                              "fullRight": "pokemon/chien-pao/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/chien-pao/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/chien-pao/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/chien-pao/default/portraits/profile.png",
+                              "intro": "pokemon/chien-pao/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "pokemonId": "grovyle",
+  "nationalDexNumber": 253,
+  "variants": {
+      "default": {
+            "displayName": "Grovyle",
+            "types": ["grass"],
+            "tags": ["default", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 175,
+                    "defense": 115,
+                    "speed": 195,
+                    "bst": 695
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/grovyle/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/grovyle/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/grovyle/default/icons/full-left.png",
+                              "fullRight": "pokemon/grovyle/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/grovyle/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/grovyle/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/grovyle/default/portraits/profile.png",
+                              "intro": "pokemon/grovyle/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/grovyle/default/portraits/default.png",
+                                          "joyful": "pokemon/grovyle/default/portraits/joyful.png",
+                                          "sad": "pokemon/grovyle/default/portraits/sad.png",
+                                          "fierce": "pokemon/grovyle/default/portraits/fierce.png",
+                                          "shocked": "pokemon/grovyle/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Grovyle-Shiny",
+            "types": ["grass"],
+            "tags": ["shiny", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 175,
+                    "defense": 115,
+                    "speed": 195,
+                    "bst": 695
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/grovyle/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/grovyle/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/grovyle/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/grovyle/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/grovyle/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/grovyle/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/grovyle/shiny/portraits/profile.png",
+                              "intro": "pokemon/grovyle/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/grovyle/shiny/portraits/default.png",
+                                          "joyful": "pokemon/grovyle/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/grovyle/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/grovyle/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/grovyle/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

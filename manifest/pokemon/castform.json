@@ -1,0 +1,39 @@
+{
+  "pokemonId": "castform",
+  "nationalDexNumber": 351,
+  "variants": {
+      "snowy": {
+            "displayName": "Castform-Snowy",
+            "types": ["ice"],
+            "tags": ["snowy"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 145,
+                    "defense": 145,
+                    "speed": 145,
+                    "bst": 685
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/castform/snowy/meta.json",
+                    "battle": {
+                              "animation": "pokemon/castform/snowy/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/castform/snowy/icons/full-left.png",
+                              "fullRight": "pokemon/castform/snowy/icons/full-right.png",
+                              "croppedLeft": "pokemon/castform/snowy/icons/cropped-left.png",
+                              "croppedRight": "pokemon/castform/snowy/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/castform/snowy/portraits/profile.png",
+                              "intro": "pokemon/castform/snowy/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

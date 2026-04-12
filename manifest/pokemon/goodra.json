@@ -1,0 +1,39 @@
+{
+  "pokemonId": "goodra",
+  "nationalDexNumber": 706,
+  "variants": {
+      "hisui": {
+            "displayName": "Goodra-Hisui",
+            "types": ["dragon", "steel"],
+            "tags": ["hisui", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 225,
+                    "defense": 255,
+                    "speed": 125,
+                    "bst": 875
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/goodra/hisui/meta.json",
+                    "battle": {
+                              "animation": "pokemon/goodra/hisui/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/goodra/hisui/icons/full-left.png",
+                              "fullRight": "pokemon/goodra/hisui/icons/full-right.png",
+                              "croppedLeft": "pokemon/goodra/hisui/icons/cropped-left.png",
+                              "croppedRight": "pokemon/goodra/hisui/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/goodra/hisui/portraits/profile.png",
+                              "intro": "pokemon/goodra/hisui/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

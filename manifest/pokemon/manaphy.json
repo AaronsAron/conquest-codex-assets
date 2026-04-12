@@ -1,0 +1,39 @@
+{
+  "pokemonId": "manaphy",
+  "nationalDexNumber": 490,
+  "variants": {
+      "default": {
+            "displayName": "Manaphy",
+            "types": ["water"],
+            "tags": ["default", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 205,
+                    "defense": 205,
+                    "speed": 205,
+                    "bst": 925
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/manaphy/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/manaphy/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/manaphy/default/icons/full-left.png",
+                              "fullRight": "pokemon/manaphy/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/manaphy/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/manaphy/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/manaphy/default/portraits/profile.png",
+                              "intro": "pokemon/manaphy/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

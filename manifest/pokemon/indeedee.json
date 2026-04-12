@@ -1,0 +1,39 @@
+{
+  "pokemonId": "indeedee",
+  "nationalDexNumber": 876,
+  "variants": {
+      "default": {
+            "displayName": "Indeedee-Male",
+            "types": ["psychic", "normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 215,
+                    "defense": 155,
+                    "speed": 195,
+                    "bst": 795
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/indeedee/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/indeedee/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/indeedee/default/icons/full-left.png",
+                              "fullRight": "pokemon/indeedee/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/indeedee/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/indeedee/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/indeedee/default/portraits/profile.png",
+                              "intro": "pokemon/indeedee/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

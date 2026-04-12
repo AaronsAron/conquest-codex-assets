@@ -1,0 +1,39 @@
+{
+  "pokemonId": "cyclizar",
+  "nationalDexNumber": 967,
+  "variants": {
+      "default": {
+            "displayName": "Cyclizar",
+            "types": ["dragon", "normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 195,
+                    "defense": 135,
+                    "speed": 247,
+                    "bst": 827
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/cyclizar/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/cyclizar/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/cyclizar/default/icons/full-left.png",
+                              "fullRight": "pokemon/cyclizar/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/cyclizar/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/cyclizar/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/cyclizar/default/portraits/profile.png",
+                              "intro": "pokemon/cyclizar/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

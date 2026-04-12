@@ -1,0 +1,39 @@
+{
+  "pokemonId": "herdier",
+  "nationalDexNumber": 507,
+  "variants": {
+      "default": {
+            "displayName": "Herdier",
+            "types": ["normal"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 165,
+                    "defense": 135,
+                    "speed": 125,
+                    "bst": 665
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/herdier/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/herdier/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/herdier/default/icons/full-left.png",
+                              "fullRight": "pokemon/herdier/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/herdier/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/herdier/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/herdier/default/portraits/profile.png",
+                              "intro": "pokemon/herdier/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,107 @@
+{
+  "pokemonId": "wooper",
+  "nationalDexNumber": 194,
+  "variants": {
+      "default": {
+            "displayName": "Wooper",
+            "types": ["water", "ground"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 95,
+                    "defense": 75,
+                    "speed": 35,
+                    "bst": 425
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/wooper/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/wooper/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/wooper/default/icons/full-left.png",
+                              "fullRight": "pokemon/wooper/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/wooper/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/wooper/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/wooper/default/portraits/profile.png",
+                              "intro": "pokemon/wooper/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "paldea": {
+            "displayName": "Wooper-Paldea",
+            "types": ["poison", "ground"],
+            "tags": ["paldea", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 95,
+                    "defense": 75,
+                    "speed": 35,
+                    "bst": 425
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/wooper/paldea/meta.json",
+                    "battle": {
+                              "animation": "pokemon/wooper/paldea/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/wooper/paldea/icons/full-left.png",
+                              "fullRight": "pokemon/wooper/paldea/icons/full-right.png",
+                              "croppedLeft": "pokemon/wooper/paldea/icons/cropped-left.png",
+                              "croppedRight": "pokemon/wooper/paldea/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/wooper/paldea/portraits/profile.png",
+                              "intro": "pokemon/wooper/paldea/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Wooper-Shiny",
+            "types": ["water", "ground"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 95,
+                    "defense": 75,
+                    "speed": 35,
+                    "bst": 425
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/wooper/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/wooper/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/wooper/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/wooper/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/wooper/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/wooper/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/wooper/shiny/portraits/profile.png",
+                              "intro": "pokemon/wooper/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

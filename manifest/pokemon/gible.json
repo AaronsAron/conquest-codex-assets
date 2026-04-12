@@ -1,0 +1,73 @@
+{
+  "pokemonId": "gible",
+  "nationalDexNumber": 443,
+  "variants": {
+      "default": {
+            "displayName": "Gible",
+            "types": ["dragon", "ground"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 226,
+                    "attack": 145,
+                    "defense": 95,
+                    "speed": 89,
+                    "bst": 555
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gible/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gible/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gible/default/icons/full-left.png",
+                              "fullRight": "pokemon/gible/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gible/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gible/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gible/default/portraits/profile.png",
+                              "intro": "pokemon/gible/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Gible-Shiny",
+            "types": ["dragon", "ground"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 226,
+                    "attack": 145,
+                    "defense": 95,
+                    "speed": 89,
+                    "bst": 555
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gible/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gible/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gible/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/gible/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/gible/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gible/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gible/shiny/portraits/profile.png",
+                              "intro": "pokemon/gible/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

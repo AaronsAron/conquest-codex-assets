@@ -1,0 +1,39 @@
+{
+  "pokemonId": "mudsdale",
+  "nationalDexNumber": 750,
+  "variants": {
+      "default": {
+            "displayName": "Mudsdale",
+            "types": ["ground"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 255,
+                    "defense": 190,
+                    "speed": 75,
+                    "bst": 830
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/mudsdale/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mudsdale/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mudsdale/default/icons/full-left.png",
+                              "fullRight": "pokemon/mudsdale/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/mudsdale/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mudsdale/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mudsdale/default/portraits/profile.png",
+                              "intro": "pokemon/mudsdale/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

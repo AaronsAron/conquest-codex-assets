@@ -1,0 +1,39 @@
+{
+  "pokemonId": "ceruledge",
+  "nationalDexNumber": 937,
+  "variants": {
+      "default": {
+            "displayName": "Ceruledge",
+            "types": ["fire", "ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 255,
+                    "defense": 185,
+                    "speed": 175,
+                    "bst": 875
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ceruledge/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ceruledge/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ceruledge/default/icons/full-left.png",
+                              "fullRight": "pokemon/ceruledge/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/ceruledge/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ceruledge/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ceruledge/default/portraits/profile.png",
+                              "intro": "pokemon/ceruledge/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

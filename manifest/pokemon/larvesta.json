@@ -1,0 +1,83 @@
+{
+  "pokemonId": "larvesta",
+  "nationalDexNumber": 636,
+  "variants": {
+      "default": {
+            "displayName": "Larvesta",
+            "types": ["bug", "fire"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 175,
+                    "defense": 115,
+                    "speed": 125,
+                    "bst": 635
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce"],
+            "paths": {
+                    "meta": "pokemon/larvesta/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/larvesta/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/larvesta/default/icons/full-left.png",
+                              "fullRight": "pokemon/larvesta/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/larvesta/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/larvesta/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/larvesta/default/portraits/profile.png",
+                              "intro": "pokemon/larvesta/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/larvesta/default/portraits/default.png",
+                                          "joyful": "pokemon/larvesta/default/portraits/joyful.png",
+                                          "sad": "pokemon/larvesta/default/portraits/sad.png",
+                                          "fierce": "pokemon/larvesta/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Larvesta-Shiny",
+            "types": ["bug", "fire"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 175,
+                    "defense": 115,
+                    "speed": 125,
+                    "bst": 635
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce"],
+            "paths": {
+                    "meta": "pokemon/larvesta/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/larvesta/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/larvesta/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/larvesta/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/larvesta/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/larvesta/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/larvesta/shiny/portraits/profile.png",
+                              "intro": "pokemon/larvesta/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/larvesta/shiny/portraits/default.png",
+                                          "joyful": "pokemon/larvesta/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/larvesta/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/larvesta/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

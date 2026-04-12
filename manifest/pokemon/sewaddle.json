@@ -1,0 +1,73 @@
+{
+  "pokemonId": "sewaddle",
+  "nationalDexNumber": 540,
+  "variants": {
+      "default": {
+            "displayName": "Sewaddle",
+            "types": ["bug", "grass"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 111,
+                    "defense": 135,
+                    "speed": 89,
+                    "bst": 535
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sewaddle/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sewaddle/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sewaddle/default/icons/full-left.png",
+                              "fullRight": "pokemon/sewaddle/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sewaddle/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sewaddle/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sewaddle/default/portraits/profile.png",
+                              "intro": "pokemon/sewaddle/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Sewaddle-Shiny",
+            "types": ["bug", "grass"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 111,
+                    "defense": 135,
+                    "speed": 89,
+                    "bst": 535
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sewaddle/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sewaddle/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sewaddle/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/sewaddle/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/sewaddle/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sewaddle/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sewaddle/shiny/portraits/profile.png",
+                              "intro": "pokemon/sewaddle/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

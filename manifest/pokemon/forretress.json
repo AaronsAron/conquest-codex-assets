@@ -1,0 +1,83 @@
+{
+  "pokemonId": "forretress",
+  "nationalDexNumber": 205,
+  "variants": {
+      "default": {
+            "displayName": "Forretress",
+            "types": ["bug", "steel"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 185,
+                    "defense": 205,
+                    "speed": 85,
+                    "bst": 735
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/forretress/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/forretress/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/forretress/default/icons/full-left.png",
+                              "fullRight": "pokemon/forretress/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/forretress/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/forretress/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/forretress/default/portraits/profile.png",
+                              "intro": "pokemon/forretress/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/forretress/default/portraits/default.png",
+                                          "sad": "pokemon/forretress/default/portraits/sad.png",
+                                          "fierce": "pokemon/forretress/default/portraits/fierce.png",
+                                          "shocked": "pokemon/forretress/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Forretress-Shiny",
+            "types": ["bug", "steel"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 185,
+                    "defense": 205,
+                    "speed": 85,
+                    "bst": 735
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/forretress/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/forretress/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/forretress/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/forretress/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/forretress/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/forretress/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/forretress/shiny/portraits/profile.png",
+                              "intro": "pokemon/forretress/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/forretress/shiny/portraits/default.png",
+                                          "sad": "pokemon/forretress/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/forretress/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/forretress/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

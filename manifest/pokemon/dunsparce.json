@@ -1,0 +1,39 @@
+{
+  "pokemonId": "dunsparce",
+  "nationalDexNumber": 206,
+  "variants": {
+      "default": {
+            "displayName": "Dunsparce",
+            "types": ["normal"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 145,
+                    "defense": 140,
+                    "speed": 95,
+                    "bst": 690
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dunsparce/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dunsparce/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dunsparce/default/icons/full-left.png",
+                              "fullRight": "pokemon/dunsparce/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dunsparce/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dunsparce/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dunsparce/default/portraits/profile.png",
+                              "intro": "pokemon/dunsparce/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "zweilous",
+  "nationalDexNumber": 634,
+  "variants": {
+      "default": {
+            "displayName": "Zweilous",
+            "types": ["dark", "dragon"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 254,
+                    "attack": 175,
+                    "defense": 145,
+                    "speed": 121,
+                    "bst": 695
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/zweilous/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zweilous/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zweilous/default/icons/full-left.png",
+                              "fullRight": "pokemon/zweilous/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/zweilous/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zweilous/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zweilous/default/portraits/profile.png",
+                              "intro": "pokemon/zweilous/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Zweilous-Shiny",
+            "types": ["dark", "dragon"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 254,
+                    "attack": 175,
+                    "defense": 145,
+                    "speed": 121,
+                    "bst": 695
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/zweilous/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zweilous/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zweilous/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/zweilous/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/zweilous/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zweilous/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zweilous/shiny/portraits/profile.png",
+                              "intro": "pokemon/zweilous/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

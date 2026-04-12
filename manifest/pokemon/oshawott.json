@@ -1,0 +1,73 @@
+{
+  "pokemonId": "oshawott",
+  "nationalDexNumber": 501,
+  "variants": {
+      "default": {
+            "displayName": "Oshawott",
+            "types": ["water"],
+            "tags": ["default", "unevolved", "starter"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 131,
+                    "defense": 95,
+                    "speed": 95,
+                    "bst": 541
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/oshawott/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/oshawott/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/oshawott/default/icons/full-left.png",
+                              "fullRight": "pokemon/oshawott/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/oshawott/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/oshawott/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/oshawott/default/portraits/profile.png",
+                              "intro": "pokemon/oshawott/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Oshawott-Shiny",
+            "types": ["water"],
+            "tags": ["shiny", "unevolved", "starter"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 131,
+                    "defense": 95,
+                    "speed": 95,
+                    "bst": 541
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/oshawott/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/oshawott/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/oshawott/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/oshawott/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/oshawott/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/oshawott/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/oshawott/shiny/portraits/profile.png",
+                              "intro": "pokemon/oshawott/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

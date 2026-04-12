@@ -1,0 +1,39 @@
+{
+  "pokemonId": "cursola",
+  "nationalDexNumber": 864,
+  "variants": {
+      "default": {
+            "displayName": "Cursola",
+            "types": ["ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 295,
+                    "defense": 185,
+                    "speed": 65,
+                    "bst": 775
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/cursola/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/cursola/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/cursola/default/icons/full-left.png",
+                              "fullRight": "pokemon/cursola/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/cursola/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/cursola/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/cursola/default/portraits/profile.png",
+                              "intro": "pokemon/cursola/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

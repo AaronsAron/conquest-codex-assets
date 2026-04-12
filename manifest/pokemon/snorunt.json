@@ -1,0 +1,79 @@
+{
+  "pokemonId": "snorunt",
+  "nationalDexNumber": 361,
+  "variants": {
+      "default": {
+            "displayName": "Snorunt",
+            "types": ["ice"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 105,
+                    "defense": 105,
+                    "speed": 105,
+                    "bst": 525
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/snorunt/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/snorunt/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/snorunt/default/icons/full-left.png",
+                              "fullRight": "pokemon/snorunt/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/snorunt/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/snorunt/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/snorunt/default/portraits/profile.png",
+                              "intro": "pokemon/snorunt/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/snorunt/default/portraits/default.png",
+                                          "fierce": "pokemon/snorunt/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Snorunt-Shiny",
+            "types": ["ice"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 105,
+                    "defense": 105,
+                    "speed": 105,
+                    "bst": 525
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/snorunt/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/snorunt/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/snorunt/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/snorunt/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/snorunt/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/snorunt/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/snorunt/shiny/portraits/profile.png",
+                              "intro": "pokemon/snorunt/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/snorunt/shiny/portraits/default.png",
+                                          "fierce": "pokemon/snorunt/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "dewpider",
+  "nationalDexNumber": 751,
+  "variants": {
+      "default": {
+            "displayName": "Dewpider",
+            "types": ["water", "bug"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 186,
+                    "attack": 85,
+                    "defense": 129,
+                    "speed": 59,
+                    "bst": 459
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dewpider/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dewpider/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dewpider/default/icons/full-left.png",
+                              "fullRight": "pokemon/dewpider/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dewpider/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dewpider/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dewpider/default/portraits/profile.png",
+                              "intro": "pokemon/dewpider/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

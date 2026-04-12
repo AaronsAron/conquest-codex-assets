@@ -1,0 +1,39 @@
+{
+  "pokemonId": "quilava",
+  "nationalDexNumber": 156,
+  "variants": {
+      "default": {
+            "displayName": "Quilava",
+            "types": ["fire"],
+            "tags": ["default", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 226,
+                    "attack": 165,
+                    "defense": 128,
+                    "speed": 165,
+                    "bst": 684
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/quilava/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/quilava/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/quilava/default/icons/full-left.png",
+                              "fullRight": "pokemon/quilava/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/quilava/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/quilava/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/quilava/default/portraits/profile.png",
+                              "intro": "pokemon/quilava/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

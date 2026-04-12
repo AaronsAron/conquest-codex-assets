@@ -1,0 +1,73 @@
+{
+  "pokemonId": "treecko",
+  "nationalDexNumber": 252,
+  "variants": {
+      "default": {
+            "displayName": "Treecko",
+            "types": ["grass"],
+            "tags": ["default", "unevolved", "starter"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 135,
+                    "defense": 95,
+                    "speed": 145,
+                    "bst": 565
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/treecko/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/treecko/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/treecko/default/icons/full-left.png",
+                              "fullRight": "pokemon/treecko/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/treecko/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/treecko/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/treecko/default/portraits/profile.png",
+                              "intro": "pokemon/treecko/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Treecko-Shiny",
+            "types": ["grass"],
+            "tags": ["shiny", "unevolved", "starter"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 135,
+                    "defense": 95,
+                    "speed": 145,
+                    "bst": 565
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/treecko/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/treecko/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/treecko/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/treecko/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/treecko/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/treecko/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/treecko/shiny/portraits/profile.png",
+                              "intro": "pokemon/treecko/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "annihilape",
+  "nationalDexNumber": 979,
+  "variants": {
+      "default": {
+            "displayName": "Annihilape",
+            "types": ["fighting", "ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 330,
+                    "attack": 235,
+                    "defense": 175,
+                    "speed": 185,
+                    "bst": 925
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/annihilape/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/annihilape/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/annihilape/default/icons/full-left.png",
+                              "fullRight": "pokemon/annihilape/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/annihilape/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/annihilape/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/annihilape/default/portraits/profile.png",
+                              "intro": "pokemon/annihilape/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

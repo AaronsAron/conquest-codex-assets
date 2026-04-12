@@ -1,0 +1,73 @@
+{
+  "pokemonId": "larvitar",
+  "nationalDexNumber": 246,
+  "variants": {
+      "default": {
+            "displayName": "Larvitar",
+            "types": ["rock", "ground"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 133,
+                    "defense": 105,
+                    "speed": 87,
+                    "bst": 535
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/larvitar/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/larvitar/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/larvitar/default/icons/full-left.png",
+                              "fullRight": "pokemon/larvitar/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/larvitar/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/larvitar/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/larvitar/default/portraits/profile.png",
+                              "intro": "pokemon/larvitar/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Larvitar-Shiny",
+            "types": ["rock", "ground"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 133,
+                    "defense": 105,
+                    "speed": 87,
+                    "bst": 535
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/larvitar/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/larvitar/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/larvitar/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/larvitar/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/larvitar/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/larvitar/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/larvitar/shiny/portraits/profile.png",
+                              "intro": "pokemon/larvitar/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "bidoof",
+  "nationalDexNumber": 399,
+  "variants": {
+      "default": {
+            "displayName": "Bidoof",
+            "types": ["normal"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 228,
+                    "attack": 95,
+                    "defense": 85,
+                    "speed": 67,
+                    "bst": 475
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/bidoof/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bidoof/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bidoof/default/icons/full-left.png",
+                              "fullRight": "pokemon/bidoof/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/bidoof/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bidoof/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bidoof/default/portraits/profile.png",
+                              "intro": "pokemon/bidoof/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Bidoof-Shiny",
+            "types": ["normal"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 228,
+                    "attack": 95,
+                    "defense": 85,
+                    "speed": 67,
+                    "bst": 475
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/bidoof/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bidoof/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bidoof/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/bidoof/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/bidoof/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bidoof/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bidoof/shiny/portraits/profile.png",
+                              "intro": "pokemon/bidoof/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

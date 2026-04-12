@@ -1,0 +1,79 @@
+{
+  "pokemonId": "mewtwo",
+  "nationalDexNumber": 150,
+  "variants": {
+      "default": {
+            "displayName": "Mewtwo",
+            "types": ["psychic"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 322,
+                    "attack": 313,
+                    "defense": 185,
+                    "speed": 265,
+                    "bst": 1085
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/mewtwo/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mewtwo/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mewtwo/default/icons/full-left.png",
+                              "fullRight": "pokemon/mewtwo/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/mewtwo/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mewtwo/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mewtwo/default/portraits/profile.png",
+                              "intro": "pokemon/mewtwo/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/mewtwo/default/portraits/default.png",
+                                          "fierce": "pokemon/mewtwo/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Mewtwo-Shiny",
+            "types": ["psychic"],
+            "tags": ["shiny", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 322,
+                    "attack": 313,
+                    "defense": 185,
+                    "speed": 265,
+                    "bst": 1085
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/mewtwo/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mewtwo/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mewtwo/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/mewtwo/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/mewtwo/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mewtwo/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mewtwo/shiny/portraits/profile.png",
+                              "intro": "pokemon/mewtwo/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/mewtwo/shiny/portraits/default.png",
+                                          "fierce": "pokemon/mewtwo/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

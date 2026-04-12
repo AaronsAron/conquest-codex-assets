@@ -1,0 +1,39 @@
+{
+  "pokemonId": "frosmoth",
+  "nationalDexNumber": 873,
+  "variants": {
+      "default": {
+            "displayName": "Frosmoth",
+            "types": ["ice", "bug"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 255,
+                    "defense": 155,
+                    "speed": 135,
+                    "bst": 795
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/frosmoth/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/frosmoth/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/frosmoth/default/icons/full-left.png",
+                              "fullRight": "pokemon/frosmoth/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/frosmoth/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/frosmoth/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/frosmoth/default/portraits/profile.png",
+                              "intro": "pokemon/frosmoth/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

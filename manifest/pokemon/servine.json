@@ -1,0 +1,83 @@
+{
+  "pokemonId": "servine",
+  "nationalDexNumber": 496,
+  "variants": {
+      "default": {
+            "displayName": "Servine",
+            "types": ["grass"],
+            "tags": ["default", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 125,
+                    "defense": 155,
+                    "speed": 171,
+                    "bst": 681
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "shocked"],
+            "paths": {
+                    "meta": "pokemon/servine/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/servine/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/servine/default/icons/full-left.png",
+                              "fullRight": "pokemon/servine/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/servine/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/servine/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/servine/default/portraits/profile.png",
+                              "intro": "pokemon/servine/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/servine/default/portraits/default.png",
+                                          "joyful": "pokemon/servine/default/portraits/joyful.png",
+                                          "sad": "pokemon/servine/default/portraits/sad.png",
+                                          "shocked": "pokemon/servine/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Servine-Shiny",
+            "types": ["grass"],
+            "tags": ["shiny", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 125,
+                    "defense": 155,
+                    "speed": 171,
+                    "bst": 681
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "shocked"],
+            "paths": {
+                    "meta": "pokemon/servine/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/servine/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/servine/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/servine/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/servine/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/servine/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/servine/shiny/portraits/profile.png",
+                              "intro": "pokemon/servine/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/servine/shiny/portraits/default.png",
+                                          "joyful": "pokemon/servine/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/servine/shiny/portraits/sad.png",
+                                          "shocked": "pokemon/servine/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

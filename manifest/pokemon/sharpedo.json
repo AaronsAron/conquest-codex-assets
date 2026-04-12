@@ -1,0 +1,73 @@
+{
+  "pokemonId": "sharpedo",
+  "nationalDexNumber": 319,
+  "variants": {
+      "default": {
+            "displayName": "Sharpedo",
+            "types": ["water", "dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 245,
+                    "defense": 85,
+                    "speed": 195,
+                    "bst": 775
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sharpedo/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sharpedo/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sharpedo/default/icons/full-left.png",
+                              "fullRight": "pokemon/sharpedo/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sharpedo/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sharpedo/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sharpedo/default/portraits/profile.png",
+                              "intro": "pokemon/sharpedo/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "mega": {
+            "displayName": "Sharpedo-Mega",
+            "types": ["water", "dark"],
+            "tags": ["mega"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 285,
+                    "defense": 140,
+                    "speed": 215,
+                    "bst": 890
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sharpedo/mega/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sharpedo/mega/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sharpedo/mega/icons/full-left.png",
+                              "fullRight": "pokemon/sharpedo/mega/icons/full-right.png",
+                              "croppedLeft": "pokemon/sharpedo/mega/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sharpedo/mega/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sharpedo/mega/portraits/profile.png",
+                              "intro": "pokemon/sharpedo/mega/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

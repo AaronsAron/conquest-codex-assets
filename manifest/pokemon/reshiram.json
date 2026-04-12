@@ -1,0 +1,85 @@
+{
+  "pokemonId": "reshiram",
+  "nationalDexNumber": 643,
+  "variants": {
+      "default": {
+            "displayName": "Reshiram",
+            "types": ["dragon", "fire"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 305,
+                    "defense": 225,
+                    "speed": 185,
+                    "bst": 1025
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/reshiram/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/reshiram/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/reshiram/default/icons/full-left.png",
+                              "fullRight": "pokemon/reshiram/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/reshiram/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/reshiram/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/reshiram/default/portraits/profile.png",
+                              "intro": "pokemon/reshiram/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/reshiram/default/portraits/default.png",
+                                          "joyful": "pokemon/reshiram/default/portraits/joyful.png",
+                                          "sad": "pokemon/reshiram/default/portraits/sad.png",
+                                          "fierce": "pokemon/reshiram/default/portraits/fierce.png",
+                                          "shocked": "pokemon/reshiram/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Reshiram-Shiny",
+            "types": ["dragon", "fire"],
+            "tags": ["shiny", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 305,
+                    "defense": 225,
+                    "speed": 185,
+                    "bst": 1025
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/reshiram/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/reshiram/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/reshiram/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/reshiram/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/reshiram/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/reshiram/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/reshiram/shiny/portraits/profile.png",
+                              "intro": "pokemon/reshiram/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/reshiram/shiny/portraits/default.png",
+                                          "joyful": "pokemon/reshiram/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/reshiram/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/reshiram/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/reshiram/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

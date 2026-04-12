@@ -1,0 +1,39 @@
+{
+  "pokemonId": "meloetta",
+  "nationalDexNumber": 648,
+  "variants": {
+      "default": {
+            "displayName": "Meloetta",
+            "types": ["normal", "psychic"],
+            "tags": ["default", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 261,
+                    "defense": 210,
+                    "speed": 185,
+                    "bst": 966
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "float",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/meloetta/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/meloetta/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/meloetta/default/icons/full-left.png",
+                              "fullRight": "pokemon/meloetta/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/meloetta/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/meloetta/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/meloetta/default/portraits/profile.png",
+                              "intro": "pokemon/meloetta/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

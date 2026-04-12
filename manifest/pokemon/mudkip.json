@@ -1,0 +1,39 @@
+{
+  "pokemonId": "mudkip",
+  "nationalDexNumber": 258,
+  "variants": {
+      "default": {
+            "displayName": "Mudkip",
+            "types": ["water"],
+            "tags": ["default", "unevolved", "starter"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 145,
+                    "defense": 105,
+                    "speed": 85,
+                    "bst": 545
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/mudkip/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mudkip/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mudkip/default/icons/full-left.png",
+                              "fullRight": "pokemon/mudkip/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/mudkip/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mudkip/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mudkip/default/portraits/profile.png",
+                              "intro": "pokemon/mudkip/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

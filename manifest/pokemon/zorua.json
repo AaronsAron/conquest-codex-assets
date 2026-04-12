@@ -1,0 +1,79 @@
+{
+  "pokemonId": "zorua",
+  "nationalDexNumber": 570,
+  "variants": {
+      "default": {
+            "displayName": "Zorua",
+            "types": ["dark"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 165,
+                    "defense": 85,
+                    "speed": 135,
+                    "bst": 575
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful"],
+            "paths": {
+                    "meta": "pokemon/zorua/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zorua/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zorua/default/icons/full-left.png",
+                              "fullRight": "pokemon/zorua/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/zorua/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zorua/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zorua/default/portraits/profile.png",
+                              "intro": "pokemon/zorua/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/zorua/default/portraits/default.png",
+                                          "joyful": "pokemon/zorua/default/portraits/joyful.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Zorua-Shiny",
+            "types": ["dark"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 165,
+                    "defense": 85,
+                    "speed": 135,
+                    "bst": 575
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful"],
+            "paths": {
+                    "meta": "pokemon/zorua/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zorua/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zorua/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/zorua/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/zorua/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zorua/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zorua/shiny/portraits/profile.png",
+                              "intro": "pokemon/zorua/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/zorua/shiny/portraits/default.png",
+                                          "joyful": "pokemon/zorua/shiny/portraits/joyful.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

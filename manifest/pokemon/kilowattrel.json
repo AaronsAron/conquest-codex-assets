@@ -1,0 +1,39 @@
+{
+  "pokemonId": "kilowattrel",
+  "nationalDexNumber": 941,
+  "variants": {
+      "default": {
+            "displayName": "Kilowattrel",
+            "types": ["electric", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 215,
+                    "defense": 125,
+                    "speed": 255,
+                    "bst": 845
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/kilowattrel/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kilowattrel/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kilowattrel/default/icons/full-left.png",
+                              "fullRight": "pokemon/kilowattrel/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/kilowattrel/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kilowattrel/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kilowattrel/default/portraits/profile.png",
+                              "intro": "pokemon/kilowattrel/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

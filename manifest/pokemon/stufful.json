@@ -1,0 +1,39 @@
+{
+  "pokemonId": "stufful",
+  "nationalDexNumber": 759,
+  "variants": {
+      "default": {
+            "displayName": "Stufful",
+            "types": ["normal", "fighting"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 155,
+                    "defense": 105,
+                    "speed": 105,
+                    "bst": 615
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/stufful/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/stufful/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/stufful/default/icons/full-left.png",
+                              "fullRight": "pokemon/stufful/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/stufful/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/stufful/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/stufful/default/portraits/profile.png",
+                              "intro": "pokemon/stufful/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,81 @@
+{
+  "pokemonId": "luxio",
+  "nationalDexNumber": 404,
+  "variants": {
+      "default": {
+            "displayName": "Luxio",
+            "types": ["electric"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 175,
+                    "defense": 103,
+                    "speed": 125,
+                    "bst": 633
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/luxio/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/luxio/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/luxio/default/icons/full-left.png",
+                              "fullRight": "pokemon/luxio/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/luxio/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/luxio/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/luxio/default/portraits/profile.png",
+                              "intro": "pokemon/luxio/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/luxio/default/portraits/default.png",
+                                          "fierce": "pokemon/luxio/default/portraits/fierce.png",
+                                          "shocked": "pokemon/luxio/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Luxio-Shiny",
+            "types": ["electric"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 175,
+                    "defense": 103,
+                    "speed": 125,
+                    "bst": 633
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/luxio/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/luxio/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/luxio/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/luxio/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/luxio/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/luxio/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/luxio/shiny/portraits/profile.png",
+                              "intro": "pokemon/luxio/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/luxio/shiny/portraits/default.png",
+                                          "fierce": "pokemon/luxio/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/luxio/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

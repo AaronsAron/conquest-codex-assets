@@ -1,0 +1,39 @@
+{
+  "pokemonId": "incineroar",
+  "nationalDexNumber": 727,
+  "variants": {
+      "default": {
+            "displayName": "Incineroar",
+            "types": ["fire", "dark"],
+            "tags": ["default", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 235,
+                    "defense": 185,
+                    "speed": 125,
+                    "bst": 845
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/incineroar/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/incineroar/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/incineroar/default/icons/full-left.png",
+                              "fullRight": "pokemon/incineroar/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/incineroar/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/incineroar/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/incineroar/default/portraits/profile.png",
+                              "intro": "pokemon/incineroar/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

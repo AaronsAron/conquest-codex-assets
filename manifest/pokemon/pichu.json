@@ -1,0 +1,73 @@
+{
+  "pokemonId": "pichu",
+  "nationalDexNumber": 172,
+  "variants": {
+      "default": {
+            "displayName": "Pichu",
+            "types": ["electric"],
+            "tags": ["default", "unevolved", "baby"],
+            "stats": {
+                    "hp": 150,
+                    "attack": 85,
+                    "defense": 55,
+                    "speed": 125,
+                    "bst": 415
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pichu/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pichu/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pichu/default/icons/full-left.png",
+                              "fullRight": "pokemon/pichu/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/pichu/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pichu/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pichu/default/portraits/profile.png",
+                              "intro": "pokemon/pichu/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Pichu-Shiny",
+            "types": ["electric"],
+            "tags": ["shiny", "unevolved", "baby"],
+            "stats": {
+                    "hp": 150,
+                    "attack": 85,
+                    "defense": 55,
+                    "speed": 125,
+                    "bst": 415
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pichu/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pichu/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pichu/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/pichu/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/pichu/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pichu/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pichu/shiny/portraits/profile.png",
+                              "intro": "pokemon/pichu/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

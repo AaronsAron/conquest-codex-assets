@@ -1,0 +1,39 @@
+{
+  "pokemonId": "tentacruel",
+  "nationalDexNumber": 73,
+  "variants": {
+      "default": {
+            "displayName": "Tentacruel",
+            "types": ["water", "poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 165,
+                    "defense": 190,
+                    "speed": 205,
+                    "bst": 830
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/tentacruel/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/tentacruel/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/tentacruel/default/icons/full-left.png",
+                              "fullRight": "pokemon/tentacruel/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/tentacruel/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/tentacruel/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/tentacruel/default/portraits/profile.png",
+                              "intro": "pokemon/tentacruel/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

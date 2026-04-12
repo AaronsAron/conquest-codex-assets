@@ -1,0 +1,39 @@
+{
+  "pokemonId": "pawmot",
+  "nationalDexNumber": 923,
+  "variants": {
+      "default": {
+            "displayName": "Pawmot",
+            "types": ["electric", "fighting"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 235,
+                    "defense": 135,
+                    "speed": 215,
+                    "bst": 835
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pawmot/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pawmot/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pawmot/default/icons/full-left.png",
+                              "fullRight": "pokemon/pawmot/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/pawmot/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pawmot/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pawmot/default/portraits/profile.png",
+                              "intro": "pokemon/pawmot/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

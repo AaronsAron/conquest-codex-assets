@@ -1,0 +1,39 @@
+{
+  "pokemonId": "slowbro",
+  "nationalDexNumber": 80,
+  "variants": {
+      "galar": {
+            "displayName": "Slowbro-Galar",
+            "types": ["poison", "psychic"],
+            "tags": ["galar", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 205,
+                    "defense": 170,
+                    "speed": 65,
+                    "bst": 740
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/slowbro/galar/meta.json",
+                    "battle": {
+                              "animation": "pokemon/slowbro/galar/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/slowbro/galar/icons/full-left.png",
+                              "fullRight": "pokemon/slowbro/galar/icons/full-right.png",
+                              "croppedLeft": "pokemon/slowbro/galar/icons/cropped-left.png",
+                              "croppedRight": "pokemon/slowbro/galar/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/slowbro/galar/portraits/profile.png",
+                              "intro": "pokemon/slowbro/galar/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "pokemonId": "jolteon",
+  "nationalDexNumber": 135,
+  "variants": {
+      "default": {
+            "displayName": "Jolteon",
+            "types": ["electric"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 225,
+                    "defense": 160,
+                    "speed": 265,
+                    "bst": 890
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/jolteon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/jolteon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/jolteon/default/icons/full-left.png",
+                              "fullRight": "pokemon/jolteon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/jolteon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/jolteon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/jolteon/default/portraits/profile.png",
+                              "intro": "pokemon/jolteon/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/jolteon/default/portraits/default.png",
+                                          "joyful": "pokemon/jolteon/default/portraits/joyful.png",
+                                          "sad": "pokemon/jolteon/default/portraits/sad.png",
+                                          "fierce": "pokemon/jolteon/default/portraits/fierce.png",
+                                          "shocked": "pokemon/jolteon/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Jolteon-Shiny",
+            "types": ["electric"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 225,
+                    "defense": 160,
+                    "speed": 265,
+                    "bst": 890
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/jolteon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/jolteon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/jolteon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/jolteon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/jolteon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/jolteon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/jolteon/shiny/portraits/profile.png",
+                              "intro": "pokemon/jolteon/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/jolteon/shiny/portraits/default.png",
+                                          "joyful": "pokemon/jolteon/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/jolteon/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/jolteon/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/jolteon/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "emolga",
+  "nationalDexNumber": 587,
+  "variants": {
+      "default": {
+            "displayName": "Emolga",
+            "types": ["electric", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 155,
+                    "defense": 125,
+                    "speed": 211,
+                    "bst": 711
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/emolga/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/emolga/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/emolga/default/icons/full-left.png",
+                              "fullRight": "pokemon/emolga/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/emolga/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/emolga/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/emolga/default/portraits/profile.png",
+                              "intro": "pokemon/emolga/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Emolga-Shiny",
+            "types": ["electric", "flying"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 155,
+                    "defense": 125,
+                    "speed": 211,
+                    "bst": 711
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/emolga/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/emolga/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/emolga/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/emolga/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/emolga/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/emolga/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/emolga/shiny/portraits/profile.png",
+                              "intro": "pokemon/emolga/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

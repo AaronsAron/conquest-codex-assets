@@ -1,0 +1,39 @@
+{
+  "pokemonId": "blaziken",
+  "nationalDexNumber": 257,
+  "variants": {
+      "default": {
+            "displayName": "Blaziken",
+            "types": ["fire", "fighting"],
+            "tags": ["default", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 245,
+                    "defense": 145,
+                    "speed": 165,
+                    "bst": 825
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/blaziken/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/blaziken/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/blaziken/default/icons/full-left.png",
+                              "fullRight": "pokemon/blaziken/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/blaziken/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/blaziken/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/blaziken/default/portraits/profile.png",
+                              "intro": "pokemon/blaziken/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

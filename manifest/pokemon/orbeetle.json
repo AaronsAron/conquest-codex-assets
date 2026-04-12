@@ -1,0 +1,39 @@
+{
+  "pokemonId": "orbeetle",
+  "nationalDexNumber": 826,
+  "variants": {
+      "default": {
+            "displayName": "Orbeetle",
+            "types": ["bug", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 165,
+                    "defense": 235,
+                    "speed": 185,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/orbeetle/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/orbeetle/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/orbeetle/default/icons/full-left.png",
+                              "fullRight": "pokemon/orbeetle/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/orbeetle/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/orbeetle/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/orbeetle/default/portraits/profile.png",
+                              "intro": "pokemon/orbeetle/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

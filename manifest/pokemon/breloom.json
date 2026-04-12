@@ -1,0 +1,39 @@
+{
+  "pokemonId": "breloom",
+  "nationalDexNumber": 286,
+  "variants": {
+      "default": {
+            "displayName": "Breloom",
+            "types": ["grass", "fighting"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 265,
+                    "defense": 145,
+                    "speed": 145,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/breloom/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/breloom/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/breloom/default/icons/full-left.png",
+                              "fullRight": "pokemon/breloom/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/breloom/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/breloom/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/breloom/default/portraits/profile.png",
+                              "intro": "pokemon/breloom/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

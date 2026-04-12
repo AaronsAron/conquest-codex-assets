@@ -1,0 +1,73 @@
+{
+  "pokemonId": "ampharos",
+  "nationalDexNumber": 181,
+  "variants": {
+      "default": {
+            "displayName": "Ampharos",
+            "types": ["electric"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 235,
+                    "defense": 180,
+                    "speed": 115,
+                    "bst": 820
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ampharos/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ampharos/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ampharos/default/icons/full-left.png",
+                              "fullRight": "pokemon/ampharos/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/ampharos/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ampharos/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ampharos/default/portraits/profile.png",
+                              "intro": "pokemon/ampharos/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Ampharos-Shiny",
+            "types": ["electric"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 235,
+                    "defense": 180,
+                    "speed": 115,
+                    "bst": 820
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ampharos/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ampharos/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ampharos/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/ampharos/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/ampharos/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ampharos/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ampharos/shiny/portraits/profile.png",
+                              "intro": "pokemon/ampharos/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

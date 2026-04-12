@@ -1,0 +1,39 @@
+{
+  "pokemonId": "shiftry",
+  "nationalDexNumber": 275,
+  "variants": {
+      "default": {
+            "displayName": "Shiftry",
+            "types": ["grass", "dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 205,
+                    "defense": 125,
+                    "speed": 165,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/shiftry/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/shiftry/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/shiftry/default/icons/full-left.png",
+                              "fullRight": "pokemon/shiftry/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/shiftry/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/shiftry/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/shiftry/default/portraits/profile.png",
+                              "intro": "pokemon/shiftry/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

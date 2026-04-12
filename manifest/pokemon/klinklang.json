@@ -1,0 +1,39 @@
+{
+  "pokemonId": "klinklang",
+  "nationalDexNumber": 601,
+  "variants": {
+      "default": {
+            "displayName": "Klinklang",
+            "types": ["steel"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 205,
+                    "defense": 205,
+                    "speed": 185,
+                    "bst": 825
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/klinklang/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/klinklang/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/klinklang/default/icons/full-left.png",
+                              "fullRight": "pokemon/klinklang/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/klinklang/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/klinklang/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/klinklang/default/portraits/profile.png",
+                              "intro": "pokemon/klinklang/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

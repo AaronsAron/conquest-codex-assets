@@ -1,0 +1,73 @@
+{
+  "pokemonId": "snorlax",
+  "nationalDexNumber": 143,
+  "variants": {
+      "default": {
+            "displayName": "Snorlax",
+            "types": ["normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 430,
+                    "attack": 225,
+                    "defense": 180,
+                    "speed": 65,
+                    "bst": 900
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/snorlax/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/snorlax/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/snorlax/default/icons/full-left.png",
+                              "fullRight": "pokemon/snorlax/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/snorlax/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/snorlax/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/snorlax/default/portraits/profile.png",
+                              "intro": "pokemon/snorlax/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Snorlax-Shiny",
+            "types": ["normal"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 430,
+                    "attack": 225,
+                    "defense": 180,
+                    "speed": 65,
+                    "bst": 900
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/snorlax/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/snorlax/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/snorlax/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/snorlax/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/snorlax/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/snorlax/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/snorlax/shiny/portraits/profile.png",
+                              "intro": "pokemon/snorlax/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

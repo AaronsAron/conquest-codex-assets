@@ -1,0 +1,73 @@
+{
+  "pokemonId": "meowth",
+  "nationalDexNumber": 52,
+  "variants": {
+      "default": {
+            "displayName": "Meowth",
+            "types": ["normal"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 95,
+                    "defense": 80,
+                    "speed": 185,
+                    "bst": 550
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/meowth/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/meowth/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/meowth/default/icons/full-left.png",
+                              "fullRight": "pokemon/meowth/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/meowth/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/meowth/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/meowth/default/portraits/profile.png",
+                              "intro": "pokemon/meowth/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Meowth-Shiny",
+            "types": ["normal"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 95,
+                    "defense": 80,
+                    "speed": 185,
+                    "bst": 550
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/meowth/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/meowth/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/meowth/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/meowth/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/meowth/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/meowth/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/meowth/shiny/portraits/profile.png",
+                              "intro": "pokemon/meowth/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

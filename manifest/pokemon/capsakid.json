@@ -1,0 +1,39 @@
+{
+  "pokemonId": "capsakid",
+  "nationalDexNumber": 951,
+  "variants": {
+      "default": {
+            "displayName": "Capsakid",
+            "types": ["grass"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 129,
+                    "defense": 85,
+                    "speed": 105,
+                    "bst": 529
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/capsakid/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/capsakid/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/capsakid/default/icons/full-left.png",
+                              "fullRight": "pokemon/capsakid/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/capsakid/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/capsakid/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/capsakid/default/portraits/profile.png",
+                              "intro": "pokemon/capsakid/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

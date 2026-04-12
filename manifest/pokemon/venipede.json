@@ -1,0 +1,73 @@
+{
+  "pokemonId": "venipede",
+  "nationalDexNumber": 543,
+  "variants": {
+      "default": {
+            "displayName": "Venipede",
+            "types": ["bug", "poison"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 170,
+                    "attack": 95,
+                    "defense": 103,
+                    "speed": 119,
+                    "bst": 487
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/venipede/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/venipede/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/venipede/default/icons/full-left.png",
+                              "fullRight": "pokemon/venipede/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/venipede/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/venipede/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/venipede/default/portraits/profile.png",
+                              "intro": "pokemon/venipede/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Venipede-Shiny",
+            "types": ["bug", "poison"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 170,
+                    "attack": 95,
+                    "defense": 103,
+                    "speed": 119,
+                    "bst": 487
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/venipede/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/venipede/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/venipede/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/venipede/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/venipede/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/venipede/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/venipede/shiny/portraits/profile.png",
+                              "intro": "pokemon/venipede/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

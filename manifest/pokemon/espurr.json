@@ -1,0 +1,39 @@
+{
+  "pokemonId": "espurr",
+  "nationalDexNumber": 677,
+  "variants": {
+      "default": {
+            "displayName": "Espurr",
+            "types": ["psychic"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 234,
+                    "attack": 131,
+                    "defense": 119,
+                    "speed": 141,
+                    "bst": 625
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/espurr/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/espurr/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/espurr/default/icons/full-left.png",
+                              "fullRight": "pokemon/espurr/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/espurr/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/espurr/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/espurr/default/portraits/profile.png",
+                              "intro": "pokemon/espurr/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

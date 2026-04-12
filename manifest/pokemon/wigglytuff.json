@@ -1,0 +1,85 @@
+{
+  "pokemonId": "wigglytuff",
+  "nationalDexNumber": 40,
+  "variants": {
+      "default": {
+            "displayName": "Wigglytuff",
+            "types": ["normal", "fairy"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 390,
+                    "attack": 175,
+                    "defense": 100,
+                    "speed": 95,
+                    "bst": 760
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/wigglytuff/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/wigglytuff/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/wigglytuff/default/icons/full-left.png",
+                              "fullRight": "pokemon/wigglytuff/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/wigglytuff/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/wigglytuff/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/wigglytuff/default/portraits/profile.png",
+                              "intro": "pokemon/wigglytuff/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/wigglytuff/default/portraits/default.png",
+                                          "joyful": "pokemon/wigglytuff/default/portraits/joyful.png",
+                                          "sad": "pokemon/wigglytuff/default/portraits/sad.png",
+                                          "fierce": "pokemon/wigglytuff/default/portraits/fierce.png",
+                                          "shocked": "pokemon/wigglytuff/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Wigglytuff-Shiny",
+            "types": ["normal", "fairy"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 390,
+                    "attack": 175,
+                    "defense": 100,
+                    "speed": 95,
+                    "bst": 760
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/wigglytuff/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/wigglytuff/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/wigglytuff/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/wigglytuff/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/wigglytuff/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/wigglytuff/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/wigglytuff/shiny/portraits/profile.png",
+                              "intro": "pokemon/wigglytuff/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/wigglytuff/shiny/portraits/default.png",
+                                          "joyful": "pokemon/wigglytuff/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/wigglytuff/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/wigglytuff/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/wigglytuff/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

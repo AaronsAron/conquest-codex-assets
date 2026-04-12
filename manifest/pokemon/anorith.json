@@ -1,0 +1,73 @@
+{
+  "pokemonId": "anorith",
+  "nationalDexNumber": 347,
+  "variants": {
+      "default": {
+            "displayName": "Anorith",
+            "types": ["rock", "bug"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 195,
+                    "defense": 105,
+                    "speed": 155,
+                    "bst": 655
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/anorith/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/anorith/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/anorith/default/icons/full-left.png",
+                              "fullRight": "pokemon/anorith/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/anorith/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/anorith/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/anorith/default/portraits/profile.png",
+                              "intro": "pokemon/anorith/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Anorith-Shiny",
+            "types": ["rock", "bug"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 195,
+                    "defense": 105,
+                    "speed": 155,
+                    "bst": 655
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/anorith/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/anorith/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/anorith/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/anorith/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/anorith/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/anorith/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/anorith/shiny/portraits/profile.png",
+                              "intro": "pokemon/anorith/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

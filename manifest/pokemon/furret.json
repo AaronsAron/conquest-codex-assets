@@ -1,0 +1,39 @@
+{
+  "pokemonId": "furret",
+  "nationalDexNumber": 162,
+  "variants": {
+      "default": {
+            "displayName": "Furret",
+            "types": ["normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 157,
+                    "defense": 124,
+                    "speed": 185,
+                    "bst": 746
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/furret/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/furret/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/furret/default/icons/full-left.png",
+                              "fullRight": "pokemon/furret/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/furret/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/furret/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/furret/default/portraits/profile.png",
+                              "intro": "pokemon/furret/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

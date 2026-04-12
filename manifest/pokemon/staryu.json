@@ -1,0 +1,39 @@
+{
+  "pokemonId": "staryu",
+  "nationalDexNumber": 120,
+  "variants": {
+      "default": {
+            "displayName": "Staryu",
+            "types": ["water"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 170,
+                    "attack": 145,
+                    "defense": 115,
+                    "speed": 175,
+                    "bst": 605
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/staryu/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/staryu/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/staryu/default/icons/full-left.png",
+                              "fullRight": "pokemon/staryu/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/staryu/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/staryu/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/staryu/default/portraits/profile.png",
+                              "intro": "pokemon/staryu/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "thundurus",
+  "nationalDexNumber": 642,
+  "variants": {
+      "therian": {
+            "displayName": "Thundurus-Therian",
+            "types": ["electric", "flying"],
+            "tags": ["therian", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 268,
+                    "attack": 295,
+                    "defense": 155,
+                    "speed": 207,
+                    "bst": 977
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/thundurus/therian/meta.json",
+                    "battle": {
+                              "animation": "pokemon/thundurus/therian/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/thundurus/therian/icons/full-left.png",
+                              "fullRight": "pokemon/thundurus/therian/icons/full-right.png",
+                              "croppedLeft": "pokemon/thundurus/therian/icons/cropped-left.png",
+                              "croppedRight": "pokemon/thundurus/therian/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/thundurus/therian/portraits/profile.png",
+                              "intro": "pokemon/thundurus/therian/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "swinub",
+  "nationalDexNumber": 220,
+  "variants": {
+      "default": {
+            "displayName": "Swinub",
+            "types": ["ice", "ground"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 105,
+                    "defense": 75,
+                    "speed": 105,
+                    "bst": 495
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/swinub/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/swinub/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/swinub/default/icons/full-left.png",
+                              "fullRight": "pokemon/swinub/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/swinub/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/swinub/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/swinub/default/portraits/profile.png",
+                              "intro": "pokemon/swinub/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

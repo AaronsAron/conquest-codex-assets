@@ -1,0 +1,73 @@
+{
+  "pokemonId": "toxtricity",
+  "nationalDexNumber": 849,
+  "variants": {
+      "default": {
+            "displayName": "Toxtricity-Amped",
+            "types": ["electric", "poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 233,
+                    "defense": 145,
+                    "speed": 155,
+                    "bst": 793
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/toxtricity/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/toxtricity/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/toxtricity/default/icons/full-left.png",
+                              "fullRight": "pokemon/toxtricity/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/toxtricity/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/toxtricity/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/toxtricity/default/portraits/profile.png",
+                              "intro": "pokemon/toxtricity/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "gigantimax": {
+            "displayName": "Toxtricity-Gigantimax",
+            "types": ["electric", "poison"],
+            "tags": ["gigantimax"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 233,
+                    "defense": 145,
+                    "speed": 155,
+                    "bst": 793
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/toxtricity/gigantimax/meta.json",
+                    "battle": {
+                              "animation": "pokemon/toxtricity/gigantimax/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/toxtricity/gigantimax/icons/full-left.png",
+                              "fullRight": "pokemon/toxtricity/gigantimax/icons/full-right.png",
+                              "croppedLeft": "pokemon/toxtricity/gigantimax/icons/cropped-left.png",
+                              "croppedRight": "pokemon/toxtricity/gigantimax/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/toxtricity/gigantimax/portraits/profile.png",
+                              "intro": "pokemon/toxtricity/gigantimax/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

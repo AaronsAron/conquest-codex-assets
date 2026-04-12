@@ -1,0 +1,39 @@
+{
+  "pokemonId": "bronzong",
+  "nationalDexNumber": 437,
+  "variants": {
+      "default": {
+            "displayName": "Bronzong",
+            "types": ["steel", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 244,
+                    "attack": 183,
+                    "defense": 237,
+                    "speed": 71,
+                    "bst": 735
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "float",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/bronzong/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bronzong/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bronzong/default/icons/full-left.png",
+                              "fullRight": "pokemon/bronzong/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/bronzong/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bronzong/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bronzong/default/portraits/profile.png",
+                              "intro": "pokemon/bronzong/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

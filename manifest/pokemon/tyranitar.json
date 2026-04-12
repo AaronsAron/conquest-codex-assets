@@ -1,0 +1,73 @@
+{
+  "pokemonId": "tyranitar",
+  "nationalDexNumber": 248,
+  "variants": {
+      "default": {
+            "displayName": "Tyranitar",
+            "types": ["rock", "dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 273,
+                    "defense": 215,
+                    "speed": 127,
+                    "bst": 925
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/tyranitar/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/tyranitar/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/tyranitar/default/icons/full-left.png",
+                              "fullRight": "pokemon/tyranitar/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/tyranitar/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/tyranitar/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/tyranitar/default/portraits/profile.png",
+                              "intro": "pokemon/tyranitar/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Tyranitar-Shiny",
+            "types": ["rock", "dark"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 273,
+                    "defense": 215,
+                    "speed": 127,
+                    "bst": 925
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/tyranitar/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/tyranitar/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/tyranitar/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/tyranitar/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/tyranitar/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/tyranitar/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/tyranitar/shiny/portraits/profile.png",
+                              "intro": "pokemon/tyranitar/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

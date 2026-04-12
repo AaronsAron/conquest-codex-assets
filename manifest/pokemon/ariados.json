@@ -1,0 +1,39 @@
+{
+  "pokemonId": "ariados",
+  "nationalDexNumber": 168,
+  "variants": {
+      "default": {
+            "displayName": "Ariados",
+            "types": ["bug", "poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 185,
+                    "defense": 145,
+                    "speed": 85,
+                    "bst": 665
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ariados/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ariados/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ariados/default/icons/full-left.png",
+                              "fullRight": "pokemon/ariados/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/ariados/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ariados/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ariados/default/portraits/profile.png",
+                              "intro": "pokemon/ariados/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "ralts",
+  "nationalDexNumber": 280,
+  "variants": {
+      "default": {
+            "displayName": "Ralts",
+            "types": ["psychic", "fairy"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 166,
+                    "attack": 95,
+                    "defense": 65,
+                    "speed": 85,
+                    "bst": 411
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ralts/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ralts/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ralts/default/icons/full-left.png",
+                              "fullRight": "pokemon/ralts/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/ralts/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ralts/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ralts/default/portraits/profile.png",
+                              "intro": "pokemon/ralts/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Ralts-Shiny",
+            "types": ["psychic", "fairy"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 166,
+                    "attack": 95,
+                    "defense": 65,
+                    "speed": 85,
+                    "bst": 411
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ralts/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ralts/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ralts/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/ralts/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/ralts/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ralts/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ralts/shiny/portraits/profile.png",
+                              "intro": "pokemon/ralts/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

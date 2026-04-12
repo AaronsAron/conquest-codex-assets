@@ -1,0 +1,39 @@
+{
+  "pokemonId": "armarouge",
+  "nationalDexNumber": 936,
+  "variants": {
+      "default": {
+            "displayName": "Armarouge",
+            "types": ["fire", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 255,
+                    "defense": 185,
+                    "speed": 155,
+                    "bst": 875
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/armarouge/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/armarouge/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/armarouge/default/icons/full-left.png",
+                              "fullRight": "pokemon/armarouge/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/armarouge/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/armarouge/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/armarouge/default/portraits/profile.png",
+                              "intro": "pokemon/armarouge/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

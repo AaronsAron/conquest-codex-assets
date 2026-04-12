@@ -1,0 +1,73 @@
+{
+  "pokemonId": "machamp",
+  "nationalDexNumber": 68,
+  "variants": {
+      "default": {
+            "displayName": "Machamp",
+            "types": ["fighting"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 265,
+                    "defense": 170,
+                    "speed": 115,
+                    "bst": 840
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/machamp/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/machamp/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/machamp/default/icons/full-left.png",
+                              "fullRight": "pokemon/machamp/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/machamp/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/machamp/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/machamp/default/portraits/profile.png",
+                              "intro": "pokemon/machamp/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Machamp-Shiny",
+            "types": ["fighting"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 265,
+                    "defense": 170,
+                    "speed": 115,
+                    "bst": 840
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/machamp/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/machamp/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/machamp/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/machamp/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/machamp/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/machamp/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/machamp/shiny/portraits/profile.png",
+                              "intro": "pokemon/machamp/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

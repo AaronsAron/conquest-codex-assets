@@ -1,0 +1,39 @@
+{
+  "pokemonId": "pangoro",
+  "nationalDexNumber": 675,
+  "variants": {
+      "default": {
+            "displayName": "Pangoro",
+            "types": ["fighting", "dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 253,
+                    "defense": 154,
+                    "speed": 121,
+                    "bst": 828
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pangoro/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pangoro/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pangoro/default/icons/full-left.png",
+                              "fullRight": "pokemon/pangoro/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/pangoro/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pangoro/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pangoro/default/portraits/profile.png",
+                              "intro": "pokemon/pangoro/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

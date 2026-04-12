@@ -1,0 +1,39 @@
+{
+  "pokemonId": "ninetales",
+  "nationalDexNumber": 38,
+  "variants": {
+      "alola": {
+            "displayName": "Ninetales-Alola",
+            "types": ["ice", "fairy"],
+            "tags": ["alola", "fully-evolved"],
+            "stats": {
+                    "hp": 256,
+                    "attack": 167,
+                    "defense": 180,
+                    "speed": 223,
+                    "bst": 826
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ninetales/alola/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ninetales/alola/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ninetales/alola/icons/full-left.png",
+                              "fullRight": "pokemon/ninetales/alola/icons/full-right.png",
+                              "croppedLeft": "pokemon/ninetales/alola/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ninetales/alola/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ninetales/alola/portraits/profile.png",
+                              "intro": "pokemon/ninetales/alola/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

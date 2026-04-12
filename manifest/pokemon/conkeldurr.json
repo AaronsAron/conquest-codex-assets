@@ -1,0 +1,83 @@
+{
+  "pokemonId": "conkeldurr",
+  "nationalDexNumber": 534,
+  "variants": {
+      "default": {
+            "displayName": "Conkeldurr",
+            "types": ["fighting"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 320,
+                    "attack": 285,
+                    "defense": 165,
+                    "speed": 95,
+                    "bst": 865
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/conkeldurr/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/conkeldurr/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/conkeldurr/default/icons/full-left.png",
+                              "fullRight": "pokemon/conkeldurr/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/conkeldurr/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/conkeldurr/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/conkeldurr/default/portraits/profile.png",
+                              "intro": "pokemon/conkeldurr/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/conkeldurr/default/portraits/default.png",
+                                          "joyful": "pokemon/conkeldurr/default/portraits/joyful.png",
+                                          "fierce": "pokemon/conkeldurr/default/portraits/fierce.png",
+                                          "shocked": "pokemon/conkeldurr/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Conkeldurr-Shiny",
+            "types": ["fighting"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 320,
+                    "attack": 285,
+                    "defense": 165,
+                    "speed": 95,
+                    "bst": 865
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/conkeldurr/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/conkeldurr/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/conkeldurr/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/conkeldurr/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/conkeldurr/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/conkeldurr/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/conkeldurr/shiny/portraits/profile.png",
+                              "intro": "pokemon/conkeldurr/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/conkeldurr/shiny/portraits/default.png",
+                                          "joyful": "pokemon/conkeldurr/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/conkeldurr/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/conkeldurr/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

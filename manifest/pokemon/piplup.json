@@ -1,0 +1,73 @@
+{
+  "pokemonId": "piplup",
+  "nationalDexNumber": 393,
+  "variants": {
+      "default": {
+            "displayName": "Piplup",
+            "types": ["water"],
+            "tags": ["default", "unevolved", "starter"],
+            "stats": {
+                    "hp": 216,
+                    "attack": 127,
+                    "defense": 114,
+                    "speed": 85,
+                    "bst": 542
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/piplup/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/piplup/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/piplup/default/icons/full-left.png",
+                              "fullRight": "pokemon/piplup/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/piplup/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/piplup/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/piplup/default/portraits/profile.png",
+                              "intro": "pokemon/piplup/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Piplup-Shiny",
+            "types": ["water"],
+            "tags": ["shiny", "unevolved", "starter"],
+            "stats": {
+                    "hp": 216,
+                    "attack": 127,
+                    "defense": 114,
+                    "speed": 85,
+                    "bst": 542
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/piplup/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/piplup/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/piplup/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/piplup/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/piplup/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/piplup/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/piplup/shiny/portraits/profile.png",
+                              "intro": "pokemon/piplup/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

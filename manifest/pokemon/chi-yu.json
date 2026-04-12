@@ -1,0 +1,39 @@
+{
+  "pokemonId": "chi-yu",
+  "nationalDexNumber": 1004,
+  "variants": {
+      "default": {
+            "displayName": "Chi-Yu",
+            "types": ["dark", "fire"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 275,
+                    "defense": 205,
+                    "speed": 205,
+                    "bst": 905
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/chi-yu/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/chi-yu/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/chi-yu/default/icons/full-left.png",
+                              "fullRight": "pokemon/chi-yu/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/chi-yu/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/chi-yu/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/chi-yu/default/portraits/profile.png",
+                              "intro": "pokemon/chi-yu/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

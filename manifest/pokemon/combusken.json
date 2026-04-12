@@ -1,0 +1,39 @@
+{
+  "pokemonId": "combusken",
+  "nationalDexNumber": 256,
+  "variants": {
+      "default": {
+            "displayName": "Combusken",
+            "types": ["fire", "fighting"],
+            "tags": ["default", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 175,
+                    "defense": 125,
+                    "speed": 115,
+                    "bst": 645
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/combusken/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/combusken/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/combusken/default/icons/full-left.png",
+                              "fullRight": "pokemon/combusken/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/combusken/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/combusken/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/combusken/default/portraits/profile.png",
+                              "intro": "pokemon/combusken/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

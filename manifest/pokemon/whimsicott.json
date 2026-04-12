@@ -1,0 +1,73 @@
+{
+  "pokemonId": "whimsicott",
+  "nationalDexNumber": 547,
+  "variants": {
+      "default": {
+            "displayName": "Whimsicott",
+            "types": ["grass", "fairy"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 159,
+                    "defense": 165,
+                    "speed": 237,
+                    "bst": 791
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/whimsicott/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/whimsicott/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/whimsicott/default/icons/full-left.png",
+                              "fullRight": "pokemon/whimsicott/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/whimsicott/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/whimsicott/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/whimsicott/default/portraits/profile.png",
+                              "intro": "pokemon/whimsicott/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Whimsicott-Shiny",
+            "types": ["grass", "fairy"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 159,
+                    "defense": 165,
+                    "speed": 237,
+                    "bst": 791
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/whimsicott/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/whimsicott/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/whimsicott/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/whimsicott/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/whimsicott/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/whimsicott/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/whimsicott/shiny/portraits/profile.png",
+                              "intro": "pokemon/whimsicott/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

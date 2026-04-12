@@ -1,0 +1,73 @@
+{
+  "pokemonId": "dusclops",
+  "nationalDexNumber": 356,
+  "variants": {
+      "default": {
+            "displayName": "Dusclops",
+            "types": ["ghost"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 145,
+                    "defense": 265,
+                    "speed": 55,
+                    "bst": 655
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dusclops/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dusclops/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dusclops/default/icons/full-left.png",
+                              "fullRight": "pokemon/dusclops/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dusclops/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dusclops/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dusclops/default/portraits/profile.png",
+                              "intro": "pokemon/dusclops/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Dusclops-Shiny",
+            "types": ["ghost"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 145,
+                    "defense": 265,
+                    "speed": 55,
+                    "bst": 655
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dusclops/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dusclops/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dusclops/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/dusclops/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/dusclops/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dusclops/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dusclops/shiny/portraits/profile.png",
+                              "intro": "pokemon/dusclops/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

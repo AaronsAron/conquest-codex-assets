@@ -1,0 +1,39 @@
+{
+  "pokemonId": "flygon",
+  "nationalDexNumber": 330,
+  "variants": {
+      "default": {
+            "displayName": "Flygon",
+            "types": ["ground", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 205,
+                    "defense": 165,
+                    "speed": 205,
+                    "bst": 845
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/flygon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/flygon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/flygon/default/icons/full-left.png",
+                              "fullRight": "pokemon/flygon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/flygon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/flygon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/flygon/default/portraits/profile.png",
+                              "intro": "pokemon/flygon/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

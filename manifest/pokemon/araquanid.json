@@ -1,0 +1,39 @@
+{
+  "pokemonId": "araquanid",
+  "nationalDexNumber": 752,
+  "variants": {
+      "default": {
+            "displayName": "Araquanid",
+            "types": ["water", "bug"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 246,
+                    "attack": 145,
+                    "defense": 229,
+                    "speed": 89,
+                    "bst": 709
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/araquanid/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/araquanid/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/araquanid/default/icons/full-left.png",
+                              "fullRight": "pokemon/araquanid/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/araquanid/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/araquanid/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/araquanid/default/portraits/profile.png",
+                              "intro": "pokemon/araquanid/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

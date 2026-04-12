@@ -1,0 +1,81 @@
+{
+  "pokemonId": "groudon",
+  "nationalDexNumber": 383,
+  "variants": {
+      "default": {
+            "displayName": "Groudon",
+            "types": ["ground"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 305,
+                    "defense": 235,
+                    "speed": 185,
+                    "bst": 1035
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/groudon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/groudon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/groudon/default/icons/full-left.png",
+                              "fullRight": "pokemon/groudon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/groudon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/groudon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/groudon/default/portraits/profile.png",
+                              "intro": "pokemon/groudon/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/groudon/default/portraits/default.png",
+                                          "joyful": "pokemon/groudon/default/portraits/joyful.png",
+                                          "fierce": "pokemon/groudon/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Groudon-Shiny",
+            "types": ["ground"],
+            "tags": ["shiny", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 305,
+                    "defense": 235,
+                    "speed": 185,
+                    "bst": 1035
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/groudon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/groudon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/groudon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/groudon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/groudon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/groudon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/groudon/shiny/portraits/profile.png",
+                              "intro": "pokemon/groudon/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/groudon/shiny/portraits/default.png",
+                                          "joyful": "pokemon/groudon/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/groudon/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

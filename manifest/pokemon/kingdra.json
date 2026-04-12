@@ -1,0 +1,39 @@
+{
+  "pokemonId": "kingdra",
+  "nationalDexNumber": 230,
+  "variants": {
+      "default": {
+            "displayName": "Kingdra",
+            "types": ["water", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 195,
+                    "defense": 195,
+                    "speed": 175,
+                    "bst": 825
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/kingdra/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kingdra/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kingdra/default/icons/full-left.png",
+                              "fullRight": "pokemon/kingdra/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/kingdra/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kingdra/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kingdra/default/portraits/profile.png",
+                              "intro": "pokemon/kingdra/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "pokemonId": "sceptile",
+  "nationalDexNumber": 254,
+  "variants": {
+      "default": {
+            "displayName": "Sceptile",
+            "types": ["grass"],
+            "tags": ["default", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 215,
+                    "defense": 155,
+                    "speed": 245,
+                    "bst": 865
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/sceptile/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sceptile/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sceptile/default/icons/full-left.png",
+                              "fullRight": "pokemon/sceptile/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sceptile/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sceptile/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sceptile/default/portraits/profile.png",
+                              "intro": "pokemon/sceptile/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/sceptile/default/portraits/default.png",
+                                          "joyful": "pokemon/sceptile/default/portraits/joyful.png",
+                                          "sad": "pokemon/sceptile/default/portraits/sad.png",
+                                          "fierce": "pokemon/sceptile/default/portraits/fierce.png",
+                                          "shocked": "pokemon/sceptile/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Sceptile-Shiny",
+            "types": ["grass"],
+            "tags": ["shiny", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 215,
+                    "defense": 155,
+                    "speed": 245,
+                    "bst": 865
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/sceptile/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sceptile/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sceptile/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/sceptile/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/sceptile/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sceptile/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sceptile/shiny/portraits/profile.png",
+                              "intro": "pokemon/sceptile/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/sceptile/shiny/portraits/default.png",
+                                          "joyful": "pokemon/sceptile/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/sceptile/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/sceptile/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/sceptile/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

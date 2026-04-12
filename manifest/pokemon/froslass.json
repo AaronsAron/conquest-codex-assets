@@ -1,0 +1,79 @@
+{
+  "pokemonId": "froslass",
+  "nationalDexNumber": 478,
+  "variants": {
+      "default": {
+            "displayName": "Froslass",
+            "types": ["ice", "ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 165,
+                    "defense": 145,
+                    "speed": 225,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/froslass/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/froslass/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/froslass/default/icons/full-left.png",
+                              "fullRight": "pokemon/froslass/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/froslass/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/froslass/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/froslass/default/portraits/profile.png",
+                              "intro": "pokemon/froslass/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/froslass/default/portraits/default.png",
+                                          "fierce": "pokemon/froslass/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Froslass-Shiny",
+            "types": ["ice", "ghost"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 165,
+                    "defense": 145,
+                    "speed": 225,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/froslass/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/froslass/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/froslass/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/froslass/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/froslass/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/froslass/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/froslass/shiny/portraits/profile.png",
+                              "intro": "pokemon/froslass/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/froslass/shiny/portraits/default.png",
+                                          "fierce": "pokemon/froslass/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

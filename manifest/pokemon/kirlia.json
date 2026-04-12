@@ -1,0 +1,73 @@
+{
+  "pokemonId": "kirlia",
+  "nationalDexNumber": 281,
+  "variants": {
+      "default": {
+            "displayName": "Kirlia",
+            "types": ["psychic", "fairy"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 186,
+                    "attack": 135,
+                    "defense": 95,
+                    "speed": 105,
+                    "bst": 521
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/kirlia/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kirlia/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kirlia/default/icons/full-left.png",
+                              "fullRight": "pokemon/kirlia/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/kirlia/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kirlia/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kirlia/default/portraits/profile.png",
+                              "intro": "pokemon/kirlia/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Kirlia-Shiny",
+            "types": ["psychic", "fairy"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 186,
+                    "attack": 135,
+                    "defense": 95,
+                    "speed": 105,
+                    "bst": 521
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/kirlia/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kirlia/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kirlia/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/kirlia/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/kirlia/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kirlia/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kirlia/shiny/portraits/profile.png",
+                              "intro": "pokemon/kirlia/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

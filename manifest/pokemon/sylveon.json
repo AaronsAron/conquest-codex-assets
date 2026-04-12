@@ -1,0 +1,39 @@
+{
+  "pokemonId": "sylveon",
+  "nationalDexNumber": 700,
+  "variants": {
+      "default": {
+            "displayName": "Sylveon",
+            "types": ["fairy"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 225,
+                    "defense": 200,
+                    "speed": 125,
+                    "bst": 850
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sylveon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sylveon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sylveon/default/icons/full-left.png",
+                              "fullRight": "pokemon/sylveon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sylveon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sylveon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sylveon/default/portraits/profile.png",
+                              "intro": "pokemon/sylveon/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

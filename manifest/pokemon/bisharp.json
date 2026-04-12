@@ -1,0 +1,85 @@
+{
+  "pokemonId": "bisharp",
+  "nationalDexNumber": 625,
+  "variants": {
+      "default": {
+            "displayName": "Bisharp",
+            "types": ["dark", "steel"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 255,
+                    "defense": 175,
+                    "speed": 145,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/bisharp/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bisharp/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bisharp/default/icons/full-left.png",
+                              "fullRight": "pokemon/bisharp/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/bisharp/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bisharp/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bisharp/default/portraits/profile.png",
+                              "intro": "pokemon/bisharp/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/bisharp/default/portraits/default.png",
+                                          "joyful": "pokemon/bisharp/default/portraits/joyful.png",
+                                          "sad": "pokemon/bisharp/default/portraits/sad.png",
+                                          "fierce": "pokemon/bisharp/default/portraits/fierce.png",
+                                          "shocked": "pokemon/bisharp/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Bisharp-Shiny",
+            "types": ["dark", "steel"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 255,
+                    "defense": 175,
+                    "speed": 145,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/bisharp/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bisharp/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bisharp/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/bisharp/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/bisharp/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bisharp/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bisharp/shiny/portraits/profile.png",
+                              "intro": "pokemon/bisharp/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/bisharp/shiny/portraits/default.png",
+                                          "joyful": "pokemon/bisharp/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/bisharp/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/bisharp/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/bisharp/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

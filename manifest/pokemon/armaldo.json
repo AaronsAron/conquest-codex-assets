@@ -1,0 +1,73 @@
+{
+  "pokemonId": "armaldo",
+  "nationalDexNumber": 348,
+  "variants": {
+      "default": {
+            "displayName": "Armaldo",
+            "types": ["rock", "bug"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 255,
+                    "defense": 185,
+                    "speed": 95,
+                    "bst": 795
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/armaldo/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/armaldo/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/armaldo/default/icons/full-left.png",
+                              "fullRight": "pokemon/armaldo/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/armaldo/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/armaldo/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/armaldo/default/portraits/profile.png",
+                              "intro": "pokemon/armaldo/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Armaldo-Shiny",
+            "types": ["rock", "bug"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 255,
+                    "defense": 185,
+                    "speed": 95,
+                    "bst": 795
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/armaldo/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/armaldo/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/armaldo/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/armaldo/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/armaldo/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/armaldo/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/armaldo/shiny/portraits/profile.png",
+                              "intro": "pokemon/armaldo/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

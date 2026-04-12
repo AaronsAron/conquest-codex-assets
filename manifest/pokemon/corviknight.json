@@ -1,0 +1,39 @@
+{
+  "pokemonId": "corviknight",
+  "nationalDexNumber": 823,
+  "variants": {
+      "default": {
+            "displayName": "Corviknight",
+            "types": ["flying", "steel"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 306,
+                    "attack": 179,
+                    "defense": 195,
+                    "speed": 139,
+                    "bst": 819
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/corviknight/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/corviknight/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/corviknight/default/icons/full-left.png",
+                              "fullRight": "pokemon/corviknight/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/corviknight/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/corviknight/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/corviknight/default/portraits/profile.png",
+                              "intro": "pokemon/corviknight/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

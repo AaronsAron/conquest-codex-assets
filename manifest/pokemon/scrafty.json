@@ -1,0 +1,73 @@
+{
+  "pokemonId": "scrafty",
+  "nationalDexNumber": 560,
+  "variants": {
+      "default": {
+            "displayName": "Scrafty",
+            "types": ["dark", "fighting"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 185,
+                    "defense": 235,
+                    "speed": 121,
+                    "bst": 781
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/scrafty/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/scrafty/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/scrafty/default/icons/full-left.png",
+                              "fullRight": "pokemon/scrafty/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/scrafty/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/scrafty/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/scrafty/default/portraits/profile.png",
+                              "intro": "pokemon/scrafty/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Scrafty-Shiny",
+            "types": ["dark", "fighting"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 185,
+                    "defense": 235,
+                    "speed": 121,
+                    "bst": 781
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/scrafty/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/scrafty/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/scrafty/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/scrafty/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/scrafty/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/scrafty/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/scrafty/shiny/portraits/profile.png",
+                              "intro": "pokemon/scrafty/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,81 @@
+{
+  "pokemonId": "rayquaza",
+  "nationalDexNumber": 384,
+  "variants": {
+      "default": {
+            "displayName": "Rayquaza",
+            "types": ["dragon", "flying"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 320,
+                    "attack": 305,
+                    "defense": 185,
+                    "speed": 195,
+                    "bst": 1005
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/rayquaza/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rayquaza/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rayquaza/default/icons/full-left.png",
+                              "fullRight": "pokemon/rayquaza/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/rayquaza/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rayquaza/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rayquaza/default/portraits/profile.png",
+                              "intro": "pokemon/rayquaza/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/rayquaza/default/portraits/default.png",
+                                          "joyful": "pokemon/rayquaza/default/portraits/joyful.png",
+                                          "fierce": "pokemon/rayquaza/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Rayquaza-Shiny",
+            "types": ["dragon", "flying"],
+            "tags": ["shiny", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 320,
+                    "attack": 305,
+                    "defense": 185,
+                    "speed": 195,
+                    "bst": 1005
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/rayquaza/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rayquaza/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rayquaza/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/rayquaza/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/rayquaza/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rayquaza/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rayquaza/shiny/portraits/profile.png",
+                              "intro": "pokemon/rayquaza/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/rayquaza/shiny/portraits/default.png",
+                                          "joyful": "pokemon/rayquaza/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/rayquaza/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

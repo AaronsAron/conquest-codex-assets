@@ -1,0 +1,85 @@
+{
+  "pokemonId": "charmeleon",
+  "nationalDexNumber": 5,
+  "variants": {
+      "default": {
+            "displayName": "Charmeleon",
+            "types": ["fire"],
+            "tags": ["default", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 226,
+                    "attack": 165,
+                    "defense": 128,
+                    "speed": 165,
+                    "bst": 684
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/charmeleon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/charmeleon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/charmeleon/default/icons/full-left.png",
+                              "fullRight": "pokemon/charmeleon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/charmeleon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/charmeleon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/charmeleon/default/portraits/profile.png",
+                              "intro": "pokemon/charmeleon/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/charmeleon/default/portraits/default.png",
+                                          "joyful": "pokemon/charmeleon/default/portraits/joyful.png",
+                                          "sad": "pokemon/charmeleon/default/portraits/sad.png",
+                                          "fierce": "pokemon/charmeleon/default/portraits/fierce.png",
+                                          "shocked": "pokemon/charmeleon/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Charmeleon-Shiny",
+            "types": ["fire"],
+            "tags": ["shiny", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 226,
+                    "attack": 165,
+                    "defense": 128,
+                    "speed": 165,
+                    "bst": 684
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/charmeleon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/charmeleon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/charmeleon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/charmeleon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/charmeleon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/charmeleon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/charmeleon/shiny/portraits/profile.png",
+                              "intro": "pokemon/charmeleon/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/charmeleon/shiny/portraits/default.png",
+                                          "joyful": "pokemon/charmeleon/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/charmeleon/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/charmeleon/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/charmeleon/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

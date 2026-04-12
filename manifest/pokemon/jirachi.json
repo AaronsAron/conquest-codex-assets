@@ -1,0 +1,39 @@
+{
+  "pokemonId": "jirachi",
+  "nationalDexNumber": 385,
+  "variants": {
+      "default": {
+            "displayName": "Jirachi",
+            "types": ["steel", "psychic"],
+            "tags": ["default", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 205,
+                    "defense": 205,
+                    "speed": 205,
+                    "bst": 925
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/jirachi/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/jirachi/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/jirachi/default/icons/full-left.png",
+                              "fullRight": "pokemon/jirachi/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/jirachi/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/jirachi/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/jirachi/default/portraits/profile.png",
+                              "intro": "pokemon/jirachi/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

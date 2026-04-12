@@ -1,0 +1,83 @@
+{
+  "pokemonId": "bastiodon",
+  "nationalDexNumber": 411,
+  "variants": {
+      "default": {
+            "displayName": "Bastiodon",
+            "types": ["rock", "steel"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 109,
+                    "defense": 311,
+                    "speed": 65,
+                    "bst": 715
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/bastiodon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bastiodon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bastiodon/default/icons/full-left.png",
+                              "fullRight": "pokemon/bastiodon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/bastiodon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bastiodon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bastiodon/default/portraits/profile.png",
+                              "intro": "pokemon/bastiodon/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/bastiodon/default/portraits/default.png",
+                                          "joyful": "pokemon/bastiodon/default/portraits/joyful.png",
+                                          "fierce": "pokemon/bastiodon/default/portraits/fierce.png",
+                                          "shocked": "pokemon/bastiodon/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Bastiodon-Shiny",
+            "types": ["rock", "steel"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 109,
+                    "defense": 311,
+                    "speed": 65,
+                    "bst": 715
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/bastiodon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bastiodon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bastiodon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/bastiodon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/bastiodon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bastiodon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bastiodon/shiny/portraits/profile.png",
+                              "intro": "pokemon/bastiodon/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/bastiodon/shiny/portraits/default.png",
+                                          "joyful": "pokemon/bastiodon/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/bastiodon/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/bastiodon/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

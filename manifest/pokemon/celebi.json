@@ -1,0 +1,39 @@
+{
+  "pokemonId": "celebi",
+  "nationalDexNumber": 251,
+  "variants": {
+      "shiny": {
+            "displayName": "Celebi-Shiny",
+            "types": ["psychic", "grass"],
+            "tags": ["shiny", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 205,
+                    "defense": 205,
+                    "speed": 205,
+                    "bst": 925
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/celebi/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/celebi/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/celebi/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/celebi/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/celebi/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/celebi/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/celebi/shiny/portraits/profile.png",
+                              "intro": "pokemon/celebi/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

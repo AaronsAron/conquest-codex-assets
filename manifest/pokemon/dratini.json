@@ -1,0 +1,73 @@
+{
+  "pokemonId": "dratini",
+  "nationalDexNumber": 147,
+  "variants": {
+      "default": {
+            "displayName": "Dratini",
+            "types": ["dragon"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 192,
+                    "attack": 133,
+                    "defense": 100,
+                    "speed": 105,
+                    "bst": 530
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dratini/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dratini/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dratini/default/icons/full-left.png",
+                              "fullRight": "pokemon/dratini/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dratini/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dratini/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dratini/default/portraits/profile.png",
+                              "intro": "pokemon/dratini/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Dratini-Shiny",
+            "types": ["dragon"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 192,
+                    "attack": 133,
+                    "defense": 100,
+                    "speed": 105,
+                    "bst": 530
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dratini/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dratini/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dratini/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/dratini/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/dratini/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dratini/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dratini/shiny/portraits/profile.png",
+                              "intro": "pokemon/dratini/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

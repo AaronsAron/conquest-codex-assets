@@ -1,0 +1,73 @@
+{
+  "pokemonId": "duskull",
+  "nationalDexNumber": 355,
+  "variants": {
+      "default": {
+            "displayName": "Duskull",
+            "types": ["ghost"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 150,
+                    "attack": 85,
+                    "defense": 185,
+                    "speed": 55,
+                    "bst": 475
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/duskull/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/duskull/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/duskull/default/icons/full-left.png",
+                              "fullRight": "pokemon/duskull/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/duskull/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/duskull/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/duskull/default/portraits/profile.png",
+                              "intro": "pokemon/duskull/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Duskull-Shiny",
+            "types": ["ghost"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 150,
+                    "attack": 85,
+                    "defense": 185,
+                    "speed": 55,
+                    "bst": 475
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/duskull/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/duskull/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/duskull/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/duskull/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/duskull/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/duskull/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/duskull/shiny/portraits/profile.png",
+                              "intro": "pokemon/duskull/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "chimchar",
+  "nationalDexNumber": 390,
+  "variants": {
+      "default": {
+            "displayName": "Chimchar",
+            "types": ["fire"],
+            "tags": ["default", "unevolved", "starter"],
+            "stats": {
+                    "hp": 198,
+                    "attack": 121,
+                    "defense": 93,
+                    "speed": 127,
+                    "bst": 539
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/chimchar/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/chimchar/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/chimchar/default/icons/full-left.png",
+                              "fullRight": "pokemon/chimchar/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/chimchar/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/chimchar/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/chimchar/default/portraits/profile.png",
+                              "intro": "pokemon/chimchar/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Chimchar-Shiny",
+            "types": ["fire"],
+            "tags": ["shiny", "unevolved", "starter"],
+            "stats": {
+                    "hp": 198,
+                    "attack": 121,
+                    "defense": 93,
+                    "speed": 127,
+                    "bst": 539
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/chimchar/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/chimchar/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/chimchar/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/chimchar/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/chimchar/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/chimchar/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/chimchar/shiny/portraits/profile.png",
+                              "intro": "pokemon/chimchar/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "dracozolt",
+  "nationalDexNumber": 880,
+  "variants": {
+      "default": {
+            "displayName": "Dracozolt",
+            "types": ["electric", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 205,
+                    "defense": 165,
+                    "speed": 155,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dracozolt/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dracozolt/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dracozolt/default/icons/full-left.png",
+                              "fullRight": "pokemon/dracozolt/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dracozolt/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dracozolt/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dracozolt/default/portraits/profile.png",
+                              "intro": "pokemon/dracozolt/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

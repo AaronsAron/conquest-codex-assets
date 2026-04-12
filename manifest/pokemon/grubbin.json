@@ -1,0 +1,39 @@
+{
+  "pokemonId": "grubbin",
+  "nationalDexNumber": 736,
+  "variants": {
+      "default": {
+            "displayName": "Grubbin",
+            "types": ["bug"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 204,
+                    "attack": 129,
+                    "defense": 95,
+                    "speed": 97,
+                    "bst": 525
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/grubbin/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/grubbin/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/grubbin/default/icons/full-left.png",
+                              "fullRight": "pokemon/grubbin/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/grubbin/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/grubbin/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/grubbin/default/portraits/profile.png",
+                              "intro": "pokemon/grubbin/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

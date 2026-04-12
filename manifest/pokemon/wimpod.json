@@ -1,0 +1,39 @@
+{
+  "pokemonId": "wimpod",
+  "nationalDexNumber": 767,
+  "variants": {
+      "default": {
+            "displayName": "Wimpod",
+            "types": ["bug", "water"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 160,
+                    "attack": 75,
+                    "defense": 75,
+                    "speed": 165,
+                    "bst": 475
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/wimpod/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/wimpod/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/wimpod/default/icons/full-left.png",
+                              "fullRight": "pokemon/wimpod/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/wimpod/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/wimpod/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/wimpod/default/portraits/profile.png",
+                              "intro": "pokemon/wimpod/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

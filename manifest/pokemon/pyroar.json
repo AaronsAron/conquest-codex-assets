@@ -1,0 +1,73 @@
+{
+  "pokemonId": "pyroar",
+  "nationalDexNumber": 668,
+  "variants": {
+      "default": {
+            "displayName": "Pyroar-Male",
+            "types": ["fire", "normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 282,
+                    "attack": 223,
+                    "defense": 143,
+                    "speed": 217,
+                    "bst": 865
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pyroar/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pyroar/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pyroar/default/icons/full-left.png",
+                              "fullRight": "pokemon/pyroar/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/pyroar/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pyroar/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pyroar/default/portraits/profile.png",
+                              "intro": "pokemon/pyroar/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "female": {
+            "displayName": "Pyroar-Female",
+            "types": ["fire", "normal"],
+            "tags": ["female", "fully-evolved"],
+            "stats": {
+                    "hp": 282,
+                    "attack": 223,
+                    "defense": 143,
+                    "speed": 217,
+                    "bst": 865
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pyroar/female/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pyroar/female/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pyroar/female/icons/full-left.png",
+                              "fullRight": "pokemon/pyroar/female/icons/full-right.png",
+                              "croppedLeft": "pokemon/pyroar/female/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pyroar/female/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pyroar/female/portraits/profile.png",
+                              "intro": "pokemon/pyroar/female/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

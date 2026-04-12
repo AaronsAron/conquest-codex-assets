@@ -1,0 +1,39 @@
+{
+  "pokemonId": "magnemite",
+  "nationalDexNumber": 81,
+  "variants": {
+      "default": {
+            "displayName": "Magnemite",
+            "types": ["electric", "steel"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 160,
+                    "attack": 195,
+                    "defense": 130,
+                    "speed": 95,
+                    "bst": 580
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/magnemite/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/magnemite/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/magnemite/default/icons/full-left.png",
+                              "fullRight": "pokemon/magnemite/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/magnemite/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/magnemite/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/magnemite/default/portraits/profile.png",
+                              "intro": "pokemon/magnemite/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

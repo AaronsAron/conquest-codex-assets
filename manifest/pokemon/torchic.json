@@ -1,0 +1,39 @@
+{
+  "pokemonId": "torchic",
+  "nationalDexNumber": 255,
+  "variants": {
+      "default": {
+            "displayName": "Torchic",
+            "types": ["fire"],
+            "tags": ["default", "unevolved", "starter"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 145,
+                    "defense": 95,
+                    "speed": 95,
+                    "bst": 535
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/torchic/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/torchic/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/torchic/default/icons/full-left.png",
+                              "fullRight": "pokemon/torchic/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/torchic/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/torchic/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/torchic/default/portraits/profile.png",
+                              "intro": "pokemon/torchic/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

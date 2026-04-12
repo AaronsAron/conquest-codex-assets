@@ -1,0 +1,81 @@
+{
+  "pokemonId": "chandelure",
+  "nationalDexNumber": 609,
+  "variants": {
+      "default": {
+            "displayName": "Chandelure",
+            "types": ["ghost", "fire"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 295,
+                    "defense": 185,
+                    "speed": 165,
+                    "bst": 875
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/chandelure/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/chandelure/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/chandelure/default/icons/full-left.png",
+                              "fullRight": "pokemon/chandelure/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/chandelure/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/chandelure/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/chandelure/default/portraits/profile.png",
+                              "intro": "pokemon/chandelure/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/chandelure/default/portraits/default.png",
+                                          "fierce": "pokemon/chandelure/default/portraits/fierce.png",
+                                          "shocked": "pokemon/chandelure/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Chandelure-Shiny",
+            "types": ["ghost", "fire"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 295,
+                    "defense": 185,
+                    "speed": 165,
+                    "bst": 875
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/chandelure/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/chandelure/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/chandelure/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/chandelure/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/chandelure/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/chandelure/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/chandelure/shiny/portraits/profile.png",
+                              "intro": "pokemon/chandelure/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/chandelure/shiny/portraits/default.png",
+                                          "fierce": "pokemon/chandelure/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/chandelure/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

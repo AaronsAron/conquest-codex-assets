@@ -1,0 +1,39 @@
+{
+  "pokemonId": "cyndaquil",
+  "nationalDexNumber": 155,
+  "variants": {
+      "default": {
+            "displayName": "Cyndaquil",
+            "types": ["fire"],
+            "tags": ["default", "unevolved", "starter"],
+            "stats": {
+                    "hp": 188,
+                    "attack": 125,
+                    "defense": 98,
+                    "speed": 135,
+                    "bst": 546
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/cyndaquil/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/cyndaquil/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/cyndaquil/default/icons/full-left.png",
+                              "fullRight": "pokemon/cyndaquil/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/cyndaquil/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/cyndaquil/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/cyndaquil/default/portraits/profile.png",
+                              "intro": "pokemon/cyndaquil/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

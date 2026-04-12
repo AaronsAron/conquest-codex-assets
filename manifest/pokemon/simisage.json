@@ -1,0 +1,73 @@
+{
+  "pokemonId": "simisage",
+  "nationalDexNumber": 512,
+  "variants": {
+      "default": {
+            "displayName": "Simisage",
+            "types": ["grass"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 201,
+                    "defense": 131,
+                    "speed": 207,
+                    "bst": 799
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/simisage/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/simisage/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/simisage/default/icons/full-left.png",
+                              "fullRight": "pokemon/simisage/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/simisage/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/simisage/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/simisage/default/portraits/profile.png",
+                              "intro": "pokemon/simisage/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Simisage-Shiny",
+            "types": ["grass"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 201,
+                    "defense": 131,
+                    "speed": 207,
+                    "bst": 799
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/simisage/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/simisage/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/simisage/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/simisage/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/simisage/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/simisage/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/simisage/shiny/portraits/profile.png",
+                              "intro": "pokemon/simisage/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "zubat",
+  "nationalDexNumber": 41,
+  "variants": {
+      "default": {
+            "displayName": "Zubat",
+            "types": ["poison", "flying"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 95,
+                    "defense": 80,
+                    "speed": 115,
+                    "bst": 480
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/zubat/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zubat/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zubat/default/icons/full-left.png",
+                              "fullRight": "pokemon/zubat/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/zubat/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zubat/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zubat/default/portraits/profile.png",
+                              "intro": "pokemon/zubat/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Zubat-Shiny",
+            "types": ["poison", "flying"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 95,
+                    "defense": 80,
+                    "speed": 115,
+                    "bst": 480
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/zubat/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zubat/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zubat/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/zubat/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/zubat/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zubat/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zubat/shiny/portraits/profile.png",
+                              "intro": "pokemon/zubat/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

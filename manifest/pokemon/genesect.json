@@ -1,0 +1,39 @@
+{
+  "pokemonId": "genesect",
+  "nationalDexNumber": 649,
+  "variants": {
+      "default": {
+            "displayName": "Genesect",
+            "types": ["bug", "steel"],
+            "tags": ["default", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 252,
+                    "attack": 245,
+                    "defense": 195,
+                    "speed": 203,
+                    "bst": 895
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/genesect/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/genesect/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/genesect/default/icons/full-left.png",
+                              "fullRight": "pokemon/genesect/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/genesect/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/genesect/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/genesect/default/portraits/profile.png",
+                              "intro": "pokemon/genesect/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

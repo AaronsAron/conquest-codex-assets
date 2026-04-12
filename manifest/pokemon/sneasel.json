@@ -1,0 +1,85 @@
+{
+  "pokemonId": "sneasel",
+  "nationalDexNumber": 215,
+  "variants": {
+      "default": {
+            "displayName": "Sneasel",
+            "types": ["dark", "ice"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 195,
+                    "defense": 135,
+                    "speed": 235,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/sneasel/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sneasel/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sneasel/default/icons/full-left.png",
+                              "fullRight": "pokemon/sneasel/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sneasel/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sneasel/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sneasel/default/portraits/profile.png",
+                              "intro": "pokemon/sneasel/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/sneasel/default/portraits/default.png",
+                                          "joyful": "pokemon/sneasel/default/portraits/joyful.png",
+                                          "sad": "pokemon/sneasel/default/portraits/sad.png",
+                                          "fierce": "pokemon/sneasel/default/portraits/fierce.png",
+                                          "shocked": "pokemon/sneasel/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Sneasel-Shiny",
+            "types": ["dark", "ice"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 195,
+                    "defense": 135,
+                    "speed": 235,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/sneasel/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sneasel/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sneasel/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/sneasel/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/sneasel/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sneasel/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sneasel/shiny/portraits/profile.png",
+                              "intro": "pokemon/sneasel/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/sneasel/shiny/portraits/default.png",
+                                          "joyful": "pokemon/sneasel/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/sneasel/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/sneasel/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/sneasel/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

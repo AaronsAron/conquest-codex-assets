@@ -1,0 +1,73 @@
+{
+  "pokemonId": "scyther",
+  "nationalDexNumber": 123,
+  "variants": {
+      "default": {
+            "displayName": "Scyther",
+            "types": ["bug", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 225,
+                    "defense": 165,
+                    "speed": 215,
+                    "bst": 855
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/scyther/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/scyther/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/scyther/default/icons/full-left.png",
+                              "fullRight": "pokemon/scyther/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/scyther/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/scyther/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/scyther/default/portraits/profile.png",
+                              "intro": "pokemon/scyther/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Scyther-Shiny",
+            "types": ["bug", "flying"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 225,
+                    "defense": 165,
+                    "speed": 215,
+                    "bst": 855
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/scyther/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/scyther/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/scyther/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/scyther/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/scyther/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/scyther/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/scyther/shiny/portraits/profile.png",
+                              "intro": "pokemon/scyther/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

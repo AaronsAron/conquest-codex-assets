@@ -1,0 +1,85 @@
+{
+  "pokemonId": "weavile",
+  "nationalDexNumber": 461,
+  "variants": {
+      "default": {
+            "displayName": "Weavile",
+            "types": ["dark", "ice"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 245,
+                    "defense": 155,
+                    "speed": 255,
+                    "bst": 905
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/weavile/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/weavile/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/weavile/default/icons/full-left.png",
+                              "fullRight": "pokemon/weavile/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/weavile/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/weavile/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/weavile/default/portraits/profile.png",
+                              "intro": "pokemon/weavile/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/weavile/default/portraits/default.png",
+                                          "joyful": "pokemon/weavile/default/portraits/joyful.png",
+                                          "sad": "pokemon/weavile/default/portraits/sad.png",
+                                          "fierce": "pokemon/weavile/default/portraits/fierce.png",
+                                          "shocked": "pokemon/weavile/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Weavile-Shiny",
+            "types": ["dark", "ice"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 245,
+                    "defense": 155,
+                    "speed": 255,
+                    "bst": 905
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/weavile/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/weavile/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/weavile/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/weavile/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/weavile/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/weavile/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/weavile/shiny/portraits/profile.png",
+                              "intro": "pokemon/weavile/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/weavile/shiny/portraits/default.png",
+                                          "joyful": "pokemon/weavile/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/weavile/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/weavile/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/weavile/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "noivern",
+  "nationalDexNumber": 715,
+  "variants": {
+      "default": {
+            "displayName": "Noivern",
+            "types": ["flying", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 199,
+                    "defense": 165,
+                    "speed": 251,
+                    "bst": 895
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/noivern/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/noivern/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/noivern/default/icons/full-left.png",
+                              "fullRight": "pokemon/noivern/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/noivern/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/noivern/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/noivern/default/portraits/profile.png",
+                              "intro": "pokemon/noivern/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

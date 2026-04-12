@@ -1,0 +1,39 @@
+{
+  "pokemonId": "corvisquire",
+  "nationalDexNumber": 822,
+  "variants": {
+      "default": {
+            "displayName": "Corvisquire",
+            "types": ["flying"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 246,
+                    "attack": 139,
+                    "defense": 115,
+                    "speed": 159,
+                    "bst": 659
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/corvisquire/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/corvisquire/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/corvisquire/default/icons/full-left.png",
+                              "fullRight": "pokemon/corvisquire/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/corvisquire/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/corvisquire/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/corvisquire/default/portraits/profile.png",
+                              "intro": "pokemon/corvisquire/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

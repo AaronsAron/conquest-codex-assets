@@ -1,0 +1,85 @@
+{
+  "pokemonId": "registeel",
+  "nationalDexNumber": 379,
+  "variants": {
+      "default": {
+            "displayName": "Registeel",
+            "types": ["steel"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 155,
+                    "defense": 305,
+                    "speed": 105,
+                    "bst": 835
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/registeel/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/registeel/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/registeel/default/icons/full-left.png",
+                              "fullRight": "pokemon/registeel/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/registeel/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/registeel/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/registeel/default/portraits/profile.png",
+                              "intro": "pokemon/registeel/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/registeel/default/portraits/default.png",
+                                          "joyful": "pokemon/registeel/default/portraits/joyful.png",
+                                          "sad": "pokemon/registeel/default/portraits/sad.png",
+                                          "fierce": "pokemon/registeel/default/portraits/fierce.png",
+                                          "shocked": "pokemon/registeel/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Registeel-Shiny",
+            "types": ["steel"],
+            "tags": ["shiny", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 155,
+                    "defense": 305,
+                    "speed": 105,
+                    "bst": 835
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/registeel/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/registeel/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/registeel/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/registeel/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/registeel/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/registeel/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/registeel/shiny/portraits/profile.png",
+                              "intro": "pokemon/registeel/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/registeel/shiny/portraits/default.png",
+                                          "joyful": "pokemon/registeel/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/registeel/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/registeel/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/registeel/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

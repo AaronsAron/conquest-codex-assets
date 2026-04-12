@@ -1,0 +1,39 @@
+{
+  "pokemonId": "marshadow",
+  "nationalDexNumber": 802,
+  "variants": {
+      "default": {
+            "displayName": "Marshadow",
+            "types": ["fighting", "ghost", "mythical"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 255,
+                    "defense": 175,
+                    "speed": 255,
+                    "bst": 975
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/marshadow/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/marshadow/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/marshadow/default/icons/full-left.png",
+                              "fullRight": "pokemon/marshadow/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/marshadow/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/marshadow/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/marshadow/default/portraits/profile.png",
+                              "intro": "pokemon/marshadow/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,81 @@
+{
+  "pokemonId": "hydreigon",
+  "nationalDexNumber": 635,
+  "variants": {
+      "default": {
+            "displayName": "Hydreigon",
+            "types": ["dark", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 294,
+                    "attack": 255,
+                    "defense": 185,
+                    "speed": 201,
+                    "bst": 935
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/hydreigon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/hydreigon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/hydreigon/default/icons/full-left.png",
+                              "fullRight": "pokemon/hydreigon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/hydreigon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/hydreigon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/hydreigon/default/portraits/profile.png",
+                              "intro": "pokemon/hydreigon/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/hydreigon/default/portraits/default.png",
+                                          "joyful": "pokemon/hydreigon/default/portraits/joyful.png",
+                                          "fierce": "pokemon/hydreigon/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Hydreigon-Shiny",
+            "types": ["dark", "dragon"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 294,
+                    "attack": 255,
+                    "defense": 185,
+                    "speed": 201,
+                    "bst": 935
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/hydreigon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/hydreigon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/hydreigon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/hydreigon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/hydreigon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/hydreigon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/hydreigon/shiny/portraits/profile.png",
+                              "intro": "pokemon/hydreigon/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/hydreigon/shiny/portraits/default.png",
+                                          "joyful": "pokemon/hydreigon/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/hydreigon/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

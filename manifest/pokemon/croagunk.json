@@ -1,0 +1,73 @@
+{
+  "pokemonId": "croagunk",
+  "nationalDexNumber": 453,
+  "variants": {
+      "default": {
+            "displayName": "Croagunk",
+            "types": ["poison", "fighting"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 206,
+                    "attack": 127,
+                    "defense": 85,
+                    "speed": 105,
+                    "bst": 523
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/croagunk/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/croagunk/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/croagunk/default/icons/full-left.png",
+                              "fullRight": "pokemon/croagunk/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/croagunk/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/croagunk/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/croagunk/default/portraits/profile.png",
+                              "intro": "pokemon/croagunk/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Croagunk-Shiny",
+            "types": ["poison", "fighting"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 206,
+                    "attack": 127,
+                    "defense": 85,
+                    "speed": 105,
+                    "bst": 523
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/croagunk/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/croagunk/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/croagunk/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/croagunk/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/croagunk/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/croagunk/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/croagunk/shiny/portraits/profile.png",
+                              "intro": "pokemon/croagunk/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

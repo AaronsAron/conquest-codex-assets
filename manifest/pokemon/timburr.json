@@ -1,0 +1,73 @@
+{
+  "pokemonId": "timburr",
+  "nationalDexNumber": 532,
+  "variants": {
+      "default": {
+            "displayName": "Timburr",
+            "types": ["fighting"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 165,
+                    "defense": 95,
+                    "speed": 75,
+                    "bst": 595
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/timburr/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/timburr/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/timburr/default/icons/full-left.png",
+                              "fullRight": "pokemon/timburr/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/timburr/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/timburr/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/timburr/default/portraits/profile.png",
+                              "intro": "pokemon/timburr/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Timburr-Shiny",
+            "types": ["fighting"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 165,
+                    "defense": 95,
+                    "speed": 75,
+                    "bst": 595
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/timburr/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/timburr/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/timburr/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/timburr/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/timburr/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/timburr/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/timburr/shiny/portraits/profile.png",
+                              "intro": "pokemon/timburr/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

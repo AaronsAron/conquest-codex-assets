@@ -1,0 +1,85 @@
+{
+  "pokemonId": "arceus",
+  "nationalDexNumber": 493,
+  "variants": {
+      "default": {
+            "displayName": "Arceus",
+            "types": ["normal"],
+            "tags": ["default", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 350,
+                    "attack": 245,
+                    "defense": 245,
+                    "speed": 245,
+                    "bst": 1085
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/arceus/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/arceus/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/arceus/default/icons/full-left.png",
+                              "fullRight": "pokemon/arceus/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/arceus/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/arceus/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/arceus/default/portraits/profile.png",
+                              "intro": "pokemon/arceus/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/arceus/default/portraits/default.png",
+                                          "joyful": "pokemon/arceus/default/portraits/joyful.png",
+                                          "sad": "pokemon/arceus/default/portraits/sad.png",
+                                          "fierce": "pokemon/arceus/default/portraits/fierce.png",
+                                          "shocked": "pokemon/arceus/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Arceus-Shiny",
+            "types": ["normal"],
+            "tags": ["shiny", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 350,
+                    "attack": 245,
+                    "defense": 245,
+                    "speed": 245,
+                    "bst": 1085
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/arceus/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/arceus/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/arceus/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/arceus/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/arceus/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/arceus/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/arceus/shiny/portraits/profile.png",
+                              "intro": "pokemon/arceus/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/arceus/shiny/portraits/default.png",
+                                          "joyful": "pokemon/arceus/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/arceus/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/arceus/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/arceus/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

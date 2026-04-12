@@ -1,0 +1,39 @@
+{
+  "pokemonId": "meowscarada",
+  "nationalDexNumber": 908,
+  "variants": {
+      "default": {
+            "displayName": "Meowscarada",
+            "types": ["grass", "dark"],
+            "tags": ["default", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 262,
+                    "attack": 225,
+                    "defense": 145,
+                    "speed": 251,
+                    "bst": 883
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/meowscarada/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/meowscarada/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/meowscarada/default/icons/full-left.png",
+                              "fullRight": "pokemon/meowscarada/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/meowscarada/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/meowscarada/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/meowscarada/default/portraits/profile.png",
+                              "intro": "pokemon/meowscarada/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

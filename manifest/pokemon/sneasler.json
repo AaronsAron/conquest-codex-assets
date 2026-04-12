@@ -1,0 +1,39 @@
+{
+  "pokemonId": "sneasler",
+  "nationalDexNumber": 903,
+  "variants": {
+      "default": {
+            "displayName": "Sneasler",
+            "types": ["fighting", "poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 265,
+                    "defense": 145,
+                    "speed": 245,
+                    "bst": 925
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sneasler/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sneasler/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sneasler/default/icons/full-left.png",
+                              "fullRight": "pokemon/sneasler/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sneasler/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sneasler/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sneasler/default/portraits/profile.png",
+                              "intro": "pokemon/sneasler/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

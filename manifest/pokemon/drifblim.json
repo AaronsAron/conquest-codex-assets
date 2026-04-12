@@ -1,0 +1,73 @@
+{
+  "pokemonId": "drifblim",
+  "nationalDexNumber": 426,
+  "variants": {
+      "default": {
+            "displayName": "Drifblim",
+            "types": ["ghost", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 410,
+                    "attack": 185,
+                    "defense": 103,
+                    "speed": 165,
+                    "bst": 863
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/drifblim/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/drifblim/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/drifblim/default/icons/full-left.png",
+                              "fullRight": "pokemon/drifblim/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/drifblim/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/drifblim/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/drifblim/default/portraits/profile.png",
+                              "intro": "pokemon/drifblim/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Drifblim-Shiny",
+            "types": ["ghost", "flying"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 410,
+                    "attack": 185,
+                    "defense": 103,
+                    "speed": 165,
+                    "bst": 863
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/drifblim/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/drifblim/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/drifblim/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/drifblim/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/drifblim/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/drifblim/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/drifblim/shiny/portraits/profile.png",
+                              "intro": "pokemon/drifblim/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

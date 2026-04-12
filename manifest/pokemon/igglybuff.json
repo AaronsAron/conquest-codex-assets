@@ -1,0 +1,73 @@
+{
+  "pokemonId": "igglybuff",
+  "nationalDexNumber": 174,
+  "variants": {
+      "default": {
+            "displayName": "Igglybuff",
+            "types": ["normal", "fairy"],
+            "tags": ["default", "unevolved", "baby"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 85,
+                    "defense": 40,
+                    "speed": 35,
+                    "bst": 450
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/igglybuff/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/igglybuff/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/igglybuff/default/icons/full-left.png",
+                              "fullRight": "pokemon/igglybuff/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/igglybuff/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/igglybuff/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/igglybuff/default/portraits/profile.png",
+                              "intro": "pokemon/igglybuff/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Igglybuff-Shiny",
+            "types": ["normal", "fairy"],
+            "tags": ["shiny", "unevolved", "baby"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 85,
+                    "defense": 40,
+                    "speed": 35,
+                    "bst": 450
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/igglybuff/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/igglybuff/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/igglybuff/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/igglybuff/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/igglybuff/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/igglybuff/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/igglybuff/shiny/portraits/profile.png",
+                              "intro": "pokemon/igglybuff/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

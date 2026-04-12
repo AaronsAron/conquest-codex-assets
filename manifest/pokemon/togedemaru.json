@@ -1,0 +1,39 @@
+{
+  "pokemonId": "togedemaru",
+  "nationalDexNumber": 777,
+  "variants": {
+      "default": {
+            "displayName": "Togedemaru",
+            "types": ["electric", "steel"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 201,
+                    "defense": 141,
+                    "speed": 197,
+                    "bst": 779
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/togedemaru/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/togedemaru/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/togedemaru/default/icons/full-left.png",
+                              "fullRight": "pokemon/togedemaru/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/togedemaru/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/togedemaru/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/togedemaru/default/portraits/profile.png",
+                              "intro": "pokemon/togedemaru/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

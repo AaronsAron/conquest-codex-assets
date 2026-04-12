@@ -1,0 +1,39 @@
+{
+  "pokemonId": "hakamo-o",
+  "nationalDexNumber": 783,
+  "variants": {
+      "default": {
+            "displayName": "Hakamo-o",
+            "types": ["dragon", "fighting"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 155,
+                    "defense": 165,
+                    "speed": 135,
+                    "bst": 675
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/hakamo-o/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/hakamo-o/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/hakamo-o/default/icons/full-left.png",
+                              "fullRight": "pokemon/hakamo-o/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/hakamo-o/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/hakamo-o/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/hakamo-o/default/portraits/profile.png",
+                              "intro": "pokemon/hakamo-o/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

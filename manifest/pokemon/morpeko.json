@@ -1,0 +1,39 @@
+{
+  "pokemonId": "morpeko",
+  "nationalDexNumber": 877,
+  "variants": {
+      "default": {
+            "displayName": "Morpeko-Full Belly",
+            "types": ["electric", "dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 226,
+                    "attack": 195,
+                    "defense": 121,
+                    "speed": 199,
+                    "bst": 741
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/morpeko/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/morpeko/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/morpeko/default/icons/full-left.png",
+                              "fullRight": "pokemon/morpeko/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/morpeko/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/morpeko/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/morpeko/default/portraits/profile.png",
+                              "intro": "pokemon/morpeko/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "glalie",
+  "nationalDexNumber": 362,
+  "variants": {
+      "default": {
+            "displayName": "Glalie",
+            "types": ["ice"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 165,
+                    "defense": 165,
+                    "speed": 165,
+                    "bst": 765
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/glalie/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/glalie/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/glalie/default/icons/full-left.png",
+                              "fullRight": "pokemon/glalie/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/glalie/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/glalie/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/glalie/default/portraits/profile.png",
+                              "intro": "pokemon/glalie/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Glalie-Shiny",
+            "types": ["ice"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 165,
+                    "defense": 165,
+                    "speed": 165,
+                    "bst": 765
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/glalie/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/glalie/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/glalie/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/glalie/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/glalie/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/glalie/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/glalie/shiny/portraits/profile.png",
+                              "intro": "pokemon/glalie/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

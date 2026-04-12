@@ -1,0 +1,79 @@
+{
+  "pokemonId": "dialga",
+  "nationalDexNumber": 483,
+  "variants": {
+      "default": {
+            "displayName": "Dialga",
+            "types": ["steel", "dragon"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 305,
+                    "defense": 225,
+                    "speed": 185,
+                    "bst": 1025
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/dialga/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dialga/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dialga/default/icons/full-left.png",
+                              "fullRight": "pokemon/dialga/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dialga/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dialga/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dialga/default/portraits/profile.png",
+                              "intro": "pokemon/dialga/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/dialga/default/portraits/default.png",
+                                          "fierce": "pokemon/dialga/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Dialga-Shiny",
+            "types": ["steel", "dragon"],
+            "tags": ["shiny", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 305,
+                    "defense": 225,
+                    "speed": 185,
+                    "bst": 1025
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/dialga/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dialga/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dialga/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/dialga/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/dialga/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dialga/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dialga/shiny/portraits/profile.png",
+                              "intro": "pokemon/dialga/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/dialga/shiny/portraits/default.png",
+                                          "fierce": "pokemon/dialga/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

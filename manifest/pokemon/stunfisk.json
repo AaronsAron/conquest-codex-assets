@@ -1,0 +1,39 @@
+{
+  "pokemonId": "stunfisk",
+  "nationalDexNumber": 618,
+  "variants": {
+      "default": {
+            "displayName": "Stunfisk",
+            "types": ["ground", "electric"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 328,
+                    "attack": 167,
+                    "defense": 188,
+                    "speed": 69,
+                    "bst": 752
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/stunfisk/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/stunfisk/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/stunfisk/default/icons/full-left.png",
+                              "fullRight": "pokemon/stunfisk/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/stunfisk/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/stunfisk/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/stunfisk/default/portraits/profile.png",
+                              "intro": "pokemon/stunfisk/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

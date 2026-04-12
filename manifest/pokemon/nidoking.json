@@ -1,0 +1,39 @@
+{
+  "pokemonId": "nidoking",
+  "nationalDexNumber": 34,
+  "variants": {
+      "default": {
+            "displayName": "Nidoking",
+            "types": ["poison", "ground"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 272,
+                    "attack": 209,
+                    "defense": 157,
+                    "speed": 175,
+                    "bst": 813
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/nidoking/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/nidoking/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/nidoking/default/icons/full-left.png",
+                              "fullRight": "pokemon/nidoking/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/nidoking/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/nidoking/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/nidoking/default/portraits/profile.png",
+                              "intro": "pokemon/nidoking/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

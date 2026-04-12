@@ -1,0 +1,73 @@
+{
+  "pokemonId": "walrein",
+  "nationalDexNumber": 365,
+  "variants": {
+      "default": {
+            "displayName": "Walrein",
+            "types": ["ice", "water"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 330,
+                    "attack": 195,
+                    "defense": 185,
+                    "speed": 135,
+                    "bst": 845
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/walrein/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/walrein/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/walrein/default/icons/full-left.png",
+                              "fullRight": "pokemon/walrein/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/walrein/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/walrein/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/walrein/default/portraits/profile.png",
+                              "intro": "pokemon/walrein/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Walrein-Shiny",
+            "types": ["ice", "water"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 330,
+                    "attack": 195,
+                    "defense": 185,
+                    "speed": 135,
+                    "bst": 845
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/walrein/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/walrein/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/walrein/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/walrein/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/walrein/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/walrein/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/walrein/shiny/portraits/profile.png",
+                              "intro": "pokemon/walrein/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "lycanroc",
+  "nationalDexNumber": 745,
+  "variants": {
+      "default": {
+            "displayName": "Lycanroc-Midday",
+            "types": ["rock"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 235,
+                    "defense": 135,
+                    "speed": 229,
+                    "bst": 859
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/lycanroc/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lycanroc/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lycanroc/default/icons/full-left.png",
+                              "fullRight": "pokemon/lycanroc/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/lycanroc/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lycanroc/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lycanroc/default/portraits/profile.png",
+                              "intro": "pokemon/lycanroc/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

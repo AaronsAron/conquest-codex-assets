@@ -1,0 +1,39 @@
+{
+  "pokemonId": "great-tusk",
+  "nationalDexNumber": 984,
+  "variants": {
+      "default": {
+            "displayName": "Great Tusk",
+            "types": ["ground", "fighting"],
+            "tags": ["default", "fully-evolved", "paradox"],
+            "stats": {
+                    "hp": 340,
+                    "attack": 267,
+                    "defense": 189,
+                    "speed": 179,
+                    "bst": 975
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/great-tusk/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/great-tusk/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/great-tusk/default/icons/full-left.png",
+                              "fullRight": "pokemon/great-tusk/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/great-tusk/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/great-tusk/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/great-tusk/default/portraits/profile.png",
+                              "intro": "pokemon/great-tusk/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

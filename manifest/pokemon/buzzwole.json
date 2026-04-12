@@ -1,0 +1,39 @@
+{
+  "pokemonId": "buzzwole",
+  "nationalDexNumber": 794,
+  "variants": {
+      "default": {
+            "displayName": "Buzzwole",
+            "types": ["bug", "fighting"],
+            "tags": ["default", "fully-evolved", "ultra-beast"],
+            "stats": {
+                    "hp": 324,
+                    "attack": 283,
+                    "defense": 197,
+                    "speed": 163,
+                    "bst": 967
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/buzzwole/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/buzzwole/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/buzzwole/default/icons/full-left.png",
+                              "fullRight": "pokemon/buzzwole/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/buzzwole/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/buzzwole/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/buzzwole/default/portraits/profile.png",
+                              "intro": "pokemon/buzzwole/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

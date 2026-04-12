@@ -1,0 +1,39 @@
+{
+  "pokemonId": "crabrawler",
+  "nationalDexNumber": 739,
+  "variants": {
+      "default": {
+            "displayName": "Crabrawler",
+            "types": ["fighting"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 204,
+                    "attack": 169,
+                    "defense": 109,
+                    "speed": 131,
+                    "bst": 613
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/crabrawler/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/crabrawler/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/crabrawler/default/icons/full-left.png",
+                              "fullRight": "pokemon/crabrawler/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/crabrawler/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/crabrawler/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/crabrawler/default/portraits/profile.png",
+                              "intro": "pokemon/crabrawler/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

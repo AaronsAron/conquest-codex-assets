@@ -1,0 +1,39 @@
+{
+  "pokemonId": "camerupt",
+  "nationalDexNumber": 323,
+  "variants": {
+      "default": {
+            "displayName": "Camerupt",
+            "types": ["fire", "ground"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 215,
+                    "defense": 150,
+                    "speed": 85,
+                    "bst": 700
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/camerupt/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/camerupt/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/camerupt/default/icons/full-left.png",
+                              "fullRight": "pokemon/camerupt/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/camerupt/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/camerupt/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/camerupt/default/portraits/profile.png",
+                              "intro": "pokemon/camerupt/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

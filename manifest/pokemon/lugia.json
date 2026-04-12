@@ -1,0 +1,73 @@
+{
+  "pokemonId": "lugia",
+  "nationalDexNumber": 249,
+  "variants": {
+      "default": {
+            "displayName": "Lugia",
+            "types": ["psychic", "flying"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 322,
+                    "attack": 185,
+                    "defense": 289,
+                    "speed": 225,
+                    "bst": 1021
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/lugia/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lugia/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lugia/default/icons/full-left.png",
+                              "fullRight": "pokemon/lugia/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/lugia/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lugia/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lugia/default/portraits/profile.png",
+                              "intro": "pokemon/lugia/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shadow": {
+            "displayName": "Lugia-Shadow",
+            "types": ["psychic", "flying"],
+            "tags": ["shadow", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 322,
+                    "attack": 185,
+                    "defense": 289,
+                    "speed": 225,
+                    "bst": 1021
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/lugia/shadow/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lugia/shadow/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lugia/shadow/icons/full-left.png",
+                              "fullRight": "pokemon/lugia/shadow/icons/full-right.png",
+                              "croppedLeft": "pokemon/lugia/shadow/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lugia/shadow/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lugia/shadow/portraits/profile.png",
+                              "intro": "pokemon/lugia/shadow/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

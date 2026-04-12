@@ -1,0 +1,39 @@
+{
+  "pokemonId": "roserade",
+  "nationalDexNumber": 407,
+  "variants": {
+      "default": {
+            "displayName": "Roserade",
+            "types": ["grass", "poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 255,
+                    "defense": 175,
+                    "speed": 185,
+                    "bst": 845
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/roserade/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/roserade/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/roserade/default/icons/full-left.png",
+                              "fullRight": "pokemon/roserade/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/roserade/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/roserade/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/roserade/default/portraits/profile.png",
+                              "intro": "pokemon/roserade/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

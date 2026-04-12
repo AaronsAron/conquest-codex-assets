@@ -1,0 +1,39 @@
+{
+  "pokemonId": "obstagoon",
+  "nationalDexNumber": 862,
+  "variants": {
+      "default": {
+            "displayName": "Obstagoon",
+            "types": ["dark", "normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 296,
+                    "attack": 185,
+                    "defense": 187,
+                    "speed": 195,
+                    "bst": 863
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/obstagoon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/obstagoon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/obstagoon/default/icons/full-left.png",
+                              "fullRight": "pokemon/obstagoon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/obstagoon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/obstagoon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/obstagoon/default/portraits/profile.png",
+                              "intro": "pokemon/obstagoon/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

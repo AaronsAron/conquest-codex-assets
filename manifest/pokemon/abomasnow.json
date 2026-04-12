@@ -1,0 +1,39 @@
+{
+  "pokemonId": "abomasnow",
+  "nationalDexNumber": 460,
+  "variants": {
+      "default": {
+            "displayName": "Abomasnow",
+            "types": ["grass", "ice"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 189,
+                    "defense": 165,
+                    "speed": 125,
+                    "bst": 769
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/abomasnow/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/abomasnow/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/abomasnow/default/icons/full-left.png",
+                              "fullRight": "pokemon/abomasnow/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/abomasnow/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/abomasnow/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/abomasnow/default/portraits/profile.png",
+                              "intro": "pokemon/abomasnow/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

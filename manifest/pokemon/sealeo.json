@@ -1,0 +1,73 @@
+{
+  "pokemonId": "sealeo",
+  "nationalDexNumber": 364,
+  "variants": {
+      "default": {
+            "displayName": "Sealeo",
+            "types": ["ice", "water"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 155,
+                    "defense": 145,
+                    "speed": 95,
+                    "bst": 685
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sealeo/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sealeo/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sealeo/default/icons/full-left.png",
+                              "fullRight": "pokemon/sealeo/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sealeo/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sealeo/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sealeo/default/portraits/profile.png",
+                              "intro": "pokemon/sealeo/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Sealeo-Shiny",
+            "types": ["ice", "water"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 155,
+                    "defense": 145,
+                    "speed": 95,
+                    "bst": 685
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sealeo/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sealeo/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sealeo/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/sealeo/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/sealeo/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sealeo/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sealeo/shiny/portraits/profile.png",
+                              "intro": "pokemon/sealeo/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

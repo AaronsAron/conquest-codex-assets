@@ -1,0 +1,73 @@
+{
+  "pokemonId": "pupitar",
+  "nationalDexNumber": 247,
+  "variants": {
+      "default": {
+            "displayName": "Pupitar",
+            "types": ["rock", "ground"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 173,
+                    "defense": 145,
+                    "speed": 107,
+                    "bst": 675
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pupitar/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pupitar/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pupitar/default/icons/full-left.png",
+                              "fullRight": "pokemon/pupitar/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/pupitar/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pupitar/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pupitar/default/portraits/profile.png",
+                              "intro": "pokemon/pupitar/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Pupitar-Shiny",
+            "types": ["rock", "ground"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 173,
+                    "defense": 145,
+                    "speed": 107,
+                    "bst": 675
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pupitar/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pupitar/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pupitar/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/pupitar/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/pupitar/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pupitar/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pupitar/shiny/portraits/profile.png",
+                              "intro": "pokemon/pupitar/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

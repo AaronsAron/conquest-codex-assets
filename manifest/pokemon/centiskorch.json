@@ -1,0 +1,39 @@
+{
+  "pokemonId": "centiskorch",
+  "nationalDexNumber": 851,
+  "variants": {
+      "default": {
+            "displayName": "Centiskorch",
+            "types": ["fire", "bug"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 235,
+                    "defense": 160,
+                    "speed": 135,
+                    "bst": 840
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/centiskorch/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/centiskorch/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/centiskorch/default/icons/full-left.png",
+                              "fullRight": "pokemon/centiskorch/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/centiskorch/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/centiskorch/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/centiskorch/default/portraits/profile.png",
+                              "intro": "pokemon/centiskorch/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

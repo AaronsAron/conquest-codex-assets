@@ -1,0 +1,39 @@
+{
+  "pokemonId": "vulpix",
+  "nationalDexNumber": 37,
+  "variants": {
+      "alola": {
+            "displayName": "Vulpix-Alola",
+            "types": ["ice"],
+            "tags": ["alola", "unevolved"],
+            "stats": {
+                    "hp": 186,
+                    "attack": 105,
+                    "defense": 110,
+                    "speed": 135,
+                    "bst": 536
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/vulpix/alola/meta.json",
+                    "battle": {
+                              "animation": "pokemon/vulpix/alola/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/vulpix/alola/icons/full-left.png",
+                              "fullRight": "pokemon/vulpix/alola/icons/full-right.png",
+                              "croppedLeft": "pokemon/vulpix/alola/icons/cropped-left.png",
+                              "croppedRight": "pokemon/vulpix/alola/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/vulpix/alola/portraits/profile.png",
+                              "intro": "pokemon/vulpix/alola/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "altaria",
+  "nationalDexNumber": 334,
+  "variants": {
+      "default": {
+            "displayName": "Altaria",
+            "types": ["dragon", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 145,
+                    "defense": 200,
+                    "speed": 165,
+                    "bst": 770
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/altaria/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/altaria/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/altaria/default/icons/full-left.png",
+                              "fullRight": "pokemon/altaria/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/altaria/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/altaria/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/altaria/default/portraits/profile.png",
+                              "intro": "pokemon/altaria/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "mega": {
+            "displayName": "Altaria-Mega",
+            "types": ["dragon", "fairy"],
+            "tags": ["mega"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 225,
+                    "defense": 220,
+                    "speed": 165,
+                    "bst": 870
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/altaria/mega/meta.json",
+                    "battle": {
+                              "animation": "pokemon/altaria/mega/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/altaria/mega/icons/full-left.png",
+                              "fullRight": "pokemon/altaria/mega/icons/full-right.png",
+                              "croppedLeft": "pokemon/altaria/mega/icons/cropped-left.png",
+                              "croppedRight": "pokemon/altaria/mega/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/altaria/mega/portraits/profile.png",
+                              "intro": "pokemon/altaria/mega/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

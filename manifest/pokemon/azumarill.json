@@ -1,0 +1,39 @@
+{
+  "pokemonId": "azumarill",
+  "nationalDexNumber": 184,
+  "variants": {
+      "default": {
+            "displayName": "Azumarill",
+            "types": ["water", "fairy"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 125,
+                    "defense": 165,
+                    "speed": 105,
+                    "bst": 705
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/azumarill/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/azumarill/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/azumarill/default/icons/full-left.png",
+                              "fullRight": "pokemon/azumarill/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/azumarill/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/azumarill/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/azumarill/default/portraits/profile.png",
+                              "intro": "pokemon/azumarill/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

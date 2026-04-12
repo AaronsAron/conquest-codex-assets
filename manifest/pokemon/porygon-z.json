@@ -1,0 +1,49 @@
+{
+  "pokemonId": "porygon-z",
+  "nationalDexNumber": 474,
+  "variants": {
+      "default": {
+            "displayName": "Porygon-Z",
+            "types": ["normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 275,
+                    "defense": 150,
+                    "speed": 185,
+                    "bst": 890
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/porygon-z/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/porygon-z/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/porygon-z/default/icons/full-left.png",
+                              "fullRight": "pokemon/porygon-z/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/porygon-z/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/porygon-z/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/porygon-z/default/portraits/profile.png",
+                              "intro": "pokemon/porygon-z/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {
+                    "battleAnimation": [
+                              {
+                                          "id": "alternate-default",
+                                          "path": "pokemon/porygon-z/alternate-default/battle/animation.png",
+                                          "animationFlags": {"asymmetric": false, "longAttack": false},
+                                          "artists": ["Snap"],
+                                          "dateModified": "2026-04-01"
+                                        }
+                            ]
+                  }
+          }
+    }
+}

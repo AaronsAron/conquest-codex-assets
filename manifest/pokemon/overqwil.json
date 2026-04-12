@@ -1,0 +1,39 @@
+{
+  "pokemonId": "overqwil",
+  "nationalDexNumber": 904,
+  "variants": {
+      "default": {
+            "displayName": "Overqwil",
+            "types": ["dark", "poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 235,
+                    "defense": 165,
+                    "speed": 175,
+                    "bst": 855
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/overqwil/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/overqwil/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/overqwil/default/icons/full-left.png",
+                              "fullRight": "pokemon/overqwil/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/overqwil/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/overqwil/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/overqwil/default/portraits/profile.png",
+                              "intro": "pokemon/overqwil/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

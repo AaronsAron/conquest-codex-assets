@@ -1,0 +1,39 @@
+{
+  "pokemonId": "basculegion",
+  "nationalDexNumber": 902,
+  "variants": {
+      "default": {
+            "displayName": "Basculegion-Male",
+            "types": ["water", "ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 350,
+                    "attack": 229,
+                    "defense": 145,
+                    "speed": 161,
+                    "bst": 885
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/basculegion/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/basculegion/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/basculegion/default/icons/full-left.png",
+                              "fullRight": "pokemon/basculegion/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/basculegion/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/basculegion/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/basculegion/default/portraits/profile.png",
+                              "intro": "pokemon/basculegion/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

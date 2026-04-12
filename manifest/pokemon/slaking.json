@@ -1,0 +1,39 @@
+{
+  "pokemonId": "slaking",
+  "nationalDexNumber": 289,
+  "variants": {
+      "default": {
+            "displayName": "Slaking",
+            "types": ["normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 410,
+                    "attack": 325,
+                    "defense": 170,
+                    "speed": 205,
+                    "bst": 1110
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/slaking/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/slaking/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/slaking/default/icons/full-left.png",
+                              "fullRight": "pokemon/slaking/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/slaking/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/slaking/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/slaking/default/portraits/profile.png",
+                              "intro": "pokemon/slaking/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

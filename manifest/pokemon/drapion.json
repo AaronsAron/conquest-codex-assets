@@ -1,0 +1,73 @@
+{
+  "pokemonId": "drapion",
+  "nationalDexNumber": 452,
+  "variants": {
+      "default": {
+            "displayName": "Drapion",
+            "types": ["poison", "dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 185,
+                    "defense": 190,
+                    "speed": 195,
+                    "bst": 820
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/drapion/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/drapion/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/drapion/default/icons/full-left.png",
+                              "fullRight": "pokemon/drapion/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/drapion/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/drapion/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/drapion/default/portraits/profile.png",
+                              "intro": "pokemon/drapion/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Drapion-Shiny",
+            "types": ["poison", "dark"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 185,
+                    "defense": 190,
+                    "speed": 195,
+                    "bst": 820
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/drapion/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/drapion/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/drapion/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/drapion/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/drapion/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/drapion/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/drapion/shiny/portraits/profile.png",
+                              "intro": "pokemon/drapion/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "sentret",
+  "nationalDexNumber": 161,
+  "variants": {
+      "default": {
+            "displayName": "Sentret",
+            "types": ["normal"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 180,
+                    "attack": 97,
+                    "defense": 84,
+                    "speed": 45,
+                    "bst": 406
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sentret/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sentret/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sentret/default/icons/full-left.png",
+                              "fullRight": "pokemon/sentret/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sentret/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sentret/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sentret/default/portraits/profile.png",
+                              "intro": "pokemon/sentret/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

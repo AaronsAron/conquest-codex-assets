@@ -1,0 +1,39 @@
+{
+  "pokemonId": "cobalion",
+  "nationalDexNumber": 638,
+  "variants": {
+      "default": {
+            "displayName": "Cobalion",
+            "types": ["steel", "fighting"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 292,
+                    "attack": 185,
+                    "defense": 206,
+                    "speed": 221,
+                    "bst": 904
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/cobalion/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/cobalion/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/cobalion/default/icons/full-left.png",
+                              "fullRight": "pokemon/cobalion/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/cobalion/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/cobalion/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/cobalion/default/portraits/profile.png",
+                              "intro": "pokemon/cobalion/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

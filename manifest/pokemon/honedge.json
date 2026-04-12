@@ -1,0 +1,39 @@
+{
+  "pokemonId": "honedge",
+  "nationalDexNumber": 679,
+  "variants": {
+      "default": {
+            "displayName": "Honedge",
+            "types": ["steel", "ghost"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 165,
+                    "defense": 142,
+                    "speed": 61,
+                    "bst": 568
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/honedge/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/honedge/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/honedge/default/icons/full-left.png",
+                              "fullRight": "pokemon/honedge/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/honedge/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/honedge/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/honedge/default/portraits/profile.png",
+                              "intro": "pokemon/honedge/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,83 @@
+{
+  "pokemonId": "braviary",
+  "nationalDexNumber": 628,
+  "variants": {
+      "default": {
+            "displayName": "Braviary",
+            "types": ["normal", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 251,
+                    "defense": 155,
+                    "speed": 165,
+                    "bst": 881
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/braviary/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/braviary/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/braviary/default/icons/full-left.png",
+                              "fullRight": "pokemon/braviary/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/braviary/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/braviary/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/braviary/default/portraits/profile.png",
+                              "intro": "pokemon/braviary/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/braviary/default/portraits/default.png",
+                                          "joyful": "pokemon/braviary/default/portraits/joyful.png",
+                                          "fierce": "pokemon/braviary/default/portraits/fierce.png",
+                                          "shocked": "pokemon/braviary/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Braviary-Shiny",
+            "types": ["normal", "flying"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 251,
+                    "defense": 155,
+                    "speed": 165,
+                    "bst": 881
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/braviary/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/braviary/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/braviary/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/braviary/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/braviary/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/braviary/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/braviary/shiny/portraits/profile.png",
+                              "intro": "pokemon/braviary/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/braviary/shiny/portraits/default.png",
+                                          "joyful": "pokemon/braviary/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/braviary/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/braviary/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

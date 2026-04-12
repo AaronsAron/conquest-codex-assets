@@ -1,0 +1,39 @@
+{
+  "pokemonId": "doublade",
+  "nationalDexNumber": 680,
+  "variants": {
+      "default": {
+            "displayName": "Doublade",
+            "types": ["steel", "ghost"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 228,
+                    "attack": 225,
+                    "defense": 204,
+                    "speed": 75,
+                    "bst": 732
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/doublade/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/doublade/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/doublade/default/icons/full-left.png",
+                              "fullRight": "pokemon/doublade/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/doublade/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/doublade/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/doublade/default/portraits/profile.png",
+                              "intro": "pokemon/doublade/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

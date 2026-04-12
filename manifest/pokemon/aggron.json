@@ -1,0 +1,95 @@
+{
+  "pokemonId": "aggron",
+  "nationalDexNumber": 306,
+  "variants": {
+      "default": {
+            "displayName": "Aggron",
+            "types": ["steel", "rock"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 225,
+                    "defense": 245,
+                    "speed": 105,
+                    "bst": 825
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/aggron/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/aggron/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/aggron/default/icons/full-left.png",
+                              "fullRight": "pokemon/aggron/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/aggron/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/aggron/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/aggron/default/portraits/profile.png",
+                              "intro": "pokemon/aggron/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/aggron/default/portraits/default.png",
+                                          "joyful": "pokemon/aggron/default/portraits/joyful.png",
+                                          "sad": "pokemon/aggron/default/portraits/sad.png",
+                                          "fierce": "pokemon/aggron/default/portraits/fierce.png",
+                                          "shocked": "pokemon/aggron/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {
+                    "battleAnimation": [
+                              {
+                                          "id": "alternate-default",
+                                          "path": "pokemon/aggron/alternate-default/battle/animation.png",
+                                          "animationFlags": {"asymmetric": false, "longAttack": false},
+                                          "artists": ["Koei Tecmo", "Aaron's Aron"],
+                                          "dateModified": "2026-04-01"
+                                        }
+                            ]
+                  }
+          },
+  
+      "shiny": {
+            "displayName": "Aggron-Shiny",
+            "types": ["steel", "rock"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 225,
+                    "defense": 245,
+                    "speed": 105,
+                    "bst": 825
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/aggron/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/aggron/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/aggron/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/aggron/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/aggron/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/aggron/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/aggron/shiny/portraits/profile.png",
+                              "intro": "pokemon/aggron/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/aggron/shiny/portraits/default.png",
+                                          "joyful": "pokemon/aggron/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/aggron/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/aggron/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/aggron/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

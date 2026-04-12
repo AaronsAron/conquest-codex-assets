@@ -1,0 +1,39 @@
+{
+  "pokemonId": "dragapult",
+  "nationalDexNumber": 887,
+  "variants": {
+      "default": {
+            "displayName": "Dragapult",
+            "types": ["dragon", "ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 286,
+                    "attack": 245,
+                    "defense": 155,
+                    "speed": 289,
+                    "bst": 975
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dragapult/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dragapult/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dragapult/default/icons/full-left.png",
+                              "fullRight": "pokemon/dragapult/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dragapult/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dragapult/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dragapult/default/portraits/profile.png",
+                              "intro": "pokemon/dragapult/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

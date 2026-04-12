@@ -1,0 +1,39 @@
+{
+  "pokemonId": "farigiraf",
+  "nationalDexNumber": 981,
+  "variants": {
+      "default": {
+            "displayName": "Farigiraf",
+            "types": ["normal", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 350,
+                    "attack": 225,
+                    "defense": 145,
+                    "speed": 125,
+                    "bst": 845
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/farigiraf/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/farigiraf/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/farigiraf/default/icons/full-left.png",
+                              "fullRight": "pokemon/farigiraf/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/farigiraf/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/farigiraf/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/farigiraf/default/portraits/profile.png",
+                              "intro": "pokemon/farigiraf/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

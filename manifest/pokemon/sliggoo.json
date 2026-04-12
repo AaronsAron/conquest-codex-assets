@@ -1,0 +1,39 @@
+{
+  "pokemonId": "sliggoo",
+  "nationalDexNumber": 705,
+  "variants": {
+      "hisui": {
+            "displayName": "Sliggoo-Hisui",
+            "types": ["dragon", "steel"],
+            "tags": ["hisui", "not-fully-evolved"],
+            "stats": {
+                    "hp": 226,
+                    "attack": 171,
+                    "defense": 201,
+                    "speed": 85,
+                    "bst": 683
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sliggoo/hisui/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sliggoo/hisui/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sliggoo/hisui/icons/full-left.png",
+                              "fullRight": "pokemon/sliggoo/hisui/icons/full-right.png",
+                              "croppedLeft": "pokemon/sliggoo/hisui/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sliggoo/hisui/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sliggoo/hisui/portraits/profile.png",
+                              "intro": "pokemon/sliggoo/hisui/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

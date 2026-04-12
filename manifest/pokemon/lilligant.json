@@ -1,0 +1,107 @@
+{
+  "pokemonId": "lilligant",
+  "nationalDexNumber": 549,
+  "variants": {
+      "default": {
+            "displayName": "Lilligant",
+            "types": ["grass"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 225,
+                    "defense": 155,
+                    "speed": 185,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/lilligant/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lilligant/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lilligant/default/icons/full-left.png",
+                              "fullRight": "pokemon/lilligant/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/lilligant/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lilligant/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lilligant/default/portraits/profile.png",
+                              "intro": "pokemon/lilligant/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "hisui": {
+            "displayName": "Lilligant-Hisui",
+            "types": ["grass", "fighting"],
+            "tags": ["hisui", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 215,
+                    "defense": 155,
+                    "speed": 215,
+                    "bst": 865
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/lilligant/hisui/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lilligant/hisui/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lilligant/hisui/icons/full-left.png",
+                              "fullRight": "pokemon/lilligant/hisui/icons/full-right.png",
+                              "croppedLeft": "pokemon/lilligant/hisui/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lilligant/hisui/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lilligant/hisui/portraits/profile.png",
+                              "intro": "pokemon/lilligant/hisui/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Lilligant-Shiny",
+            "types": ["grass"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 225,
+                    "defense": 155,
+                    "speed": 185,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/lilligant/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lilligant/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lilligant/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/lilligant/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/lilligant/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lilligant/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lilligant/shiny/portraits/profile.png",
+                              "intro": "pokemon/lilligant/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

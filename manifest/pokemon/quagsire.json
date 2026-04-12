@@ -1,0 +1,73 @@
+{
+  "pokemonId": "quagsire",
+  "nationalDexNumber": 195,
+  "variants": {
+      "default": {
+            "displayName": "Quagsire",
+            "types": ["water", "ground"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 175,
+                    "defense": 155,
+                    "speed": 75,
+                    "bst": 705
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/quagsire/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/quagsire/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/quagsire/default/icons/full-left.png",
+                              "fullRight": "pokemon/quagsire/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/quagsire/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/quagsire/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/quagsire/default/portraits/profile.png",
+                              "intro": "pokemon/quagsire/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Quagsire-Shiny",
+            "types": ["water", "ground"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 175,
+                    "defense": 155,
+                    "speed": 75,
+                    "bst": 705
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/quagsire/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/quagsire/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/quagsire/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/quagsire/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/quagsire/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/quagsire/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/quagsire/shiny/portraits/profile.png",
+                              "intro": "pokemon/quagsire/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

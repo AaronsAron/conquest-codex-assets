@@ -1,0 +1,81 @@
+{
+  "pokemonId": "rhyperior",
+  "nationalDexNumber": 464,
+  "variants": {
+      "default": {
+            "displayName": "Rhyperior",
+            "types": ["ground", "rock"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 340,
+                    "attack": 285,
+                    "defense": 190,
+                    "speed": 85,
+                    "bst": 900
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/rhyperior/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rhyperior/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rhyperior/default/icons/full-left.png",
+                              "fullRight": "pokemon/rhyperior/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/rhyperior/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rhyperior/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rhyperior/default/portraits/profile.png",
+                              "intro": "pokemon/rhyperior/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/rhyperior/default/portraits/default.png",
+                                          "joyful": "pokemon/rhyperior/default/portraits/joyful.png",
+                                          "fierce": "pokemon/rhyperior/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Rhyperior-Shiny",
+            "types": ["ground", "rock"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 340,
+                    "attack": 285,
+                    "defense": 190,
+                    "speed": 85,
+                    "bst": 900
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/rhyperior/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rhyperior/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rhyperior/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/rhyperior/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/rhyperior/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rhyperior/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rhyperior/shiny/portraits/profile.png",
+                              "intro": "pokemon/rhyperior/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/rhyperior/shiny/portraits/default.png",
+                                          "joyful": "pokemon/rhyperior/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/rhyperior/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

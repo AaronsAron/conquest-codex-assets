@@ -1,0 +1,39 @@
+{
+  "pokemonId": "latios",
+  "nationalDexNumber": 381,
+  "variants": {
+      "default": {
+            "displayName": "Latios",
+            "types": ["dragon", "psychic"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 265,
+                    "defense": 195,
+                    "speed": 225,
+                    "bst": 955
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/latios/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/latios/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/latios/default/icons/full-left.png",
+                              "fullRight": "pokemon/latios/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/latios/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/latios/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/latios/default/portraits/profile.png",
+                              "intro": "pokemon/latios/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

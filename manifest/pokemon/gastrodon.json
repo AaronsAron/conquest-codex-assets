@@ -1,0 +1,39 @@
+{
+  "pokemonId": "gastrodon",
+  "nationalDexNumber": 423,
+  "variants": {
+      "east-sea": {
+            "displayName": "Gastrodon-East Sea",
+            "types": ["water", "ground"],
+            "tags": ["east-sea", "fully-evolved"],
+            "stats": {
+                    "hp": 332,
+                    "attack": 189,
+                    "defense": 155,
+                    "speed": 83,
+                    "bst": 759
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gastrodon/east-sea/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gastrodon/east-sea/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gastrodon/east-sea/icons/full-left.png",
+                              "fullRight": "pokemon/gastrodon/east-sea/icons/full-right.png",
+                              "croppedLeft": "pokemon/gastrodon/east-sea/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gastrodon/east-sea/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gastrodon/east-sea/portraits/profile.png",
+                              "intro": "pokemon/gastrodon/east-sea/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

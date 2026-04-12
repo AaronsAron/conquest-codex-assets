@@ -1,0 +1,39 @@
+{
+  "pokemonId": "tropius",
+  "nationalDexNumber": 357,
+  "variants": {
+      "default": {
+            "displayName": "Tropius",
+            "types": ["grass", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 308,
+                    "attack": 149,
+                    "defense": 175,
+                    "speed": 107,
+                    "bst": 739
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/tropius/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/tropius/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/tropius/default/icons/full-left.png",
+                              "fullRight": "pokemon/tropius/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/tropius/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/tropius/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/tropius/default/portraits/profile.png",
+                              "intro": "pokemon/tropius/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

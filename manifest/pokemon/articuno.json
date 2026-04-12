@@ -1,0 +1,85 @@
+{
+  "pokemonId": "articuno",
+  "nationalDexNumber": 144,
+  "variants": {
+      "default": {
+            "displayName": "Articuno",
+            "types": ["ice", "flying"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 195,
+                    "defense": 230,
+                    "speed": 175,
+                    "bst": 890
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/articuno/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/articuno/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/articuno/default/icons/full-left.png",
+                              "fullRight": "pokemon/articuno/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/articuno/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/articuno/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/articuno/default/portraits/profile.png",
+                              "intro": "pokemon/articuno/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/articuno/default/portraits/default.png",
+                                          "joyful": "pokemon/articuno/default/portraits/joyful.png",
+                                          "sad": "pokemon/articuno/default/portraits/sad.png",
+                                          "fierce": "pokemon/articuno/default/portraits/fierce.png",
+                                          "shocked": "pokemon/articuno/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Articuno-Shiny",
+            "types": ["ice", "flying"],
+            "tags": ["shiny", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 195,
+                    "defense": 230,
+                    "speed": 175,
+                    "bst": 890
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/articuno/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/articuno/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/articuno/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/articuno/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/articuno/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/articuno/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/articuno/shiny/portraits/profile.png",
+                              "intro": "pokemon/articuno/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/articuno/shiny/portraits/default.png",
+                                          "joyful": "pokemon/articuno/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/articuno/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/articuno/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/articuno/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

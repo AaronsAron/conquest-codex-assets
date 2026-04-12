@@ -1,0 +1,73 @@
+{
+  "pokemonId": "magikarp",
+  "nationalDexNumber": 129,
+  "variants": {
+      "default": {
+            "displayName": "Magikarp",
+            "types": ["water"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 150,
+                    "attack": 35,
+                    "defense": 80,
+                    "speed": 165,
+                    "bst": 430
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/magikarp/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/magikarp/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/magikarp/default/icons/full-left.png",
+                              "fullRight": "pokemon/magikarp/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/magikarp/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/magikarp/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/magikarp/default/portraits/profile.png",
+                              "intro": "pokemon/magikarp/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Magikarp-Shiny",
+            "types": ["water"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 150,
+                    "attack": 35,
+                    "defense": 80,
+                    "speed": 165,
+                    "bst": 430
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/magikarp/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/magikarp/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/magikarp/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/magikarp/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/magikarp/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/magikarp/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/magikarp/shiny/portraits/profile.png",
+                              "intro": "pokemon/magikarp/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

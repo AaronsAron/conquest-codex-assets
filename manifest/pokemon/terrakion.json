@@ -1,0 +1,83 @@
+{
+  "pokemonId": "terrakion",
+  "nationalDexNumber": 639,
+  "variants": {
+      "default": {
+            "displayName": "Terrakion",
+            "types": ["rock", "fighting"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 292,
+                    "attack": 263,
+                    "defense": 185,
+                    "speed": 221,
+                    "bst": 961
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/terrakion/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/terrakion/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/terrakion/default/icons/full-left.png",
+                              "fullRight": "pokemon/terrakion/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/terrakion/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/terrakion/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/terrakion/default/portraits/profile.png",
+                              "intro": "pokemon/terrakion/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/terrakion/default/portraits/default.png",
+                                          "joyful": "pokemon/terrakion/default/portraits/joyful.png",
+                                          "fierce": "pokemon/terrakion/default/portraits/fierce.png",
+                                          "shocked": "pokemon/terrakion/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Terrakion-Shiny",
+            "types": ["rock", "fighting"],
+            "tags": ["shiny", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 292,
+                    "attack": 263,
+                    "defense": 185,
+                    "speed": 221,
+                    "bst": 961
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/terrakion/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/terrakion/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/terrakion/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/terrakion/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/terrakion/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/terrakion/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/terrakion/shiny/portraits/profile.png",
+                              "intro": "pokemon/terrakion/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/terrakion/shiny/portraits/default.png",
+                                          "joyful": "pokemon/terrakion/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/terrakion/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/terrakion/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

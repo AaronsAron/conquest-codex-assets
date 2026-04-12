@@ -1,0 +1,73 @@
+{
+  "pokemonId": "gabite",
+  "nationalDexNumber": 444,
+  "variants": {
+      "default": {
+            "displayName": "Gabite",
+            "types": ["dragon", "ground"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 246,
+                    "attack": 185,
+                    "defense": 125,
+                    "speed": 169,
+                    "bst": 725
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gabite/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gabite/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gabite/default/icons/full-left.png",
+                              "fullRight": "pokemon/gabite/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gabite/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gabite/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gabite/default/portraits/profile.png",
+                              "intro": "pokemon/gabite/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Gabite-Shiny",
+            "types": ["dragon", "ground"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 246,
+                    "attack": 185,
+                    "defense": 125,
+                    "speed": 169,
+                    "bst": 725
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gabite/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gabite/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gabite/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/gabite/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/gabite/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gabite/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gabite/shiny/portraits/profile.png",
+                              "intro": "pokemon/gabite/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

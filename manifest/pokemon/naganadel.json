@@ -1,0 +1,39 @@
+{
+  "pokemonId": "naganadel",
+  "nationalDexNumber": 804,
+  "variants": {
+      "default": {
+            "displayName": "Naganadel",
+            "types": ["poison", "dragon"],
+            "tags": ["default", "fully-evolved", "ultra-beast"],
+            "stats": {
+                    "hp": 256,
+                    "attack": 259,
+                    "defense": 151,
+                    "speed": 247,
+                    "bst": 913
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/naganadel/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/naganadel/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/naganadel/default/icons/full-left.png",
+                              "fullRight": "pokemon/naganadel/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/naganadel/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/naganadel/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/naganadel/default/portraits/profile.png",
+                              "intro": "pokemon/naganadel/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

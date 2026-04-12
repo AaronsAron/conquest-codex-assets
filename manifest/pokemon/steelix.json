@@ -1,0 +1,73 @@
+{
+  "pokemonId": "steelix",
+  "nationalDexNumber": 208,
+  "variants": {
+      "default": {
+            "displayName": "Steelix",
+            "types": ["steel", "ground"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 175,
+                    "defense": 270,
+                    "speed": 65,
+                    "bst": 770
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/steelix/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/steelix/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/steelix/default/icons/full-left.png",
+                              "fullRight": "pokemon/steelix/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/steelix/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/steelix/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/steelix/default/portraits/profile.png",
+                              "intro": "pokemon/steelix/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Steelix-Shiny",
+            "types": ["steel", "ground"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 175,
+                    "defense": 270,
+                    "speed": 65,
+                    "bst": 770
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/steelix/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/steelix/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/steelix/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/steelix/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/steelix/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/steelix/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/steelix/shiny/portraits/profile.png",
+                              "intro": "pokemon/steelix/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

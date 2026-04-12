@@ -1,0 +1,39 @@
+{
+  "pokemonId": "tornadus",
+  "nationalDexNumber": 641,
+  "variants": {
+      "therian": {
+            "displayName": "Tornadus-Therian",
+            "types": ["flying"],
+            "tags": ["therian", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 268,
+                    "attack": 225,
+                    "defense": 175,
+                    "speed": 247,
+                    "bst": 915
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/tornadus/therian/meta.json",
+                    "battle": {
+                              "animation": "pokemon/tornadus/therian/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/tornadus/therian/icons/full-left.png",
+                              "fullRight": "pokemon/tornadus/therian/icons/full-right.png",
+                              "croppedLeft": "pokemon/tornadus/therian/icons/cropped-left.png",
+                              "croppedRight": "pokemon/tornadus/therian/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/tornadus/therian/portraits/profile.png",
+                              "intro": "pokemon/tornadus/therian/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

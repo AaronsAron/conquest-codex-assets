@@ -1,0 +1,39 @@
+{
+  "pokemonId": "nymble",
+  "nationalDexNumber": 919,
+  "variants": {
+      "default": {
+            "displayName": "Nymble",
+            "types": ["bug"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 176,
+                    "attack": 97,
+                    "defense": 70,
+                    "speed": 95,
+                    "bst": 438
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/nymble/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/nymble/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/nymble/default/icons/full-left.png",
+                              "fullRight": "pokemon/nymble/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/nymble/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/nymble/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/nymble/default/portraits/profile.png",
+                              "intro": "pokemon/nymble/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

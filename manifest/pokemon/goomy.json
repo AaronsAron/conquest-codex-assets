@@ -1,0 +1,39 @@
+{
+  "pokemonId": "goomy",
+  "nationalDexNumber": 704,
+  "variants": {
+      "default": {
+            "displayName": "Goomy",
+            "types": ["dragon"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 115,
+                    "defense": 115,
+                    "speed": 85,
+                    "bst": 515
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/goomy/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/goomy/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/goomy/default/icons/full-left.png",
+                              "fullRight": "pokemon/goomy/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/goomy/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/goomy/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/goomy/default/portraits/profile.png",
+                              "intro": "pokemon/goomy/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

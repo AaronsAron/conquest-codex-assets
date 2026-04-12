@@ -1,0 +1,85 @@
+{
+  "pokemonId": "mismagius",
+  "nationalDexNumber": 429,
+  "variants": {
+      "default": {
+            "displayName": "Mismagius",
+            "types": ["ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 215,
+                    "defense": 170,
+                    "speed": 215,
+                    "bst": 830
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/mismagius/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mismagius/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mismagius/default/icons/full-left.png",
+                              "fullRight": "pokemon/mismagius/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/mismagius/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mismagius/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mismagius/default/portraits/profile.png",
+                              "intro": "pokemon/mismagius/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/mismagius/default/portraits/default.png",
+                                          "joyful": "pokemon/mismagius/default/portraits/joyful.png",
+                                          "sad": "pokemon/mismagius/default/portraits/sad.png",
+                                          "fierce": "pokemon/mismagius/default/portraits/fierce.png",
+                                          "shocked": "pokemon/mismagius/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Mismagius-Shiny",
+            "types": ["ghost"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 215,
+                    "defense": 170,
+                    "speed": 215,
+                    "bst": 830
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/mismagius/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mismagius/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mismagius/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/mismagius/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/mismagius/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mismagius/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mismagius/shiny/portraits/profile.png",
+                              "intro": "pokemon/mismagius/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/mismagius/shiny/portraits/default.png",
+                                          "joyful": "pokemon/mismagius/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/mismagius/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/mismagius/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/mismagius/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

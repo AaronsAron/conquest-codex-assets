@@ -1,0 +1,39 @@
+{
+  "pokemonId": "virizion",
+  "nationalDexNumber": 640,
+  "variants": {
+      "default": {
+            "displayName": "Virizion",
+            "types": ["grass", "fighting"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 292,
+                    "attack": 185,
+                    "defense": 206,
+                    "speed": 221,
+                    "bst": 904
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/virizion/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/virizion/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/virizion/default/icons/full-left.png",
+                              "fullRight": "pokemon/virizion/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/virizion/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/virizion/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/virizion/default/portraits/profile.png",
+                              "intro": "pokemon/virizion/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

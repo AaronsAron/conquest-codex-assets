@@ -1,0 +1,73 @@
+{
+  "pokemonId": "skorupi",
+  "nationalDexNumber": 451,
+  "variants": {
+      "default": {
+            "displayName": "Skorupi",
+            "types": ["poison", "bug"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 105,
+                    "defense": 150,
+                    "speed": 135,
+                    "bst": 580
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/skorupi/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/skorupi/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/skorupi/default/icons/full-left.png",
+                              "fullRight": "pokemon/skorupi/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/skorupi/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/skorupi/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/skorupi/default/portraits/profile.png",
+                              "intro": "pokemon/skorupi/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Skorupi-Shiny",
+            "types": ["poison", "bug"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 105,
+                    "defense": 150,
+                    "speed": 135,
+                    "bst": 580
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/skorupi/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/skorupi/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/skorupi/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/skorupi/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/skorupi/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/skorupi/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/skorupi/shiny/portraits/profile.png",
+                              "intro": "pokemon/skorupi/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

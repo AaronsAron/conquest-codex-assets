@@ -1,0 +1,73 @@
+{
+  "pokemonId": "galvantula",
+  "nationalDexNumber": 596,
+  "variants": {
+      "default": {
+            "displayName": "Galvantula",
+            "types": ["bug", "electric"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 199,
+                    "defense": 125,
+                    "speed": 221,
+                    "bst": 795
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/galvantula/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/galvantula/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/galvantula/default/icons/full-left.png",
+                              "fullRight": "pokemon/galvantula/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/galvantula/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/galvantula/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/galvantula/default/portraits/profile.png",
+                              "intro": "pokemon/galvantula/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Galvantula-Shiny",
+            "types": ["bug", "electric"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 199,
+                    "defense": 125,
+                    "speed": 221,
+                    "bst": 795
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/galvantula/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/galvantula/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/galvantula/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/galvantula/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/galvantula/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/galvantula/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/galvantula/shiny/portraits/profile.png",
+                              "intro": "pokemon/galvantula/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "shelgon",
+  "nationalDexNumber": 372,
+  "variants": {
+      "default": {
+            "displayName": "Shelgon",
+            "types": ["dragon"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 195,
+                    "defense": 155,
+                    "speed": 105,
+                    "bst": 695
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/shelgon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/shelgon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/shelgon/default/icons/full-left.png",
+                              "fullRight": "pokemon/shelgon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/shelgon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/shelgon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/shelgon/default/portraits/profile.png",
+                              "intro": "pokemon/shelgon/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "beedrill",
+  "nationalDexNumber": 15,
+  "variants": {
+      "default": {
+            "displayName": "Beedrill",
+            "types": ["bug", "poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 185,
+                    "defense": 125,
+                    "speed": 155,
+                    "bst": 705
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/beedrill/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/beedrill/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/beedrill/default/icons/full-left.png",
+                              "fullRight": "pokemon/beedrill/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/beedrill/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/beedrill/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/beedrill/default/portraits/profile.png",
+                              "intro": "pokemon/beedrill/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Beedrill-Shiny",
+            "types": ["bug", "poison"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 185,
+                    "defense": 125,
+                    "speed": 155,
+                    "bst": 705
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/beedrill/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/beedrill/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/beedrill/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/beedrill/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/beedrill/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/beedrill/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/beedrill/shiny/portraits/profile.png",
+                              "intro": "pokemon/beedrill/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

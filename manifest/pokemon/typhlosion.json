@@ -1,0 +1,73 @@
+{
+  "pokemonId": "typhlosion",
+  "nationalDexNumber": 157,
+  "variants": {
+      "default": {
+            "displayName": "Typhlosion",
+            "types": ["fire"],
+            "tags": ["default", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 266,
+                    "attack": 223,
+                    "defense": 168,
+                    "speed": 205,
+                    "bst": 862
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/typhlosion/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/typhlosion/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/typhlosion/default/icons/full-left.png",
+                              "fullRight": "pokemon/typhlosion/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/typhlosion/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/typhlosion/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/typhlosion/default/portraits/profile.png",
+                              "intro": "pokemon/typhlosion/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "hisui": {
+            "displayName": "Typhlosion-Hisui",
+            "types": ["fire", "ghost"],
+            "tags": ["hisui", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 256,
+                    "attack": 243,
+                    "defense": 168,
+                    "speed": 195,
+                    "bst": 862
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/typhlosion/hisui/meta.json",
+                    "battle": {
+                              "animation": "pokemon/typhlosion/hisui/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/typhlosion/hisui/icons/full-left.png",
+                              "fullRight": "pokemon/typhlosion/hisui/icons/full-right.png",
+                              "croppedLeft": "pokemon/typhlosion/hisui/icons/cropped-left.png",
+                              "croppedRight": "pokemon/typhlosion/hisui/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/typhlosion/hisui/portraits/profile.png",
+                              "intro": "pokemon/typhlosion/hisui/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

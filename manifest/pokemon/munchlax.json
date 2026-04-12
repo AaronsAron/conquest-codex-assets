@@ -1,0 +1,73 @@
+{
+  "pokemonId": "munchlax",
+  "nationalDexNumber": 446,
+  "variants": {
+      "default": {
+            "displayName": "Munchlax",
+            "types": ["normal"],
+            "tags": ["default", "unevolved", "baby"],
+            "stats": {
+                    "hp": 380,
+                    "attack": 175,
+                    "defense": 130,
+                    "speed": 15,
+                    "bst": 700
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/munchlax/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/munchlax/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/munchlax/default/icons/full-left.png",
+                              "fullRight": "pokemon/munchlax/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/munchlax/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/munchlax/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/munchlax/default/portraits/profile.png",
+                              "intro": "pokemon/munchlax/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Munchlax-Shiny",
+            "types": ["normal"],
+            "tags": ["shiny", "unevolved", "baby"],
+            "stats": {
+                    "hp": 380,
+                    "attack": 175,
+                    "defense": 130,
+                    "speed": 15,
+                    "bst": 700
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/munchlax/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/munchlax/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/munchlax/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/munchlax/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/munchlax/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/munchlax/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/munchlax/shiny/portraits/profile.png",
+                              "intro": "pokemon/munchlax/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

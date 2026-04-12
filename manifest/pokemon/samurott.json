@@ -1,0 +1,125 @@
+{
+  "pokemonId": "samurott",
+  "nationalDexNumber": 503,
+  "variants": {
+      "default": {
+            "displayName": "Samurott",
+            "types": ["water"],
+            "tags": ["default", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 221,
+                    "defense": 160,
+                    "speed": 145,
+                    "bst": 826
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/samurott/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/samurott/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/samurott/default/icons/full-left.png",
+                              "fullRight": "pokemon/samurott/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/samurott/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/samurott/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/samurott/default/portraits/profile.png",
+                              "intro": "pokemon/samurott/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/samurott/default/portraits/default.png",
+                                          "joyful": "pokemon/samurott/default/portraits/joyful.png",
+                                          "fierce": "pokemon/samurott/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "hisui": {
+            "displayName": "Samurott-Hisui",
+            "types": ["water", "dark"],
+            "tags": ["hisui", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 221,
+                    "defense": 150,
+                    "speed": 175,
+                    "bst": 836
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/samurott/hisui/meta.json",
+                    "battle": {
+                              "animation": "pokemon/samurott/hisui/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/samurott/hisui/icons/full-left.png",
+                              "fullRight": "pokemon/samurott/hisui/icons/full-right.png",
+                              "croppedLeft": "pokemon/samurott/hisui/icons/cropped-left.png",
+                              "croppedRight": "pokemon/samurott/hisui/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/samurott/hisui/portraits/profile.png",
+                              "intro": "pokemon/samurott/hisui/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {
+                    "battleAnimation": [
+                              {
+                                          "id": "alternate-hisui",
+                                          "path": "pokemon/samurott/alternate-hisui/battle/animation.png",
+                                          "animationFlags": {"asymmetric": false, "longAttack": true},
+                                          "artists": ["Koei Tecmo", "Aaron's Aron"],
+                                          "dateModified": "2026-04-01"
+                                        }
+                            ]
+                  }
+          },
+  
+      "shiny": {
+            "displayName": "Samurott-Shiny",
+            "types": ["water"],
+            "tags": ["shiny", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 221,
+                    "defense": 160,
+                    "speed": 145,
+                    "bst": 826
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/samurott/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/samurott/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/samurott/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/samurott/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/samurott/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/samurott/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/samurott/shiny/portraits/profile.png",
+                              "intro": "pokemon/samurott/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/samurott/shiny/portraits/default.png",
+                                          "joyful": "pokemon/samurott/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/samurott/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

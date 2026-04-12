@@ -1,0 +1,79 @@
+{
+  "pokemonId": "gallade",
+  "nationalDexNumber": 475,
+  "variants": {
+      "default": {
+            "displayName": "Gallade",
+            "types": ["psychic", "fighting"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 246,
+                    "attack": 255,
+                    "defense": 185,
+                    "speed": 165,
+                    "bst": 851
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/gallade/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gallade/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gallade/default/icons/full-left.png",
+                              "fullRight": "pokemon/gallade/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gallade/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gallade/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gallade/default/portraits/profile.png",
+                              "intro": "pokemon/gallade/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/gallade/default/portraits/default.png",
+                                          "fierce": "pokemon/gallade/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Gallade-Shiny",
+            "types": ["psychic", "fighting"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 246,
+                    "attack": 255,
+                    "defense": 185,
+                    "speed": 165,
+                    "bst": 851
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/gallade/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gallade/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gallade/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/gallade/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/gallade/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gallade/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gallade/shiny/portraits/profile.png",
+                              "intro": "pokemon/gallade/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/gallade/shiny/portraits/default.png",
+                                          "fierce": "pokemon/gallade/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "aerodactyl",
+  "nationalDexNumber": 142,
+  "variants": {
+      "default": {
+            "displayName": "Aerodactyl",
+            "types": ["rock", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 215,
+                    "defense": 145,
+                    "speed": 265,
+                    "bst": 895
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/aerodactyl/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/aerodactyl/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/aerodactyl/default/icons/full-left.png",
+                              "fullRight": "pokemon/aerodactyl/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/aerodactyl/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/aerodactyl/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/aerodactyl/default/portraits/profile.png",
+                              "intro": "pokemon/aerodactyl/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

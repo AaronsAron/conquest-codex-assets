@@ -1,0 +1,73 @@
+{
+  "pokemonId": "dragonair",
+  "nationalDexNumber": 148,
+  "variants": {
+      "default": {
+            "displayName": "Dragonair",
+            "types": ["dragon"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 232,
+                    "attack": 173,
+                    "defense": 140,
+                    "speed": 145,
+                    "bst": 690
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dragonair/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dragonair/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dragonair/default/icons/full-left.png",
+                              "fullRight": "pokemon/dragonair/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dragonair/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dragonair/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dragonair/default/portraits/profile.png",
+                              "intro": "pokemon/dragonair/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Dragonair-Shiny",
+            "types": ["dragon"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 232,
+                    "attack": 173,
+                    "defense": 140,
+                    "speed": 145,
+                    "bst": 690
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dragonair/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dragonair/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dragonair/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/dragonair/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/dragonair/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dragonair/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dragonair/shiny/portraits/profile.png",
+                              "intro": "pokemon/dragonair/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

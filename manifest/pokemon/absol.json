@@ -1,0 +1,39 @@
+{
+  "pokemonId": "absol",
+  "nationalDexNumber": 359,
+  "variants": {
+      "default": {
+            "displayName": "Absol",
+            "types": ["dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 265,
+                    "defense": 125,
+                    "speed": 155,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/absol/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/absol/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/absol/default/icons/full-left.png",
+                              "fullRight": "pokemon/absol/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/absol/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/absol/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/absol/default/portraits/profile.png",
+                              "intro": "pokemon/absol/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

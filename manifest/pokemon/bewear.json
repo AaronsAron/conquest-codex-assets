@@ -1,0 +1,39 @@
+{
+  "pokemonId": "bewear",
+  "nationalDexNumber": 760,
+  "variants": {
+      "default": {
+            "displayName": "Bewear",
+            "types": ["normal", "fighting"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 350,
+                    "attack": 255,
+                    "defense": 145,
+                    "speed": 125,
+                    "bst": 875
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/bewear/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bewear/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bewear/default/icons/full-left.png",
+                              "fullRight": "pokemon/bewear/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/bewear/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bewear/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bewear/default/portraits/profile.png",
+                              "intro": "pokemon/bewear/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

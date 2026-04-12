@@ -1,0 +1,73 @@
+{
+  "pokemonId": "cottonee",
+  "nationalDexNumber": 546,
+  "variants": {
+      "default": {
+            "displayName": "Cottonee",
+            "types": ["grass", "fairy"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 79,
+                    "defense": 115,
+                    "speed": 137,
+                    "bst": 521
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/cottonee/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/cottonee/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/cottonee/default/icons/full-left.png",
+                              "fullRight": "pokemon/cottonee/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/cottonee/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/cottonee/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/cottonee/default/portraits/profile.png",
+                              "intro": "pokemon/cottonee/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Cottonee-Shiny",
+            "types": ["grass", "fairy"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 79,
+                    "defense": 115,
+                    "speed": 137,
+                    "bst": 521
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/cottonee/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/cottonee/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/cottonee/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/cottonee/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/cottonee/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/cottonee/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/cottonee/shiny/portraits/profile.png",
+                              "intro": "pokemon/cottonee/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

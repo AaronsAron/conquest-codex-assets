@@ -1,0 +1,39 @@
+{
+  "pokemonId": "marshtomp",
+  "nationalDexNumber": 259,
+  "variants": {
+      "default": {
+            "displayName": "Marshtomp",
+            "types": ["water", "ground"],
+            "tags": ["default", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 175,
+                    "defense": 145,
+                    "speed": 105,
+                    "bst": 675
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/marshtomp/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/marshtomp/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/marshtomp/default/icons/full-left.png",
+                              "fullRight": "pokemon/marshtomp/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/marshtomp/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/marshtomp/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/marshtomp/default/portraits/profile.png",
+                              "intro": "pokemon/marshtomp/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

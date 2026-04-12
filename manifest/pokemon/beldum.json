@@ -1,0 +1,73 @@
+{
+  "pokemonId": "beldum",
+  "nationalDexNumber": 374,
+  "variants": {
+      "default": {
+            "displayName": "Beldum",
+            "types": ["steel", "psychic"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 115,
+                    "defense": 145,
+                    "speed": 65,
+                    "bst": 515
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/beldum/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/beldum/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/beldum/default/icons/full-left.png",
+                              "fullRight": "pokemon/beldum/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/beldum/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/beldum/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/beldum/default/portraits/profile.png",
+                              "intro": "pokemon/beldum/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Beldum-Shiny",
+            "types": ["steel", "psychic"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 115,
+                    "defense": 145,
+                    "speed": 65,
+                    "bst": 515
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/beldum/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/beldum/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/beldum/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/beldum/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/beldum/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/beldum/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/beldum/shiny/portraits/profile.png",
+                              "intro": "pokemon/beldum/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

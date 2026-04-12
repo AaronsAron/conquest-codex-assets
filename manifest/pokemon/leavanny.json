@@ -1,0 +1,73 @@
+{
+  "pokemonId": "leavanny",
+  "nationalDexNumber": 542,
+  "variants": {
+      "default": {
+            "displayName": "Leavanny",
+            "types": ["bug", "grass"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 211,
+                    "defense": 165,
+                    "speed": 189,
+                    "bst": 825
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/leavanny/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/leavanny/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/leavanny/default/icons/full-left.png",
+                              "fullRight": "pokemon/leavanny/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/leavanny/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/leavanny/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/leavanny/default/portraits/profile.png",
+                              "intro": "pokemon/leavanny/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Leavanny-Shiny",
+            "types": ["bug", "grass"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 211,
+                    "defense": 165,
+                    "speed": 189,
+                    "bst": 825
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/leavanny/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/leavanny/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/leavanny/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/leavanny/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/leavanny/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/leavanny/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/leavanny/shiny/portraits/profile.png",
+                              "intro": "pokemon/leavanny/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "panpour",
+  "nationalDexNumber": 515,
+  "variants": {
+      "default": {
+            "displayName": "Panpour",
+            "types": ["water"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 111,
+                    "defense": 101,
+                    "speed": 133,
+                    "bst": 555
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/panpour/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/panpour/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/panpour/default/icons/full-left.png",
+                              "fullRight": "pokemon/panpour/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/panpour/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/panpour/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/panpour/default/portraits/profile.png",
+                              "intro": "pokemon/panpour/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Panpour-Shiny",
+            "types": ["water"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 111,
+                    "defense": 101,
+                    "speed": 133,
+                    "bst": 555
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/panpour/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/panpour/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/panpour/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/panpour/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/panpour/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/panpour/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/panpour/shiny/portraits/profile.png",
+                              "intro": "pokemon/panpour/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

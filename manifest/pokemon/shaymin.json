@@ -1,0 +1,39 @@
+{
+  "pokemonId": "shaymin",
+  "nationalDexNumber": 492,
+  "variants": {
+      "sky": {
+            "displayName": "Shaymin-Sky",
+            "types": ["grass", "flying"],
+            "tags": ["sky", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 245,
+                    "defense": 155,
+                    "speed": 259,
+                    "bst": 969
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/shaymin/sky/meta.json",
+                    "battle": {
+                              "animation": "pokemon/shaymin/sky/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/shaymin/sky/icons/full-left.png",
+                              "fullRight": "pokemon/shaymin/sky/icons/full-right.png",
+                              "croppedLeft": "pokemon/shaymin/sky/icons/cropped-left.png",
+                              "croppedRight": "pokemon/shaymin/sky/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/shaymin/sky/portraits/profile.png",
+                              "intro": "pokemon/shaymin/sky/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

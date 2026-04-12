@@ -1,0 +1,73 @@
+{
+  "pokemonId": "mareep",
+  "nationalDexNumber": 179,
+  "variants": {
+      "default": {
+            "displayName": "Mareep",
+            "types": ["electric"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 135,
+                    "defense": 90,
+                    "speed": 75,
+                    "bst": 520
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/mareep/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mareep/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mareep/default/icons/full-left.png",
+                              "fullRight": "pokemon/mareep/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/mareep/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mareep/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mareep/default/portraits/profile.png",
+                              "intro": "pokemon/mareep/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Mareep-Shiny",
+            "types": ["electric"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 135,
+                    "defense": 90,
+                    "speed": 75,
+                    "bst": 520
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/mareep/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mareep/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mareep/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/mareep/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/mareep/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mareep/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mareep/shiny/portraits/profile.png",
+                              "intro": "pokemon/mareep/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

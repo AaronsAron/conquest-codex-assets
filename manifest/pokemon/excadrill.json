@@ -1,0 +1,73 @@
+{
+  "pokemonId": "excadrill",
+  "nationalDexNumber": 530,
+  "variants": {
+      "default": {
+            "displayName": "Excadrill",
+            "types": ["ground", "steel"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 330,
+                    "attack": 275,
+                    "defense": 130,
+                    "speed": 181,
+                    "bst": 916
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/excadrill/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/excadrill/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/excadrill/default/icons/full-left.png",
+                              "fullRight": "pokemon/excadrill/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/excadrill/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/excadrill/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/excadrill/default/portraits/profile.png",
+                              "intro": "pokemon/excadrill/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Excadrill-Shiny",
+            "types": ["ground", "steel"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 330,
+                    "attack": 275,
+                    "defense": 130,
+                    "speed": 181,
+                    "bst": 916
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": true},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/excadrill/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/excadrill/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/excadrill/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/excadrill/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/excadrill/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/excadrill/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/excadrill/shiny/portraits/profile.png",
+                              "intro": "pokemon/excadrill/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

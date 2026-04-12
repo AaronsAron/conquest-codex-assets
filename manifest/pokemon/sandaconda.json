@@ -1,0 +1,39 @@
+{
+  "pokemonId": "sandaconda",
+  "nationalDexNumber": 844,
+  "variants": {
+      "default": {
+            "displayName": "Sandaconda",
+            "types": ["ground"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 254,
+                    "attack": 219,
+                    "defense": 200,
+                    "speed": 147,
+                    "bst": 820
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sandaconda/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sandaconda/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sandaconda/default/icons/full-left.png",
+                              "fullRight": "pokemon/sandaconda/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sandaconda/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sandaconda/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sandaconda/default/portraits/profile.png",
+                              "intro": "pokemon/sandaconda/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

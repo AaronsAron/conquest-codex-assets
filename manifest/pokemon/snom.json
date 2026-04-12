@@ -1,0 +1,39 @@
+{
+  "pokemonId": "snom",
+  "nationalDexNumber": 872,
+  "variants": {
+      "default": {
+            "displayName": "Snom",
+            "types": ["ice", "bug"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 170,
+                    "attack": 95,
+                    "defense": 70,
+                    "speed": 45,
+                    "bst": 380
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/snom/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/snom/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/snom/default/icons/full-left.png",
+                              "fullRight": "pokemon/snom/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/snom/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/snom/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/snom/default/portraits/profile.png",
+                              "intro": "pokemon/snom/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

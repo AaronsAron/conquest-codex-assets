@@ -1,0 +1,73 @@
+{
+  "pokemonId": "persian",
+  "nationalDexNumber": 53,
+  "variants": {
+      "default": {
+            "displayName": "Persian",
+            "types": ["normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 145,
+                    "defense": 130,
+                    "speed": 235,
+                    "bst": 750
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/persian/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/persian/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/persian/default/icons/full-left.png",
+                              "fullRight": "pokemon/persian/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/persian/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/persian/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/persian/default/portraits/profile.png",
+                              "intro": "pokemon/persian/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Persian-Shiny",
+            "types": ["normal"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 145,
+                    "defense": 130,
+                    "speed": 235,
+                    "bst": 750
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/persian/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/persian/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/persian/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/persian/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/persian/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/persian/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/persian/shiny/portraits/profile.png",
+                              "intro": "pokemon/persian/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

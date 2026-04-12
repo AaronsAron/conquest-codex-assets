@@ -1,0 +1,73 @@
+{
+  "pokemonId": "simipour",
+  "nationalDexNumber": 516,
+  "variants": {
+      "default": {
+            "displayName": "Simipour",
+            "types": ["water"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 201,
+                    "defense": 131,
+                    "speed": 207,
+                    "bst": 799
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/simipour/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/simipour/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/simipour/default/icons/full-left.png",
+                              "fullRight": "pokemon/simipour/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/simipour/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/simipour/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/simipour/default/portraits/profile.png",
+                              "intro": "pokemon/simipour/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Simipour-Shiny",
+            "types": ["water"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 201,
+                    "defense": 131,
+                    "speed": 207,
+                    "bst": 799
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/simipour/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/simipour/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/simipour/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/simipour/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/simipour/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/simipour/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/simipour/shiny/portraits/profile.png",
+                              "intro": "pokemon/simipour/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

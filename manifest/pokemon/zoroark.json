@@ -1,0 +1,113 @@
+{
+  "pokemonId": "zoroark",
+  "nationalDexNumber": 571,
+  "variants": {
+      "default": {
+            "displayName": "Zoroark",
+            "types": ["dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 245,
+                    "defense": 125,
+                    "speed": 215,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful"],
+            "paths": {
+                    "meta": "pokemon/zoroark/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zoroark/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zoroark/default/icons/full-left.png",
+                              "fullRight": "pokemon/zoroark/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/zoroark/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zoroark/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zoroark/default/portraits/profile.png",
+                              "intro": "pokemon/zoroark/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/zoroark/default/portraits/default.png",
+                                          "joyful": "pokemon/zoroark/default/portraits/joyful.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "hisui": {
+            "displayName": "Zoroark-Hisui",
+            "types": ["normal", "ghost"],
+            "tags": ["hisui", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 245,
+                    "defense": 125,
+                    "speed": 215,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/zoroark/hisui/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zoroark/hisui/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zoroark/hisui/icons/full-left.png",
+                              "fullRight": "pokemon/zoroark/hisui/icons/full-right.png",
+                              "croppedLeft": "pokemon/zoroark/hisui/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zoroark/hisui/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zoroark/hisui/portraits/profile.png",
+                              "intro": "pokemon/zoroark/hisui/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Zoroark-Shiny",
+            "types": ["dark"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 245,
+                    "defense": 125,
+                    "speed": 215,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful"],
+            "paths": {
+                    "meta": "pokemon/zoroark/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zoroark/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zoroark/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/zoroark/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/zoroark/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zoroark/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zoroark/shiny/portraits/profile.png",
+                              "intro": "pokemon/zoroark/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/zoroark/shiny/portraits/default.png",
+                                          "joyful": "pokemon/zoroark/shiny/portraits/joyful.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "marill",
+  "nationalDexNumber": 183,
+  "variants": {
+      "default": {
+            "displayName": "Marill",
+            "types": ["water", "fairy"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 45,
+                    "defense": 105,
+                    "speed": 85,
+                    "bst": 485
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/marill/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/marill/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/marill/default/icons/full-left.png",
+                              "fullRight": "pokemon/marill/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/marill/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/marill/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/marill/default/portraits/profile.png",
+                              "intro": "pokemon/marill/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

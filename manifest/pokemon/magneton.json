@@ -1,0 +1,39 @@
+{
+  "pokemonId": "magneton",
+  "nationalDexNumber": 82,
+  "variants": {
+      "default": {
+            "displayName": "Magneton",
+            "types": ["electric", "steel"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 245,
+                    "defense": 170,
+                    "speed": 145,
+                    "bst": 770
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/magneton/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/magneton/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/magneton/default/icons/full-left.png",
+                              "fullRight": "pokemon/magneton/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/magneton/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/magneton/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/magneton/default/portraits/profile.png",
+                              "intro": "pokemon/magneton/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

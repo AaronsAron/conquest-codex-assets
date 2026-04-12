@@ -1,0 +1,73 @@
+{
+  "pokemonId": "chimecho",
+  "nationalDexNumber": 358,
+  "variants": {
+      "default": {
+            "displayName": "Chimecho",
+            "types": ["psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 195,
+                    "defense": 175,
+                    "speed": 135,
+                    "bst": 765
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/chimecho/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/chimecho/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/chimecho/default/icons/full-left.png",
+                              "fullRight": "pokemon/chimecho/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/chimecho/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/chimecho/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/chimecho/default/portraits/profile.png",
+                              "intro": "pokemon/chimecho/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Chimecho-Shiny",
+            "types": ["psychic"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 195,
+                    "defense": 175,
+                    "speed": 135,
+                    "bst": 765
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/chimecho/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/chimecho/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/chimecho/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/chimecho/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/chimecho/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/chimecho/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/chimecho/shiny/portraits/profile.png",
+                              "intro": "pokemon/chimecho/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

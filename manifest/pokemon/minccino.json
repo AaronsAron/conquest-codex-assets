@@ -1,0 +1,73 @@
+{
+  "pokemonId": "minccino",
+  "nationalDexNumber": 572,
+  "variants": {
+      "default": {
+            "displayName": "Minccino",
+            "types": ["normal"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 105,
+                    "defense": 85,
+                    "speed": 155,
+                    "bst": 565
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/minccino/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/minccino/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/minccino/default/icons/full-left.png",
+                              "fullRight": "pokemon/minccino/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/minccino/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/minccino/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/minccino/default/portraits/profile.png",
+                              "intro": "pokemon/minccino/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Minccino-Shiny",
+            "types": ["normal"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 105,
+                    "defense": 85,
+                    "speed": 155,
+                    "bst": 565
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/minccino/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/minccino/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/minccino/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/minccino/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/minccino/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/minccino/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/minccino/shiny/portraits/profile.png",
+                              "intro": "pokemon/minccino/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

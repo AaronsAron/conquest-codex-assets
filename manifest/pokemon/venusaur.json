@@ -1,0 +1,39 @@
+{
+  "pokemonId": "venusaur",
+  "nationalDexNumber": 3,
+  "variants": {
+      "default": {
+            "displayName": "Venusaur",
+            "types": ["grass", "poison"],
+            "tags": ["default", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 205,
+                    "defense": 188,
+                    "speed": 165,
+                    "bst": 828
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/venusaur/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/venusaur/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/venusaur/default/icons/full-left.png",
+                              "fullRight": "pokemon/venusaur/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/venusaur/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/venusaur/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/venusaur/default/portraits/profile.png",
+                              "intro": "pokemon/venusaur/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

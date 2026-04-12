@@ -1,0 +1,73 @@
+{
+  "pokemonId": "machop",
+  "nationalDexNumber": 66,
+  "variants": {
+      "default": {
+            "displayName": "Machop",
+            "types": ["fighting"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 165,
+                    "defense": 90,
+                    "speed": 75,
+                    "bst": 580
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/machop/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/machop/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/machop/default/icons/full-left.png",
+                              "fullRight": "pokemon/machop/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/machop/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/machop/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/machop/default/portraits/profile.png",
+                              "intro": "pokemon/machop/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Machop-Shiny",
+            "types": ["fighting"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 165,
+                    "defense": 90,
+                    "speed": 75,
+                    "bst": 580
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/machop/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/machop/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/machop/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/machop/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/machop/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/machop/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/machop/shiny/portraits/profile.png",
+                              "intro": "pokemon/machop/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

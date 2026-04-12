@@ -1,0 +1,85 @@
+{
+  "pokemonId": "misdreavus",
+  "nationalDexNumber": 200,
+  "variants": {
+      "default": {
+            "displayName": "Misdreavus",
+            "types": ["ghost"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 175,
+                    "defense": 150,
+                    "speed": 175,
+                    "bst": 730
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/misdreavus/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/misdreavus/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/misdreavus/default/icons/full-left.png",
+                              "fullRight": "pokemon/misdreavus/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/misdreavus/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/misdreavus/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/misdreavus/default/portraits/profile.png",
+                              "intro": "pokemon/misdreavus/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/misdreavus/default/portraits/default.png",
+                                          "joyful": "pokemon/misdreavus/default/portraits/joyful.png",
+                                          "sad": "pokemon/misdreavus/default/portraits/sad.png",
+                                          "fierce": "pokemon/misdreavus/default/portraits/fierce.png",
+                                          "shocked": "pokemon/misdreavus/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Misdreavus-Shiny",
+            "types": ["ghost"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 175,
+                    "defense": 150,
+                    "speed": 175,
+                    "bst": 730
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/misdreavus/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/misdreavus/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/misdreavus/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/misdreavus/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/misdreavus/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/misdreavus/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/misdreavus/shiny/portraits/profile.png",
+                              "intro": "pokemon/misdreavus/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/misdreavus/shiny/portraits/default.png",
+                                          "joyful": "pokemon/misdreavus/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/misdreavus/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/misdreavus/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/misdreavus/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "pokemonId": "krookodile",
+  "nationalDexNumber": 553,
+  "variants": {
+      "default": {
+            "displayName": "Krookodile",
+            "types": ["ground", "dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 239,
+                    "defense": 155,
+                    "speed": 189,
+                    "bst": 883
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/krookodile/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/krookodile/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/krookodile/default/icons/full-left.png",
+                              "fullRight": "pokemon/krookodile/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/krookodile/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/krookodile/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/krookodile/default/portraits/profile.png",
+                              "intro": "pokemon/krookodile/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/krookodile/default/portraits/default.png",
+                                          "joyful": "pokemon/krookodile/default/portraits/joyful.png",
+                                          "sad": "pokemon/krookodile/default/portraits/sad.png",
+                                          "fierce": "pokemon/krookodile/default/portraits/fierce.png",
+                                          "shocked": "pokemon/krookodile/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Krookodile-Shiny",
+            "types": ["ground", "dark"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 239,
+                    "defense": 155,
+                    "speed": 189,
+                    "bst": 883
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/krookodile/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/krookodile/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/krookodile/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/krookodile/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/krookodile/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/krookodile/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/krookodile/shiny/portraits/profile.png",
+                              "intro": "pokemon/krookodile/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/krookodile/shiny/portraits/default.png",
+                                          "joyful": "pokemon/krookodile/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/krookodile/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/krookodile/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/krookodile/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

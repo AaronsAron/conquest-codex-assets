@@ -1,0 +1,39 @@
+{
+  "pokemonId": "shroodle",
+  "nationalDexNumber": 944,
+  "variants": {
+      "default": {
+            "displayName": "Shroodle",
+            "types": ["poison", "normal"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 135,
+                    "defense": 75,
+                    "speed": 155,
+                    "bst": 555
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/shroodle/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/shroodle/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/shroodle/default/icons/full-left.png",
+                              "fullRight": "pokemon/shroodle/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/shroodle/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/shroodle/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/shroodle/default/portraits/profile.png",
+                              "intro": "pokemon/shroodle/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

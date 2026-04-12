@@ -1,0 +1,73 @@
+{
+  "pokemonId": "gardevoir",
+  "nationalDexNumber": 282,
+  "variants": {
+      "default": {
+            "displayName": "Gardevoir",
+            "types": ["psychic", "fairy"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 246,
+                    "attack": 255,
+                    "defense": 185,
+                    "speed": 165,
+                    "bst": 851
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gardevoir/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gardevoir/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gardevoir/default/icons/full-left.png",
+                              "fullRight": "pokemon/gardevoir/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gardevoir/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gardevoir/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gardevoir/default/portraits/profile.png",
+                              "intro": "pokemon/gardevoir/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Gardevoir-Shiny",
+            "types": ["psychic", "fairy"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 246,
+                    "attack": 255,
+                    "defense": 185,
+                    "speed": 165,
+                    "bst": 851
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gardevoir/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gardevoir/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gardevoir/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/gardevoir/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/gardevoir/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gardevoir/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gardevoir/shiny/portraits/profile.png",
+                              "intro": "pokemon/gardevoir/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

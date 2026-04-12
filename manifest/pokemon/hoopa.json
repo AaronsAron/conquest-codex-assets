@@ -1,0 +1,39 @@
+{
+  "pokemonId": "hoopa",
+  "nationalDexNumber": 720,
+  "variants": {
+      "default": {
+            "displayName": "Hoopa-Confined",
+            "types": ["psychic", "ghost"],
+            "tags": ["default", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 305,
+                    "defense": 195,
+                    "speed": 145,
+                    "bst": 915
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/hoopa/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/hoopa/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/hoopa/default/icons/full-left.png",
+                              "fullRight": "pokemon/hoopa/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/hoopa/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/hoopa/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/hoopa/default/portraits/profile.png",
+                              "intro": "pokemon/hoopa/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

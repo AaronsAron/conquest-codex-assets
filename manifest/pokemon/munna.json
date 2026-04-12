@@ -1,0 +1,73 @@
+{
+  "pokemonId": "munna",
+  "nationalDexNumber": 517,
+  "variants": {
+      "default": {
+            "displayName": "Munna",
+            "types": ["psychic"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 262,
+                    "attack": 139,
+                    "defense": 105,
+                    "speed": 53,
+                    "bst": 559
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/munna/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/munna/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/munna/default/icons/full-left.png",
+                              "fullRight": "pokemon/munna/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/munna/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/munna/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/munna/default/portraits/profile.png",
+                              "intro": "pokemon/munna/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Munna-Shiny",
+            "types": ["psychic"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 262,
+                    "attack": 139,
+                    "defense": 105,
+                    "speed": 53,
+                    "bst": 559
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/munna/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/munna/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/munna/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/munna/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/munna/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/munna/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/munna/shiny/portraits/profile.png",
+                              "intro": "pokemon/munna/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

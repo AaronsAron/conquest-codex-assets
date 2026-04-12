@@ -1,0 +1,39 @@
+{
+  "pokemonId": "grafaiai",
+  "nationalDexNumber": 945,
+  "variants": {
+      "default": {
+            "displayName": "Grafaiai",
+            "types": ["poison", "normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 236,
+                    "attack": 195,
+                    "defense": 142,
+                    "speed": 225,
+                    "bst": 798
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/grafaiai/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/grafaiai/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/grafaiai/default/icons/full-left.png",
+                              "fullRight": "pokemon/grafaiai/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/grafaiai/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/grafaiai/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/grafaiai/default/portraits/profile.png",
+                              "intro": "pokemon/grafaiai/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

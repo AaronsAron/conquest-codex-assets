@@ -1,0 +1,39 @@
+{
+  "pokemonId": "magcargo",
+  "nationalDexNumber": 219,
+  "variants": {
+      "default": {
+            "displayName": "Magcargo",
+            "types": ["fire", "rock"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 185,
+                    "defense": 205,
+                    "speed": 65,
+                    "bst": 685
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/magcargo/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/magcargo/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/magcargo/default/icons/full-left.png",
+                              "fullRight": "pokemon/magcargo/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/magcargo/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/magcargo/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/magcargo/default/portraits/profile.png",
+                              "intro": "pokemon/magcargo/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

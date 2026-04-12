@@ -1,0 +1,39 @@
+{
+  "pokemonId": "lokix",
+  "nationalDexNumber": 920,
+  "variants": {
+      "default": {
+            "displayName": "Lokix",
+            "types": ["bug", "dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 252,
+                    "attack": 209,
+                    "defense": 138,
+                    "speed": 189,
+                    "bst": 788
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/lokix/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lokix/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lokix/default/icons/full-left.png",
+                              "fullRight": "pokemon/lokix/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/lokix/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lokix/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lokix/default/portraits/profile.png",
+                              "intro": "pokemon/lokix/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

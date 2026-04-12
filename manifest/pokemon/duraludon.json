@@ -1,0 +1,39 @@
+{
+  "pokemonId": "duraludon",
+  "nationalDexNumber": 884,
+  "variants": {
+      "default": {
+            "displayName": "Duraludon",
+            "types": ["steel", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 245,
+                    "defense": 170,
+                    "speed": 175,
+                    "bst": 840
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/duraludon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/duraludon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/duraludon/default/icons/full-left.png",
+                              "fullRight": "pokemon/duraludon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/duraludon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/duraludon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/duraludon/default/portraits/profile.png",
+                              "intro": "pokemon/duraludon/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

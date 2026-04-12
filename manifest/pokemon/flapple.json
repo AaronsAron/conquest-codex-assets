@@ -1,0 +1,39 @@
+{
+  "pokemonId": "flapple",
+  "nationalDexNumber": 841,
+  "variants": {
+      "default": {
+            "displayName": "Flapple",
+            "types": ["grass", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 225,
+                    "defense": 145,
+                    "speed": 145,
+                    "bst": 765
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/flapple/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/flapple/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/flapple/default/icons/full-left.png",
+                              "fullRight": "pokemon/flapple/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/flapple/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/flapple/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/flapple/default/portraits/profile.png",
+                              "intro": "pokemon/flapple/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

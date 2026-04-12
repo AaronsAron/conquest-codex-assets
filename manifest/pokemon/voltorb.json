@@ -1,0 +1,39 @@
+{
+  "pokemonId": "voltorb",
+  "nationalDexNumber": 100,
+  "variants": {
+      "hisui": {
+            "displayName": "Voltorb-Hisui",
+            "types": ["electric", "grass"],
+            "tags": ["hisui", "unevolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 115,
+                    "defense": 110,
+                    "speed": 205,
+                    "bst": 620
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/voltorb/hisui/meta.json",
+                    "battle": {
+                              "animation": "pokemon/voltorb/hisui/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/voltorb/hisui/icons/full-left.png",
+                              "fullRight": "pokemon/voltorb/hisui/icons/full-right.png",
+                              "croppedLeft": "pokemon/voltorb/hisui/icons/cropped-left.png",
+                              "croppedRight": "pokemon/voltorb/hisui/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/voltorb/hisui/portraits/profile.png",
+                              "intro": "pokemon/voltorb/hisui/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

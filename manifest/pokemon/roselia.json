@@ -1,0 +1,39 @@
+{
+  "pokemonId": "roselia",
+  "nationalDexNumber": 315,
+  "variants": {
+      "default": {
+            "displayName": "Roselia",
+            "types": ["grass", "poison"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 205,
+                    "defense": 130,
+                    "speed": 135,
+                    "bst": 680
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/roselia/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/roselia/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/roselia/default/icons/full-left.png",
+                              "fullRight": "pokemon/roselia/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/roselia/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/roselia/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/roselia/default/portraits/profile.png",
+                              "intro": "pokemon/roselia/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

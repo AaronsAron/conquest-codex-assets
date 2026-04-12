@@ -1,0 +1,39 @@
+{
+  "pokemonId": "piloswine",
+  "nationalDexNumber": 221,
+  "variants": {
+      "default": {
+            "displayName": "Piloswine",
+            "types": ["ice", "ground"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 205,
+                    "defense": 145,
+                    "speed": 105,
+                    "bst": 765
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/piloswine/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/piloswine/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/piloswine/default/icons/full-left.png",
+                              "fullRight": "pokemon/piloswine/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/piloswine/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/piloswine/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/piloswine/default/portraits/profile.png",
+                              "intro": "pokemon/piloswine/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "darkrai",
+  "nationalDexNumber": 491,
+  "variants": {
+      "default": {
+            "displayName": "Darkrai",
+            "types": ["dark"],
+            "tags": ["default", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 275,
+                    "defense": 185,
+                    "speed": 255,
+                    "bst": 965
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/darkrai/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/darkrai/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/darkrai/default/icons/full-left.png",
+                              "fullRight": "pokemon/darkrai/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/darkrai/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/darkrai/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/darkrai/default/portraits/profile.png",
+                              "intro": "pokemon/darkrai/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

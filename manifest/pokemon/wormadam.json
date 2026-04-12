@@ -1,0 +1,39 @@
+{
+  "pokemonId": "wormadam",
+  "nationalDexNumber": 413,
+  "variants": {
+      "sandy": {
+            "displayName": "Wormadam-Sandy",
+            "types": ["bug", "ground"],
+            "tags": ["sandy", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 163,
+                    "defense": 195,
+                    "speed": 77,
+                    "bst": 665
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/wormadam/sandy/meta.json",
+                    "battle": {
+                              "animation": "pokemon/wormadam/sandy/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/wormadam/sandy/icons/full-left.png",
+                              "fullRight": "pokemon/wormadam/sandy/icons/full-right.png",
+                              "croppedLeft": "pokemon/wormadam/sandy/icons/cropped-left.png",
+                              "croppedRight": "pokemon/wormadam/sandy/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/wormadam/sandy/portraits/profile.png",
+                              "intro": "pokemon/wormadam/sandy/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

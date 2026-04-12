@@ -1,0 +1,39 @@
+{
+  "pokemonId": "swampert",
+  "nationalDexNumber": 260,
+  "variants": {
+      "default": {
+            "displayName": "Swampert",
+            "types": ["water", "ground"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 225,
+                    "defense": 185,
+                    "speed": 125,
+                    "bst": 845
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/swampert/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/swampert/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/swampert/default/icons/full-left.png",
+                              "fullRight": "pokemon/swampert/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/swampert/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/swampert/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/swampert/default/portraits/profile.png",
+                              "intro": "pokemon/swampert/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "magnezone",
+  "nationalDexNumber": 462,
+  "variants": {
+      "default": {
+            "displayName": "Magnezone",
+            "types": ["electric", "steel"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 265,
+                    "defense": 210,
+                    "speed": 125,
+                    "bst": 850
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/magnezone/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/magnezone/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/magnezone/default/icons/full-left.png",
+                              "fullRight": "pokemon/magnezone/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/magnezone/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/magnezone/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/magnezone/default/portraits/profile.png",
+                              "intro": "pokemon/magnezone/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,79 @@
+{
+  "pokemonId": "haunter",
+  "nationalDexNumber": 93,
+  "variants": {
+      "default": {
+            "displayName": "Haunter",
+            "types": ["ghost", "poison"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 235,
+                    "defense": 105,
+                    "speed": 195,
+                    "bst": 735
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "shocked"],
+            "paths": {
+                    "meta": "pokemon/haunter/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/haunter/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/haunter/default/icons/full-left.png",
+                              "fullRight": "pokemon/haunter/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/haunter/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/haunter/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/haunter/default/portraits/profile.png",
+                              "intro": "pokemon/haunter/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/haunter/default/portraits/default.png",
+                                          "shocked": "pokemon/haunter/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Haunter-Shiny",
+            "types": ["ghost", "poison"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 235,
+                    "defense": 105,
+                    "speed": 195,
+                    "bst": 735
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "shocked"],
+            "paths": {
+                    "meta": "pokemon/haunter/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/haunter/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/haunter/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/haunter/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/haunter/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/haunter/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/haunter/shiny/portraits/profile.png",
+                              "intro": "pokemon/haunter/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/haunter/shiny/portraits/default.png",
+                                          "shocked": "pokemon/haunter/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

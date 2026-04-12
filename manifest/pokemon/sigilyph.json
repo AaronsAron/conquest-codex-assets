@@ -1,0 +1,39 @@
+{
+  "pokemonId": "sigilyph",
+  "nationalDexNumber": 561,
+  "variants": {
+      "default": {
+            "displayName": "Sigilyph",
+            "types": ["psychic", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 254,
+                    "attack": 211,
+                    "defense": 165,
+                    "speed": 199,
+                    "bst": 829
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sigilyph/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sigilyph/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sigilyph/default/icons/full-left.png",
+                              "fullRight": "pokemon/sigilyph/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sigilyph/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sigilyph/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sigilyph/default/portraits/profile.png",
+                              "intro": "pokemon/sigilyph/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

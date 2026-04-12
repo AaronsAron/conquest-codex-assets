@@ -1,0 +1,73 @@
+{
+  "pokemonId": "drilbur",
+  "nationalDexNumber": 529,
+  "variants": {
+      "default": {
+            "displayName": "Drilbur",
+            "types": ["ground"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 175,
+                    "defense": 90,
+                    "speed": 141,
+                    "bst": 636
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/drilbur/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/drilbur/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/drilbur/default/icons/full-left.png",
+                              "fullRight": "pokemon/drilbur/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/drilbur/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/drilbur/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/drilbur/default/portraits/profile.png",
+                              "intro": "pokemon/drilbur/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Drilbur-Shiny",
+            "types": ["ground"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 175,
+                    "defense": 90,
+                    "speed": 141,
+                    "bst": 636
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/drilbur/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/drilbur/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/drilbur/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/drilbur/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/drilbur/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/drilbur/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/drilbur/shiny/portraits/profile.png",
+                              "intro": "pokemon/drilbur/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,79 @@
+{
+  "pokemonId": "metagross",
+  "nationalDexNumber": 376,
+  "variants": {
+      "default": {
+            "displayName": "Metagross",
+            "types": ["steel", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 275,
+                    "defense": 225,
+                    "speed": 145,
+                    "bst": 915
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/metagross/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/metagross/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/metagross/default/icons/full-left.png",
+                              "fullRight": "pokemon/metagross/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/metagross/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/metagross/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/metagross/default/portraits/profile.png",
+                              "intro": "pokemon/metagross/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/metagross/default/portraits/default.png",
+                                          "fierce": "pokemon/metagross/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Metagross-Shiny",
+            "types": ["steel", "psychic"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 275,
+                    "defense": 225,
+                    "speed": 145,
+                    "bst": 915
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce"],
+            "paths": {
+                    "meta": "pokemon/metagross/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/metagross/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/metagross/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/metagross/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/metagross/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/metagross/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/metagross/shiny/portraits/profile.png",
+                              "intro": "pokemon/metagross/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/metagross/shiny/portraits/default.png",
+                                          "fierce": "pokemon/metagross/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

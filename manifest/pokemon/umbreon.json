@@ -1,0 +1,85 @@
+{
+  "pokemonId": "umbreon",
+  "nationalDexNumber": 197,
+  "variants": {
+      "default": {
+            "displayName": "Umbreon",
+            "types": ["dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 135,
+                    "defense": 245,
+                    "speed": 135,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/umbreon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/umbreon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/umbreon/default/icons/full-left.png",
+                              "fullRight": "pokemon/umbreon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/umbreon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/umbreon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/umbreon/default/portraits/profile.png",
+                              "intro": "pokemon/umbreon/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/umbreon/default/portraits/default.png",
+                                          "joyful": "pokemon/umbreon/default/portraits/joyful.png",
+                                          "sad": "pokemon/umbreon/default/portraits/sad.png",
+                                          "fierce": "pokemon/umbreon/default/portraits/fierce.png",
+                                          "shocked": "pokemon/umbreon/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Umbreon-Shiny",
+            "types": ["dark"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 135,
+                    "defense": 245,
+                    "speed": 135,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/umbreon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/umbreon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/umbreon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/umbreon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/umbreon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/umbreon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/umbreon/shiny/portraits/profile.png",
+                              "intro": "pokemon/umbreon/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/umbreon/shiny/portraits/default.png",
+                                          "joyful": "pokemon/umbreon/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/umbreon/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/umbreon/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/umbreon/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

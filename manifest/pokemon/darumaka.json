@@ -1,0 +1,85 @@
+{
+  "pokemonId": "darumaka",
+  "nationalDexNumber": 554,
+  "variants": {
+      "default": {
+            "displayName": "Darumaka",
+            "types": ["fire"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 185,
+                    "defense": 95,
+                    "speed": 105,
+                    "bst": 635
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/darumaka/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/darumaka/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/darumaka/default/icons/full-left.png",
+                              "fullRight": "pokemon/darumaka/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/darumaka/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/darumaka/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/darumaka/default/portraits/profile.png",
+                              "intro": "pokemon/darumaka/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/darumaka/default/portraits/default.png",
+                                          "joyful": "pokemon/darumaka/default/portraits/joyful.png",
+                                          "sad": "pokemon/darumaka/default/portraits/sad.png",
+                                          "fierce": "pokemon/darumaka/default/portraits/fierce.png",
+                                          "shocked": "pokemon/darumaka/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Darumaka-Shiny",
+            "types": ["fire"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 185,
+                    "defense": 95,
+                    "speed": 105,
+                    "bst": 635
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/darumaka/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/darumaka/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/darumaka/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/darumaka/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/darumaka/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/darumaka/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/darumaka/shiny/portraits/profile.png",
+                              "intro": "pokemon/darumaka/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/darumaka/shiny/portraits/default.png",
+                                          "joyful": "pokemon/darumaka/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/darumaka/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/darumaka/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/darumaka/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "kricketune",
+  "nationalDexNumber": 402,
+  "variants": {
+      "default": {
+            "displayName": "Kricketune",
+            "types": ["bug"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 264,
+                    "attack": 175,
+                    "defense": 107,
+                    "speed": 135,
+                    "bst": 681
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/kricketune/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kricketune/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kricketune/default/icons/full-left.png",
+                              "fullRight": "pokemon/kricketune/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/kricketune/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kricketune/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kricketune/default/portraits/profile.png",
+                              "intro": "pokemon/kricketune/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

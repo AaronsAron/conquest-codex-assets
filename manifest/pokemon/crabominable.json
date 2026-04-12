@@ -1,0 +1,39 @@
+{
+  "pokemonId": "crabominable",
+  "nationalDexNumber": 740,
+  "variants": {
+      "default": {
+            "displayName": "Crabominable",
+            "types": ["fighting", "ice"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 304,
+                    "attack": 269,
+                    "defense": 149,
+                    "speed": 91,
+                    "bst": 813
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/crabominable/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/crabominable/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/crabominable/default/icons/full-left.png",
+                              "fullRight": "pokemon/crabominable/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/crabominable/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/crabominable/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/crabominable/default/portraits/profile.png",
+                              "intro": "pokemon/crabominable/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

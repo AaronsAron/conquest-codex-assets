@@ -1,0 +1,39 @@
+{
+  "pokemonId": "zapdos",
+  "nationalDexNumber": 145,
+  "variants": {
+      "galar": {
+            "displayName": "Zapdos-Galar",
+            "types": ["fighting", "flying"],
+            "tags": ["galar", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 255,
+                    "defense": 185,
+                    "speed": 205,
+                    "bst": 935
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/zapdos/galar/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zapdos/galar/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zapdos/galar/icons/full-left.png",
+                              "fullRight": "pokemon/zapdos/galar/icons/full-right.png",
+                              "croppedLeft": "pokemon/zapdos/galar/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zapdos/galar/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zapdos/galar/portraits/profile.png",
+                              "intro": "pokemon/zapdos/galar/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

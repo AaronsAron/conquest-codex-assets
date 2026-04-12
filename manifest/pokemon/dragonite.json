@@ -1,0 +1,73 @@
+{
+  "pokemonId": "dragonite",
+  "nationalDexNumber": 149,
+  "variants": {
+      "default": {
+            "displayName": "Dragonite",
+            "types": ["dragon", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 292,
+                    "attack": 273,
+                    "defense": 200,
+                    "speed": 165,
+                    "bst": 930
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dragonite/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dragonite/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dragonite/default/icons/full-left.png",
+                              "fullRight": "pokemon/dragonite/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dragonite/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dragonite/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dragonite/default/portraits/profile.png",
+                              "intro": "pokemon/dragonite/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Dragonite-Shiny",
+            "types": ["dragon", "flying"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 292,
+                    "attack": 273,
+                    "defense": 200,
+                    "speed": 165,
+                    "bst": 930
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dragonite/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dragonite/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dragonite/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/dragonite/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/dragonite/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dragonite/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dragonite/shiny/portraits/profile.png",
+                              "intro": "pokemon/dragonite/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

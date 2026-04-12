@@ -1,0 +1,73 @@
+{
+  "pokemonId": "machoke",
+  "nationalDexNumber": 67,
+  "variants": {
+      "default": {
+            "displayName": "Machoke",
+            "types": ["fighting"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 205,
+                    "defense": 135,
+                    "speed": 95,
+                    "bst": 705
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/machoke/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/machoke/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/machoke/default/icons/full-left.png",
+                              "fullRight": "pokemon/machoke/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/machoke/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/machoke/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/machoke/default/portraits/profile.png",
+                              "intro": "pokemon/machoke/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Machoke-Shiny",
+            "types": ["fighting"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 205,
+                    "defense": 135,
+                    "speed": 95,
+                    "bst": 705
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/machoke/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/machoke/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/machoke/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/machoke/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/machoke/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/machoke/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/machoke/shiny/portraits/profile.png",
+                              "intro": "pokemon/machoke/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

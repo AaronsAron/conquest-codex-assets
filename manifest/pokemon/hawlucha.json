@@ -1,0 +1,39 @@
+{
+  "pokemonId": "hawlucha",
+  "nationalDexNumber": 701,
+  "variants": {
+      "default": {
+            "displayName": "Hawlucha",
+            "types": ["fighting", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 266,
+                    "attack": 189,
+                    "defense": 143,
+                    "speed": 241,
+                    "bst": 839
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/hawlucha/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/hawlucha/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/hawlucha/default/icons/full-left.png",
+                              "fullRight": "pokemon/hawlucha/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/hawlucha/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/hawlucha/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/hawlucha/default/portraits/profile.png",
+                              "intro": "pokemon/hawlucha/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

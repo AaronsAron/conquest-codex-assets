@@ -1,0 +1,39 @@
+{
+  "pokemonId": "carvanha",
+  "nationalDexNumber": 318,
+  "variants": {
+      "default": {
+            "displayName": "Carvanha",
+            "types": ["water", "dark"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 185,
+                    "defense": 45,
+                    "speed": 135,
+                    "bst": 565
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/carvanha/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/carvanha/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/carvanha/default/icons/full-left.png",
+                              "fullRight": "pokemon/carvanha/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/carvanha/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/carvanha/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/carvanha/default/portraits/profile.png",
+                              "intro": "pokemon/carvanha/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "spectrier",
+  "nationalDexNumber": 897,
+  "variants": {
+      "default": {
+            "displayName": "Spectrier",
+            "types": ["ghost"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 295,
+                    "defense": 145,
+                    "speed": 265,
+                    "bst": 1015
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/spectrier/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/spectrier/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/spectrier/default/icons/full-left.png",
+                              "fullRight": "pokemon/spectrier/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/spectrier/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/spectrier/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/spectrier/default/portraits/profile.png",
+                              "intro": "pokemon/spectrier/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

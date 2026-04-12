@@ -1,0 +1,39 @@
+{
+  "pokemonId": "garganacl",
+  "nationalDexNumber": 934,
+  "variants": {
+      "default": {
+            "displayName": "Garganacl",
+            "types": ["rock"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 205,
+                    "defense": 225,
+                    "speed": 75,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/garganacl/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/garganacl/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/garganacl/default/icons/full-left.png",
+                              "fullRight": "pokemon/garganacl/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/garganacl/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/garganacl/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/garganacl/default/portraits/profile.png",
+                              "intro": "pokemon/garganacl/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

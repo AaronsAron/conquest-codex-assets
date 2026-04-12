@@ -1,0 +1,73 @@
+{
+  "pokemonId": "roggenrola",
+  "nationalDexNumber": 524,
+  "variants": {
+      "default": {
+            "displayName": "Roggenrola",
+            "types": ["rock"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 155,
+                    "defense": 115,
+                    "speed": 35,
+                    "bst": 525
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/roggenrola/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/roggenrola/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/roggenrola/default/icons/full-left.png",
+                              "fullRight": "pokemon/roggenrola/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/roggenrola/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/roggenrola/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/roggenrola/default/portraits/profile.png",
+                              "intro": "pokemon/roggenrola/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Roggenrola-Shiny",
+            "types": ["rock"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 155,
+                    "defense": 115,
+                    "speed": 35,
+                    "bst": 525
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/roggenrola/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/roggenrola/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/roggenrola/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/roggenrola/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/roggenrola/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/roggenrola/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/roggenrola/shiny/portraits/profile.png",
+                              "intro": "pokemon/roggenrola/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

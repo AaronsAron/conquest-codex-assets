@@ -1,0 +1,81 @@
+{
+  "pokemonId": "gigalith",
+  "nationalDexNumber": 526,
+  "variants": {
+      "default": {
+            "displayName": "Gigalith",
+            "types": ["rock"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 275,
+                    "defense": 215,
+                    "speed": 55,
+                    "bst": 825
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/gigalith/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gigalith/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gigalith/default/icons/full-left.png",
+                              "fullRight": "pokemon/gigalith/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gigalith/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gigalith/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gigalith/default/portraits/profile.png",
+                              "intro": "pokemon/gigalith/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/gigalith/default/portraits/default.png",
+                                          "joyful": "pokemon/gigalith/default/portraits/joyful.png",
+                                          "fierce": "pokemon/gigalith/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Gigalith-Shiny",
+            "types": ["rock"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 275,
+                    "defense": 215,
+                    "speed": 55,
+                    "bst": 825
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/gigalith/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gigalith/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gigalith/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/gigalith/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/gigalith/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gigalith/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gigalith/shiny/portraits/profile.png",
+                              "intro": "pokemon/gigalith/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/gigalith/shiny/portraits/default.png",
+                                          "joyful": "pokemon/gigalith/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/gigalith/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

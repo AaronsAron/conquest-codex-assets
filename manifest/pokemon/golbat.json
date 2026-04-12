@@ -1,0 +1,85 @@
+{
+  "pokemonId": "golbat",
+  "nationalDexNumber": 42,
+  "variants": {
+      "default": {
+            "displayName": "Golbat",
+            "types": ["poison", "flying"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 165,
+                    "defense": 150,
+                    "speed": 185,
+                    "bst": 760
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/golbat/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/golbat/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/golbat/default/icons/full-left.png",
+                              "fullRight": "pokemon/golbat/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/golbat/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/golbat/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/golbat/default/portraits/profile.png",
+                              "intro": "pokemon/golbat/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/golbat/default/portraits/default.png",
+                                          "joyful": "pokemon/golbat/default/portraits/joyful.png",
+                                          "sad": "pokemon/golbat/default/portraits/sad.png",
+                                          "fierce": "pokemon/golbat/default/portraits/fierce.png",
+                                          "shocked": "pokemon/golbat/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Golbat-Shiny",
+            "types": ["poison", "flying"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 165,
+                    "defense": 150,
+                    "speed": 185,
+                    "bst": 760
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/golbat/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/golbat/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/golbat/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/golbat/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/golbat/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/golbat/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/golbat/shiny/portraits/profile.png",
+                              "intro": "pokemon/golbat/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/golbat/shiny/portraits/default.png",
+                                          "joyful": "pokemon/golbat/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/golbat/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/golbat/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/golbat/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

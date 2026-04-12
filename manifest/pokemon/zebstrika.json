@@ -1,0 +1,73 @@
+{
+  "pokemonId": "zebstrika",
+  "nationalDexNumber": 523,
+  "variants": {
+      "default": {
+            "displayName": "Zebstrika",
+            "types": ["electric"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 205,
+                    "defense": 131,
+                    "speed": 237,
+                    "bst": 833
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/zebstrika/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zebstrika/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zebstrika/default/icons/full-left.png",
+                              "fullRight": "pokemon/zebstrika/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/zebstrika/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zebstrika/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zebstrika/default/portraits/profile.png",
+                              "intro": "pokemon/zebstrika/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Zebstrika-Shiny",
+            "types": ["electric"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 205,
+                    "defense": 131,
+                    "speed": 237,
+                    "bst": 833
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/zebstrika/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zebstrika/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zebstrika/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/zebstrika/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/zebstrika/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zebstrika/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zebstrika/shiny/portraits/profile.png",
+                              "intro": "pokemon/zebstrika/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

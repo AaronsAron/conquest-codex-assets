@@ -1,0 +1,49 @@
+{
+  "pokemonId": "skarmory",
+  "nationalDexNumber": 227,
+  "variants": {
+      "default": {
+            "displayName": "Skarmory",
+            "types": ["steel", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 165,
+                    "defense": 215,
+                    "speed": 145,
+                    "bst": 765
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/skarmory/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/skarmory/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/skarmory/default/icons/full-left.png",
+                              "fullRight": "pokemon/skarmory/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/skarmory/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/skarmory/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/skarmory/default/portraits/profile.png",
+                              "intro": "pokemon/skarmory/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {
+                    "battleAnimation": [
+                              {
+                                          "id": "alternate-default",
+                                          "path": "pokemon/skarmory/alternate-default/battle/animation.png",
+                                          "animationFlags": {"asymmetric": true, "longAttack": false},
+                                          "artists": ["Soulja"],
+                                          "dateModified": "2026-04-01"
+                                        }
+                            ]
+                  }
+          }
+    }
+}

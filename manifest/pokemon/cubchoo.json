@@ -1,0 +1,73 @@
+{
+  "pokemonId": "cubchoo",
+  "nationalDexNumber": 613,
+  "variants": {
+      "default": {
+            "displayName": "Cubchoo",
+            "types": ["ice"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 145,
+                    "defense": 85,
+                    "speed": 85,
+                    "bst": 535
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/cubchoo/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/cubchoo/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/cubchoo/default/icons/full-left.png",
+                              "fullRight": "pokemon/cubchoo/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/cubchoo/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/cubchoo/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/cubchoo/default/portraits/profile.png",
+                              "intro": "pokemon/cubchoo/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Cubchoo-Shiny",
+            "types": ["ice"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 145,
+                    "defense": 85,
+                    "speed": 85,
+                    "bst": 535
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/cubchoo/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/cubchoo/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/cubchoo/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/cubchoo/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/cubchoo/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/cubchoo/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/cubchoo/shiny/portraits/profile.png",
+                              "intro": "pokemon/cubchoo/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

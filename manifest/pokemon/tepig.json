@@ -1,0 +1,73 @@
+{
+  "pokemonId": "tepig",
+  "nationalDexNumber": 498,
+  "variants": {
+      "default": {
+            "displayName": "Tepig",
+            "types": ["fire"],
+            "tags": ["default", "unevolved", "starter"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 131,
+                    "defense": 95,
+                    "speed": 95,
+                    "bst": 561
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/tepig/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/tepig/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/tepig/default/icons/full-left.png",
+                              "fullRight": "pokemon/tepig/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/tepig/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/tepig/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/tepig/default/portraits/profile.png",
+                              "intro": "pokemon/tepig/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Tepig-Shiny",
+            "types": ["fire"],
+            "tags": ["shiny", "unevolved", "starter"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 131,
+                    "defense": 95,
+                    "speed": 95,
+                    "bst": 561
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/tepig/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/tepig/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/tepig/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/tepig/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/tepig/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/tepig/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/tepig/shiny/portraits/profile.png",
+                              "intro": "pokemon/tepig/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

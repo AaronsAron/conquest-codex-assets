@@ -1,0 +1,83 @@
+{
+  "pokemonId": "kadabra",
+  "nationalDexNumber": 64,
+  "variants": {
+      "default": {
+            "displayName": "Kadabra",
+            "types": ["psychic"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 245,
+                    "defense": 105,
+                    "speed": 215,
+                    "bst": 755
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/kadabra/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kadabra/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kadabra/default/icons/full-left.png",
+                              "fullRight": "pokemon/kadabra/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/kadabra/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kadabra/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kadabra/default/portraits/profile.png",
+                              "intro": "pokemon/kadabra/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/kadabra/default/portraits/default.png",
+                                          "joyful": "pokemon/kadabra/default/portraits/joyful.png",
+                                          "fierce": "pokemon/kadabra/default/portraits/fierce.png",
+                                          "shocked": "pokemon/kadabra/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Kadabra-Shiny",
+            "types": ["psychic"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 245,
+                    "defense": 105,
+                    "speed": 215,
+                    "bst": 755
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/kadabra/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kadabra/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kadabra/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/kadabra/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/kadabra/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kadabra/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kadabra/shiny/portraits/profile.png",
+                              "intro": "pokemon/kadabra/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/kadabra/shiny/portraits/default.png",
+                                          "joyful": "pokemon/kadabra/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/kadabra/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/kadabra/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,81 @@
+{
+  "pokemonId": "luxray",
+  "nationalDexNumber": 405,
+  "variants": {
+      "default": {
+            "displayName": "Luxray",
+            "types": ["electric"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 245,
+                    "defense": 163,
+                    "speed": 145,
+                    "bst": 823
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/luxray/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/luxray/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/luxray/default/icons/full-left.png",
+                              "fullRight": "pokemon/luxray/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/luxray/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/luxray/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/luxray/default/portraits/profile.png",
+                              "intro": "pokemon/luxray/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/luxray/default/portraits/default.png",
+                                          "fierce": "pokemon/luxray/default/portraits/fierce.png",
+                                          "shocked": "pokemon/luxray/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Luxray-Shiny",
+            "types": ["electric"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 245,
+                    "defense": 163,
+                    "speed": 145,
+                    "bst": 823
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/luxray/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/luxray/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/luxray/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/luxray/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/luxray/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/luxray/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/luxray/shiny/portraits/profile.png",
+                              "intro": "pokemon/luxray/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/luxray/shiny/portraits/default.png",
+                                          "fierce": "pokemon/luxray/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/luxray/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

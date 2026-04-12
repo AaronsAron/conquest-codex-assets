@@ -1,0 +1,81 @@
+{
+  "pokemonId": "lampent",
+  "nationalDexNumber": 608,
+  "variants": {
+      "default": {
+            "displayName": "Lampent",
+            "types": ["ghost", "fire"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 195,
+                    "defense": 125,
+                    "speed": 115,
+                    "bst": 665
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/lampent/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lampent/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lampent/default/icons/full-left.png",
+                              "fullRight": "pokemon/lampent/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/lampent/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lampent/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lampent/default/portraits/profile.png",
+                              "intro": "pokemon/lampent/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/lampent/default/portraits/default.png",
+                                          "fierce": "pokemon/lampent/default/portraits/fierce.png",
+                                          "shocked": "pokemon/lampent/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Lampent-Shiny",
+            "types": ["ghost", "fire"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 195,
+                    "defense": 125,
+                    "speed": 115,
+                    "bst": 665
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/lampent/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lampent/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lampent/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/lampent/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/lampent/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lampent/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lampent/shiny/portraits/profile.png",
+                              "intro": "pokemon/lampent/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/lampent/shiny/portraits/default.png",
+                                          "fierce": "pokemon/lampent/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/lampent/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

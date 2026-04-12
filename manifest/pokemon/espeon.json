@@ -1,0 +1,85 @@
+{
+  "pokemonId": "espeon",
+  "nationalDexNumber": 196,
+  "variants": {
+      "default": {
+            "displayName": "Espeon",
+            "types": ["psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 265,
+                    "defense": 160,
+                    "speed": 225,
+                    "bst": 890
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/espeon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/espeon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/espeon/default/icons/full-left.png",
+                              "fullRight": "pokemon/espeon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/espeon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/espeon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/espeon/default/portraits/profile.png",
+                              "intro": "pokemon/espeon/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/espeon/default/portraits/default.png",
+                                          "joyful": "pokemon/espeon/default/portraits/joyful.png",
+                                          "sad": "pokemon/espeon/default/portraits/sad.png",
+                                          "fierce": "pokemon/espeon/default/portraits/fierce.png",
+                                          "shocked": "pokemon/espeon/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Espeon-Shiny",
+            "types": ["psychic"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 265,
+                    "defense": 160,
+                    "speed": 225,
+                    "bst": 890
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/espeon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/espeon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/espeon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/espeon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/espeon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/espeon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/espeon/shiny/portraits/profile.png",
+                              "intro": "pokemon/espeon/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/espeon/shiny/portraits/default.png",
+                                          "joyful": "pokemon/espeon/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/espeon/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/espeon/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/espeon/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

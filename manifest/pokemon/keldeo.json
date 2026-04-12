@@ -1,0 +1,39 @@
+{
+  "pokemonId": "keldeo",
+  "nationalDexNumber": 647,
+  "variants": {
+      "default": {
+            "displayName": "Keldeo",
+            "types": ["water", "fighting"],
+            "tags": ["default", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 292,
+                    "attack": 263,
+                    "defense": 185,
+                    "speed": 221,
+                    "bst": 961
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/keldeo/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/keldeo/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/keldeo/default/icons/full-left.png",
+                              "fullRight": "pokemon/keldeo/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/keldeo/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/keldeo/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/keldeo/default/portraits/profile.png",
+                              "intro": "pokemon/keldeo/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

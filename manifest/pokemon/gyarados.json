@@ -1,0 +1,73 @@
+{
+  "pokemonId": "gyarados",
+  "nationalDexNumber": 130,
+  "variants": {
+      "default": {
+            "displayName": "Gyarados",
+            "types": ["water", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 255,
+                    "defense": 184,
+                    "speed": 167,
+                    "bst": 906
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gyarados/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gyarados/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gyarados/default/icons/full-left.png",
+                              "fullRight": "pokemon/gyarados/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gyarados/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gyarados/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gyarados/default/portraits/profile.png",
+                              "intro": "pokemon/gyarados/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Gyarados-Shiny",
+            "types": ["water", "flying"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 255,
+                    "defense": 184,
+                    "speed": 167,
+                    "bst": 906
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gyarados/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gyarados/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gyarados/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/gyarados/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/gyarados/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gyarados/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gyarados/shiny/portraits/profile.png",
+                              "intro": "pokemon/gyarados/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

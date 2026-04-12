@@ -1,0 +1,81 @@
+{
+  "pokemonId": "boldore",
+  "nationalDexNumber": 525,
+  "variants": {
+      "default": {
+            "displayName": "Boldore",
+            "types": ["rock"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 215,
+                    "defense": 150,
+                    "speed": 45,
+                    "bst": 660
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/boldore/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/boldore/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/boldore/default/icons/full-left.png",
+                              "fullRight": "pokemon/boldore/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/boldore/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/boldore/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/boldore/default/portraits/profile.png",
+                              "intro": "pokemon/boldore/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/boldore/default/portraits/default.png",
+                                          "joyful": "pokemon/boldore/default/portraits/joyful.png",
+                                          "fierce": "pokemon/boldore/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Boldore-Shiny",
+            "types": ["rock"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 215,
+                    "defense": 150,
+                    "speed": 45,
+                    "bst": 660
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/boldore/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/boldore/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/boldore/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/boldore/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/boldore/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/boldore/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/boldore/shiny/portraits/profile.png",
+                              "intro": "pokemon/boldore/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/boldore/shiny/portraits/default.png",
+                                          "joyful": "pokemon/boldore/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/boldore/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

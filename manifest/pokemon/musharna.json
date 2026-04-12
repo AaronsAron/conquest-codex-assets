@@ -1,0 +1,73 @@
+{
+  "pokemonId": "musharna",
+  "nationalDexNumber": 518,
+  "variants": {
+      "default": {
+            "displayName": "Musharna",
+            "types": ["psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 342,
+                    "attack": 219,
+                    "defense": 185,
+                    "speed": 63,
+                    "bst": 809
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/musharna/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/musharna/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/musharna/default/icons/full-left.png",
+                              "fullRight": "pokemon/musharna/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/musharna/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/musharna/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/musharna/default/portraits/profile.png",
+                              "intro": "pokemon/musharna/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Musharna-Shiny",
+            "types": ["psychic"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 342,
+                    "attack": 219,
+                    "defense": 185,
+                    "speed": 63,
+                    "bst": 809
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/musharna/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/musharna/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/musharna/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/musharna/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/musharna/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/musharna/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/musharna/shiny/portraits/profile.png",
+                              "intro": "pokemon/musharna/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

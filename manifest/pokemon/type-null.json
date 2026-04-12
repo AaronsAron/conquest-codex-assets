@@ -1,0 +1,39 @@
+{
+  "pokemonId": "type-null",
+  "nationalDexNumber": 772,
+  "variants": {
+      "default": {
+            "displayName": "Type: Null",
+            "types": ["normal"],
+            "tags": ["default", "unevolved", "legendary"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 195,
+                    "defense": 195,
+                    "speed": 123,
+                    "bst": 813
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/type-null/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/type-null/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/type-null/default/icons/full-left.png",
+                              "fullRight": "pokemon/type-null/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/type-null/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/type-null/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/type-null/default/portraits/profile.png",
+                              "intro": "pokemon/type-null/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

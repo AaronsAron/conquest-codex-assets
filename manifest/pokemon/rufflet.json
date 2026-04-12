@@ -1,0 +1,83 @@
+{
+  "pokemonId": "rufflet",
+  "nationalDexNumber": 627,
+  "variants": {
+      "default": {
+            "displayName": "Rufflet",
+            "types": ["normal", "flying"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 171,
+                    "defense": 105,
+                    "speed": 125,
+                    "bst": 651
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/rufflet/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rufflet/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rufflet/default/icons/full-left.png",
+                              "fullRight": "pokemon/rufflet/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/rufflet/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rufflet/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rufflet/default/portraits/profile.png",
+                              "intro": "pokemon/rufflet/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/rufflet/default/portraits/default.png",
+                                          "joyful": "pokemon/rufflet/default/portraits/joyful.png",
+                                          "fierce": "pokemon/rufflet/default/portraits/fierce.png",
+                                          "shocked": "pokemon/rufflet/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Rufflet-Shiny",
+            "types": ["normal", "flying"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 171,
+                    "defense": 105,
+                    "speed": 125,
+                    "bst": 651
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/rufflet/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rufflet/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rufflet/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/rufflet/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/rufflet/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rufflet/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rufflet/shiny/portraits/profile.png",
+                              "intro": "pokemon/rufflet/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/rufflet/shiny/portraits/default.png",
+                                          "joyful": "pokemon/rufflet/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/rufflet/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/rufflet/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

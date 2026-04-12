@@ -1,0 +1,81 @@
+{
+  "pokemonId": "zekrom",
+  "nationalDexNumber": 644,
+  "variants": {
+      "default": {
+            "displayName": "Zekrom",
+            "types": ["dragon", "electric"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 305,
+                    "defense": 225,
+                    "speed": 185,
+                    "bst": 1025
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/zekrom/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zekrom/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zekrom/default/icons/full-left.png",
+                              "fullRight": "pokemon/zekrom/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/zekrom/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zekrom/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zekrom/default/portraits/profile.png",
+                              "intro": "pokemon/zekrom/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/zekrom/default/portraits/default.png",
+                                          "joyful": "pokemon/zekrom/default/portraits/joyful.png",
+                                          "fierce": "pokemon/zekrom/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Zekrom-Shiny",
+            "types": ["dragon", "electric"],
+            "tags": ["shiny", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 305,
+                    "defense": 225,
+                    "speed": 185,
+                    "bst": 1025
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/zekrom/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/zekrom/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/zekrom/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/zekrom/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/zekrom/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/zekrom/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/zekrom/shiny/portraits/profile.png",
+                              "intro": "pokemon/zekrom/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/zekrom/shiny/portraits/default.png",
+                                          "joyful": "pokemon/zekrom/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/zekrom/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

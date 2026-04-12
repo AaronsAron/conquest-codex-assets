@@ -1,0 +1,39 @@
+{
+  "pokemonId": "frigibax",
+  "nationalDexNumber": 996,
+  "variants": {
+      "default": {
+            "displayName": "Frigibax",
+            "types": ["dragon", "ice"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 155,
+                    "defense": 95,
+                    "speed": 115,
+                    "bst": 605
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/frigibax/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/frigibax/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/frigibax/default/icons/full-left.png",
+                              "fullRight": "pokemon/frigibax/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/frigibax/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/frigibax/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/frigibax/default/portraits/profile.png",
+                              "intro": "pokemon/frigibax/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

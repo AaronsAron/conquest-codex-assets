@@ -1,0 +1,73 @@
+{
+  "pokemonId": "gastly",
+  "nationalDexNumber": 92,
+  "variants": {
+      "default": {
+            "displayName": "Gastly",
+            "types": ["ghost", "poison"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 170,
+                    "attack": 205,
+                    "defense": 70,
+                    "speed": 165,
+                    "bst": 610
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gastly/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gastly/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gastly/default/icons/full-left.png",
+                              "fullRight": "pokemon/gastly/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gastly/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gastly/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gastly/default/portraits/profile.png",
+                              "intro": "pokemon/gastly/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Gastly-Shiny",
+            "types": ["ghost", "poison"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 170,
+                    "attack": 205,
+                    "defense": 70,
+                    "speed": 165,
+                    "bst": 610
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gastly/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gastly/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gastly/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/gastly/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/gastly/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gastly/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gastly/shiny/portraits/profile.png",
+                              "intro": "pokemon/gastly/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

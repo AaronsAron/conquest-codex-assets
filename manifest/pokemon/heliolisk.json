@@ -1,0 +1,39 @@
+{
+  "pokemonId": "heliolisk",
+  "nationalDexNumber": 695,
+  "variants": {
+      "default": {
+            "displayName": "Heliolisk",
+            "types": ["electric", "normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 234,
+                    "attack": 223,
+                    "defense": 151,
+                    "speed": 223,
+                    "bst": 831
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/heliolisk/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/heliolisk/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/heliolisk/default/icons/full-left.png",
+                              "fullRight": "pokemon/heliolisk/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/heliolisk/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/heliolisk/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/heliolisk/default/portraits/profile.png",
+                              "intro": "pokemon/heliolisk/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

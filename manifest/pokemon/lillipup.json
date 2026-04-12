@@ -1,0 +1,39 @@
+{
+  "pokemonId": "lillipup",
+  "nationalDexNumber": 506,
+  "variants": {
+      "default": {
+            "displayName": "Lillipup",
+            "types": ["normal"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 125,
+                    "defense": 95,
+                    "speed": 115,
+                    "bst": 535
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/lillipup/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lillipup/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lillipup/default/icons/full-left.png",
+                              "fullRight": "pokemon/lillipup/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/lillipup/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lillipup/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lillipup/default/portraits/profile.png",
+                              "intro": "pokemon/lillipup/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

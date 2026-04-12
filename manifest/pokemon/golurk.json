@@ -1,0 +1,39 @@
+{
+  "pokemonId": "golurk",
+  "nationalDexNumber": 623,
+  "variants": {
+      "default": {
+            "displayName": "Golurk",
+            "types": ["ground", "ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 288,
+                    "attack": 253,
+                    "defense": 165,
+                    "speed": 115,
+                    "bst": 821
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/golurk/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/golurk/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/golurk/default/icons/full-left.png",
+                              "fullRight": "pokemon/golurk/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/golurk/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/golurk/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/golurk/default/portraits/profile.png",
+                              "intro": "pokemon/golurk/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

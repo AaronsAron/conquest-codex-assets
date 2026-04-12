@@ -1,0 +1,39 @@
+{
+  "pokemonId": "kartana",
+  "nationalDexNumber": 798,
+  "variants": {
+      "default": {
+            "displayName": "Kartana",
+            "types": ["grass", "steel"],
+            "tags": ["default", "fully-evolved", "ultra-beast"],
+            "stats": {
+                    "hp": 228,
+                    "attack": 367,
+                    "defense": 167,
+                    "speed": 223,
+                    "bst": 985
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/kartana/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kartana/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kartana/default/icons/full-left.png",
+                              "fullRight": "pokemon/kartana/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/kartana/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kartana/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kartana/default/portraits/profile.png",
+                              "intro": "pokemon/kartana/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "dudunsparce",
+  "nationalDexNumber": 982,
+  "variants": {
+      "default": {
+            "displayName": "Dudunsparce-Two-Segment",
+            "types": ["normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 360,
+                    "attack": 205,
+                    "defense": 160,
+                    "speed": 115,
+                    "bst": 840
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dudunsparce/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dudunsparce/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dudunsparce/default/icons/full-left.png",
+                              "fullRight": "pokemon/dudunsparce/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dudunsparce/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dudunsparce/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dudunsparce/default/portraits/profile.png",
+                              "intro": "pokemon/dudunsparce/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

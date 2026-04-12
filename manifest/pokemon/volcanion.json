@@ -1,0 +1,39 @@
+{
+  "pokemonId": "volcanion",
+  "nationalDexNumber": 721,
+  "variants": {
+      "default": {
+            "displayName": "Volcanion",
+            "types": ["fire", "water"],
+            "tags": ["default", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 265,
+                    "defense": 215,
+                    "speed": 145,
+                    "bst": 895
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/volcanion/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/volcanion/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/volcanion/default/icons/full-left.png",
+                              "fullRight": "pokemon/volcanion/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/volcanion/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/volcanion/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/volcanion/default/portraits/profile.png",
+                              "intro": "pokemon/volcanion/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

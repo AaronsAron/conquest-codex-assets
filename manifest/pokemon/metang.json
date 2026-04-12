@@ -1,0 +1,73 @@
+{
+  "pokemonId": "metang",
+  "nationalDexNumber": 375,
+  "variants": {
+      "default": {
+            "displayName": "Metang",
+            "types": ["steel", "psychic"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 155,
+                    "defense": 185,
+                    "speed": 105,
+                    "bst": 675
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/metang/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/metang/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/metang/default/icons/full-left.png",
+                              "fullRight": "pokemon/metang/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/metang/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/metang/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/metang/default/portraits/profile.png",
+                              "intro": "pokemon/metang/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Metang-Shiny",
+            "types": ["steel", "psychic"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 155,
+                    "defense": 185,
+                    "speed": 105,
+                    "bst": 675
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/metang/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/metang/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/metang/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/metang/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/metang/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/metang/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/metang/shiny/portraits/profile.png",
+                              "intro": "pokemon/metang/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

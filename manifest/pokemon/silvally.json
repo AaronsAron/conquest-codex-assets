@@ -1,0 +1,39 @@
+{
+  "pokemonId": "silvally",
+  "nationalDexNumber": 773,
+  "variants": {
+      "default": {
+            "displayName": "Silvally-Normal",
+            "types": ["normal"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 195,
+                    "defense": 195,
+                    "speed": 195,
+                    "bst": 885
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/silvally/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/silvally/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/silvally/default/icons/full-left.png",
+                              "fullRight": "pokemon/silvally/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/silvally/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/silvally/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/silvally/default/portraits/profile.png",
+                              "intro": "pokemon/silvally/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

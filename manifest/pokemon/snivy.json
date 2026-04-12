@@ -1,0 +1,73 @@
+{
+  "pokemonId": "snivy",
+  "nationalDexNumber": 495,
+  "variants": {
+      "default": {
+            "displayName": "Snivy",
+            "types": ["grass"],
+            "tags": ["default", "unevolved", "starter"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 95,
+                    "defense": 115,
+                    "speed": 131,
+                    "bst": 541
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/snivy/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/snivy/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/snivy/default/icons/full-left.png",
+                              "fullRight": "pokemon/snivy/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/snivy/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/snivy/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/snivy/default/portraits/profile.png",
+                              "intro": "pokemon/snivy/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Snivy-Shiny",
+            "types": ["grass"],
+            "tags": ["shiny", "unevolved", "starter"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 95,
+                    "defense": 115,
+                    "speed": 131,
+                    "bst": 541
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/snivy/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/snivy/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/snivy/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/snivy/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/snivy/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/snivy/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/snivy/shiny/portraits/profile.png",
+                              "intro": "pokemon/snivy/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

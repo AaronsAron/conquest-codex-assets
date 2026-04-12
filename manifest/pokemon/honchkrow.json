@@ -1,0 +1,39 @@
+{
+  "pokemonId": "honchkrow",
+  "nationalDexNumber": 430,
+  "variants": {
+      "default": {
+            "displayName": "Honchkrow",
+            "types": ["dark", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 255,
+                    "defense": 109,
+                    "speed": 147,
+                    "bst": 821
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/honchkrow/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/honchkrow/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/honchkrow/default/icons/full-left.png",
+                              "fullRight": "pokemon/honchkrow/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/honchkrow/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/honchkrow/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/honchkrow/default/portraits/profile.png",
+                              "intro": "pokemon/honchkrow/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

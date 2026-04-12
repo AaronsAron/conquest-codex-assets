@@ -1,0 +1,73 @@
+{
+  "pokemonId": "scraggy",
+  "nationalDexNumber": 559,
+  "variants": {
+      "default": {
+            "displayName": "Scraggy",
+            "types": ["dark", "fighting"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 155,
+                    "defense": 145,
+                    "speed": 101,
+                    "bst": 611
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/scraggy/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/scraggy/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/scraggy/default/icons/full-left.png",
+                              "fullRight": "pokemon/scraggy/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/scraggy/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/scraggy/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/scraggy/default/portraits/profile.png",
+                              "intro": "pokemon/scraggy/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Scraggy-Shiny",
+            "types": ["dark", "fighting"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 155,
+                    "defense": 145,
+                    "speed": 101,
+                    "bst": 611
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/scraggy/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/scraggy/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/scraggy/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/scraggy/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/scraggy/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/scraggy/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/scraggy/shiny/portraits/profile.png",
+                              "intro": "pokemon/scraggy/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

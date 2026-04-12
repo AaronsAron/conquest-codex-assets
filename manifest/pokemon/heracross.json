@@ -1,0 +1,39 @@
+{
+  "pokemonId": "heracross",
+  "nationalDexNumber": 214,
+  "variants": {
+      "default": {
+            "displayName": "Heracross",
+            "types": ["bug", "fighting"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 255,
+                    "defense": 175,
+                    "speed": 175,
+                    "bst": 875
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/heracross/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/heracross/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/heracross/default/icons/full-left.png",
+                              "fullRight": "pokemon/heracross/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/heracross/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/heracross/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/heracross/default/portraits/profile.png",
+                              "intro": "pokemon/heracross/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

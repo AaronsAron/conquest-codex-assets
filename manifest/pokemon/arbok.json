@@ -1,0 +1,73 @@
+{
+  "pokemonId": "arbok",
+  "nationalDexNumber": 24,
+  "variants": {
+      "default": {
+            "displayName": "Arbok",
+            "types": ["poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 195,
+                    "defense": 153,
+                    "speed": 165,
+                    "bst": 743
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/arbok/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/arbok/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/arbok/default/icons/full-left.png",
+                              "fullRight": "pokemon/arbok/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/arbok/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/arbok/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/arbok/default/portraits/profile.png",
+                              "intro": "pokemon/arbok/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Arbok-Shiny",
+            "types": ["poison"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 195,
+                    "defense": 153,
+                    "speed": 165,
+                    "bst": 743
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/arbok/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/arbok/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/arbok/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/arbok/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/arbok/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/arbok/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/arbok/shiny/portraits/profile.png",
+                              "intro": "pokemon/arbok/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

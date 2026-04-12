@@ -1,0 +1,85 @@
+{
+  "pokemonId": "jigglypuff",
+  "nationalDexNumber": 39,
+  "variants": {
+      "default": {
+            "displayName": "Jigglypuff",
+            "types": ["normal", "fairy"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 340,
+                    "attack": 95,
+                    "defense": 50,
+                    "speed": 45,
+                    "bst": 530
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/jigglypuff/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/jigglypuff/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/jigglypuff/default/icons/full-left.png",
+                              "fullRight": "pokemon/jigglypuff/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/jigglypuff/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/jigglypuff/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/jigglypuff/default/portraits/profile.png",
+                              "intro": "pokemon/jigglypuff/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/jigglypuff/default/portraits/default.png",
+                                          "joyful": "pokemon/jigglypuff/default/portraits/joyful.png",
+                                          "sad": "pokemon/jigglypuff/default/portraits/sad.png",
+                                          "fierce": "pokemon/jigglypuff/default/portraits/fierce.png",
+                                          "shocked": "pokemon/jigglypuff/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Jigglypuff-Shiny",
+            "types": ["normal", "fairy"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 340,
+                    "attack": 95,
+                    "defense": 50,
+                    "speed": 45,
+                    "bst": 530
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/jigglypuff/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/jigglypuff/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/jigglypuff/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/jigglypuff/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/jigglypuff/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/jigglypuff/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/jigglypuff/shiny/portraits/profile.png",
+                              "intro": "pokemon/jigglypuff/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/jigglypuff/shiny/portraits/default.png",
+                                          "joyful": "pokemon/jigglypuff/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/jigglypuff/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/jigglypuff/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/jigglypuff/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

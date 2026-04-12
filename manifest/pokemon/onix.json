@@ -1,0 +1,73 @@
+{
+  "pokemonId": "onix",
+  "nationalDexNumber": 95,
+  "variants": {
+      "default": {
+            "displayName": "Onix",
+            "types": ["rock", "ground"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 180,
+                    "attack": 95,
+                    "defense": 210,
+                    "speed": 145,
+                    "bst": 630
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/onix/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/onix/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/onix/default/icons/full-left.png",
+                              "fullRight": "pokemon/onix/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/onix/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/onix/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/onix/default/portraits/profile.png",
+                              "intro": "pokemon/onix/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Onix-Shiny",
+            "types": ["rock", "ground"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 180,
+                    "attack": 95,
+                    "defense": 210,
+                    "speed": 145,
+                    "bst": 630
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/onix/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/onix/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/onix/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/onix/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/onix/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/onix/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/onix/shiny/portraits/profile.png",
+                              "intro": "pokemon/onix/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

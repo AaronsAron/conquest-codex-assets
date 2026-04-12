@@ -1,0 +1,85 @@
+{
+  "pokemonId": "lapras",
+  "nationalDexNumber": 131,
+  "variants": {
+      "default": {
+            "displayName": "Lapras",
+            "types": ["water", "ice"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 370,
+                    "attack": 175,
+                    "defense": 180,
+                    "speed": 125,
+                    "bst": 850
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/lapras/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lapras/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lapras/default/icons/full-left.png",
+                              "fullRight": "pokemon/lapras/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/lapras/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lapras/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lapras/default/portraits/profile.png",
+                              "intro": "pokemon/lapras/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/lapras/default/portraits/default.png",
+                                          "joyful": "pokemon/lapras/default/portraits/joyful.png",
+                                          "sad": "pokemon/lapras/default/portraits/sad.png",
+                                          "fierce": "pokemon/lapras/default/portraits/fierce.png",
+                                          "shocked": "pokemon/lapras/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Lapras-Shiny",
+            "types": ["water", "ice"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 370,
+                    "attack": 175,
+                    "defense": 180,
+                    "speed": 125,
+                    "bst": 850
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/lapras/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lapras/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lapras/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/lapras/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/lapras/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lapras/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lapras/shiny/portraits/profile.png",
+                              "intro": "pokemon/lapras/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/lapras/shiny/portraits/default.png",
+                                          "joyful": "pokemon/lapras/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/lapras/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/lapras/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/lapras/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

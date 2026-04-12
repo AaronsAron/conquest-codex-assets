@@ -1,0 +1,39 @@
+{
+  "pokemonId": "starmie",
+  "nationalDexNumber": 121,
+  "variants": {
+      "default": {
+            "displayName": "Starmie",
+            "types": ["water", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 205,
+                    "defense": 175,
+                    "speed": 235,
+                    "bst": 845
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/starmie/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/starmie/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/starmie/default/icons/full-left.png",
+                              "fullRight": "pokemon/starmie/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/starmie/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/starmie/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/starmie/default/portraits/profile.png",
+                              "intro": "pokemon/starmie/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

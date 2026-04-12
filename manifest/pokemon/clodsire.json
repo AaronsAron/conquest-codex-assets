@@ -1,0 +1,39 @@
+{
+  "pokemonId": "clodsire",
+  "nationalDexNumber": 980,
+  "variants": {
+      "default": {
+            "displayName": "Clodsire",
+            "types": ["poison", "ground"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 370,
+                    "attack": 155,
+                    "defense": 165,
+                    "speed": 45,
+                    "bst": 735
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/clodsire/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/clodsire/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/clodsire/default/icons/full-left.png",
+                              "fullRight": "pokemon/clodsire/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/clodsire/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/clodsire/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/clodsire/default/portraits/profile.png",
+                              "intro": "pokemon/clodsire/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

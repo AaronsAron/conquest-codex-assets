@@ -1,0 +1,73 @@
+{
+  "pokemonId": "toxicroak",
+  "nationalDexNumber": 454,
+  "variants": {
+      "default": {
+            "displayName": "Toxicroak",
+            "types": ["poison", "fighting"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 276,
+                    "attack": 217,
+                    "defense": 135,
+                    "speed": 175,
+                    "bst": 803
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/toxicroak/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/toxicroak/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/toxicroak/default/icons/full-left.png",
+                              "fullRight": "pokemon/toxicroak/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/toxicroak/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/toxicroak/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/toxicroak/default/portraits/profile.png",
+                              "intro": "pokemon/toxicroak/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Toxicroak-Shiny",
+            "types": ["poison", "fighting"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 276,
+                    "attack": 217,
+                    "defense": 135,
+                    "speed": 175,
+                    "bst": 803
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/toxicroak/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/toxicroak/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/toxicroak/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/toxicroak/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/toxicroak/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/toxicroak/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/toxicroak/shiny/portraits/profile.png",
+                              "intro": "pokemon/toxicroak/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

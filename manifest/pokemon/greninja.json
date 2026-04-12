@@ -1,0 +1,39 @@
+{
+  "pokemonId": "greninja",
+  "nationalDexNumber": 658,
+  "variants": {
+      "default": {
+            "displayName": "Greninja",
+            "types": ["water", "dark"],
+            "tags": ["default", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 254,
+                    "attack": 211,
+                    "defense": 143,
+                    "speed": 249,
+                    "bst": 857
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/greninja/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/greninja/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/greninja/default/icons/full-left.png",
+                              "fullRight": "pokemon/greninja/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/greninja/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/greninja/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/greninja/default/portraits/profile.png",
+                              "intro": "pokemon/greninja/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

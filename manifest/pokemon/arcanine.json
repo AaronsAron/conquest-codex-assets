@@ -1,0 +1,39 @@
+{
+  "pokemonId": "arcanine",
+  "nationalDexNumber": 59,
+  "variants": {
+      "hisui": {
+            "displayName": "Arcanine-Hisui",
+            "types": ["fire", "rock"],
+            "tags": ["hisui", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 235,
+                    "defense": 165,
+                    "speed": 185,
+                    "bst": 885
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/arcanine/hisui/meta.json",
+                    "battle": {
+                              "animation": "pokemon/arcanine/hisui/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/arcanine/hisui/icons/full-left.png",
+                              "fullRight": "pokemon/arcanine/hisui/icons/full-right.png",
+                              "croppedLeft": "pokemon/arcanine/hisui/icons/cropped-left.png",
+                              "croppedRight": "pokemon/arcanine/hisui/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/arcanine/hisui/portraits/profile.png",
+                              "intro": "pokemon/arcanine/hisui/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

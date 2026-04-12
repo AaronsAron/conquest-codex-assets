@@ -1,0 +1,39 @@
+{
+  "pokemonId": "quaquaval",
+  "nationalDexNumber": 914,
+  "variants": {
+      "default": {
+            "displayName": "Quaquaval",
+            "types": ["water", "fighting"],
+            "tags": ["default", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 245,
+                    "defense": 160,
+                    "speed": 175,
+                    "bst": 860
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/quaquaval/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/quaquaval/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/quaquaval/default/icons/full-left.png",
+                              "fullRight": "pokemon/quaquaval/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/quaquaval/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/quaquaval/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/quaquaval/default/portraits/profile.png",
+                              "intro": "pokemon/quaquaval/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

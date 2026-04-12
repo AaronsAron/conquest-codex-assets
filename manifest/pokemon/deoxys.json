@@ -1,0 +1,39 @@
+{
+  "pokemonId": "deoxys",
+  "nationalDexNumber": 386,
+  "variants": {
+      "default": {
+            "displayName": "Deoxys-Normal",
+            "types": ["psychic"],
+            "tags": ["default", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 305,
+                    "defense": 105,
+                    "speed": 305,
+                    "bst": 925
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/deoxys/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/deoxys/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/deoxys/default/icons/full-left.png",
+                              "fullRight": "pokemon/deoxys/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/deoxys/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/deoxys/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/deoxys/default/portraits/profile.png",
+                              "intro": "pokemon/deoxys/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

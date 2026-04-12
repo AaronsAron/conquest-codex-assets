@@ -1,0 +1,39 @@
+{
+  "pokemonId": "sandslash",
+  "nationalDexNumber": 28,
+  "variants": {
+      "alola": {
+            "displayName": "Sandslash-Alola",
+            "types": ["ice", "steel"],
+            "tags": ["alola", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 205,
+                    "defense": 190,
+                    "speed": 135,
+                    "bst": 790
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sandslash/alola/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sandslash/alola/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sandslash/alola/icons/full-left.png",
+                              "fullRight": "pokemon/sandslash/alola/icons/full-right.png",
+                              "croppedLeft": "pokemon/sandslash/alola/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sandslash/alola/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sandslash/alola/portraits/profile.png",
+                              "intro": "pokemon/sandslash/alola/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "flaaffy",
+  "nationalDexNumber": 180,
+  "variants": {
+      "default": {
+            "displayName": "Flaaffy",
+            "types": ["electric"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 165,
+                    "defense": 120,
+                    "speed": 95,
+                    "bst": 630
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/flaaffy/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/flaaffy/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/flaaffy/default/icons/full-left.png",
+                              "fullRight": "pokemon/flaaffy/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/flaaffy/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/flaaffy/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/flaaffy/default/portraits/profile.png",
+                              "intro": "pokemon/flaaffy/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Flaaffy-Shiny",
+            "types": ["electric"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 165,
+                    "defense": 120,
+                    "speed": 95,
+                    "bst": 630
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/flaaffy/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/flaaffy/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/flaaffy/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/flaaffy/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/flaaffy/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/flaaffy/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/flaaffy/shiny/portraits/profile.png",
+                              "intro": "pokemon/flaaffy/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

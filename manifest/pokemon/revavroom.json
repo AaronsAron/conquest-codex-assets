@@ -1,0 +1,39 @@
+{
+  "pokemonId": "revavroom",
+  "nationalDexNumber": 966,
+  "variants": {
+      "default": {
+            "displayName": "Revavroom",
+            "types": ["steel", "poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 243,
+                    "defense": 162,
+                    "speed": 185,
+                    "bst": 860
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/revavroom/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/revavroom/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/revavroom/default/icons/full-left.png",
+                              "fullRight": "pokemon/revavroom/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/revavroom/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/revavroom/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/revavroom/default/portraits/profile.png",
+                              "intro": "pokemon/revavroom/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

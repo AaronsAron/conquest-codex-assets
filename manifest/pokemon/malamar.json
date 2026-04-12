@@ -1,0 +1,39 @@
+{
+  "pokemonId": "malamar",
+  "nationalDexNumber": 687,
+  "variants": {
+      "default": {
+            "displayName": "Malamar",
+            "types": ["dark", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 282,
+                    "attack": 189,
+                    "defense": 168,
+                    "speed": 151,
+                    "bst": 790
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/malamar/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/malamar/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/malamar/default/icons/full-left.png",
+                              "fullRight": "pokemon/malamar/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/malamar/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/malamar/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/malamar/default/portraits/profile.png",
+                              "intro": "pokemon/malamar/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

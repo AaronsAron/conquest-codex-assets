@@ -1,0 +1,39 @@
+{
+  "pokemonId": "mr-rime",
+  "nationalDexNumber": 866,
+  "variants": {
+      "default": {
+            "displayName": "Mr. Rime",
+            "types": ["ice", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 225,
+                    "defense": 180,
+                    "speed": 145,
+                    "bst": 820
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/mr-rime/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mr-rime/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mr-rime/default/icons/full-left.png",
+                              "fullRight": "pokemon/mr-rime/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/mr-rime/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mr-rime/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mr-rime/default/portraits/profile.png",
+                              "intro": "pokemon/mr-rime/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

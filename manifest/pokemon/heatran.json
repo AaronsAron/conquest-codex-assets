@@ -1,0 +1,39 @@
+{
+  "pokemonId": "heatran",
+  "nationalDexNumber": 485,
+  "variants": {
+      "default": {
+            "displayName": "Heatran",
+            "types": ["fire", "steel"],
+            "tags": ["default", "fully-evolved", "legendary"],
+            "stats": {
+                    "hp": 292,
+                    "attack": 265,
+                    "defense": 217,
+                    "speed": 159,
+                    "bst": 933
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/heatran/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/heatran/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/heatran/default/icons/full-left.png",
+                              "fullRight": "pokemon/heatran/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/heatran/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/heatran/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/heatran/default/portraits/profile.png",
+                              "intro": "pokemon/heatran/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

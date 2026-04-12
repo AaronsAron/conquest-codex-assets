@@ -1,0 +1,73 @@
+{
+  "pokemonId": "lairon",
+  "nationalDexNumber": 305,
+  "variants": {
+      "default": {
+            "displayName": "Lairon",
+            "types": ["steel", "rock"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 185,
+                    "defense": 195,
+                    "speed": 85,
+                    "bst": 695
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/lairon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lairon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lairon/default/icons/full-left.png",
+                              "fullRight": "pokemon/lairon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/lairon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lairon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lairon/default/portraits/profile.png",
+                              "intro": "pokemon/lairon/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Lairon-Shiny",
+            "types": ["steel", "rock"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 185,
+                    "defense": 195,
+                    "speed": 85,
+                    "bst": 695
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/lairon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lairon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lairon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/lairon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/lairon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lairon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lairon/shiny/portraits/profile.png",
+                              "intro": "pokemon/lairon/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

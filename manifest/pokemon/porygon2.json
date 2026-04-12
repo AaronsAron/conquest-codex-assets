@@ -1,0 +1,39 @@
+{
+  "pokemonId": "porygon2",
+  "nationalDexNumber": 233,
+  "variants": {
+      "default": {
+            "displayName": "Porygon2",
+            "types": ["normal"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 215,
+                    "defense": 190,
+                    "speed": 125,
+                    "bst": 810
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/porygon2/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/porygon2/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/porygon2/default/icons/full-left.png",
+                              "fullRight": "pokemon/porygon2/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/porygon2/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/porygon2/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/porygon2/default/portraits/profile.png",
+                              "intro": "pokemon/porygon2/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

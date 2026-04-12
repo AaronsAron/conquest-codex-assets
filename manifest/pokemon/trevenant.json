@@ -1,0 +1,39 @@
+{
+  "pokemonId": "trevenant",
+  "nationalDexNumber": 709,
+  "variants": {
+      "default": {
+            "displayName": "Trevenant",
+            "types": ["ghost", "grass"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 225,
+                    "defense": 163,
+                    "speed": 117,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/trevenant/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/trevenant/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/trevenant/default/icons/full-left.png",
+                              "fullRight": "pokemon/trevenant/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/trevenant/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/trevenant/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/trevenant/default/portraits/profile.png",
+                              "intro": "pokemon/trevenant/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

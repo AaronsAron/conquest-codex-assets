@@ -1,0 +1,119 @@
+{
+  "pokemonId": "raichu",
+  "nationalDexNumber": 26,
+  "variants": {
+      "alola": {
+            "displayName": "Raichu-Alola",
+            "types": ["electric", "psychic"],
+            "tags": ["alola", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 195,
+                    "defense": 140,
+                    "speed": 225,
+                    "bst": 780
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/raichu/alola/meta.json",
+                    "battle": {
+                              "animation": "pokemon/raichu/alola/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/raichu/alola/icons/full-left.png",
+                              "fullRight": "pokemon/raichu/alola/icons/full-right.png",
+                              "croppedLeft": "pokemon/raichu/alola/icons/cropped-left.png",
+                              "croppedRight": "pokemon/raichu/alola/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/raichu/alola/portraits/profile.png",
+                              "intro": "pokemon/raichu/alola/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "default": {
+            "displayName": "Raichu",
+            "types": ["electric"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 185,
+                    "defense": 140,
+                    "speed": 225,
+                    "bst": 780
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/raichu/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/raichu/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/raichu/default/icons/full-left.png",
+                              "fullRight": "pokemon/raichu/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/raichu/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/raichu/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/raichu/default/portraits/profile.png",
+                              "intro": "pokemon/raichu/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/raichu/default/portraits/default.png",
+                                          "joyful": "pokemon/raichu/default/portraits/joyful.png",
+                                          "sad": "pokemon/raichu/default/portraits/sad.png",
+                                          "fierce": "pokemon/raichu/default/portraits/fierce.png",
+                                          "shocked": "pokemon/raichu/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Raichu-Shiny",
+            "types": ["electric"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 185,
+                    "defense": 140,
+                    "speed": 225,
+                    "bst": 780
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/raichu/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/raichu/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/raichu/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/raichu/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/raichu/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/raichu/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/raichu/shiny/portraits/profile.png",
+                              "intro": "pokemon/raichu/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/raichu/shiny/portraits/default.png",
+                                          "joyful": "pokemon/raichu/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/raichu/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/raichu/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/raichu/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

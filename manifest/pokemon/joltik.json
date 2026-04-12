@@ -1,0 +1,73 @@
+{
+  "pokemonId": "joltik",
+  "nationalDexNumber": 595,
+  "variants": {
+      "default": {
+            "displayName": "Joltik",
+            "types": ["bug", "electric"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 119,
+                    "defense": 105,
+                    "speed": 135,
+                    "bst": 569
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/joltik/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/joltik/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/joltik/default/icons/full-left.png",
+                              "fullRight": "pokemon/joltik/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/joltik/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/joltik/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/joltik/default/portraits/profile.png",
+                              "intro": "pokemon/joltik/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Joltik-Shiny",
+            "types": ["bug", "electric"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 119,
+                    "defense": 105,
+                    "speed": 135,
+                    "bst": 569
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/joltik/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/joltik/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/joltik/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/joltik/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/joltik/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/joltik/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/joltik/shiny/portraits/profile.png",
+                              "intro": "pokemon/joltik/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

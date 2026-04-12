@@ -1,0 +1,73 @@
+{
+  "pokemonId": "aron",
+  "nationalDexNumber": 304,
+  "variants": {
+      "default": {
+            "displayName": "Aron",
+            "types": ["steel", "rock"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 145,
+                    "defense": 145,
+                    "speed": 65,
+                    "bst": 565
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/aron/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/aron/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/aron/default/icons/full-left.png",
+                              "fullRight": "pokemon/aron/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/aron/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/aron/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/aron/default/portraits/profile.png",
+                              "intro": "pokemon/aron/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Aron-Shiny",
+            "types": ["steel", "rock"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 145,
+                    "defense": 145,
+                    "speed": 65,
+                    "bst": 565
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/aron/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/aron/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/aron/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/aron/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/aron/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/aron/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/aron/shiny/portraits/profile.png",
+                              "intro": "pokemon/aron/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

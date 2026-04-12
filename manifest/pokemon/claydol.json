@@ -1,0 +1,39 @@
+{
+  "pokemonId": "claydol",
+  "nationalDexNumber": 344,
+  "variants": {
+      "default": {
+            "displayName": "Claydol",
+            "types": ["ground", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 145,
+                    "defense": 230,
+                    "speed": 155,
+                    "bst": 760
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/claydol/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/claydol/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/claydol/default/icons/full-left.png",
+                              "fullRight": "pokemon/claydol/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/claydol/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/claydol/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/claydol/default/portraits/profile.png",
+                              "intro": "pokemon/claydol/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

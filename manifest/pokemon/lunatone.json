@@ -1,0 +1,39 @@
+{
+  "pokemonId": "lunatone",
+  "nationalDexNumber": 337,
+  "variants": {
+      "default": {
+            "displayName": "Lunatone",
+            "types": ["rock", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 195,
+                    "defense": 155,
+                    "speed": 145,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/lunatone/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/lunatone/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/lunatone/default/icons/full-left.png",
+                              "fullRight": "pokemon/lunatone/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/lunatone/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/lunatone/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/lunatone/default/portraits/profile.png",
+                              "intro": "pokemon/lunatone/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

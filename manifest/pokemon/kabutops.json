@@ -1,0 +1,39 @@
+{
+  "pokemonId": "kabutops",
+  "nationalDexNumber": 141,
+  "variants": {
+      "default": {
+            "displayName": "Kabutops",
+            "types": ["rock", "water"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 235,
+                    "defense": 180,
+                    "speed": 165,
+                    "bst": 810
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/kabutops/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kabutops/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kabutops/default/icons/full-left.png",
+                              "fullRight": "pokemon/kabutops/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/kabutops/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kabutops/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kabutops/default/portraits/profile.png",
+                              "intro": "pokemon/kabutops/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

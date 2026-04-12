@@ -1,0 +1,39 @@
+{
+  "pokemonId": "scovillain",
+  "nationalDexNumber": 952,
+  "variants": {
+      "default": {
+            "displayName": "Scovillain",
+            "types": ["grass", "fire"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 221,
+                    "defense": 135,
+                    "speed": 155,
+                    "bst": 751
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/scovillain/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/scovillain/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/scovillain/default/icons/full-left.png",
+                              "fullRight": "pokemon/scovillain/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/scovillain/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/scovillain/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/scovillain/default/portraits/profile.png",
+                              "intro": "pokemon/scovillain/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

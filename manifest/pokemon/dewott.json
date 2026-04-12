@@ -1,0 +1,81 @@
+{
+  "pokemonId": "dewott",
+  "nationalDexNumber": 502,
+  "variants": {
+      "default": {
+            "displayName": "Dewott",
+            "types": ["water"],
+            "tags": ["default", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 171,
+                    "defense": 125,
+                    "speed": 125,
+                    "bst": 681
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/dewott/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dewott/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dewott/default/icons/full-left.png",
+                              "fullRight": "pokemon/dewott/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dewott/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dewott/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dewott/default/portraits/profile.png",
+                              "intro": "pokemon/dewott/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/dewott/default/portraits/default.png",
+                                          "joyful": "pokemon/dewott/default/portraits/joyful.png",
+                                          "fierce": "pokemon/dewott/default/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Dewott-Shiny",
+            "types": ["water"],
+            "tags": ["shiny", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 171,
+                    "defense": 125,
+                    "speed": 125,
+                    "bst": 681
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce"],
+            "paths": {
+                    "meta": "pokemon/dewott/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dewott/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dewott/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/dewott/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/dewott/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dewott/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dewott/shiny/portraits/profile.png",
+                              "intro": "pokemon/dewott/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/dewott/shiny/portraits/default.png",
+                                          "joyful": "pokemon/dewott/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/dewott/shiny/portraits/fierce.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

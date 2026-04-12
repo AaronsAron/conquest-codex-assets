@@ -1,0 +1,79 @@
+{
+  "pokemonId": "gengar",
+  "nationalDexNumber": 94,
+  "variants": {
+      "default": {
+            "displayName": "Gengar",
+            "types": ["ghost", "poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 265,
+                    "defense": 140,
+                    "speed": 225,
+                    "bst": 860
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "shocked"],
+            "paths": {
+                    "meta": "pokemon/gengar/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gengar/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gengar/default/icons/full-left.png",
+                              "fullRight": "pokemon/gengar/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gengar/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gengar/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gengar/default/portraits/profile.png",
+                              "intro": "pokemon/gengar/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/gengar/default/portraits/default.png",
+                                          "shocked": "pokemon/gengar/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Gengar-Shiny",
+            "types": ["ghost", "poison"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 265,
+                    "defense": 140,
+                    "speed": 225,
+                    "bst": 860
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "shocked"],
+            "paths": {
+                    "meta": "pokemon/gengar/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gengar/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gengar/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/gengar/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/gengar/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gengar/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gengar/shiny/portraits/profile.png",
+                              "intro": "pokemon/gengar/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/gengar/shiny/portraits/default.png",
+                                          "shocked": "pokemon/gengar/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

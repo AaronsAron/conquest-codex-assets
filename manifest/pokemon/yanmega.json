@@ -1,0 +1,39 @@
+{
+  "pokemonId": "yanmega",
+  "nationalDexNumber": 469,
+  "variants": {
+      "default": {
+            "displayName": "Yanmega",
+            "types": ["bug", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 282,
+                    "attack": 237,
+                    "defense": 147,
+                    "speed": 195,
+                    "bst": 861
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/yanmega/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/yanmega/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/yanmega/default/icons/full-left.png",
+                              "fullRight": "pokemon/yanmega/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/yanmega/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/yanmega/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/yanmega/default/portraits/profile.png",
+                              "intro": "pokemon/yanmega/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "ferroseed",
+  "nationalDexNumber": 597,
+  "variants": {
+      "default": {
+            "displayName": "Ferroseed",
+            "types": ["grass", "steel"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 198,
+                    "attack": 105,
+                    "defense": 182,
+                    "speed": 25,
+                    "bst": 510
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ferroseed/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ferroseed/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ferroseed/default/icons/full-left.png",
+                              "fullRight": "pokemon/ferroseed/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/ferroseed/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ferroseed/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ferroseed/default/portraits/profile.png",
+                              "intro": "pokemon/ferroseed/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

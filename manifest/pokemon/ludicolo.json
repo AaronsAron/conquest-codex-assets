@@ -1,0 +1,39 @@
+{
+  "pokemonId": "ludicolo",
+  "nationalDexNumber": 272,
+  "variants": {
+      "default": {
+            "displayName": "Ludicolo",
+            "types": ["water", "grass"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 185,
+                    "defense": 175,
+                    "speed": 145,
+                    "bst": 775
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ludicolo/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ludicolo/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ludicolo/default/icons/full-left.png",
+                              "fullRight": "pokemon/ludicolo/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/ludicolo/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ludicolo/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ludicolo/default/portraits/profile.png",
+                              "intro": "pokemon/ludicolo/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

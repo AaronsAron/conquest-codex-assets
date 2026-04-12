@@ -1,0 +1,73 @@
+{
+  "pokemonId": "scolipede",
+  "nationalDexNumber": 545,
+  "variants": {
+      "default": {
+            "displayName": "Scolipede",
+            "types": ["bug", "poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 205,
+                    "defense": 163,
+                    "speed": 229,
+                    "bst": 827
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/scolipede/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/scolipede/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/scolipede/default/icons/full-left.png",
+                              "fullRight": "pokemon/scolipede/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/scolipede/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/scolipede/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/scolipede/default/portraits/profile.png",
+                              "intro": "pokemon/scolipede/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Scolipede-Shiny",
+            "types": ["bug", "poison"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 205,
+                    "defense": 163,
+                    "speed": 229,
+                    "bst": 827
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/scolipede/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/scolipede/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/scolipede/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/scolipede/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/scolipede/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/scolipede/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/scolipede/shiny/portraits/profile.png",
+                              "intro": "pokemon/scolipede/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

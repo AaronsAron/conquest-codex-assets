@@ -1,0 +1,83 @@
+{
+  "pokemonId": "alakazam",
+  "nationalDexNumber": 65,
+  "variants": {
+      "default": {
+            "displayName": "Alakazam",
+            "types": ["psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 275,
+                    "defense": 145,
+                    "speed": 245,
+                    "bst": 885
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/alakazam/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/alakazam/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/alakazam/default/icons/full-left.png",
+                              "fullRight": "pokemon/alakazam/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/alakazam/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/alakazam/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/alakazam/default/portraits/profile.png",
+                              "intro": "pokemon/alakazam/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/alakazam/default/portraits/default.png",
+                                          "joyful": "pokemon/alakazam/default/portraits/joyful.png",
+                                          "fierce": "pokemon/alakazam/default/portraits/fierce.png",
+                                          "shocked": "pokemon/alakazam/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Alakazam-Shiny",
+            "types": ["psychic"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 275,
+                    "defense": 145,
+                    "speed": 245,
+                    "bst": 885
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/alakazam/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/alakazam/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/alakazam/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/alakazam/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/alakazam/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/alakazam/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/alakazam/shiny/portraits/profile.png",
+                              "intro": "pokemon/alakazam/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/alakazam/shiny/portraits/default.png",
+                                          "joyful": "pokemon/alakazam/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/alakazam/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/alakazam/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

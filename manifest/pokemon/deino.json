@@ -1,0 +1,73 @@
+{
+  "pokemonId": "deino",
+  "nationalDexNumber": 633,
+  "variants": {
+      "default": {
+            "displayName": "Deino",
+            "types": ["dark", "dragon"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 214,
+                    "attack": 135,
+                    "defense": 105,
+                    "speed": 81,
+                    "bst": 535
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/deino/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/deino/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/deino/default/icons/full-left.png",
+                              "fullRight": "pokemon/deino/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/deino/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/deino/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/deino/default/portraits/profile.png",
+                              "intro": "pokemon/deino/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Deino-Shiny",
+            "types": ["dark", "dragon"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 214,
+                    "attack": 135,
+                    "defense": 105,
+                    "speed": 81,
+                    "bst": 535
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/deino/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/deino/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/deino/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/deino/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/deino/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/deino/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/deino/shiny/portraits/profile.png",
+                              "intro": "pokemon/deino/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

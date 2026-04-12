@@ -1,0 +1,39 @@
+{
+  "pokemonId": "poliwrath",
+  "nationalDexNumber": 62,
+  "variants": {
+      "default": {
+            "displayName": "Poliwrath",
+            "types": ["water", "fighting"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 195,
+                    "defense": 190,
+                    "speed": 145,
+                    "bst": 820
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/poliwrath/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/poliwrath/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/poliwrath/default/icons/full-left.png",
+                              "fullRight": "pokemon/poliwrath/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/poliwrath/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/poliwrath/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/poliwrath/default/portraits/profile.png",
+                              "intro": "pokemon/poliwrath/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

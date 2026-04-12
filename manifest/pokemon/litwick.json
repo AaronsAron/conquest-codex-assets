@@ -1,0 +1,73 @@
+{
+  "pokemonId": "litwick",
+  "nationalDexNumber": 607,
+  "variants": {
+      "default": {
+            "displayName": "Litwick",
+            "types": ["ghost", "fire"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 135,
+                    "defense": 115,
+                    "speed": 45,
+                    "bst": 505
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/litwick/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/litwick/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/litwick/default/icons/full-left.png",
+                              "fullRight": "pokemon/litwick/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/litwick/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/litwick/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/litwick/default/portraits/profile.png",
+                              "intro": "pokemon/litwick/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Litwick-Shiny",
+            "types": ["ghost", "fire"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 135,
+                    "defense": 115,
+                    "speed": 45,
+                    "bst": 505
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/litwick/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/litwick/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/litwick/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/litwick/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/litwick/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/litwick/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/litwick/shiny/portraits/profile.png",
+                              "intro": "pokemon/litwick/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

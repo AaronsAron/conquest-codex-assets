@@ -1,0 +1,39 @@
+{
+  "pokemonId": "amaura",
+  "nationalDexNumber": 698,
+  "variants": {
+      "default": {
+            "displayName": "Amaura",
+            "types": ["rock", "ice"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 264,
+                    "attack": 139,
+                    "defense": 118,
+                    "speed": 97,
+                    "bst": 618
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/amaura/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/amaura/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/amaura/default/icons/full-left.png",
+                              "fullRight": "pokemon/amaura/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/amaura/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/amaura/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/amaura/default/portraits/profile.png",
+                              "intro": "pokemon/amaura/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

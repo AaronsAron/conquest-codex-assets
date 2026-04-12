@@ -1,0 +1,39 @@
+{
+  "pokemonId": "golem",
+  "nationalDexNumber": 76,
+  "variants": {
+      "alola": {
+            "displayName": "Golem-Alola",
+            "types": ["rock", "electric"],
+            "tags": ["alola", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 245,
+                    "defense": 200,
+                    "speed": 95,
+                    "bst": 810
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/golem/alola/meta.json",
+                    "battle": {
+                              "animation": "pokemon/golem/alola/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/golem/alola/icons/full-left.png",
+                              "fullRight": "pokemon/golem/alola/icons/full-right.png",
+                              "croppedLeft": "pokemon/golem/alola/icons/cropped-left.png",
+                              "croppedRight": "pokemon/golem/alola/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/golem/alola/portraits/profile.png",
+                              "intro": "pokemon/golem/alola/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

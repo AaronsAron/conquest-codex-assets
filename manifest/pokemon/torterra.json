@@ -1,0 +1,39 @@
+{
+  "pokemonId": "torterra",
+  "nationalDexNumber": 389,
+  "variants": {
+      "default": {
+            "displayName": "Torterra",
+            "types": ["grass", "ground"],
+            "tags": ["default", "fully-evolved", "starter"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 223,
+                    "defense": 195,
+                    "speed": 117,
+                    "bst": 835
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/torterra/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/torterra/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/torterra/default/icons/full-left.png",
+                              "fullRight": "pokemon/torterra/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/torterra/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/torterra/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/torterra/default/portraits/profile.png",
+                              "intro": "pokemon/torterra/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

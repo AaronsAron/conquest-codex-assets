@@ -1,0 +1,83 @@
+{
+  "pokemonId": "staravia",
+  "nationalDexNumber": 397,
+  "variants": {
+      "default": {
+            "displayName": "Staravia",
+            "types": ["normal", "flying"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 155,
+                    "defense": 95,
+                    "speed": 165,
+                    "bst": 635
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/staravia/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/staravia/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/staravia/default/icons/full-left.png",
+                              "fullRight": "pokemon/staravia/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/staravia/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/staravia/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/staravia/default/portraits/profile.png",
+                              "intro": "pokemon/staravia/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/staravia/default/portraits/default.png",
+                                          "joyful": "pokemon/staravia/default/portraits/joyful.png",
+                                          "fierce": "pokemon/staravia/default/portraits/fierce.png",
+                                          "shocked": "pokemon/staravia/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Staravia-Shiny",
+            "types": ["normal", "flying"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 155,
+                    "defense": 95,
+                    "speed": 165,
+                    "bst": 635
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/staravia/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/staravia/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/staravia/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/staravia/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/staravia/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/staravia/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/staravia/shiny/portraits/profile.png",
+                              "intro": "pokemon/staravia/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/staravia/shiny/portraits/default.png",
+                                          "joyful": "pokemon/staravia/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/staravia/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/staravia/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

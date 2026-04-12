@@ -1,0 +1,39 @@
+{
+  "pokemonId": "kommo-o",
+  "nationalDexNumber": 784,
+  "variants": {
+      "default": {
+            "displayName": "Kommo-o",
+            "types": ["dragon", "fighting"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 225,
+                    "defense": 235,
+                    "speed": 175,
+                    "bst": 895
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/kommo-o/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kommo-o/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kommo-o/default/icons/full-left.png",
+                              "fullRight": "pokemon/kommo-o/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/kommo-o/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kommo-o/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kommo-o/default/portraits/profile.png",
+                              "intro": "pokemon/kommo-o/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

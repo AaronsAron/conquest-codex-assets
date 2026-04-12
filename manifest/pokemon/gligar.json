@@ -1,0 +1,39 @@
+{
+  "pokemonId": "gligar",
+  "nationalDexNumber": 207,
+  "variants": {
+      "default": {
+            "displayName": "Gligar",
+            "types": ["ground", "flying"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 155,
+                    "defense": 175,
+                    "speed": 175,
+                    "bst": 745
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/gligar/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gligar/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gligar/default/icons/full-left.png",
+                              "fullRight": "pokemon/gligar/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gligar/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gligar/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gligar/default/portraits/profile.png",
+                              "intro": "pokemon/gligar/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

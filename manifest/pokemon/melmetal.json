@@ -1,0 +1,39 @@
+{
+  "pokemonId": "melmetal",
+  "nationalDexNumber": 809,
+  "variants": {
+      "default": {
+            "displayName": "Melmetal",
+            "types": ["steel"],
+            "tags": ["default", "fully-evolved", "mythical"],
+            "stats": {
+                    "hp": 380,
+                    "attack": 291,
+                    "defense": 213,
+                    "speed": 73,
+                    "bst": 957
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/melmetal/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/melmetal/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/melmetal/default/icons/full-left.png",
+                              "fullRight": "pokemon/melmetal/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/melmetal/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/melmetal/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/melmetal/default/portraits/profile.png",
+                              "intro": "pokemon/melmetal/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

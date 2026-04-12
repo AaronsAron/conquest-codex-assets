@@ -1,0 +1,73 @@
+{
+  "pokemonId": "dusknoir",
+  "nationalDexNumber": 477,
+  "variants": {
+      "default": {
+            "displayName": "Dusknoir",
+            "types": ["ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 205,
+                    "defense": 275,
+                    "speed": 95,
+                    "bst": 775
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dusknoir/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dusknoir/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dusknoir/default/icons/full-left.png",
+                              "fullRight": "pokemon/dusknoir/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dusknoir/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dusknoir/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dusknoir/default/portraits/profile.png",
+                              "intro": "pokemon/dusknoir/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Dusknoir-Shiny",
+            "types": ["ghost"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 205,
+                    "defense": 275,
+                    "speed": 95,
+                    "bst": 775
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dusknoir/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dusknoir/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dusknoir/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/dusknoir/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/dusknoir/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dusknoir/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dusknoir/shiny/portraits/profile.png",
+                              "intro": "pokemon/dusknoir/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

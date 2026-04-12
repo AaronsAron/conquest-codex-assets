@@ -1,0 +1,39 @@
+{
+  "pokemonId": "bagon",
+  "nationalDexNumber": 371,
+  "variants": {
+      "default": {
+            "displayName": "Bagon",
+            "types": ["dragon"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 155,
+                    "defense": 95,
+                    "speed": 105,
+                    "bst": 555
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/bagon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bagon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bagon/default/icons/full-left.png",
+                              "fullRight": "pokemon/bagon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/bagon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bagon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bagon/default/portraits/profile.png",
+                              "intro": "pokemon/bagon/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

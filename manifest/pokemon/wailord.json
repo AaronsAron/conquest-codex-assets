@@ -1,0 +1,39 @@
+{
+  "pokemonId": "wailord",
+  "nationalDexNumber": 321,
+  "variants": {
+      "default": {
+            "displayName": "Wailord",
+            "types": ["water"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 450,
+                    "attack": 185,
+                    "defense": 95,
+                    "speed": 125,
+                    "bst": 855
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/wailord/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/wailord/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/wailord/default/icons/full-left.png",
+                              "fullRight": "pokemon/wailord/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/wailord/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/wailord/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/wailord/default/portraits/profile.png",
+                              "intro": "pokemon/wailord/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

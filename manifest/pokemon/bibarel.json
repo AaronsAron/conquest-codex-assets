@@ -1,0 +1,73 @@
+{
+  "pokemonId": "bibarel",
+  "nationalDexNumber": 400,
+  "variants": {
+      "default": {
+            "displayName": "Bibarel",
+            "types": ["normal", "water"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 268,
+                    "attack": 175,
+                    "defense": 125,
+                    "speed": 147,
+                    "bst": 715
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/bibarel/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bibarel/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bibarel/default/icons/full-left.png",
+                              "fullRight": "pokemon/bibarel/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/bibarel/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bibarel/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bibarel/default/portraits/profile.png",
+                              "intro": "pokemon/bibarel/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Bibarel-Shiny",
+            "types": ["normal", "water"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 268,
+                    "attack": 175,
+                    "defense": 125,
+                    "speed": 147,
+                    "bst": 715
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/bibarel/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bibarel/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bibarel/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/bibarel/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/bibarel/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bibarel/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bibarel/shiny/portraits/profile.png",
+                              "intro": "pokemon/bibarel/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "sawsbuck",
+  "nationalDexNumber": 586,
+  "variants": {
+      "default": {
+            "displayName": "Sawsbuck-Spring",
+            "types": ["normal", "grass"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 205,
+                    "defense": 145,
+                    "speed": 195,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sawsbuck/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sawsbuck/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sawsbuck/default/icons/full-left.png",
+                              "fullRight": "pokemon/sawsbuck/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sawsbuck/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sawsbuck/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sawsbuck/default/portraits/profile.png",
+                              "intro": "pokemon/sawsbuck/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

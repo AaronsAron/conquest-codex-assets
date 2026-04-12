@@ -1,0 +1,73 @@
+{
+  "pokemonId": "spiritomb",
+  "nationalDexNumber": 442,
+  "variants": {
+      "default": {
+            "displayName": "Spiritomb",
+            "types": ["ghost", "dark"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 189,
+                    "defense": 221,
+                    "speed": 75,
+                    "bst": 695
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/spiritomb/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/spiritomb/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/spiritomb/default/icons/full-left.png",
+                              "fullRight": "pokemon/spiritomb/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/spiritomb/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/spiritomb/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/spiritomb/default/portraits/profile.png",
+                              "intro": "pokemon/spiritomb/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Spiritomb-Shiny",
+            "types": ["ghost", "dark"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 189,
+                    "defense": 221,
+                    "speed": 75,
+                    "bst": 695
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/spiritomb/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/spiritomb/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/spiritomb/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/spiritomb/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/spiritomb/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/spiritomb/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/spiritomb/shiny/portraits/profile.png",
+                              "intro": "pokemon/spiritomb/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

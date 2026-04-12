@@ -1,0 +1,39 @@
+{
+  "pokemonId": "ursaluna",
+  "nationalDexNumber": 901,
+  "variants": {
+      "default": {
+            "displayName": "Ursaluna",
+            "types": ["ground", "normal"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 370,
+                    "attack": 285,
+                    "defense": 190,
+                    "speed": 105,
+                    "bst": 950
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ursaluna/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ursaluna/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ursaluna/default/icons/full-left.png",
+                              "fullRight": "pokemon/ursaluna/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/ursaluna/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ursaluna/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ursaluna/default/portraits/profile.png",
+                              "intro": "pokemon/ursaluna/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

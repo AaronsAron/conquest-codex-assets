@@ -1,0 +1,39 @@
+{
+  "pokemonId": "glimmora",
+  "nationalDexNumber": 970,
+  "variants": {
+      "default": {
+            "displayName": "Glimmora",
+            "types": ["rock", "poison"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 276,
+                    "attack": 265,
+                    "defense": 176,
+                    "speed": 177,
+                    "bst": 894
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/glimmora/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/glimmora/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/glimmora/default/icons/full-left.png",
+                              "fullRight": "pokemon/glimmora/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/glimmora/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/glimmora/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/glimmora/default/portraits/profile.png",
+                              "intro": "pokemon/glimmora/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

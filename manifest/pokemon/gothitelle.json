@@ -1,0 +1,85 @@
+{
+  "pokemonId": "gothitelle",
+  "nationalDexNumber": 576,
+  "variants": {
+      "default": {
+            "displayName": "Gothitelle",
+            "types": ["psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 195,
+                    "defense": 210,
+                    "speed": 135,
+                    "bst": 790
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/gothitelle/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gothitelle/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gothitelle/default/icons/full-left.png",
+                              "fullRight": "pokemon/gothitelle/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gothitelle/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gothitelle/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gothitelle/default/portraits/profile.png",
+                              "intro": "pokemon/gothitelle/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/gothitelle/default/portraits/default.png",
+                                          "joyful": "pokemon/gothitelle/default/portraits/joyful.png",
+                                          "sad": "pokemon/gothitelle/default/portraits/sad.png",
+                                          "fierce": "pokemon/gothitelle/default/portraits/fierce.png",
+                                          "shocked": "pokemon/gothitelle/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Gothitelle-Shiny",
+            "types": ["psychic"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 195,
+                    "defense": 210,
+                    "speed": 135,
+                    "bst": 790
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/gothitelle/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gothitelle/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gothitelle/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/gothitelle/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/gothitelle/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gothitelle/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gothitelle/shiny/portraits/profile.png",
+                              "intro": "pokemon/gothitelle/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/gothitelle/shiny/portraits/default.png",
+                                          "joyful": "pokemon/gothitelle/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/gothitelle/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/gothitelle/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/gothitelle/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

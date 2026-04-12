@@ -1,0 +1,39 @@
+{
+  "pokemonId": "tyrantrum",
+  "nationalDexNumber": 697,
+  "variants": {
+      "default": {
+            "displayName": "Tyrantrum",
+            "types": ["rock", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 274,
+                    "attack": 247,
+                    "defense": 183,
+                    "speed": 147,
+                    "bst": 851
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/tyrantrum/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/tyrantrum/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/tyrantrum/default/icons/full-left.png",
+                              "fullRight": "pokemon/tyrantrum/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/tyrantrum/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/tyrantrum/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/tyrantrum/default/portraits/profile.png",
+                              "intro": "pokemon/tyrantrum/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

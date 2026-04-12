@@ -1,0 +1,39 @@
+{
+  "pokemonId": "kabuto",
+  "nationalDexNumber": 140,
+  "variants": {
+      "default": {
+            "displayName": "Kabuto",
+            "types": ["rock", "water"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 170,
+                    "attack": 165,
+                    "defense": 140,
+                    "speed": 115,
+                    "bst": 590
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/kabuto/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kabuto/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kabuto/default/icons/full-left.png",
+                              "fullRight": "pokemon/kabuto/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/kabuto/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kabuto/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kabuto/default/portraits/profile.png",
+                              "intro": "pokemon/kabuto/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

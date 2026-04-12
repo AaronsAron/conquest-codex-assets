@@ -1,0 +1,39 @@
+{
+  "pokemonId": "archaludon",
+  "nationalDexNumber": 1018,
+  "variants": {
+      "default": {
+            "displayName": "Archaludon",
+            "types": ["steel", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 255,
+                    "defense": 200,
+                    "speed": 175,
+                    "bst": 920
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/archaludon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/archaludon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/archaludon/default/icons/full-left.png",
+                              "fullRight": "pokemon/archaludon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/archaludon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/archaludon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/archaludon/default/portraits/profile.png",
+                              "intro": "pokemon/archaludon/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

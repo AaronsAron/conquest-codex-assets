@@ -1,0 +1,73 @@
+{
+  "pokemonId": "rhyhorn",
+  "nationalDexNumber": 111,
+  "variants": {
+      "default": {
+            "displayName": "Rhyhorn",
+            "types": ["ground", "rock"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 175,
+                    "defense": 130,
+                    "speed": 55,
+                    "bst": 630
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/rhyhorn/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rhyhorn/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rhyhorn/default/icons/full-left.png",
+                              "fullRight": "pokemon/rhyhorn/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/rhyhorn/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rhyhorn/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rhyhorn/default/portraits/profile.png",
+                              "intro": "pokemon/rhyhorn/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Rhyhorn-Shiny",
+            "types": ["ground", "rock"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 270,
+                    "attack": 175,
+                    "defense": 130,
+                    "speed": 55,
+                    "bst": 630
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/rhyhorn/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rhyhorn/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rhyhorn/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/rhyhorn/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/rhyhorn/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rhyhorn/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rhyhorn/shiny/portraits/profile.png",
+                              "intro": "pokemon/rhyhorn/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

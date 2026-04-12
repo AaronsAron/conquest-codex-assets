@@ -1,0 +1,85 @@
+{
+  "pokemonId": "haxorus",
+  "nationalDexNumber": 612,
+  "variants": {
+      "default": {
+            "displayName": "Haxorus",
+            "types": ["dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 262,
+                    "attack": 299,
+                    "defense": 165,
+                    "speed": 199,
+                    "bst": 925
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/haxorus/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/haxorus/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/haxorus/default/icons/full-left.png",
+                              "fullRight": "pokemon/haxorus/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/haxorus/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/haxorus/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/haxorus/default/portraits/profile.png",
+                              "intro": "pokemon/haxorus/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/haxorus/default/portraits/default.png",
+                                          "joyful": "pokemon/haxorus/default/portraits/joyful.png",
+                                          "sad": "pokemon/haxorus/default/portraits/sad.png",
+                                          "fierce": "pokemon/haxorus/default/portraits/fierce.png",
+                                          "shocked": "pokemon/haxorus/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Haxorus-Shiny",
+            "types": ["dragon"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 262,
+                    "attack": 299,
+                    "defense": 165,
+                    "speed": 199,
+                    "bst": 925
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/haxorus/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/haxorus/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/haxorus/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/haxorus/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/haxorus/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/haxorus/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/haxorus/shiny/portraits/profile.png",
+                              "intro": "pokemon/haxorus/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/haxorus/shiny/portraits/default.png",
+                                          "joyful": "pokemon/haxorus/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/haxorus/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/haxorus/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/haxorus/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

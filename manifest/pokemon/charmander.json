@@ -1,0 +1,73 @@
+{
+  "pokemonId": "charmander",
+  "nationalDexNumber": 4,
+  "variants": {
+      "default": {
+            "displayName": "Charmander",
+            "types": ["fire"],
+            "tags": ["default", "unevolved", "starter"],
+            "stats": {
+                    "hp": 188,
+                    "attack": 125,
+                    "defense": 98,
+                    "speed": 135,
+                    "bst": 546
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/charmander/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/charmander/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/charmander/default/icons/full-left.png",
+                              "fullRight": "pokemon/charmander/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/charmander/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/charmander/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/charmander/default/portraits/profile.png",
+                              "intro": "pokemon/charmander/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Charmander-Shiny",
+            "types": ["fire"],
+            "tags": ["shiny", "unevolved", "starter"],
+            "stats": {
+                    "hp": 188,
+                    "attack": 125,
+                    "defense": 98,
+                    "speed": 135,
+                    "bst": 546
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/charmander/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/charmander/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/charmander/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/charmander/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/charmander/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/charmander/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/charmander/shiny/portraits/profile.png",
+                              "intro": "pokemon/charmander/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

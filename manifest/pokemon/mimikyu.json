@@ -1,0 +1,73 @@
+{
+  "pokemonId": "mimikyu",
+  "nationalDexNumber": 778,
+  "variants": {
+      "busted": {
+            "displayName": "Mimikyu-Busted",
+            "types": ["ghost", "fairy"],
+            "tags": ["busted", "fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 185,
+                    "defense": 190,
+                    "speed": 197,
+                    "bst": 792
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/mimikyu/busted/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mimikyu/busted/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mimikyu/busted/icons/full-left.png",
+                              "fullRight": "pokemon/mimikyu/busted/icons/full-right.png",
+                              "croppedLeft": "pokemon/mimikyu/busted/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mimikyu/busted/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mimikyu/busted/portraits/profile.png",
+                              "intro": "pokemon/mimikyu/busted/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "default": {
+            "displayName": "Mimikyu-Disguised",
+            "types": ["ghost", "fairy"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 220,
+                    "attack": 185,
+                    "defense": 190,
+                    "speed": 197,
+                    "bst": 792
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/mimikyu/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/mimikyu/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/mimikyu/default/icons/full-left.png",
+                              "fullRight": "pokemon/mimikyu/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/mimikyu/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/mimikyu/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/mimikyu/default/portraits/profile.png",
+                              "intro": "pokemon/mimikyu/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

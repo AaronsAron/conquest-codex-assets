@@ -1,0 +1,39 @@
+{
+  "pokemonId": "slither-wing",
+  "nationalDexNumber": 988,
+  "variants": {
+      "default": {
+            "displayName": "Slither Wing",
+            "types": ["bug", "fighting"],
+            "tags": ["default", "fully-evolved", "paradox"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 275,
+                    "defense": 189,
+                    "speed": 167,
+                    "bst": 911
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/slither-wing/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/slither-wing/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/slither-wing/default/icons/full-left.png",
+                              "fullRight": "pokemon/slither-wing/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/slither-wing/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/slither-wing/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/slither-wing/default/portraits/profile.png",
+                              "intro": "pokemon/slither-wing/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

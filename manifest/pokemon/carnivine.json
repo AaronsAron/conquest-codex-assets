@@ -1,0 +1,73 @@
+{
+  "pokemonId": "carnivine",
+  "nationalDexNumber": 455,
+  "variants": {
+      "default": {
+            "displayName": "Carnivine",
+            "types": ["grass"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 258,
+                    "attack": 205,
+                    "defense": 149,
+                    "speed": 97,
+                    "bst": 709
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/carnivine/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/carnivine/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/carnivine/default/icons/full-left.png",
+                              "fullRight": "pokemon/carnivine/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/carnivine/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/carnivine/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/carnivine/default/portraits/profile.png",
+                              "intro": "pokemon/carnivine/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Carnivine-Shiny",
+            "types": ["grass"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 258,
+                    "attack": 205,
+                    "defense": 149,
+                    "speed": 97,
+                    "bst": 709
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/carnivine/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/carnivine/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/carnivine/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/carnivine/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/carnivine/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/carnivine/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/carnivine/shiny/portraits/profile.png",
+                              "intro": "pokemon/carnivine/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

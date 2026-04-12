@@ -1,0 +1,39 @@
+{
+  "pokemonId": "slowking",
+  "nationalDexNumber": 199,
+  "variants": {
+      "galar": {
+            "displayName": "Slowking-Galar",
+            "types": ["poison", "psychic"],
+            "tags": ["galar", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 225,
+                    "defense": 195,
+                    "speed": 65,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/slowking/galar/meta.json",
+                    "battle": {
+                              "animation": "pokemon/slowking/galar/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/slowking/galar/icons/full-left.png",
+                              "fullRight": "pokemon/slowking/galar/icons/full-right.png",
+                              "croppedLeft": "pokemon/slowking/galar/icons/cropped-left.png",
+                              "croppedRight": "pokemon/slowking/galar/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/slowking/galar/portraits/profile.png",
+                              "intro": "pokemon/slowking/galar/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

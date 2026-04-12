@@ -1,0 +1,73 @@
+{
+  "pokemonId": "sandile",
+  "nationalDexNumber": 551,
+  "variants": {
+      "default": {
+            "displayName": "Sandile",
+            "types": ["ground", "dark"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 149,
+                    "defense": 75,
+                    "speed": 135,
+                    "bst": 569
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sandile/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sandile/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sandile/default/icons/full-left.png",
+                              "fullRight": "pokemon/sandile/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/sandile/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sandile/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sandile/default/portraits/profile.png",
+                              "intro": "pokemon/sandile/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Sandile-Shiny",
+            "types": ["ground", "dark"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 149,
+                    "defense": 75,
+                    "speed": 135,
+                    "bst": 569
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/sandile/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/sandile/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/sandile/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/sandile/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/sandile/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/sandile/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/sandile/shiny/portraits/profile.png",
+                              "intro": "pokemon/sandile/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,83 @@
+{
+  "pokemonId": "gurdurr",
+  "nationalDexNumber": 533,
+  "variants": {
+      "default": {
+            "displayName": "Gurdurr",
+            "types": ["fighting"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 215,
+                    "defense": 140,
+                    "speed": 85,
+                    "bst": 720
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/gurdurr/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gurdurr/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gurdurr/default/icons/full-left.png",
+                              "fullRight": "pokemon/gurdurr/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/gurdurr/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gurdurr/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gurdurr/default/portraits/profile.png",
+                              "intro": "pokemon/gurdurr/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/gurdurr/default/portraits/default.png",
+                                          "joyful": "pokemon/gurdurr/default/portraits/joyful.png",
+                                          "fierce": "pokemon/gurdurr/default/portraits/fierce.png",
+                                          "shocked": "pokemon/gurdurr/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Gurdurr-Shiny",
+            "types": ["fighting"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 215,
+                    "defense": 140,
+                    "speed": 85,
+                    "bst": 720
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/gurdurr/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/gurdurr/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/gurdurr/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/gurdurr/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/gurdurr/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/gurdurr/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/gurdurr/shiny/portraits/profile.png",
+                              "intro": "pokemon/gurdurr/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/gurdurr/shiny/portraits/default.png",
+                                          "joyful": "pokemon/gurdurr/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/gurdurr/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/gurdurr/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

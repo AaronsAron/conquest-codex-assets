@@ -1,0 +1,39 @@
+{
+  "pokemonId": "rookidee",
+  "nationalDexNumber": 821,
+  "variants": {
+      "default": {
+            "displayName": "Rookidee",
+            "types": ["flying"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 186,
+                    "attack": 99,
+                    "defense": 75,
+                    "speed": 119,
+                    "bst": 479
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/rookidee/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rookidee/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rookidee/default/icons/full-left.png",
+                              "fullRight": "pokemon/rookidee/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/rookidee/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rookidee/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rookidee/default/portraits/profile.png",
+                              "intro": "pokemon/rookidee/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

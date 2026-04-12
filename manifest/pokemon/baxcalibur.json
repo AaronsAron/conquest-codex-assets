@@ -1,0 +1,39 @@
+{
+  "pokemonId": "baxcalibur",
+  "nationalDexNumber": 998,
+  "variants": {
+      "default": {
+            "displayName": "Baxcalibur",
+            "types": ["dragon", "ice"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 340,
+                    "attack": 295,
+                    "defense": 183,
+                    "speed": 179,
+                    "bst": 997
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/baxcalibur/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/baxcalibur/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/baxcalibur/default/icons/full-left.png",
+                              "fullRight": "pokemon/baxcalibur/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/baxcalibur/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/baxcalibur/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/baxcalibur/default/portraits/profile.png",
+                              "intro": "pokemon/baxcalibur/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

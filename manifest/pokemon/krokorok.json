@@ -1,0 +1,85 @@
+{
+  "pokemonId": "krokorok",
+  "nationalDexNumber": 552,
+  "variants": {
+      "default": {
+            "displayName": "Krokorok",
+            "types": ["ground", "dark"],
+            "tags": ["default", "not-fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 169,
+                    "defense": 95,
+                    "speed": 153,
+                    "bst": 647
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/krokorok/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/krokorok/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/krokorok/default/icons/full-left.png",
+                              "fullRight": "pokemon/krokorok/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/krokorok/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/krokorok/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/krokorok/default/portraits/profile.png",
+                              "intro": "pokemon/krokorok/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/krokorok/default/portraits/default.png",
+                                          "joyful": "pokemon/krokorok/default/portraits/joyful.png",
+                                          "sad": "pokemon/krokorok/default/portraits/sad.png",
+                                          "fierce": "pokemon/krokorok/default/portraits/fierce.png",
+                                          "shocked": "pokemon/krokorok/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Krokorok-Shiny",
+            "types": ["ground", "dark"],
+            "tags": ["shiny", "not-fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 169,
+                    "defense": 95,
+                    "speed": 153,
+                    "bst": 647
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/krokorok/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/krokorok/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/krokorok/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/krokorok/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/krokorok/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/krokorok/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/krokorok/shiny/portraits/profile.png",
+                              "intro": "pokemon/krokorok/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/krokorok/shiny/portraits/default.png",
+                                          "joyful": "pokemon/krokorok/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/krokorok/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/krokorok/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/krokorok/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

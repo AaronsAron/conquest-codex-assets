@@ -1,0 +1,73 @@
+{
+  "pokemonId": "pansear",
+  "nationalDexNumber": 513,
+  "variants": {
+      "default": {
+            "displayName": "Pansear",
+            "types": ["fire"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 111,
+                    "defense": 101,
+                    "speed": 133,
+                    "bst": 555
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pansear/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pansear/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pansear/default/icons/full-left.png",
+                              "fullRight": "pokemon/pansear/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/pansear/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pansear/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pansear/default/portraits/profile.png",
+                              "intro": "pokemon/pansear/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Pansear-Shiny",
+            "types": ["fire"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 111,
+                    "defense": 101,
+                    "speed": 133,
+                    "bst": 555
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pansear/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pansear/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pansear/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/pansear/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/pansear/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pansear/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pansear/shiny/portraits/profile.png",
+                              "intro": "pokemon/pansear/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

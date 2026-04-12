@@ -1,0 +1,85 @@
+{
+  "pokemonId": "flareon",
+  "nationalDexNumber": 136,
+  "variants": {
+      "default": {
+            "displayName": "Flareon",
+            "types": ["fire"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 265,
+                    "defense": 175,
+                    "speed": 135,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/flareon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/flareon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/flareon/default/icons/full-left.png",
+                              "fullRight": "pokemon/flareon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/flareon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/flareon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/flareon/default/portraits/profile.png",
+                              "intro": "pokemon/flareon/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/flareon/default/portraits/default.png",
+                                          "joyful": "pokemon/flareon/default/portraits/joyful.png",
+                                          "sad": "pokemon/flareon/default/portraits/sad.png",
+                                          "fierce": "pokemon/flareon/default/portraits/fierce.png",
+                                          "shocked": "pokemon/flareon/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Flareon-Shiny",
+            "types": ["fire"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 265,
+                    "defense": 175,
+                    "speed": 135,
+                    "bst": 815
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/flareon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/flareon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/flareon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/flareon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/flareon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/flareon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/flareon/shiny/portraits/profile.png",
+                              "intro": "pokemon/flareon/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/flareon/shiny/portraits/default.png",
+                                          "joyful": "pokemon/flareon/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/flareon/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/flareon/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/flareon/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

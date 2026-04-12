@@ -1,0 +1,39 @@
+{
+  "pokemonId": "nihilego",
+  "nationalDexNumber": 793,
+  "variants": {
+      "default": {
+            "displayName": "Nihilego",
+            "types": ["rock", "poison"],
+            "tags": ["default", "fully-evolved", "ultra-beast"],
+            "stats": {
+                    "hp": 328,
+                    "attack": 259,
+                    "defense": 183,
+                    "speed": 211,
+                    "bst": 981
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/nihilego/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/nihilego/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/nihilego/default/icons/full-left.png",
+                              "fullRight": "pokemon/nihilego/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/nihilego/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/nihilego/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/nihilego/default/portraits/profile.png",
+                              "intro": "pokemon/nihilego/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

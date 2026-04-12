@@ -1,0 +1,39 @@
+{
+  "pokemonId": "shedinja",
+  "nationalDexNumber": 292,
+  "variants": {
+      "default": {
+            "displayName": "Shedinja",
+            "types": ["bug", "ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 112,
+                    "attack": 185,
+                    "defense": 80,
+                    "speed": 85,
+                    "bst": 462
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/shedinja/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/shedinja/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/shedinja/default/icons/full-left.png",
+                              "fullRight": "pokemon/shedinja/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/shedinja/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/shedinja/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/shedinja/default/portraits/profile.png",
+                              "intro": "pokemon/shedinja/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

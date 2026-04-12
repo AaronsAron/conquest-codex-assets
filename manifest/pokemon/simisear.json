@@ -1,0 +1,73 @@
+{
+  "pokemonId": "simisear",
+  "nationalDexNumber": 514,
+  "variants": {
+      "default": {
+            "displayName": "Simisear",
+            "types": ["fire"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 201,
+                    "defense": 131,
+                    "speed": 207,
+                    "bst": 799
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/simisear/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/simisear/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/simisear/default/icons/full-left.png",
+                              "fullRight": "pokemon/simisear/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/simisear/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/simisear/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/simisear/default/portraits/profile.png",
+                              "intro": "pokemon/simisear/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Simisear-Shiny",
+            "types": ["fire"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 260,
+                    "attack": 201,
+                    "defense": 131,
+                    "speed": 207,
+                    "bst": 799
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/simisear/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/simisear/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/simisear/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/simisear/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/simisear/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/simisear/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/simisear/shiny/portraits/profile.png",
+                              "intro": "pokemon/simisear/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

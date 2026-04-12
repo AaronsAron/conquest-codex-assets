@@ -1,0 +1,83 @@
+{
+  "pokemonId": "staraptor",
+  "nationalDexNumber": 398,
+  "variants": {
+      "default": {
+            "displayName": "Staraptor",
+            "types": ["normal", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 245,
+                    "defense": 135,
+                    "speed": 205,
+                    "bst": 865
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/staraptor/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/staraptor/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/staraptor/default/icons/full-left.png",
+                              "fullRight": "pokemon/staraptor/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/staraptor/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/staraptor/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/staraptor/default/portraits/profile.png",
+                              "intro": "pokemon/staraptor/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/staraptor/default/portraits/default.png",
+                                          "joyful": "pokemon/staraptor/default/portraits/joyful.png",
+                                          "fierce": "pokemon/staraptor/default/portraits/fierce.png",
+                                          "shocked": "pokemon/staraptor/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Staraptor-Shiny",
+            "types": ["normal", "flying"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 280,
+                    "attack": 245,
+                    "defense": 135,
+                    "speed": 205,
+                    "bst": 865
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/staraptor/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/staraptor/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/staraptor/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/staraptor/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/staraptor/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/staraptor/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/staraptor/shiny/portraits/profile.png",
+                              "intro": "pokemon/staraptor/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/staraptor/shiny/portraits/default.png",
+                                          "joyful": "pokemon/staraptor/shiny/portraits/joyful.png",
+                                          "fierce": "pokemon/staraptor/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/staraptor/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,83 @@
+{
+  "pokemonId": "pineco",
+  "nationalDexNumber": 204,
+  "variants": {
+      "default": {
+            "displayName": "Pineco",
+            "types": ["bug"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 135,
+                    "defense": 130,
+                    "speed": 35,
+                    "bst": 510
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/pineco/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pineco/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pineco/default/icons/full-left.png",
+                              "fullRight": "pokemon/pineco/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/pineco/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pineco/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pineco/default/portraits/profile.png",
+                              "intro": "pokemon/pineco/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/pineco/default/portraits/default.png",
+                                          "sad": "pokemon/pineco/default/portraits/sad.png",
+                                          "fierce": "pokemon/pineco/default/portraits/fierce.png",
+                                          "shocked": "pokemon/pineco/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Pineco-Shiny",
+            "types": ["bug"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 135,
+                    "defense": 130,
+                    "speed": 35,
+                    "bst": 510
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/pineco/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pineco/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pineco/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/pineco/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/pineco/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pineco/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pineco/shiny/portraits/profile.png",
+                              "intro": "pokemon/pineco/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/pineco/shiny/portraits/default.png",
+                                          "sad": "pokemon/pineco/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/pineco/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/pineco/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

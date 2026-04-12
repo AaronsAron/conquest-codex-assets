@@ -1,0 +1,39 @@
+{
+  "pokemonId": "salazzle",
+  "nationalDexNumber": 758,
+  "variants": {
+      "default": {
+            "displayName": "Salazzle",
+            "types": ["poison", "fire"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 246,
+                    "attack": 227,
+                    "defense": 125,
+                    "speed": 239,
+                    "bst": 837
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/salazzle/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/salazzle/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/salazzle/default/icons/full-left.png",
+                              "fullRight": "pokemon/salazzle/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/salazzle/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/salazzle/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/salazzle/default/portraits/profile.png",
+                              "intro": "pokemon/salazzle/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

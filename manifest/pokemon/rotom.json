@@ -1,0 +1,209 @@
+{
+  "pokemonId": "rotom",
+  "nationalDexNumber": 479,
+  "variants": {
+      "default": {
+            "displayName": "Rotom",
+            "types": ["electric", "ghost"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 195,
+                    "defense": 159,
+                    "speed": 187,
+                    "bst": 751
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "float",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/rotom/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rotom/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rotom/default/icons/full-left.png",
+                              "fullRight": "pokemon/rotom/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/rotom/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rotom/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rotom/default/portraits/profile.png",
+                              "intro": "pokemon/rotom/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "fan": {
+            "displayName": "Rotom-Fan",
+            "types": ["electric", "flying"],
+            "tags": ["fan", "fully-evolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 215,
+                    "defense": 219,
+                    "speed": 177,
+                    "bst": 821
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "float",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/rotom/fan/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rotom/fan/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rotom/fan/icons/full-left.png",
+                              "fullRight": "pokemon/rotom/fan/icons/full-right.png",
+                              "croppedLeft": "pokemon/rotom/fan/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rotom/fan/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rotom/fan/portraits/profile.png",
+                              "intro": "pokemon/rotom/fan/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "frost": {
+            "displayName": "Rotom-Frost",
+            "types": ["electric", "ice"],
+            "tags": ["frost", "fully-evolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 215,
+                    "defense": 219,
+                    "speed": 177,
+                    "bst": 821
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "float",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/rotom/frost/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rotom/frost/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rotom/frost/icons/full-left.png",
+                              "fullRight": "pokemon/rotom/frost/icons/full-right.png",
+                              "croppedLeft": "pokemon/rotom/frost/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rotom/frost/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rotom/frost/portraits/profile.png",
+                              "intro": "pokemon/rotom/frost/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "heat": {
+            "displayName": "Rotom-Heat",
+            "types": ["electric", "fire"],
+            "tags": ["heat", "fully-evolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 215,
+                    "defense": 219,
+                    "speed": 177,
+                    "bst": 821
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "float",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/rotom/heat/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rotom/heat/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rotom/heat/icons/full-left.png",
+                              "fullRight": "pokemon/rotom/heat/icons/full-right.png",
+                              "croppedLeft": "pokemon/rotom/heat/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rotom/heat/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rotom/heat/portraits/profile.png",
+                              "intro": "pokemon/rotom/heat/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "mow": {
+            "displayName": "Rotom-Mow",
+            "types": ["electric", "grass"],
+            "tags": ["mow", "fully-evolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 215,
+                    "defense": 219,
+                    "speed": 177,
+                    "bst": 821
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "float",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/rotom/mow/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rotom/mow/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rotom/mow/icons/full-left.png",
+                              "fullRight": "pokemon/rotom/mow/icons/full-right.png",
+                              "croppedLeft": "pokemon/rotom/mow/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rotom/mow/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rotom/mow/portraits/profile.png",
+                              "intro": "pokemon/rotom/mow/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "wash": {
+            "displayName": "Rotom-Wash",
+            "types": ["electric", "water"],
+            "tags": ["wash", "fully-evolved"],
+            "stats": {
+                    "hp": 210,
+                    "attack": 215,
+                    "defense": 219,
+                    "speed": 177,
+                    "bst": 821
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "float",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/rotom/wash/meta.json",
+                    "battle": {
+                              "animation": "pokemon/rotom/wash/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/rotom/wash/icons/full-left.png",
+                              "fullRight": "pokemon/rotom/wash/icons/full-right.png",
+                              "croppedLeft": "pokemon/rotom/wash/icons/cropped-left.png",
+                              "croppedRight": "pokemon/rotom/wash/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/rotom/wash/portraits/profile.png",
+                              "intro": "pokemon/rotom/wash/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

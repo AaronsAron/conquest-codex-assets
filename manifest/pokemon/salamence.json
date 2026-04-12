@@ -1,0 +1,39 @@
+{
+  "pokemonId": "salamence",
+  "nationalDexNumber": 373,
+  "variants": {
+      "default": {
+            "displayName": "Salamence",
+            "types": ["dragon", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 300,
+                    "attack": 275,
+                    "defense": 165,
+                    "speed": 205,
+                    "bst": 945
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/salamence/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/salamence/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/salamence/default/icons/full-left.png",
+                              "fullRight": "pokemon/salamence/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/salamence/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/salamence/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/salamence/default/portraits/profile.png",
+                              "intro": "pokemon/salamence/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "bulbasaur",
+  "nationalDexNumber": 1,
+  "variants": {
+      "default": {
+            "displayName": "Bulbasaur",
+            "types": ["grass", "poison"],
+            "tags": ["default", "unevolved", "starter"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 135,
+                    "defense": 119,
+                    "speed": 95,
+                    "bst": 549
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/bulbasaur/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/bulbasaur/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/bulbasaur/default/icons/full-left.png",
+                              "fullRight": "pokemon/bulbasaur/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/bulbasaur/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/bulbasaur/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/bulbasaur/default/portraits/profile.png",
+                              "intro": "pokemon/bulbasaur/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

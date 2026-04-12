@@ -1,0 +1,39 @@
+{
+  "pokemonId": "kingambit",
+  "nationalDexNumber": 983,
+  "variants": {
+      "default": {
+            "displayName": "Kingambit",
+            "types": ["dark", "steel"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 275,
+                    "defense": 210,
+                    "speed": 105,
+                    "bst": 900
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/kingambit/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/kingambit/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/kingambit/default/icons/full-left.png",
+                              "fullRight": "pokemon/kingambit/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/kingambit/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/kingambit/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/kingambit/default/portraits/profile.png",
+                              "intro": "pokemon/kingambit/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "dragalge",
+  "nationalDexNumber": 691,
+  "variants": {
+      "default": {
+            "displayName": "Dragalge",
+            "types": ["poison", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 240,
+                    "attack": 199,
+                    "defense": 218,
+                    "speed": 93,
+                    "bst": 750
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/dragalge/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/dragalge/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/dragalge/default/icons/full-left.png",
+                              "fullRight": "pokemon/dragalge/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/dragalge/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/dragalge/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/dragalge/default/portraits/profile.png",
+                              "intro": "pokemon/dragalge/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

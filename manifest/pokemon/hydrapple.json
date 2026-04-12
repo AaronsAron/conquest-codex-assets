@@ -1,0 +1,39 @@
+{
+  "pokemonId": "hydrapple",
+  "nationalDexNumber": 1019,
+  "variants": {
+      "default": {
+            "displayName": "Hydrapple",
+            "types": ["grass", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 322,
+                    "attack": 245,
+                    "defense": 195,
+                    "speed": 93,
+                    "bst": 855
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/hydrapple/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/hydrapple/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/hydrapple/default/icons/full-left.png",
+                              "fullRight": "pokemon/hydrapple/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/hydrapple/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/hydrapple/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/hydrapple/default/portraits/profile.png",
+                              "intro": "pokemon/hydrapple/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

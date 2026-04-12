@@ -1,0 +1,39 @@
+{
+  "pokemonId": "solrock",
+  "nationalDexNumber": 338,
+  "variants": {
+      "default": {
+            "displayName": "Solrock",
+            "types": ["rock", "psychic"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 195,
+                    "defense": 155,
+                    "speed": 145,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/solrock/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/solrock/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/solrock/default/icons/full-left.png",
+                              "fullRight": "pokemon/solrock/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/solrock/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/solrock/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/solrock/default/portraits/profile.png",
+                              "intro": "pokemon/solrock/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

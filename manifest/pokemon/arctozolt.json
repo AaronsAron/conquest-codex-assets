@@ -1,0 +1,39 @@
+{
+  "pokemonId": "arctozolt",
+  "nationalDexNumber": 881,
+  "variants": {
+      "default": {
+            "displayName": "Arctozolt",
+            "types": ["electric", "ice"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 205,
+                    "defense": 175,
+                    "speed": 115,
+                    "bst": 785
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/arctozolt/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/arctozolt/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/arctozolt/default/icons/full-left.png",
+                              "fullRight": "pokemon/arctozolt/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/arctozolt/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/arctozolt/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/arctozolt/default/portraits/profile.png",
+                              "intro": "pokemon/arctozolt/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

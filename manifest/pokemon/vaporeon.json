@@ -1,0 +1,85 @@
+{
+  "pokemonId": "vaporeon",
+  "nationalDexNumber": 134,
+  "variants": {
+      "default": {
+            "displayName": "Vaporeon",
+            "types": ["water"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 370,
+                    "attack": 225,
+                    "defense": 160,
+                    "speed": 135,
+                    "bst": 890
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/vaporeon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/vaporeon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/vaporeon/default/icons/full-left.png",
+                              "fullRight": "pokemon/vaporeon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/vaporeon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/vaporeon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/vaporeon/default/portraits/profile.png",
+                              "intro": "pokemon/vaporeon/default/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/vaporeon/default/portraits/default.png",
+                                          "joyful": "pokemon/vaporeon/default/portraits/joyful.png",
+                                          "sad": "pokemon/vaporeon/default/portraits/sad.png",
+                                          "fierce": "pokemon/vaporeon/default/portraits/fierce.png",
+                                          "shocked": "pokemon/vaporeon/default/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Vaporeon-Shiny",
+            "types": ["water"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 370,
+                    "attack": 225,
+                    "defense": 160,
+                    "speed": 135,
+                    "bst": 890
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
+            "paths": {
+                    "meta": "pokemon/vaporeon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/vaporeon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/vaporeon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/vaporeon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/vaporeon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/vaporeon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/vaporeon/shiny/portraits/profile.png",
+                              "intro": "pokemon/vaporeon/shiny/portraits/intro.png",
+                              "emotions": {
+                                          "default": "pokemon/vaporeon/shiny/portraits/default.png",
+                                          "joyful": "pokemon/vaporeon/shiny/portraits/joyful.png",
+                                          "sad": "pokemon/vaporeon/shiny/portraits/sad.png",
+                                          "fierce": "pokemon/vaporeon/shiny/portraits/fierce.png",
+                                          "shocked": "pokemon/vaporeon/shiny/portraits/shocked.png"
+                                        }
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

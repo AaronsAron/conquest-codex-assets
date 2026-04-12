@@ -1,0 +1,73 @@
+{
+  "pokemonId": "ekans",
+  "nationalDexNumber": 23,
+  "variants": {
+      "default": {
+            "displayName": "Ekans",
+            "types": ["poison"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 180,
+                    "attack": 125,
+                    "defense": 103,
+                    "speed": 115,
+                    "bst": 523
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ekans/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ekans/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ekans/default/icons/full-left.png",
+                              "fullRight": "pokemon/ekans/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/ekans/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ekans/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ekans/default/portraits/profile.png",
+                              "intro": "pokemon/ekans/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Ekans-Shiny",
+            "types": ["poison"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 180,
+                    "attack": 125,
+                    "defense": 103,
+                    "speed": 115,
+                    "bst": 523
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ekans/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ekans/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ekans/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/ekans/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/ekans/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ekans/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ekans/shiny/portraits/profile.png",
+                              "intro": "pokemon/ekans/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

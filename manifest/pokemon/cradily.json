@@ -1,0 +1,39 @@
+{
+  "pokemonId": "cradily",
+  "nationalDexNumber": 346,
+  "variants": {
+      "default": {
+            "displayName": "Cradily",
+            "types": ["rock", "grass"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 282,
+                    "attack": 167,
+                    "defense": 209,
+                    "speed": 91,
+                    "bst": 749
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/cradily/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/cradily/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/cradily/default/icons/full-left.png",
+                              "fullRight": "pokemon/cradily/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/cradily/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/cradily/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/cradily/default/portraits/profile.png",
+                              "intro": "pokemon/cradily/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

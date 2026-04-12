@@ -1,0 +1,39 @@
+{
+  "pokemonId": "helioptile",
+  "nationalDexNumber": 694,
+  "variants": {
+      "default": {
+            "displayName": "Helioptile",
+            "types": ["electric", "normal"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 198,
+                    "attack": 127,
+                    "defense": 81,
+                    "speed": 145,
+                    "bst": 551
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/helioptile/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/helioptile/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/helioptile/default/icons/full-left.png",
+                              "fullRight": "pokemon/helioptile/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/helioptile/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/helioptile/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/helioptile/default/portraits/profile.png",
+                              "intro": "pokemon/helioptile/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

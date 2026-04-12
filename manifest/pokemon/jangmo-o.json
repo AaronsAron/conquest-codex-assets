@@ -1,0 +1,39 @@
+{
+  "pokemonId": "jangmo-o",
+  "nationalDexNumber": 782,
+  "variants": {
+      "default": {
+            "displayName": "Jangmo-o",
+            "types": ["dragon"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 115,
+                    "defense": 115,
+                    "speed": 95,
+                    "bst": 525
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/jangmo-o/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/jangmo-o/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/jangmo-o/default/icons/full-left.png",
+                              "fullRight": "pokemon/jangmo-o/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/jangmo-o/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/jangmo-o/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/jangmo-o/default/portraits/profile.png",
+                              "intro": "pokemon/jangmo-o/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "stonjourner",
+  "nationalDexNumber": 874,
+  "variants": {
+      "default": {
+            "displayName": "Stonjourner",
+            "types": ["rock"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 310,
+                    "attack": 255,
+                    "defense": 160,
+                    "speed": 145,
+                    "bst": 870
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/stonjourner/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/stonjourner/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/stonjourner/default/icons/full-left.png",
+                              "fullRight": "pokemon/stonjourner/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/stonjourner/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/stonjourner/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/stonjourner/default/portraits/profile.png",
+                              "intro": "pokemon/stonjourner/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

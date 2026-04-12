@@ -1,0 +1,39 @@
+{
+  "pokemonId": "budew",
+  "nationalDexNumber": 406,
+  "variants": {
+      "default": {
+            "displayName": "Budew",
+            "types": ["grass", "poison"],
+            "tags": ["default", "unevolved", "baby"],
+            "stats": {
+                    "hp": 190,
+                    "attack": 105,
+                    "defense": 110,
+                    "speed": 115,
+                    "bst": 520
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/budew/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/budew/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/budew/default/icons/full-left.png",
+                              "fullRight": "pokemon/budew/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/budew/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/budew/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/budew/default/portraits/profile.png",
+                              "intro": "pokemon/budew/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

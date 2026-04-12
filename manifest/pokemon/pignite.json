@@ -1,0 +1,73 @@
+{
+  "pokemonId": "pignite",
+  "nationalDexNumber": 499,
+  "variants": {
+      "default": {
+            "displayName": "Pignite",
+            "types": ["fire", "fighting"],
+            "tags": ["default", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 191,
+                    "defense": 115,
+                    "speed": 115,
+                    "bst": 711
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pignite/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pignite/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pignite/default/icons/full-left.png",
+                              "fullRight": "pokemon/pignite/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/pignite/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pignite/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pignite/default/portraits/profile.png",
+                              "intro": "pokemon/pignite/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Pignite-Shiny",
+            "types": ["fire", "fighting"],
+            "tags": ["shiny", "not-fully-evolved", "starter"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 191,
+                    "defense": 115,
+                    "speed": 115,
+                    "bst": 711
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/pignite/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/pignite/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/pignite/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/pignite/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/pignite/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/pignite/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/pignite/shiny/portraits/profile.png",
+                              "intro": "pokemon/pignite/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

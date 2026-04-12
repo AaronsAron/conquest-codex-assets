@@ -1,0 +1,39 @@
+{
+  "pokemonId": "swablu",
+  "nationalDexNumber": 333,
+  "variants": {
+      "default": {
+            "displayName": "Swablu",
+            "types": ["normal", "flying"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 85,
+                    "defense": 140,
+                    "speed": 105,
+                    "bst": 530
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/swablu/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/swablu/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/swablu/default/icons/full-left.png",
+                              "fullRight": "pokemon/swablu/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/swablu/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/swablu/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/swablu/default/portraits/profile.png",
+                              "intro": "pokemon/swablu/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

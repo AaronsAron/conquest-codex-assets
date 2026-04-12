@@ -1,0 +1,39 @@
+{
+  "pokemonId": "delibird",
+  "nationalDexNumber": 225,
+  "variants": {
+      "default": {
+            "displayName": "Delibird",
+            "types": ["ice", "flying"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 135,
+                    "defense": 95,
+                    "speed": 155,
+                    "bst": 585
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/delibird/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/delibird/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/delibird/default/icons/full-left.png",
+                              "fullRight": "pokemon/delibird/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/delibird/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/delibird/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/delibird/default/portraits/profile.png",
+                              "intro": "pokemon/delibird/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

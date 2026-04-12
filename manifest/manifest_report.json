@@ -1,0 +1,22 @@
+{
+  "run": {
+      "generatedAt": "2026-04-11T21:25:11-04:00",
+      "assetsRepoRoot": "C:\\Users\\aaron\\Documents\\ConquestCodex\\GitHub\\conquest-codex-assets",
+      "pokemonRoot": "C:\\Users\\aaron\\Documents\\ConquestCodex\\GitHub\\conquest-codex-assets\\pokemon",
+      "manifestRoot": "C:\\Users\\aaron\\Documents\\ConquestCodex\\GitHub\\conquest-codex-assets\\manifest",
+      "assetBase": "https://raw.githubusercontent.com/AaronsAron/conquest-codex-assets/main/"
+    },
+  "counts": {
+      "pokemonFolders": 440,
+      "variantFolders": 663,
+      "primaryVariants": 659,
+      "derivedVariants": 4,
+      "metaParsed": 663,
+      "metaParsedWithRepair": 0,
+      "metaErrors": 0,
+      "rowsWritten": 659,
+      "detailFilesWritten": 440
+    },
+  "errors": [],
+  "warnings": []
+}

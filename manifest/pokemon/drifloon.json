@@ -1,0 +1,73 @@
+{
+  "pokemonId": "drifloon",
+  "nationalDexNumber": 425,
+  "variants": {
+      "default": {
+            "displayName": "Drifloon",
+            "types": ["ghost", "flying"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 125,
+                    "defense": 83,
+                    "speed": 145,
+                    "bst": 643
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/drifloon/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/drifloon/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/drifloon/default/icons/full-left.png",
+                              "fullRight": "pokemon/drifloon/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/drifloon/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/drifloon/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/drifloon/default/portraits/profile.png",
+                              "intro": "pokemon/drifloon/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Drifloon-Shiny",
+            "types": ["ghost", "flying"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 290,
+                    "attack": 125,
+                    "defense": 83,
+                    "speed": 145,
+                    "bst": 643
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/drifloon/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/drifloon/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/drifloon/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/drifloon/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/drifloon/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/drifloon/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/drifloon/shiny/portraits/profile.png",
+                              "intro": "pokemon/drifloon/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

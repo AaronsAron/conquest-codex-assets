@@ -1,0 +1,39 @@
+{
+  "pokemonId": "ferrothorn",
+  "nationalDexNumber": 598,
+  "variants": {
+      "default": {
+            "displayName": "Ferrothorn",
+            "types": ["grass", "steel"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 258,
+                    "attack": 193,
+                    "defense": 252,
+                    "speed": 45,
+                    "bst": 748
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/ferrothorn/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/ferrothorn/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/ferrothorn/default/icons/full-left.png",
+                              "fullRight": "pokemon/ferrothorn/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/ferrothorn/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/ferrothorn/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/ferrothorn/default/portraits/profile.png",
+                              "intro": "pokemon/ferrothorn/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

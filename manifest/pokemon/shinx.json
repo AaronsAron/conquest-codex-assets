@@ -1,0 +1,73 @@
+{
+  "pokemonId": "shinx",
+  "nationalDexNumber": 403,
+  "variants": {
+      "default": {
+            "displayName": "Shinx",
+            "types": ["electric"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 135,
+                    "defense": 73,
+                    "speed": 95,
+                    "bst": 503
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/shinx/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/shinx/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/shinx/default/icons/full-left.png",
+                              "fullRight": "pokemon/shinx/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/shinx/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/shinx/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/shinx/default/portraits/profile.png",
+                              "intro": "pokemon/shinx/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Shinx-Shiny",
+            "types": ["electric"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 135,
+                    "defense": 73,
+                    "speed": 95,
+                    "bst": 503
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/shinx/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/shinx/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/shinx/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/shinx/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/shinx/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/shinx/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/shinx/shiny/portraits/profile.png",
+                              "intro": "pokemon/shinx/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "pokemonId": "turtonator",
+  "nationalDexNumber": 776,
+  "variants": {
+      "default": {
+            "displayName": "Turtonator",
+            "types": ["fire", "dragon"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 230,
+                    "attack": 187,
+                    "defense": 225,
+                    "speed": 77,
+                    "bst": 719
+                  },
+            "animationFlags": {"asymmetric": true, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/turtonator/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/turtonator/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/turtonator/default/icons/full-left.png",
+                              "fullRight": "pokemon/turtonator/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/turtonator/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/turtonator/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/turtonator/default/portraits/profile.png",
+                              "intro": "pokemon/turtonator/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

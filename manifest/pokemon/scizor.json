@@ -1,0 +1,73 @@
+{
+  "pokemonId": "scizor",
+  "nationalDexNumber": 212,
+  "variants": {
+      "default": {
+            "displayName": "Scizor",
+            "types": ["bug", "steel"],
+            "tags": ["default", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 265,
+                    "defense": 185,
+                    "speed": 135,
+                    "bst": 835
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/scizor/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/scizor/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/scizor/default/icons/full-left.png",
+                              "fullRight": "pokemon/scizor/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/scizor/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/scizor/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/scizor/default/portraits/profile.png",
+                              "intro": "pokemon/scizor/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Scizor-Shiny",
+            "types": ["bug", "steel"],
+            "tags": ["shiny", "fully-evolved"],
+            "stats": {
+                    "hp": 250,
+                    "attack": 265,
+                    "defense": 185,
+                    "speed": 135,
+                    "bst": 835
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/scizor/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/scizor/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/scizor/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/scizor/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/scizor/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/scizor/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/scizor/shiny/portraits/profile.png",
+                              "intro": "pokemon/scizor/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": "blitzle",
+  "nationalDexNumber": 522,
+  "variants": {
+      "default": {
+            "displayName": "Blitzle",
+            "types": ["electric"],
+            "tags": ["default", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 125,
+                    "defense": 69,
+                    "speed": 157,
+                    "bst": 551
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/blitzle/default/meta.json",
+                    "battle": {
+                              "animation": "pokemon/blitzle/default/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/blitzle/default/icons/full-left.png",
+                              "fullRight": "pokemon/blitzle/default/icons/full-right.png",
+                              "croppedLeft": "pokemon/blitzle/default/icons/cropped-left.png",
+                              "croppedRight": "pokemon/blitzle/default/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/blitzle/default/portraits/profile.png",
+                              "intro": "pokemon/blitzle/default/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          },
+  
+      "shiny": {
+            "displayName": "Blitzle-Shiny",
+            "types": ["electric"],
+            "tags": ["shiny", "unevolved"],
+            "stats": {
+                    "hp": 200,
+                    "attack": 125,
+                    "defense": 69,
+                    "speed": 157,
+                    "bst": 551
+                  },
+            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "idleMotion": "grounded",
+            "portraitEmotions": [],
+            "paths": {
+                    "meta": "pokemon/blitzle/shiny/meta.json",
+                    "battle": {
+                              "animation": "pokemon/blitzle/shiny/battle/animation.png"
+                            },
+                    "icons": {
+                              "fullLeft": "pokemon/blitzle/shiny/icons/full-left.png",
+                              "fullRight": "pokemon/blitzle/shiny/icons/full-right.png",
+                              "croppedLeft": "pokemon/blitzle/shiny/icons/cropped-left.png",
+                              "croppedRight": "pokemon/blitzle/shiny/icons/cropped-right.png"
+                            },
+                    "portraits": {
+                              "profile": "pokemon/blitzle/shiny/portraits/profile.png",
+                              "intro": "pokemon/blitzle/shiny/portraits/intro.png",
+                              "emotions": {}
+                            }
+                  },
+            "alternates": {}
+          }
+    }
+}
