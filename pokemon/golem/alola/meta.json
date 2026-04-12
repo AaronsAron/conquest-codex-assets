@@ -2,7 +2,7 @@
   "pokemonId": "golem",
   "variantId": "alola",
   "displayName": "Golem-Alola",
-  "tags": ["alola", "fully-evolved"],
+  "tags": ["alola", "regional", "fully-evolved"],
 
   "nationalDexNumber": 76,
   "types": ["rock", "electric"],

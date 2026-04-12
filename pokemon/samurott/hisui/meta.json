@@ -2,7 +2,7 @@
   "pokemonId": "samurott",
   "variantId": "hisui",
   "displayName": "Samurott-Hisui",
-  "tags": ["hisui", "fully-evolved", "starter"],
+  "tags": ["hisui", "regional", "fully-evolved", "starter"],
 
   "nationalDexNumber": 503,
   "types": ["water", "dark"],

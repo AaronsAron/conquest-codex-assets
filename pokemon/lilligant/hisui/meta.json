@@ -2,7 +2,7 @@
   "pokemonId": "lilligant",
   "variantId": "hisui",
   "displayName": "Lilligant-Hisui",
-  "tags": ["hisui", "fully-evolved"],
+  "tags": ["hisui", "regional", "fully-evolved"],
 
   "nationalDexNumber": 549,
   "types": ["grass", "fighting"],

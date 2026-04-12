@@ -2,7 +2,7 @@
   "pokemonId": "goodra",
   "variantId": "hisui",
   "displayName": "Goodra-Hisui",
-  "tags": ["hisui", "fully-evolved"],
+  "tags": ["hisui", "regional", "fully-evolved"],
 
   "nationalDexNumber": 706,
   "types": ["dragon", "steel"],
@@ -32,7 +32,7 @@
 
   "credits": {
     "animation": [
-      { "name": "emmuffin", "role": "draw" },
+      { "name": "Emmuffin", "role": "draw" },
       { "name": "Aaron's Aron", "role": "convert" }
     ],
     "icons": [

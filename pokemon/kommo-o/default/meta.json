@@ -2,7 +2,7 @@
   "pokemonId": "kommo-o",
   "variantId": "default",
   "displayName": "Kommo-o",
-  "tags": ["default", "not-fully-evolved"],
+  "tags": ["default", "fully-evolved"],
 
   "nationalDexNumber": 784,
   "types": ["dragon", "fighting"],

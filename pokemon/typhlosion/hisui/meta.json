@@ -2,7 +2,7 @@
   "pokemonId": "typhlosion",
   "variantId": "hisui",
   "displayName": "Typhlosion-Hisui",
-  "tags": ["hisui", "fully-evolved", "starter"],
+  "tags": ["hisui", "regional", "fully-evolved", "starter"],
 
   "nationalDexNumber": 157,
   "types": ["fire", "ghost"],

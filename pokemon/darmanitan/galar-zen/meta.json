@@ -2,7 +2,7 @@
   "pokemonId": "darmanitan",
   "variantId": "galar-zen",
   "displayName": "Darmanitan-Galar-Zen",
-  "tags": ["galar", "zen", "fully-evolved"],
+  "tags": ["galar", "regional", "zen", "fully-evolved"],
 
   "nationalDexNumber": 555,
   "types": ["ice", "fire"],

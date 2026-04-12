@@ -2,7 +2,7 @@
   "pokemonId": "wooper",
   "variantId": "paldea",
   "displayName": "Wooper-Paldea",
-  "tags": ["paldea", "unevolved"],
+  "tags": ["paldea", "regional", "unevolved"],
 
   "nationalDexNumber": 194,
   "types": ["poison", "ground"],

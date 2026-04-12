@@ -2,7 +2,7 @@
   "pokemonId": "growlithe",
   "variantId": "hisui",
   "displayName": "Growlithe-Hisui",
-  "tags": ["hisui", "unevolved"],
+  "tags": ["hisui", "regional", "unevolved"],
 
   "nationalDexNumber": 58,
   "types": ["fire", "rock"],

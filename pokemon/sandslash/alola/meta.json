@@ -2,7 +2,7 @@
   "pokemonId": "sandslash",
   "variantId": "alola",
   "displayName": "Sandslash-Alola",
-  "tags": ["alola", "fully-evolved"],
+  "tags": ["alola", "regional", "fully-evolved"],
 
   "nationalDexNumber": 28,
   "types": ["ice", "steel"],

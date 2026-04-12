@@ -2,7 +2,7 @@
   "pokemonId": "sliggoo",
   "variantId": "hisui",
   "displayName": "Sliggoo-Hisui",
-  "tags": ["hisui", "not-fully-evolved"],
+  "tags": ["hisui", "regional", "not-fully-evolved"],
 
   "nationalDexNumber": 705,
   "types": ["dragon", "steel"],

@@ -2,7 +2,7 @@
   "pokemonId": "vulpix",
   "variantId": "alola",
   "displayName": "Vulpix-Alola",
-  "tags": ["alola", "unevolved"],
+  "tags": ["alola", "regional", "unevolved"],
 
   "nationalDexNumber": 37,
   "types": ["ice"],

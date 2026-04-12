@@ -2,7 +2,7 @@
   "pokemonId": "slowking",
   "variantId": "galar",
   "displayName": "Slowking-Galar",
-  "tags": ["galar", "fully-evolved"],
+  "tags": ["galar", "regional", "fully-evolved"],
 
   "nationalDexNumber": 199,
   "types": ["poison", "psychic"],

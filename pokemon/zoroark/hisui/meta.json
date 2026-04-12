@@ -2,7 +2,7 @@
   "pokemonId": "zoroark",
   "variantId": "hisui",
   "displayName": "Zoroark-Hisui",
-  "tags": ["hisui", "fully-evolved"],
+  "tags": ["hisui", "regional", "fully-evolved"],
 
   "nationalDexNumber": 571,
   "types": ["normal", "ghost"],

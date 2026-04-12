@@ -2,7 +2,7 @@
   "pokemonId": "voltorb",
   "variantId": "hisui",
   "displayName": "Voltorb-Hisui",
-  "tags": ["hisui", "unevolved"],
+  "tags": ["hisui", "regional", "unevolved"],
 
   "nationalDexNumber": 100,
   "types": ["electric", "grass"],

@@ -2,7 +2,7 @@
   "pokemonId": "electrode",
   "variantId": "hisui",
   "displayName": "Electrode-Hisui",
-  "tags": ["hisui", "fully-evolved"],
+  "tags": ["hisui", "regional", "fully-evolved"],
 
   "nationalDexNumber": 101,
   "types": ["electric"],

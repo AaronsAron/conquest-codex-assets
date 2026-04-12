@@ -2,7 +2,7 @@
   "pokemonId": "samurott",
   "variantId": "hisui-alt",
   "displayName": "Samurott-Hisui",
-  "tags": ["alternate", "hisui", "fully-evolved", "starter"],
+  "tags": ["alternate", "hisui", "regional", "fully-evolved", "starter"],
 
   "inheritsFrom": "hisui",
 

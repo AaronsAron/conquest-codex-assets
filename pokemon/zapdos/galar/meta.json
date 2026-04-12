@@ -2,7 +2,7 @@
   "pokemonId": "zapdos",
   "variantId": "galar",
   "displayName": "Zapdos-Galar",
-  "tags": ["galar", "fully-evolved", "legendary"],
+  "tags": ["galar", "regional", "fully-evolved", "legendary"],
 
   "nationalDexNumber": 145,
   "types": ["fighting", "flying"],

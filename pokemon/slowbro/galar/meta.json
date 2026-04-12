@@ -2,7 +2,7 @@
   "pokemonId": "slowbro",
   "variantId": "galar",
   "displayName": "Slowbro-Galar",
-  "tags": ["galar", "fully-evolved"],
+  "tags": ["galar", "regional", "fully-evolved"],
 
   "nationalDexNumber": 80,
   "types": ["poison", "psychic"],
