@@ -11,7 +11,7 @@
                     "attack": 195,
                     "defense": 140,
                     "speed": 225,
-                    "bst": 780
+                    "bst": 790
                   },
             "animationFlags": {"asymmetric": false, "longAttack": false},
             "idleMotion": "grounded",

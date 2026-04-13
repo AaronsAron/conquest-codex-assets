@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-12T19:31:58-04:00",
+  "generatedAt": "2026-04-12T23:07:43-04:00",
   "assetBase": "https://raw.githubusercontent.com/AaronsAron/conquest-codex-assets/main/",
   "rows": [
       {
@@ -711,7 +711,7 @@
                     "attack": 195,
                     "defense": 140,
                     "speed": 225,
-                    "bst": 780
+                    "bst": 790
                   },
             "sortKeys": {
                     "dateModifiedMax": "2026-04-01",
