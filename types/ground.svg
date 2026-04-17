@@ -1,0 +1,38 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg"
+     width="60" height="18" viewBox="0 0 60 18"
+     role="img" aria-label="GROUND">
+  <defs>
+    <filter id="textShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0.6" dy="0.6" stdDeviation="0.5"
+                    flood-color="#000" flood-opacity="0.35" />
+    </filter>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.20"/>
+      <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.00"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base pill (NO outside shadow) -->
+  <rect x="1" y="1"
+        rx="9" ry="9"
+        width="58" height="16"
+        fill="#E2BF65"
+        stroke=""
+        stroke-width="1"
+        stroke-opacity="1" />
+
+  <rect x="1" y="1"
+        rx="9" ry="9"
+        width="58" height="16"
+        fill="url(#shine)" />
+
+  <!-- Text -->
+  <text x="30" y="13"
+        text-anchor="middle"
+        font-size="9.5"
+        font-weight="700"
+        font-family="Inter, system-ui, sans-serif"
+        fill="#FFFFFF"
+        filter="url(#textShadow)">GROUND</text>
+</svg>
