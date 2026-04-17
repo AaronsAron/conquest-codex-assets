@@ -2,10 +2,10 @@
   "pokemonId": "marshadow",
   "variantId": "default",
   "displayName": "Marshadow",
-  "tags": ["default", "fully-evolved"],
+  "tags": ["default", "fully-evolved", "mythical"],
 
   "nationalDexNumber": 802,
-  "types": ["fighting", "ghost", "mythical"],
+  "types": ["fighting", "ghost"],
   "baseStats": {
     "hp": 90,
     "atk": 125,

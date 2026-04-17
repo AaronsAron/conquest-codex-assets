@@ -4,8 +4,8 @@
   "variants": {
       "default": {
             "displayName": "Marshadow",
-            "types": ["fighting", "ghost", "mythical"],
-            "tags": ["default", "fully-evolved"],
+            "types": ["fighting", "ghost"],
+            "tags": ["default", "fully-evolved", "mythical"],
             "stats": {
                     "hp": 290,
                     "attack": 255,

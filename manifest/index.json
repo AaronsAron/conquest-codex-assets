@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-12T23:07:43-04:00",
+  "generatedAt": "2026-04-17T17:57:07-04:00",
   "assetBase": "https://raw.githubusercontent.com/AaronsAron/conquest-codex-assets/main/",
   "rows": [
       {
@@ -23894,8 +23894,8 @@
             "variantId": "default",
             "displayName": "Marshadow",
             "nationalDexNumber": 802,
-            "types": ["fighting", "ghost", "mythical"],
-            "tags": ["default", "fully-evolved"],
+            "types": ["fighting", "ghost"],
+            "tags": ["default", "fully-evolved", "mythical"],
             "thumb": {
                     "icon": "pokemon/marshadow/default/icons/full-left.png"
                   },
