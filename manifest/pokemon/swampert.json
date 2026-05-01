@@ -5,7 +5,7 @@
       "default": {
             "displayName": "Swampert",
             "types": ["water", "ground"],
-            "tags": ["default", "fully-evolved"],
+            "tags": ["default", "fully-evolved", "starter"],
             "stats": {
                     "hp": 310,
                     "attack": 225,

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-17T17:57:07-04:00",
+  "generatedAt": "2026-05-01T15:19:20-04:00",
   "assetBase": "https://raw.githubusercontent.com/AaronsAron/conquest-codex-assets/main/",
   "rows": [
       {
@@ -7263,7 +7263,7 @@
             "displayName": "Swampert",
             "nationalDexNumber": 260,
             "types": ["water", "ground"],
-            "tags": ["default", "fully-evolved"],
+            "tags": ["default", "fully-evolved", "starter"],
             "thumb": {
                     "icon": "pokemon/swampert/default/icons/full-left.png"
                   },
