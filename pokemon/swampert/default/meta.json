@@ -2,7 +2,7 @@
   "pokemonId": "swampert",
   "variantId": "default",
   "displayName": "Swampert",
-  "tags": ["default", "fully-evolved"],
+  "tags": ["default", "fully-evolved", "starter"],
 
   "nationalDexNumber": 260,
   "types": ["water", "ground"],
