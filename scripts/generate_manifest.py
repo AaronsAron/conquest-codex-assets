@@ -8,12 +8,12 @@ from datetime import datetime
 # CONFIG
 # ============================================================
 ASSETS_REPO_ROOT = Path(r"C:\Users\aaron\Documents\ConquestCodex\GitHub\conquest-codex-assets")
-POKEMON_ROOT = ASSETS_REPO_ROOT / "pokemon"
+POKEMON_ROOT = ASSETS_REPO_ROOT / "sprites" / "pokemon"
 
-MANIFEST_ROOT = ASSETS_REPO_ROOT / "manifest"
+MANIFEST_ROOT = ASSETS_REPO_ROOT / "sprites" / "manifest"
 MANIFEST_POKEMON_DIR = MANIFEST_ROOT / "pokemon"
 
-ASSET_BASE = "https://raw.githubusercontent.com/AaronsAron/conquest-codex-assets/main/"
+ASSET_BASE = "https://raw.githubusercontent.com/AaronsAron/conquest-codex-assets/main/sprites/"
 
 THUMB_ICON_REL = "icons/full-left.png"  # thumb uses icons/full-left for all variants
 
