@@ -13,7 +13,7 @@
                     "speed": 195,
                     "bst": 860
                   },
-            "animationFlags": {"asymmetric": false, "longAttack": false},
+            "animationFlags": {"asymmetric": true, "longAttack": false},
             "idleMotion": "grounded",
             "portraitEmotions": ["default", "joyful", "sad", "fierce", "shocked"],
             "paths": {
