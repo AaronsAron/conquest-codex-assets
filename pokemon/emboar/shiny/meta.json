@@ -24,7 +24,7 @@
 
   "inheritsFrom": null,
 
-  "animationFlags": {"asymmetric": false, "longAttack": false},
+  "animationFlags": {"asymmetric": true, "longAttack": false},
 
   "idleMotion": "grounded",
 
