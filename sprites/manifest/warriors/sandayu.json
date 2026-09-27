@@ -1,0 +1,82 @@
+{
+  "warriorId": "sandayu",
+  "variants": {
+      "default": {
+            "displayName": "Sandayu",
+            "genderId": "male",
+            "tags": ["warrior", "male"],
+            "galleryNumber": "111",
+            "specialityTypeIds": ["poison"],
+            "weaknessTypeIds": ["psychic"],
+            "stats": {
+                    "power": 87,
+                    "wisdom": 89,
+                    "charisma": 34,
+                    "bst": 210,
+                    "capacity": 3
+                  },
+            "portraitEmotions": ["profile"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/sandayu/default/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0122.png",
+                              "cropped": "warriors/icons/cropped/0122.png",
+                              "full": "warriors/icons/full/0122.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0347.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0122.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

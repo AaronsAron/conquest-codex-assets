@@ -1,0 +1,83 @@
+{
+  "warriorId": "saizo",
+  "variantId": "default",
+  "displayName": "Saizo",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "184",
+  "specialityTypeIds": ["ghost", "fire"],
+  "weaknessTypeIds": ["ground", "water"],
+
+  "stats": {
+      "power": 80,
+      "wisdom": 76,
+      "charisma": 68,
+      "bst": 224,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 122,
+            "cropped": 122,
+            "full": 122
+          },
+      "portraits": {
+            "intro": 122,
+            "overworld": null,
+            "emotions": {
+                    "profile": 347,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

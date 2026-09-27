@@ -1,0 +1,200 @@
+{
+  "warriorId": "muneshige",
+  "variants": {
+      "rank-i": {
+            "displayName": "Muneshige-Rank-I",
+            "genderId": "male",
+            "tags": ["warlord", "rank-i", "male"],
+            "galleryNumber": "21.1",
+            "specialityTypeIds": ["flying", "normal"],
+            "weaknessTypeIds": ["rock", "fighting"],
+            "stats": {
+                    "power": 84,
+                    "wisdom": 68,
+                    "charisma": 73,
+                    "bst": 225,
+                    "capacity": 6
+                  },
+            "portraitEmotions": ["profile", "joyful", "fierce", "shocked", "special"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/muneshige/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0045.png",
+                              "cropped": "warriors/icons/cropped/0045.png",
+                              "full": "warriors/icons/full/0045.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0181.png",
+                                          "joyful": "warriors/portraits/emotions/0182.png",
+                                          "fierce": "warriors/portraits/emotions/0183.png",
+                                          "shocked": "warriors/portraits/emotions/0184.png",
+                                          "special": "warriors/portraits/emotions/0368.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0045.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "special": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01",
+                                          "special": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Muneshige-Rank-II",
+            "genderId": "male",
+            "tags": ["warlord", "rank-ii", "male"],
+            "galleryNumber": "21.2",
+            "specialityTypeIds": ["flying", "normal"],
+            "weaknessTypeIds": ["rock", "fighting"],
+            "stats": {
+                    "power": 94,
+                    "wisdom": 78,
+                    "charisma": 83,
+                    "bst": 255,
+                    "capacity": 7
+                  },
+            "portraitEmotions": ["profile", "joyful", "fierce", "shocked", "special"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/muneshige/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0046.png",
+                              "cropped": "warriors/icons/cropped/0046.png",
+                              "full": "warriors/icons/full/0046.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0185.png",
+                                          "joyful": "warriors/portraits/emotions/0186.png",
+                                          "fierce": "warriors/portraits/emotions/0187.png",
+                                          "shocked": "warriors/portraits/emotions/0188.png",
+                                          "special": "warriors/portraits/emotions/0369.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0046.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "special": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01",
+                                          "special": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

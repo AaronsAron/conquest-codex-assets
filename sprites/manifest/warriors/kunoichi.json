@@ -1,0 +1,200 @@
+{
+  "warriorId": "kunoichi",
+  "variants": {
+      "rank-i": {
+            "displayName": "Kunoichi-Rank-I",
+            "genderId": "female",
+            "tags": ["warlord", "rank-i", "female"],
+            "galleryNumber": "24.1",
+            "specialityTypeIds": ["dark", "ice"],
+            "weaknessTypeIds": ["bug", "fire"],
+            "stats": {
+                    "power": 60,
+                    "wisdom": 63,
+                    "charisma": 70,
+                    "bst": 193,
+                    "capacity": 5
+                  },
+            "portraitEmotions": ["profile", "joyful", "sad", "fierce", "shocked"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/kunoichi/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0051.png",
+                              "cropped": "warriors/icons/cropped/0051.png",
+                              "full": "warriors/icons/full/0051.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0203.png",
+                                          "joyful": "warriors/portraits/emotions/0204.png",
+                                          "sad": "warriors/portraits/emotions/0205.png",
+                                          "fierce": "warriors/portraits/emotions/0206.png",
+                                          "shocked": "warriors/portraits/emotions/0207.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0051.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Kunoichi-Rank-II",
+            "genderId": "female",
+            "tags": ["warlord", "rank-ii", "female"],
+            "galleryNumber": "24.2",
+            "specialityTypeIds": ["dark", "ice"],
+            "weaknessTypeIds": ["bug", "fire"],
+            "stats": {
+                    "power": 70,
+                    "wisdom": 73,
+                    "charisma": 80,
+                    "bst": 223,
+                    "capacity": 5
+                  },
+            "portraitEmotions": ["profile", "joyful", "sad", "fierce", "shocked"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/kunoichi/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0052.png",
+                              "cropped": "warriors/icons/cropped/0052.png",
+                              "full": "warriors/icons/full/0052.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0208.png",
+                                          "joyful": "warriors/portraits/emotions/0209.png",
+                                          "sad": "warriors/portraits/emotions/0210.png",
+                                          "fierce": "warriors/portraits/emotions/0211.png",
+                                          "shocked": "warriors/portraits/emotions/0212.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0052.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

@@ -1,0 +1,210 @@
+{
+  "warriorId": "mitsuhide",
+  "variants": {
+      "rank-i": {
+            "displayName": "Mitsuhide-Rank-I",
+            "genderId": "male",
+            "tags": ["warlord", "rank-i", "male"],
+            "galleryNumber": "8.1",
+            "specialityTypeIds": ["ice", "flying"],
+            "weaknessTypeIds": ["steel", "rock"],
+            "stats": {
+                    "power": 77,
+                    "wisdom": 82,
+                    "charisma": 82,
+                    "bst": 241,
+                    "capacity": 5
+                  },
+            "portraitEmotions": ["profile", "joyful", "sad", "fierce", "shocked", "special"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/mitsuhide/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0019.png",
+                              "cropped": "warriors/icons/cropped/0019.png",
+                              "full": "warriors/icons/full/0019.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0081.png",
+                                          "joyful": "warriors/portraits/emotions/0082.png",
+                                          "sad": "warriors/portraits/emotions/0083.png",
+                                          "fierce": "warriors/portraits/emotions/0084.png",
+                                          "shocked": "warriors/portraits/emotions/0085.png",
+                                          "special": "warriors/portraits/emotions/0360.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0019.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "special": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01",
+                                          "special": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Mitsuhide-Rank-II",
+            "genderId": "male",
+            "tags": ["warlord", "rank-ii", "male"],
+            "galleryNumber": "8.2",
+            "specialityTypeIds": ["ice", "flying"],
+            "weaknessTypeIds": ["steel", "rock"],
+            "stats": {
+                    "power": 88,
+                    "wisdom": 92,
+                    "charisma": 92,
+                    "bst": 272,
+                    "capacity": 6
+                  },
+            "portraitEmotions": ["profile", "joyful", "sad", "fierce", "shocked", "special"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/mitsuhide/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0020.png",
+                              "cropped": "warriors/icons/cropped/0020.png",
+                              "full": "warriors/icons/full/0020.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0086.png",
+                                          "joyful": "warriors/portraits/emotions/0087.png",
+                                          "sad": "warriors/portraits/emotions/0088.png",
+                                          "fierce": "warriors/portraits/emotions/0089.png",
+                                          "shocked": "warriors/portraits/emotions/0090.png",
+                                          "special": "warriors/portraits/emotions/0361.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0020.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "special": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01",
+                                          "special": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

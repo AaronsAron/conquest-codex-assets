@@ -1,0 +1,170 @@
+{
+  "warriorId": "kenshin",
+  "variants": {
+      "rank-i": {
+            "displayName": "Kenshin-Rank-I",
+            "genderId": "male",
+            "tags": ["warlord", "rank-i", "male"],
+            "galleryNumber": "13.1",
+            "specialityTypeIds": ["psychic", "fighting"],
+            "weaknessTypeIds": ["ghost"],
+            "stats": {
+                    "power": 90,
+                    "wisdom": 66,
+                    "charisma": 81,
+                    "bst": 237,
+                    "capacity": 7
+                  },
+            "portraitEmotions": ["profile", "fierce"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/kenshin/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0029.png",
+                              "cropped": "warriors/icons/cropped/0029.png",
+                              "full": "warriors/icons/full/0029.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0123.png",
+                                          "fierce": "warriors/portraits/emotions/0124.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0029.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "fierce": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Kenshin-Rank-II",
+            "genderId": "male",
+            "tags": ["warlord", "rank-ii", "male"],
+            "galleryNumber": "13.2",
+            "specialityTypeIds": ["psychic", "fighting"],
+            "weaknessTypeIds": ["ghost"],
+            "stats": {
+                    "power": 99,
+                    "wisdom": 76,
+                    "charisma": 91,
+                    "bst": 266,
+                    "capacity": 8
+                  },
+            "portraitEmotions": ["profile", "fierce"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/kenshin/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0030.png",
+                              "cropped": "warriors/icons/cropped/0030.png",
+                              "full": "warriors/icons/full/0030.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0125.png",
+                                          "fierce": "warriors/portraits/emotions/0126.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0030.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "fierce": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

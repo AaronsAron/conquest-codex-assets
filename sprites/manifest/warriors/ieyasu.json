@@ -1,0 +1,200 @@
+{
+  "warriorId": "ieyasu",
+  "variants": {
+      "rank-i": {
+            "displayName": "Ieyasu-Rank-I",
+            "genderId": "male",
+            "tags": ["warlord", "rank-i", "male"],
+            "galleryNumber": "18.1",
+            "specialityTypeIds": ["steel", "rock"],
+            "weaknessTypeIds": ["fire", "grass"],
+            "stats": {
+                    "power": 80,
+                    "wisdom": 84,
+                    "charisma": 87,
+                    "bst": 251,
+                    "capacity": 8
+                  },
+            "portraitEmotions": ["profile", "joyful", "sad", "fierce", "shocked"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/ieyasu/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0039.png",
+                              "cropped": "warriors/icons/cropped/0039.png",
+                              "full": "warriors/icons/full/0039.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0155.png",
+                                          "joyful": "warriors/portraits/emotions/0156.png",
+                                          "sad": "warriors/portraits/emotions/0157.png",
+                                          "fierce": "warriors/portraits/emotions/0158.png",
+                                          "shocked": "warriors/portraits/emotions/0159.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0039.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Ieyasu-Rank-II",
+            "genderId": "male",
+            "tags": ["warlord", "rank-ii", "male"],
+            "galleryNumber": "18.2",
+            "specialityTypeIds": ["steel", "rock"],
+            "weaknessTypeIds": ["fire", "grass"],
+            "stats": {
+                    "power": 88,
+                    "wisdom": 94,
+                    "charisma": 97,
+                    "bst": 279,
+                    "capacity": 8
+                  },
+            "portraitEmotions": ["profile", "joyful", "sad", "fierce", "shocked"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/ieyasu/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0040.png",
+                              "cropped": "warriors/icons/cropped/0040.png",
+                              "full": "warriors/icons/full/0040.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0160.png",
+                                          "joyful": "warriors/portraits/emotions/0161.png",
+                                          "sad": "warriors/portraits/emotions/0162.png",
+                                          "fierce": "warriors/portraits/emotions/0163.png",
+                                          "shocked": "warriors/portraits/emotions/0164.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0040.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

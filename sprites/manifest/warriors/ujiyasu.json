@@ -1,0 +1,180 @@
+{
+  "warriorId": "ujiyasu",
+  "variants": {
+      "rank-i": {
+            "displayName": "Ujiyasu-Rank-I",
+            "genderId": "male",
+            "tags": ["warlord", "rank-i", "male"],
+            "galleryNumber": "15.1",
+            "specialityTypeIds": ["rock"],
+            "weaknessTypeIds": ["water"],
+            "stats": {
+                    "power": 80,
+                    "wisdom": 78,
+                    "charisma": 84,
+                    "bst": 242,
+                    "capacity": 7
+                  },
+            "portraitEmotions": ["profile", "joyful", "fierce"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/ujiyasu/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0033.png",
+                              "cropped": "warriors/icons/cropped/0033.png",
+                              "full": "warriors/icons/full/0033.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0135.png",
+                                          "joyful": "warriors/portraits/emotions/0136.png",
+                                          "fierce": "warriors/portraits/emotions/0137.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0033.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "fierce": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Ujiyasu-Rank-II",
+            "genderId": "male",
+            "tags": ["warlord", "rank-ii", "male"],
+            "galleryNumber": "15.2",
+            "specialityTypeIds": ["rock"],
+            "weaknessTypeIds": ["water"],
+            "stats": {
+                    "power": 90,
+                    "wisdom": 94,
+                    "charisma": 94,
+                    "bst": 278,
+                    "capacity": 8
+                  },
+            "portraitEmotions": ["profile", "joyful", "fierce"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/ujiyasu/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0034.png",
+                              "cropped": "warriors/icons/cropped/0034.png",
+                              "full": "warriors/icons/full/0034.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0138.png",
+                                          "joyful": "warriors/portraits/emotions/0139.png",
+                                          "fierce": "warriors/portraits/emotions/0140.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0034.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "fierce": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

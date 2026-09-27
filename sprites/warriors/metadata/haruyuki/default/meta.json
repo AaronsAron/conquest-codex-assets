@@ -1,0 +1,83 @@
+{
+  "warriorId": "haruyuki",
+  "variantId": "default",
+  "displayName": "Haruyuki",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "117",
+  "specialityTypeIds": ["flying", "ground"],
+  "weaknessTypeIds": ["grass", "psychic"],
+
+  "stats": {
+      "power": 41,
+      "wisdom": 92,
+      "charisma": 69,
+      "bst": 202,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 108,
+            "cropped": 108,
+            "full": 108
+          },
+      "portraits": {
+            "intro": 108,
+            "overworld": null,
+            "emotions": {
+                    "profile": 333,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

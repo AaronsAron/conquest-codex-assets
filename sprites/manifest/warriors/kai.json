@@ -1,0 +1,210 @@
+{
+  "warriorId": "kai",
+  "variants": {
+      "rank-i": {
+            "displayName": "Kai-Rank-I",
+            "genderId": "female",
+            "tags": ["warlord", "rank-i", "female"],
+            "galleryNumber": "29.1",
+            "specialityTypeIds": ["fire", "rock"],
+            "weaknessTypeIds": ["water", "grass"],
+            "stats": {
+                    "power": 73,
+                    "wisdom": 62,
+                    "charisma": 70,
+                    "bst": 205,
+                    "capacity": 5
+                  },
+            "portraitEmotions": ["profile", "joyful", "sad", "fierce", "shocked", "special"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/kai/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0061.png",
+                              "cropped": "warriors/icons/cropped/0061.png",
+                              "full": "warriors/icons/full/0061.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0245.png",
+                                          "joyful": "warriors/portraits/emotions/0246.png",
+                                          "sad": "warriors/portraits/emotions/0247.png",
+                                          "fierce": "warriors/portraits/emotions/0248.png",
+                                          "shocked": "warriors/portraits/emotions/0249.png",
+                                          "special": "warriors/portraits/emotions/0374.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0061.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "special": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01",
+                                          "special": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Kai-Rank-II",
+            "genderId": "female",
+            "tags": ["warlord", "rank-ii", "female"],
+            "galleryNumber": "29.2",
+            "specialityTypeIds": ["fire", "rock"],
+            "weaknessTypeIds": ["water", "grass"],
+            "stats": {
+                    "power": 83,
+                    "wisdom": 72,
+                    "charisma": 80,
+                    "bst": 235,
+                    "capacity": 6
+                  },
+            "portraitEmotions": ["profile", "joyful", "sad", "fierce", "shocked", "special"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/kai/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0062.png",
+                              "cropped": "warriors/icons/cropped/0062.png",
+                              "full": "warriors/icons/full/0062.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0250.png",
+                                          "joyful": "warriors/portraits/emotions/0251.png",
+                                          "sad": "warriors/portraits/emotions/0252.png",
+                                          "fierce": "warriors/portraits/emotions/0253.png",
+                                          "shocked": "warriors/portraits/emotions/0254.png",
+                                          "special": "warriors/portraits/emotions/0375.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0062.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "special": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01",
+                                          "special": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

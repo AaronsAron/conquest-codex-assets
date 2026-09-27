@@ -1,0 +1,83 @@
+{
+  "warriorId": "yazaemon",
+  "variantId": "default",
+  "displayName": "Yazaemon",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "171",
+  "specialityTypeIds": ["poison", "dark"],
+  "weaknessTypeIds": ["psychic", "normal"],
+
+  "stats": {
+      "power": 80,
+      "wisdom": 77,
+      "charisma": 57,
+      "bst": 214,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 123,
+            "cropped": 123,
+            "full": 123
+          },
+      "portraits": {
+            "intro": 123,
+            "overworld": null,
+            "emotions": {
+                    "profile": 348,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

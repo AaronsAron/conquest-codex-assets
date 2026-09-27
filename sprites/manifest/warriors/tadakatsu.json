@@ -1,0 +1,170 @@
+{
+  "warriorId": "tadakatsu",
+  "variants": {
+      "rank-i": {
+            "displayName": "Tadakatsu-Rank-I",
+            "genderId": "male",
+            "tags": ["warlord", "rank-i", "male"],
+            "galleryNumber": "32.1",
+            "specialityTypeIds": ["steel", "dragon"],
+            "weaknessTypeIds": ["ice"],
+            "stats": {
+                    "power": 92,
+                    "wisdom": 68,
+                    "charisma": 81,
+                    "bst": 241,
+                    "capacity": 6
+                  },
+            "portraitEmotions": ["profile", "fierce"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/tadakatsu/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0067.png",
+                              "cropped": "warriors/icons/cropped/0067.png",
+                              "full": "warriors/icons/full/0067.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0273.png",
+                                          "fierce": "warriors/portraits/emotions/0274.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0067.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "fierce": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Tadakatsu-Rank-II",
+            "genderId": "male",
+            "tags": ["warlord", "rank-ii", "male"],
+            "galleryNumber": "32.2",
+            "specialityTypeIds": ["steel", "dragon"],
+            "weaknessTypeIds": ["ice"],
+            "stats": {
+                    "power": 100,
+                    "wisdom": 77,
+                    "charisma": 89,
+                    "bst": 266,
+                    "capacity": 6
+                  },
+            "portraitEmotions": ["profile", "fierce"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/tadakatsu/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0068.png",
+                              "cropped": "warriors/icons/cropped/0068.png",
+                              "full": "warriors/icons/full/0068.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0275.png",
+                                          "fierce": "warriors/portraits/emotions/0276.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0068.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "fierce": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

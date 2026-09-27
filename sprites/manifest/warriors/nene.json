@@ -1,0 +1,200 @@
+{
+  "warriorId": "nene",
+  "variants": {
+      "rank-i": {
+            "displayName": "Nene-Rank-I",
+            "genderId": "female",
+            "tags": ["warlord", "rank-i", "female"],
+            "galleryNumber": "10.1",
+            "specialityTypeIds": ["poison", "flying"],
+            "weaknessTypeIds": ["psychic", "rock"],
+            "stats": {
+                    "power": 65,
+                    "wisdom": 78,
+                    "charisma": 75,
+                    "bst": 218,
+                    "capacity": 5
+                  },
+            "portraitEmotions": ["profile", "joyful", "sad", "fierce", "shocked"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/nene/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0023.png",
+                              "cropped": "warriors/icons/cropped/0023.png",
+                              "full": "warriors/icons/full/0023.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0099.png",
+                                          "joyful": "warriors/portraits/emotions/0100.png",
+                                          "sad": "warriors/portraits/emotions/0101.png",
+                                          "fierce": "warriors/portraits/emotions/0102.png",
+                                          "shocked": "warriors/portraits/emotions/0103.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0023.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Nene-Rank-II",
+            "genderId": "female",
+            "tags": ["warlord", "rank-ii", "female"],
+            "galleryNumber": "10.2",
+            "specialityTypeIds": ["poison", "flying"],
+            "weaknessTypeIds": ["psychic", "rock"],
+            "stats": {
+                    "power": 75,
+                    "wisdom": 84,
+                    "charisma": 85,
+                    "bst": 244,
+                    "capacity": 6
+                  },
+            "portraitEmotions": ["profile", "joyful", "sad", "fierce", "shocked"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/nene/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0024.png",
+                              "cropped": "warriors/icons/cropped/0024.png",
+                              "full": "warriors/icons/full/0024.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0104.png",
+                                          "joyful": "warriors/portraits/emotions/0105.png",
+                                          "sad": "warriors/portraits/emotions/0106.png",
+                                          "fierce": "warriors/portraits/emotions/0107.png",
+                                          "shocked": "warriors/portraits/emotions/0108.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0024.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "shocked": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

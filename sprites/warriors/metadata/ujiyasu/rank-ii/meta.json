@@ -1,0 +1,91 @@
+{
+  "warriorId": "ujiyasu",
+  "variantId": "rank-ii",
+  "displayName": "Ujiyasu-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "15.2",
+  "specialityTypeIds": ["rock"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 90,
+      "wisdom": 94,
+      "charisma": 94,
+      "bst": 278,
+      "capacity": 8
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 34,
+            "cropped": 34,
+            "full": 34
+          },
+      "portraits": {
+            "intro": 34,
+            "overworld": null,
+            "emotions": {
+                    "profile": 138,
+                    "joyful": 139,
+                    "sad": null,
+                    "fierce": 140,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "joyful": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "fierce": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01",
+                    "joyful": "2026-04-01",
+                    "fierce": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

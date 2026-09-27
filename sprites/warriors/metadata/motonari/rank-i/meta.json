@@ -1,0 +1,95 @@
+{
+  "warriorId": "motonari",
+  "variantId": "rank-i",
+  "displayName": "Motonari-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "7.1",
+  "specialityTypeIds": ["grass"],
+  "weaknessTypeIds": ["poison"],
+
+  "stats": {
+      "power": 69,
+      "wisdom": 90,
+      "charisma": 86,
+      "bst": 245,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 17,
+            "cropped": 17,
+            "full": 17
+          },
+      "portraits": {
+            "intro": 17,
+            "overworld": null,
+            "emotions": {
+                    "profile": 73,
+                    "joyful": 74,
+                    "sad": 75,
+                    "fierce": null,
+                    "shocked": 76,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "joyful": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "sad": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "shocked": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01",
+                    "joyful": "2026-04-01",
+                    "sad": "2026-04-01",
+                    "shocked": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

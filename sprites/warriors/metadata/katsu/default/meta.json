@@ -1,0 +1,83 @@
+{
+  "warriorId": "katsu",
+  "variantId": "default",
+  "displayName": "Katsu",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "186",
+  "specialityTypeIds": ["steel"],
+  "weaknessTypeIds": ["fire"],
+
+  "stats": {
+      "power": 53,
+      "wisdom": 48,
+      "charisma": 72,
+      "bst": 173,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 126,
+            "cropped": 126,
+            "full": 126
+          },
+      "portraits": {
+            "intro": 126,
+            "overworld": null,
+            "emotions": {
+                    "profile": 351,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

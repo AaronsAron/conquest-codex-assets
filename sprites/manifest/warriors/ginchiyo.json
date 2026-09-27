@@ -1,0 +1,190 @@
+{
+  "warriorId": "ginchiyo",
+  "variants": {
+      "rank-i": {
+            "displayName": "Ginchiyo-Rank-I",
+            "genderId": "female",
+            "tags": ["warlord", "rank-i", "female"],
+            "galleryNumber": "6.1",
+            "specialityTypeIds": ["electric"],
+            "weaknessTypeIds": ["ground"],
+            "stats": {
+                    "power": 74,
+                    "wisdom": 68,
+                    "charisma": 72,
+                    "bst": 214,
+                    "capacity": 5
+                  },
+            "portraitEmotions": ["profile", "joyful", "shocked", "special"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/ginchiyo/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0015.png",
+                              "cropped": "warriors/icons/cropped/0015.png",
+                              "full": "warriors/icons/full/0015.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0067.png",
+                                          "joyful": "warriors/portraits/emotions/0068.png",
+                                          "shocked": "warriors/portraits/emotions/0069.png",
+                                          "special": "warriors/portraits/emotions/0358.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0015.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "special": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "shocked": "2026-04-01",
+                                          "special": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Ginchiyo-Rank-II",
+            "genderId": "female",
+            "tags": ["warlord", "rank-ii", "female"],
+            "galleryNumber": "6.2",
+            "specialityTypeIds": ["electric"],
+            "weaknessTypeIds": ["ground"],
+            "stats": {
+                    "power": 84,
+                    "wisdom": 78,
+                    "charisma": 82,
+                    "bst": 244,
+                    "capacity": 6
+                  },
+            "portraitEmotions": ["profile", "joyful", "shocked", "special"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/ginchiyo/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0016.png",
+                              "cropped": "warriors/icons/cropped/0016.png",
+                              "full": "warriors/icons/full/0016.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0070.png",
+                                          "joyful": "warriors/portraits/emotions/0071.png",
+                                          "shocked": "warriors/portraits/emotions/0072.png",
+                                          "special": "warriors/portraits/emotions/0359.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0016.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "joyful": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "special": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "joyful": "2026-04-01",
+                                          "shocked": "2026-04-01",
+                                          "special": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

@@ -1,0 +1,91 @@
+{
+  "warriorId": "nobunaga",
+  "variantId": "rank-i",
+  "displayName": "Nobunaga-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "2.1",
+  "specialityTypeIds": ["dragon", "electric"],
+  "weaknessTypeIds": ["ice"],
+
+  "stats": {
+      "power": 89,
+      "wisdom": 94,
+      "charisma": 92,
+      "bst": 275,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 6,
+            "cropped": 6,
+            "full": 6
+          },
+      "portraits": {
+            "intro": 6,
+            "overworld": null,
+            "emotions": {
+                    "profile": 30,
+                    "joyful": 31,
+                    "sad": null,
+                    "fierce": 32,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "joyful": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "fierce": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01",
+                    "joyful": "2026-04-01",
+                    "fierce": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

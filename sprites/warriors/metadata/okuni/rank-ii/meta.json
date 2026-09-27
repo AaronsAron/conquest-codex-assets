@@ -1,0 +1,95 @@
+{
+  "warriorId": "okuni",
+  "variantId": "rank-ii",
+  "displayName": "Okuni-Rank-II",
+  "genderId": "female",
+  "tags": ["warlord", "rank-ii", "female"],
+
+  "galleryNumber": "30.2",
+  "specialityTypeIds": ["bug", "fire"],
+  "weaknessTypeIds": ["water", "ground"],
+
+  "stats": {
+      "power": 75,
+      "wisdom": 73,
+      "charisma": 88,
+      "bst": 236,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 64,
+            "cropped": 64,
+            "full": 64
+          },
+      "portraits": {
+            "intro": 64,
+            "overworld": null,
+            "emotions": {
+                    "profile": 259,
+                    "joyful": 260,
+                    "sad": 261,
+                    "fierce": null,
+                    "shocked": 262,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "joyful": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "sad": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "shocked": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01",
+                    "joyful": "2026-04-01",
+                    "sad": "2026-04-01",
+                    "shocked": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

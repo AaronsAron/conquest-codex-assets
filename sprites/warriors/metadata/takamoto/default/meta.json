@@ -1,0 +1,83 @@
+{
+  "warriorId": "takamoto",
+  "variantId": "default",
+  "displayName": "Takamoto",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "94",
+  "specialityTypeIds": ["grass"],
+  "weaknessTypeIds": ["poison"],
+
+  "stats": {
+      "power": 71,
+      "wisdom": 72,
+      "charisma": 82,
+      "bst": 225,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 111,
+            "cropped": 111,
+            "full": 111
+          },
+      "portraits": {
+            "intro": 111,
+            "overworld": null,
+            "emotions": {
+                    "profile": 336,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

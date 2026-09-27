@@ -1,0 +1,87 @@
+{
+  "warriorId": "choan",
+  "variants": {
+      "default": {
+            "displayName": "Choan",
+            "genderId": "male",
+            "tags": ["warrior", "male"],
+            "galleryNumber": "179",
+            "specialityTypeIds": ["normal", "steel"],
+            "weaknessTypeIds": ["fire", "electric"],
+            "stats": {
+                    "power": 2,
+                    "wisdom": 62,
+                    "charisma": 71,
+                    "bst": 135,
+                    "capacity": 2
+                  },
+            "portraitEmotions": ["profile"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": true,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/choan/default/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0119.png",
+                              "cropped": "warriors/icons/cropped/0119.png",
+                              "full": "warriors/icons/full/0119.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0344.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0119.png",
+                              "overworld": "warriors/portraits/overworld/0119.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "overworld": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "overworld": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

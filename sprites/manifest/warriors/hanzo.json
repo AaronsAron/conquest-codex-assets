@@ -1,0 +1,170 @@
+{
+  "warriorId": "hanzo",
+  "variants": {
+      "rank-i": {
+            "displayName": "Hanzo-Rank-I",
+            "genderId": "male",
+            "tags": ["warlord", "rank-i", "male"],
+            "galleryNumber": "23.1",
+            "specialityTypeIds": ["ghost", "poison"],
+            "weaknessTypeIds": ["ground", "psychic"],
+            "stats": {
+                    "power": 87,
+                    "wisdom": 77,
+                    "charisma": 62,
+                    "bst": 226,
+                    "capacity": 5
+                  },
+            "portraitEmotions": ["profile", "fierce"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/hanzo/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0049.png",
+                              "cropped": "warriors/icons/cropped/0049.png",
+                              "full": "warriors/icons/full/0049.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0199.png",
+                                          "fierce": "warriors/portraits/emotions/0200.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0049.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "fierce": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Hanzo-Rank-II",
+            "genderId": "male",
+            "tags": ["warlord", "rank-ii", "male"],
+            "galleryNumber": "23.2",
+            "specialityTypeIds": ["ghost", "poison"],
+            "weaknessTypeIds": ["ground", "psychic"],
+            "stats": {
+                    "power": 94,
+                    "wisdom": 88,
+                    "charisma": 72,
+                    "bst": 254,
+                    "capacity": 6
+                  },
+            "portraitEmotions": ["profile", "fierce"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/hanzo/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0050.png",
+                              "cropped": "warriors/icons/cropped/0050.png",
+                              "full": "warriors/icons/full/0050.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0201.png",
+                                          "fierce": "warriors/portraits/emotions/0202.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0050.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "fierce": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

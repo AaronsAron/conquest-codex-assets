@@ -1,0 +1,83 @@
+{
+  "warriorId": "naomasa",
+  "variantId": "default",
+  "displayName": "Naomasa",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "174",
+  "specialityTypeIds": ["fire", "steel"],
+  "weaknessTypeIds": ["normal", "poison"],
+
+  "stats": {
+      "power": 87,
+      "wisdom": 72,
+      "charisma": 68,
+      "bst": 227,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 102,
+            "cropped": 102,
+            "full": 102
+          },
+      "portraits": {
+            "intro": 102,
+            "overworld": null,
+            "emotions": {
+                    "profile": 327,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

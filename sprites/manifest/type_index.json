@@ -1,0 +1,128 @@
+[
+  {
+    "typeId": "normal",
+    "displayName": "Normal",
+    "iconPath": "sprites/types/normal.svg",
+    "sortOrder": 1,
+    "hexColor": "#5D5D5D"
+  },
+  {
+    "typeId": "fire",
+    "displayName": "Fire",
+    "iconPath": "sprites/types/fire.svg",
+    "sortOrder": 2,
+    "hexColor": "#AE3C00"
+  },
+  {
+    "typeId": "water",
+    "displayName": "Water",
+    "iconPath": "sprites/types/water.svg",
+    "sortOrder": 3,
+    "hexColor": "#3465D7"
+  },
+  {
+    "typeId": "electric",
+    "displayName": "Electric",
+    "iconPath": "sprites/types/electric.svg",
+    "sortOrder": 4,
+    "hexColor": "#9E6D1C"
+  },
+  {
+    "typeId": "grass",
+    "displayName": "Grass",
+    "iconPath": "sprites/types/grass.svg",
+    "sortOrder": 5,
+    "hexColor": "#4D7D3C"
+  },
+  {
+    "typeId": "ice",
+    "displayName": "Ice",
+    "iconPath": "sprites/types/ice.svg",
+    "sortOrder": 6,
+    "hexColor": "#2C7DC7"
+  },
+  {
+    "typeId": "fighting",
+    "displayName": "Fighting",
+    "iconPath": "sprites/types/fighting.svg",
+    "sortOrder": 7,
+    "hexColor": "#7D4D34"
+  },
+  {
+    "typeId": "poison",
+    "displayName": "Poison",
+    "iconPath": "sprites/types/poison.svg",
+    "sortOrder": 8,
+    "hexColor": "#6D457D"
+  },
+  {
+    "typeId": "ground",
+    "displayName": "Ground",
+    "iconPath": "sprites/types/ground.svg",
+    "sortOrder": 9,
+    "hexColor": "#86652C"
+  },
+  {
+    "typeId": "flying",
+    "displayName": "Flying",
+    "iconPath": "sprites/types/flying.svg",
+    "sortOrder": 10,
+    "hexColor": "#4D65C7"
+  },
+  {
+    "typeId": "psychic",
+    "displayName": "Psychic",
+    "iconPath": "sprites/types/psychic.svg",
+    "sortOrder": 11,
+    "hexColor": "#96458E"
+  },
+  {
+    "typeId": "bug",
+    "displayName": "Bug",
+    "iconPath": "sprites/types/bug.svg",
+    "sortOrder": 12,
+    "hexColor": "#558624"
+  },
+  {
+    "typeId": "rock",
+    "displayName": "Rock",
+    "iconPath": "sprites/types/rock.svg",
+    "sortOrder": 13,
+    "hexColor": "#6D5D3C"
+  },
+  {
+    "typeId": "ghost",
+    "displayName": "Ghost",
+    "iconPath": "sprites/types/ghost.svg",
+    "sortOrder": 14,
+    "hexColor": "#55558E"
+  },
+  {
+    "typeId": "dragon",
+    "displayName": "Dragon",
+    "iconPath": "sprites/types/dragon.svg",
+    "sortOrder": 15,
+    "hexColor": "#65558E"
+  },
+  {
+    "typeId": "dark",
+    "displayName": "Dark",
+    "iconPath": "sprites/types/dark.svg",
+    "sortOrder": 16,
+    "hexColor": "#5D4D3C"
+  },
+  {
+    "typeId": "steel",
+    "displayName": "Steel",
+    "iconPath": "sprites/types/steel.svg",
+    "sortOrder": 17,
+    "hexColor": "#4D4D4D"
+  },
+  {
+    "typeId": "fairy",
+    "displayName": "Fairy",
+    "iconPath": "sprites/types/fairy.svg",
+    "sortOrder": 18,
+    "hexColor": "#B86AA8"
+  }
+]

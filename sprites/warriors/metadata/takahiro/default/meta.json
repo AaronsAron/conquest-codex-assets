@@ -1,0 +1,83 @@
+{
+  "warriorId": "takahiro",
+  "variantId": "default",
+  "displayName": "Takahiro",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "138",
+  "specialityTypeIds": ["dark", "psychic"],
+  "weaknessTypeIds": ["bug", "electric"],
+
+  "stats": {
+      "power": 79,
+      "wisdom": 44,
+      "charisma": 61,
+      "bst": 184,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 105,
+            "cropped": 105,
+            "full": 105
+          },
+      "portraits": {
+            "intro": 105,
+            "overworld": null,
+            "emotions": {
+                    "profile": 330,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

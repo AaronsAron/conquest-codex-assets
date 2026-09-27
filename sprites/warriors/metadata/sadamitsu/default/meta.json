@@ -1,0 +1,87 @@
+{
+  "warriorId": "sadamitsu",
+  "variantId": "default",
+  "displayName": "Sadamitsu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "139",
+  "specialityTypeIds": ["psychic"],
+  "weaknessTypeIds": ["ghost"],
+
+  "stats": {
+      "power": 55,
+      "wisdom": 92,
+      "charisma": 74,
+      "bst": 221,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 112,
+            "cropped": 112,
+            "full": 112
+          },
+      "portraits": {
+            "intro": 112,
+            "overworld": 112,
+            "emotions": {
+                    "profile": 337,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "overworld": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "overworld": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

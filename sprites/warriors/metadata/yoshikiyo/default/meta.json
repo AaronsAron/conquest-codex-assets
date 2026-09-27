@@ -1,0 +1,83 @@
+{
+  "warriorId": "yoshikiyo",
+  "variantId": "default",
+  "displayName": "Yoshikiyo",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "135",
+  "specialityTypeIds": ["ice", "psychic"],
+  "weaknessTypeIds": ["normal", "bug"],
+
+  "stats": {
+      "power": 81,
+      "wisdom": 65,
+      "charisma": 73,
+      "bst": 219,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 101,
+            "cropped": 101,
+            "full": 101
+          },
+      "portraits": {
+            "intro": 101,
+            "overworld": null,
+            "emotions": {
+                    "profile": 326,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

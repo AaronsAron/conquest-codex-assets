@@ -1,0 +1,83 @@
+{
+  "warriorId": "harutaka",
+  "variantId": "default",
+  "displayName": "Harutaka",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "40",
+  "specialityTypeIds": ["ground", "normal"],
+  "weaknessTypeIds": ["ice", "fighting"],
+
+  "stats": {
+      "power": 82,
+      "wisdom": 70,
+      "charisma": 66,
+      "bst": 218,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 103,
+            "cropped": 103,
+            "full": 103
+          },
+      "portraits": {
+            "intro": 103,
+            "overworld": null,
+            "emotions": {
+                    "profile": 328,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,83 @@
+{
+  "warriorId": "ujichika",
+  "variantId": "default",
+  "displayName": "Ujichika",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "144",
+  "specialityTypeIds": ["bug"],
+  "weaknessTypeIds": ["dark"],
+
+  "stats": {
+      "power": 73,
+      "wisdom": 89,
+      "charisma": 71,
+      "bst": 233,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 129,
+            "cropped": 129,
+            "full": 129
+          },
+      "portraits": {
+            "intro": 129,
+            "overworld": null,
+            "emotions": {
+                    "profile": 354,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

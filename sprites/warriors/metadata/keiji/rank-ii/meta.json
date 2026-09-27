@@ -1,0 +1,95 @@
+{
+  "warriorId": "keiji",
+  "variantId": "rank-ii",
+  "displayName": "Keiji-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "34.2",
+  "specialityTypeIds": ["rock", "fighting"],
+  "weaknessTypeIds": ["grass", "flying"],
+
+  "stats": {
+      "power": 100,
+      "wisdom": 50,
+      "charisma": 86,
+      "bst": 236,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 72,
+            "cropped": 72,
+            "full": 72
+          },
+      "portraits": {
+            "intro": 72,
+            "overworld": null,
+            "emotions": {
+                    "profile": 291,
+                    "joyful": 292,
+                    "sad": null,
+                    "fierce": 293,
+                    "shocked": 294,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "joyful": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "fierce": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "shocked": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01",
+                    "joyful": "2026-04-01",
+                    "fierce": "2026-04-01",
+                    "shocked": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

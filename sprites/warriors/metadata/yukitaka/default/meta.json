@@ -1,0 +1,83 @@
+{
+  "warriorId": "yukitaka",
+  "variantId": "default",
+  "displayName": "Yukitaka",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "122",
+  "specialityTypeIds": ["fire", "ground"],
+  "weaknessTypeIds": ["grass", "ice"],
+
+  "stats": {
+      "power": 58,
+      "wisdom": 94,
+      "charisma": 70,
+      "bst": 222,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 100,
+            "cropped": 100,
+            "full": 100
+          },
+      "portraits": {
+            "intro": 100,
+            "overworld": null,
+            "emotions": {
+                    "profile": 325,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

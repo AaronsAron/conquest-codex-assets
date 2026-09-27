@@ -1,0 +1,82 @@
+{
+  "warriorId": "chiyome",
+  "variants": {
+      "default": {
+            "displayName": "Chiyome",
+            "genderId": "female",
+            "tags": ["warrior", "female"],
+            "galleryNumber": "124",
+            "specialityTypeIds": ["dark", "ground"],
+            "weaknessTypeIds": ["bug", "grass"],
+            "stats": {
+                    "power": 60,
+                    "wisdom": 67,
+                    "charisma": 68,
+                    "bst": 195,
+                    "capacity": 4
+                  },
+            "portraitEmotions": ["profile"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/chiyome/default/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0125.png",
+                              "cropped": "warriors/icons/cropped/0125.png",
+                              "full": "warriors/icons/full/0125.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0350.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0125.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

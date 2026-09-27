@@ -1,0 +1,83 @@
+{
+  "warriorId": "tenkai",
+  "variantId": "default",
+  "displayName": "Tenkai",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "180",
+  "specialityTypeIds": ["ghost", "steel"],
+  "weaknessTypeIds": ["normal", "electric"],
+
+  "stats": {
+      "power": 1,
+      "wisdom": 91,
+      "charisma": 72,
+      "bst": 164,
+      "capacity": 2
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 121,
+            "cropped": 121,
+            "full": 121
+          },
+      "portraits": {
+            "intro": 121,
+            "overworld": null,
+            "emotions": {
+                    "profile": 346,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

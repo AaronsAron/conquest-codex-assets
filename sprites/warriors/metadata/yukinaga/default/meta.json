@@ -1,0 +1,87 @@
+{
+  "warriorId": "yukinaga",
+  "variantId": "default",
+  "displayName": "Yukinaga",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "62",
+  "specialityTypeIds": ["normal", "fire"],
+  "weaknessTypeIds": ["ground", "rock"],
+
+  "stats": {
+      "power": 31,
+      "wisdom": 72,
+      "charisma": 70,
+      "bst": 173,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 119,
+            "cropped": 119,
+            "full": 119
+          },
+      "portraits": {
+            "intro": 119,
+            "overworld": 119,
+            "emotions": {
+                    "profile": 344,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "overworld": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "overworld": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

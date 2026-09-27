@@ -1,0 +1,180 @@
+{
+  "warriorId": "aya",
+  "variants": {
+      "rank-i": {
+            "displayName": "Aya-Rank-I",
+            "genderId": "female",
+            "tags": ["warlord", "rank-i", "female"],
+            "galleryNumber": "28.1",
+            "specialityTypeIds": ["ice", "ghost"],
+            "weaknessTypeIds": ["fighting", "rock"],
+            "stats": {
+                    "power": 39,
+                    "wisdom": 71,
+                    "charisma": 75,
+                    "bst": 185,
+                    "capacity": 5
+                  },
+            "portraitEmotions": ["profile", "fierce", "special"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/aya/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0059.png",
+                              "cropped": "warriors/icons/cropped/0059.png",
+                              "full": "warriors/icons/full/0059.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0241.png",
+                                          "fierce": "warriors/portraits/emotions/0242.png",
+                                          "special": "warriors/portraits/emotions/0372.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0059.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "special": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "special": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Aya-Rank-II",
+            "genderId": "female",
+            "tags": ["warlord", "rank-ii", "female"],
+            "galleryNumber": "28.2",
+            "specialityTypeIds": ["ice", "ghost"],
+            "weaknessTypeIds": ["fighting", "rock"],
+            "stats": {
+                    "power": 49,
+                    "wisdom": 81,
+                    "charisma": 86,
+                    "bst": 216,
+                    "capacity": 5
+                  },
+            "portraitEmotions": ["profile", "fierce", "special"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/aya/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0060.png",
+                              "cropped": "warriors/icons/cropped/0060.png",
+                              "full": "warriors/icons/full/0060.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0243.png",
+                                          "fierce": "warriors/portraits/emotions/0244.png",
+                                          "special": "warriors/portraits/emotions/0373.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0060.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "fierce": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "special": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "fierce": "2026-04-01",
+                                          "special": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

@@ -1,0 +1,82 @@
+{
+  "warriorId": "gotoku",
+  "variants": {
+      "default": {
+            "displayName": "Gotoku",
+            "genderId": "female",
+            "tags": ["warrior", "female"],
+            "galleryNumber": "57",
+            "specialityTypeIds": ["dragon"],
+            "weaknessTypeIds": ["ice"],
+            "stats": {
+                    "power": 48,
+                    "wisdom": 61,
+                    "charisma": 72,
+                    "bst": 181,
+                    "capacity": 2
+                  },
+            "portraitEmotions": ["profile"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/gotoku/default/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0113.png",
+                              "cropped": "warriors/icons/cropped/0113.png",
+                              "full": "warriors/icons/full/0113.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0338.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0113.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

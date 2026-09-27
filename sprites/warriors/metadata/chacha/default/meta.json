@@ -1,0 +1,83 @@
+{
+  "warriorId": "chacha",
+  "variantId": "default",
+  "displayName": "Chacha",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "44",
+  "specialityTypeIds": ["normal"],
+  "weaknessTypeIds": ["fighting"],
+
+  "stats": {
+      "power": 34,
+      "wisdom": 69,
+      "charisma": 78,
+      "bst": 181,
+      "capacity": 2
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 114,
+            "cropped": 114,
+            "full": 114
+          },
+      "portraits": {
+            "intro": 114,
+            "overworld": null,
+            "emotions": {
+                    "profile": 339,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

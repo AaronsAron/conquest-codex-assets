@@ -1,0 +1,103 @@
+{
+  "warriorId": "player-male",
+  "variantId": "rank-i",
+  "displayName": "Player-Male-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "1.1",
+  "specialityTypeIds": ["normal"],
+  "weaknessTypeIds": ["fighting"],
+
+  "stats": {
+      "power": 65,
+      "wisdom": 60,
+      "charisma": 65,
+      "bst": 190,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": 0,
+      "icons": {
+            "battle": 0,
+            "cropped": 0,
+            "full": 0
+          },
+      "portraits": {
+            "intro": 0,
+            "overworld": null,
+            "emotions": {
+                    "profile": 0,
+                    "joyful": 1,
+                    "sad": 2,
+                    "fierce": 3,
+                    "shocked": 4,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "characterSelect": [
+            { "name": "Koei Tecmo", "role": "draw" }
+          ],
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "joyful": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "sad": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "fierce": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "shocked": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "characterSelect": "2026-04-01",
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01",
+                    "joyful": "2026-04-01",
+                    "sad": "2026-04-01",
+                    "fierce": "2026-04-01",
+                    "shocked": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

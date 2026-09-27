@@ -1,0 +1,87 @@
+{
+  "warriorId": "kenshin",
+  "variantId": "rank-i",
+  "displayName": "Kenshin-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "13.1",
+  "specialityTypeIds": ["psychic", "fighting"],
+  "weaknessTypeIds": ["ghost"],
+
+  "stats": {
+      "power": 90,
+      "wisdom": 66,
+      "charisma": 81,
+      "bst": 237,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 29,
+            "cropped": 29,
+            "full": 29
+          },
+      "portraits": {
+            "intro": 29,
+            "overworld": null,
+            "emotions": {
+                    "profile": 123,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": 124,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ],
+                    "fierce": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01",
+                    "fierce": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

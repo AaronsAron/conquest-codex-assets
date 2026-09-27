@@ -1,0 +1,83 @@
+{
+  "warriorId": "harunaga",
+  "variantId": "default",
+  "displayName": "Harunaga",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "68",
+  "specialityTypeIds": ["fire"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 14,
+      "wisdom": 42,
+      "charisma": 57,
+      "bst": 113,
+      "capacity": 2
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 109,
+            "cropped": 109,
+            "full": 109
+          },
+      "portraits": {
+            "intro": 109,
+            "overworld": null,
+            "emotions": {
+                    "profile": 334,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "credits": {
+      "icons": {
+            "battle": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "cropped": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "full": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ]
+          },
+      "portraits": {
+            "intro": [
+                    { "name": "Koei Tecmo", "role": "draw" }
+                  ],
+            "emotions": {
+                    "profile": [
+                              { "name": "Koei Tecmo", "role": "draw" }
+                            ]
+                  }
+          }
+    },
+
+  "dateModified": {
+      "icons": {
+            "battle": "2026-04-01",
+            "cropped": "2026-04-01",
+            "full": "2026-04-01"
+          },
+      "portraits": {
+            "intro": "2026-04-01",
+            "emotions": {
+                    "profile": "2026-04-01"
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

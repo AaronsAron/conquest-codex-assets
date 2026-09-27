@@ -1,0 +1,87 @@
+{
+  "warriorId": "isa",
+  "variants": {
+      "default": {
+            "displayName": "Isa",
+            "genderId": "male",
+            "tags": ["warrior", "male"],
+            "galleryNumber": "193",
+            "specialityTypeIds": ["fighting"],
+            "weaknessTypeIds": ["flying"],
+            "stats": {
+                    "power": 80,
+                    "wisdom": 43,
+                    "charisma": 65,
+                    "bst": 188,
+                    "capacity": 4
+                  },
+            "portraitEmotions": ["profile"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": true,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/isa/default/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0117.png",
+                              "cropped": "warriors/icons/cropped/0117.png",
+                              "full": "warriors/icons/full/0117.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0342.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0117.png",
+                              "overworld": "warriors/portraits/overworld/0117.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "overworld": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "overworld": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

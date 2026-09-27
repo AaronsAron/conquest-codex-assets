@@ -1,0 +1,82 @@
+{
+  "warriorId": "kazumasa",
+  "variants": {
+      "default": {
+            "displayName": "Kazumasa",
+            "genderId": "male",
+            "tags": ["warrior", "male"],
+            "galleryNumber": "178",
+            "specialityTypeIds": ["steel"],
+            "weaknessTypeIds": ["fire"],
+            "stats": {
+                    "power": 51,
+                    "wisdom": 78,
+                    "charisma": 72,
+                    "bst": 201,
+                    "capacity": 5
+                  },
+            "portraitEmotions": ["profile"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/kazumasa/default/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0108.png",
+                              "cropped": "warriors/icons/cropped/0108.png",
+                              "full": "warriors/icons/full/0108.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0333.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0108.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

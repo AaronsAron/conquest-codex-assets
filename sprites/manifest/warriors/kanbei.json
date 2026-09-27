@@ -1,0 +1,180 @@
+{
+  "warriorId": "kanbei",
+  "variants": {
+      "rank-i": {
+            "displayName": "Kanbei-Rank-I",
+            "genderId": "male",
+            "tags": ["warlord", "rank-i", "male"],
+            "galleryNumber": "20.1",
+            "specialityTypeIds": ["ghost", "fire"],
+            "weaknessTypeIds": ["ground", "water"],
+            "stats": {
+                    "power": 60,
+                    "wisdom": 90,
+                    "charisma": 62,
+                    "bst": 212,
+                    "capacity": 5
+                  },
+            "portraitEmotions": ["profile", "sad", "shocked"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/kanbei/rank-i/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0043.png",
+                              "cropped": "warriors/icons/cropped/0043.png",
+                              "full": "warriors/icons/full/0043.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0175.png",
+                                          "sad": "warriors/portraits/emotions/0176.png",
+                                          "shocked": "warriors/portraits/emotions/0177.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0043.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "shocked": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          },
+  
+      "rank-ii": {
+            "displayName": "Kanbei-Rank-II",
+            "genderId": "male",
+            "tags": ["warlord", "rank-ii", "male"],
+            "galleryNumber": "20.2",
+            "specialityTypeIds": ["ghost", "fire"],
+            "weaknessTypeIds": ["ground", "water"],
+            "stats": {
+                    "power": 70,
+                    "wisdom": 98,
+                    "charisma": 70,
+                    "bst": 238,
+                    "capacity": 6
+                  },
+            "portraitEmotions": ["profile", "sad", "shocked"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/kanbei/rank-ii/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0044.png",
+                              "cropped": "warriors/icons/cropped/0044.png",
+                              "full": "warriors/icons/full/0044.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0178.png",
+                                          "sad": "warriors/portraits/emotions/0179.png",
+                                          "shocked": "warriors/portraits/emotions/0180.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0044.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "sad": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ],
+                                          "shocked": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01",
+                                          "sad": "2026-04-01",
+                                          "shocked": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}

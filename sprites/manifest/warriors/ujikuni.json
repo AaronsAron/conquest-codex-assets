@@ -1,0 +1,82 @@
+{
+  "warriorId": "ujikuni",
+  "variants": {
+      "default": {
+            "displayName": "Ujikuni",
+            "genderId": "male",
+            "tags": ["warrior", "male"],
+            "galleryNumber": "157",
+            "specialityTypeIds": ["rock"],
+            "weaknessTypeIds": ["water"],
+            "stats": {
+                    "power": 77,
+                    "wisdom": 62,
+                    "charisma": 73,
+                    "bst": 212,
+                    "capacity": 6
+                  },
+            "portraitEmotions": ["profile"],
+            "has": {
+                    "characterSelect": false,
+                    "battleIcon": true,
+                    "croppedIcon": true,
+                    "fullIcon": true,
+                    "introPortrait": true,
+                    "overworldPortrait": false,
+                    "emotions": true
+                  },
+            "paths": {
+                    "meta": "warriors/metadata/ujikuni/default/meta.json",
+                    "icons": {
+                              "battle": "warriors/icons/battle/0104.png",
+                              "cropped": "warriors/icons/cropped/0104.png",
+                              "full": "warriors/icons/full/0104.png"
+                            },
+                    "portraits": {
+                              "emotions": {
+                                          "profile": "warriors/portraits/emotions/0329.png"
+                                        },
+                              "intro": "warriors/portraits/intro/0104.png"
+                            }
+                  },
+            "credits": {
+                    "icons": {
+                              "battle": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "cropped": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "full": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ]
+                            },
+                    "portraits": {
+                              "intro": [
+                                          { "name": "Koei Tecmo", "role": "draw" }
+                                        ],
+                              "emotions": {
+                                          "profile": [
+                                                        { "name": "Koei Tecmo", "role": "draw" }
+                                                      ]
+                                        }
+                            }
+                  },
+            "dateModified": {
+                    "icons": {
+                              "battle": "2026-04-01",
+                              "cropped": "2026-04-01",
+                              "full": "2026-04-01"
+                            },
+                    "portraits": {
+                              "intro": "2026-04-01",
+                              "emotions": {
+                                          "profile": "2026-04-01"
+                                        }
+                            }
+                  },
+            "history": [],
+            "notes": ""
+          }
+    }
+}
