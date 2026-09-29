@@ -1,0 +1,45 @@
+{
+  "warriorId": "saizo",
+  "variantId": "default",
+  "displayName": "Saizo",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "184",
+  "specialityTypeIds": ["ghost", "fire"],
+  "weaknessTypeIds": ["ground", "water"],
+
+  "stats": {
+      "power": 80,
+      "wisdom": 76,
+      "charisma": 68,
+      "bst": 224,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 122,
+            "cropped": 122,
+            "full": 122
+          },
+      "portraits": {
+            "intro": 122,
+            "overworld": null,
+            "emotions": {
+                    "profile": 347,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

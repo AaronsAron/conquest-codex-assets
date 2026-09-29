@@ -1,0 +1,45 @@
+{
+  "warriorId": "tsunenaga",
+  "variantId": "default",
+  "displayName": "Tsunenaga",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "129",
+  "specialityTypeIds": ["flying"],
+  "weaknessTypeIds": ["rock"],
+
+  "stats": {
+      "power": 48,
+      "wisdom": 44,
+      "charisma": 56,
+      "bst": 148,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 116,
+            "cropped": 116,
+            "full": 116
+          },
+      "portraits": {
+            "intro": 116,
+            "overworld": null,
+            "emotions": {
+                    "profile": 341,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

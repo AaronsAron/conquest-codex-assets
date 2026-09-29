@@ -1,0 +1,45 @@
+{
+  "warriorId": "juzo",
+  "variantId": "default",
+  "displayName": "Juzo",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "187",
+  "specialityTypeIds": ["fire"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 81,
+      "wisdom": 80,
+      "charisma": 62,
+      "bst": 223,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 123,
+            "cropped": 123,
+            "full": 123
+          },
+      "portraits": {
+            "intro": 123,
+            "overworld": null,
+            "emotions": {
+                    "profile": 348,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

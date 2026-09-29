@@ -1,0 +1,45 @@
+{
+  "warriorId": "gotoku",
+  "variantId": "default",
+  "displayName": "Gotoku",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "57",
+  "specialityTypeIds": ["dragon"],
+  "weaknessTypeIds": ["ice"],
+
+  "stats": {
+      "power": 48,
+      "wisdom": 61,
+      "charisma": 72,
+      "bst": 181,
+      "capacity": 2
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 113,
+            "cropped": 113,
+            "full": 113
+          },
+      "portraits": {
+            "intro": 113,
+            "overworld": null,
+            "emotions": {
+                    "profile": 338,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

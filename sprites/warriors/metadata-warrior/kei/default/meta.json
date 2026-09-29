@@ -1,0 +1,45 @@
+{
+  "warriorId": "kei",
+  "variantId": "default",
+  "displayName": "Kei",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "125",
+  "specialityTypeIds": ["fire", "ground"],
+  "weaknessTypeIds": ["grass", "ice"],
+
+  "stats": {
+      "power": 65,
+      "wisdom": 48,
+      "charisma": 69,
+      "bst": 182,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 113,
+            "cropped": 113,
+            "full": 113
+          },
+      "portraits": {
+            "intro": 113,
+            "overworld": null,
+            "emotions": {
+                    "profile": 338,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

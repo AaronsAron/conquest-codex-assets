@@ -1,0 +1,45 @@
+{
+  "warriorId": "ujimasa",
+  "variantId": "default",
+  "displayName": "Ujimasa",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "155",
+  "specialityTypeIds": ["rock"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 63,
+      "wisdom": 78,
+      "charisma": 79,
+      "bst": 220,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 103,
+            "cropped": 103,
+            "full": 103
+          },
+      "portraits": {
+            "intro": 103,
+            "overworld": null,
+            "emotions": {
+                    "profile": 328,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

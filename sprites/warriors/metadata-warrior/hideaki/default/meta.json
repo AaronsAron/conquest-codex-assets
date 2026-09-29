@@ -1,0 +1,45 @@
+{
+  "warriorId": "hideaki",
+  "variantId": "default",
+  "displayName": "Hideaki",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "69",
+  "specialityTypeIds": ["bug", "fire"],
+  "weaknessTypeIds": ["water", "ground"],
+
+  "stats": {
+      "power": 23,
+      "wisdom": 23,
+      "charisma": 23,
+      "bst": 69,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 111,
+            "cropped": 111,
+            "full": 111
+          },
+      "portraits": {
+            "intro": 111,
+            "overworld": null,
+            "emotions": {
+                    "profile": 336,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

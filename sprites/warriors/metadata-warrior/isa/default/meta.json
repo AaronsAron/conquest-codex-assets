@@ -1,0 +1,45 @@
+{
+  "warriorId": "isa",
+  "variantId": "default",
+  "displayName": "Isa",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "193",
+  "specialityTypeIds": ["fighting"],
+  "weaknessTypeIds": ["flying"],
+
+  "stats": {
+      "power": 80,
+      "wisdom": 43,
+      "charisma": 65,
+      "bst": 188,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 117,
+            "cropped": 117,
+            "full": 117
+          },
+      "portraits": {
+            "intro": 117,
+            "overworld": 117,
+            "emotions": {
+                    "profile": 342,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

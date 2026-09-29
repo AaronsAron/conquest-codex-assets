@@ -1,0 +1,45 @@
+{
+  "warriorId": "kotaro",
+  "variantId": "rank-ii",
+  "displayName": "Kotaro-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "17.2",
+  "specialityTypeIds": ["dark"],
+  "weaknessTypeIds": ["bug"],
+
+  "stats": {
+      "power": 92,
+      "wisdom": 89,
+      "charisma": 62,
+      "bst": 243,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 38,
+            "cropped": 38,
+            "full": 38
+          },
+      "portraits": {
+            "intro": 38,
+            "overworld": null,
+            "emotions": {
+                    "profile": 153,
+                    "joyful": 154,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

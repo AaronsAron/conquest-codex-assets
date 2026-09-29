@@ -1,0 +1,45 @@
+{
+  "warriorId": "tadakatsu",
+  "variantId": "rank-i",
+  "displayName": "Tadakatsu-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "32.1",
+  "specialityTypeIds": ["steel", "dragon"],
+  "weaknessTypeIds": ["ice"],
+
+  "stats": {
+      "power": 92,
+      "wisdom": 68,
+      "charisma": 81,
+      "bst": 241,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 67,
+            "cropped": 67,
+            "full": 67
+          },
+      "portraits": {
+            "intro": 67,
+            "overworld": null,
+            "emotions": {
+                    "profile": 273,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": 274,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

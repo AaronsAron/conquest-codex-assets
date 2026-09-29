@@ -1,0 +1,45 @@
+{
+  "warriorId": "kiyomasa",
+  "variantId": "rank-ii",
+  "displayName": "Kiyomasa-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "36.2",
+  "specialityTypeIds": ["dragon", "ground"],
+  "weaknessTypeIds": ["ice", "grass"],
+
+  "stats": {
+      "power": 92,
+      "wisdom": 74,
+      "charisma": 77,
+      "bst": 243,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 76,
+            "cropped": 76,
+            "full": 76
+          },
+      "portraits": {
+            "intro": 76,
+            "overworld": null,
+            "emotions": {
+                    "profile": 310,
+                    "joyful": 311,
+                    "sad": 312,
+                    "fierce": 313,
+                    "shocked": 314,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

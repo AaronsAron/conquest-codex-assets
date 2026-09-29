@@ -1,0 +1,45 @@
+{
+  "warriorId": "chikayasu",
+  "variantId": "default",
+  "displayName": "Chikayasu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "76",
+  "specialityTypeIds": ["water"],
+  "weaknessTypeIds": ["grass"],
+
+  "stats": {
+      "power": 73,
+      "wisdom": 78,
+      "charisma": 72,
+      "bst": 223,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 103,
+            "cropped": 103,
+            "full": 103
+          },
+      "portraits": {
+            "intro": 103,
+            "overworld": null,
+            "emotions": {
+                    "profile": 328,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

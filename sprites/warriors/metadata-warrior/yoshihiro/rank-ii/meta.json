@@ -1,0 +1,45 @@
+{
+  "warriorId": "yoshihiro",
+  "variantId": "rank-ii",
+  "displayName": "Yoshihiro-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "9.2",
+  "specialityTypeIds": ["fighting"],
+  "weaknessTypeIds": ["flying"],
+
+  "stats": {
+      "power": 98,
+      "wisdom": 73,
+      "charisma": 72,
+      "bst": 243,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 22,
+            "cropped": 22,
+            "full": 22
+          },
+      "portraits": {
+            "intro": 22,
+            "overworld": null,
+            "emotions": {
+                    "profile": 95,
+                    "joyful": 96,
+                    "sad": null,
+                    "fierce": 97,
+                    "shocked": 98,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

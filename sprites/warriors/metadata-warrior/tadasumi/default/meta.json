@@ -1,0 +1,45 @@
+{
+  "warriorId": "tadasumi",
+  "variantId": "default",
+  "displayName": "Tadasumi",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "81",
+  "specialityTypeIds": ["electric", "water"],
+  "weaknessTypeIds": ["grass", "dark"],
+
+  "stats": {
+      "power": 16,
+      "wisdom": 76,
+      "charisma": 28,
+      "bst": 120,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 111,
+            "cropped": 111,
+            "full": 111
+          },
+      "portraits": {
+            "intro": 111,
+            "overworld": null,
+            "emotions": {
+                    "profile": 336,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

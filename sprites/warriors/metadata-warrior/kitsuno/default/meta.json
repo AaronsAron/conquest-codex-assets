@@ -1,0 +1,45 @@
+{
+  "warriorId": "kitsuno",
+  "variantId": "default",
+  "displayName": "Kitsuno",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "56",
+  "specialityTypeIds": ["dragon"],
+  "weaknessTypeIds": ["ice"],
+
+  "stats": {
+      "power": 54,
+      "wisdom": 72,
+      "charisma": 79,
+      "bst": 205,
+      "capacity": 2
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 113,
+            "cropped": 113,
+            "full": 113
+          },
+      "portraits": {
+            "intro": 113,
+            "overworld": null,
+            "emotions": {
+                    "profile": 338,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

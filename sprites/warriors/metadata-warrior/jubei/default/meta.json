@@ -1,0 +1,45 @@
+{
+  "warriorId": "jubei",
+  "variantId": "default",
+  "displayName": "Jubei",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "197",
+  "specialityTypeIds": ["psychic", "steel"],
+  "weaknessTypeIds": ["ghost", "fire"],
+
+  "stats": {
+      "power": 91,
+      "wisdom": 32,
+      "charisma": 50,
+      "bst": 173,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 103,
+            "cropped": 103,
+            "full": 103
+          },
+      "portraits": {
+            "intro": 103,
+            "overworld": null,
+            "emotions": {
+                    "profile": 328,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

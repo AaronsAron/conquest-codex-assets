@@ -1,0 +1,45 @@
+{
+  "warriorId": "genba",
+  "variantId": "default",
+  "displayName": "Genba",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "169",
+  "specialityTypeIds": ["flying", "dark"],
+  "weaknessTypeIds": ["psychic", "grass"],
+
+  "stats": {
+      "power": 79,
+      "wisdom": 75,
+      "charisma": 48,
+      "bst": 202,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 123,
+            "cropped": 123,
+            "full": 123
+          },
+      "portraits": {
+            "intro": 123,
+            "overworld": null,
+            "emotions": {
+                    "profile": 348,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

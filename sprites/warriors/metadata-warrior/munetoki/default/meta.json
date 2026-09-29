@@ -1,0 +1,45 @@
+{
+  "warriorId": "munetoki",
+  "variantId": "default",
+  "displayName": "Munetoki",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "130",
+  "specialityTypeIds": ["dragon", "flying"],
+  "weaknessTypeIds": ["rock", "psychic"],
+
+  "stats": {
+      "power": 76,
+      "wisdom": 53,
+      "charisma": 60,
+      "bst": 189,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 106,
+            "cropped": 106,
+            "full": 106
+          },
+      "portraits": {
+            "intro": 106,
+            "overworld": null,
+            "emotions": {
+                    "profile": 331,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

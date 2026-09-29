@@ -1,0 +1,45 @@
+{
+  "warriorId": "kagetsuna",
+  "variantId": "default",
+  "displayName": "Kagetsuna",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "126",
+  "specialityTypeIds": ["dragon", "flying"],
+  "weaknessTypeIds": ["rock", "psychic"],
+
+  "stats": {
+      "power": 70,
+      "wisdom": 90,
+      "charisma": 72,
+      "bst": 232,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 108,
+            "cropped": 108,
+            "full": 108
+          },
+      "portraits": {
+            "intro": 108,
+            "overworld": null,
+            "emotions": {
+                    "profile": 333,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

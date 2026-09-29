@@ -1,0 +1,45 @@
+{
+  "warriorId": "tadamoto",
+  "variantId": "default",
+  "displayName": "Tadamoto",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "104",
+  "specialityTypeIds": ["fighting"],
+  "weaknessTypeIds": ["flying"],
+
+  "stats": {
+      "power": 78,
+      "wisdom": 56,
+      "charisma": 60,
+      "bst": 194,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 101,
+            "cropped": 101,
+            "full": 101
+          },
+      "portraits": {
+            "intro": 101,
+            "overworld": null,
+            "emotions": {
+                    "profile": 326,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "yoshimoto",
+  "variantId": "rank-i",
+  "displayName": "Yoshimoto-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "14.1",
+  "specialityTypeIds": ["bug", "steel"],
+  "weaknessTypeIds": ["ice", "ghost"],
+
+  "stats": {
+      "power": 64,
+      "wisdom": 72,
+      "charisma": 79,
+      "bst": 215,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 31,
+            "cropped": 31,
+            "full": 31
+          },
+      "portraits": {
+            "intro": 31,
+            "overworld": null,
+            "emotions": {
+                    "profile": 127,
+                    "joyful": null,
+                    "sad": 128,
+                    "fierce": 129,
+                    "shocked": 130,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

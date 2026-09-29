@@ -1,0 +1,45 @@
+{
+  "warriorId": "shimoyama",
+  "variantId": "default",
+  "displayName": "Shimoyama",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "168",
+  "specialityTypeIds": ["dark"],
+  "weaknessTypeIds": ["bug"],
+
+  "stats": {
+      "power": 79,
+      "wisdom": 81,
+      "charisma": 43,
+      "bst": 203,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 124,
+            "cropped": 124,
+            "full": 124
+          },
+      "portraits": {
+            "intro": 124,
+            "overworld": null,
+            "emotions": {
+                    "profile": 349,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "terumoto",
+  "variantId": "default",
+  "displayName": "Terumoto",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "91",
+  "specialityTypeIds": ["grass"],
+  "weaknessTypeIds": ["poison"],
+
+  "stats": {
+      "power": 41,
+      "wisdom": 26,
+      "charisma": 82,
+      "bst": 149,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 104,
+            "cropped": 104,
+            "full": 104
+          },
+      "portraits": {
+            "intro": 104,
+            "overworld": null,
+            "emotions": {
+                    "profile": 329,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

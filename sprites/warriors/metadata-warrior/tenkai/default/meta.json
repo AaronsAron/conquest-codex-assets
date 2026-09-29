@@ -1,0 +1,45 @@
+{
+  "warriorId": "tenkai",
+  "variantId": "default",
+  "displayName": "Tenkai",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "180",
+  "specialityTypeIds": ["ghost", "steel"],
+  "weaknessTypeIds": ["normal", "electric"],
+
+  "stats": {
+      "power": 1,
+      "wisdom": 91,
+      "charisma": 72,
+      "bst": 164,
+      "capacity": 2
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 121,
+            "cropped": 121,
+            "full": 121
+          },
+      "portraits": {
+            "intro": 121,
+            "overworld": null,
+            "emotions": {
+                    "profile": 346,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

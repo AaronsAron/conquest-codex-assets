@@ -1,0 +1,45 @@
+{
+  "warriorId": "kanetsugu",
+  "variantId": "rank-ii",
+  "displayName": "Kanetsugu-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "27.2",
+  "specialityTypeIds": ["psychic"],
+  "weaknessTypeIds": ["ghost"],
+
+  "stats": {
+      "power": 75,
+      "wisdom": 97,
+      "charisma": 89,
+      "bst": 261,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 58,
+            "cropped": 58,
+            "full": 58
+          },
+      "portraits": {
+            "intro": 58,
+            "overworld": null,
+            "emotions": {
+                    "profile": 237,
+                    "joyful": 238,
+                    "sad": null,
+                    "fierce": 239,
+                    "shocked": 240,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

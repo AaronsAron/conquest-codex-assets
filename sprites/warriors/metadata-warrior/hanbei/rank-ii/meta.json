@@ -1,0 +1,45 @@
+{
+  "warriorId": "hanbei",
+  "variantId": "rank-ii",
+  "displayName": "Hanbei-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "19.2",
+  "specialityTypeIds": ["electric", "fire"],
+  "weaknessTypeIds": ["ground", "rock"],
+
+  "stats": {
+      "power": 42,
+      "wisdom": 99,
+      "charisma": 80,
+      "bst": 221,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 42,
+            "cropped": 42,
+            "full": 42
+          },
+      "portraits": {
+            "intro": 42,
+            "overworld": null,
+            "emotions": {
+                    "profile": 170,
+                    "joyful": 171,
+                    "sad": 172,
+                    "fierce": 173,
+                    "shocked": 174,
+                    "special": 367
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

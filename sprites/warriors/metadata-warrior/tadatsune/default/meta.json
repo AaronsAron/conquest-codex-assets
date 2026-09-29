@@ -1,0 +1,45 @@
+{
+  "warriorId": "tadatsune",
+  "variantId": "default",
+  "displayName": "Tadatsune",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "105",
+  "specialityTypeIds": ["fighting"],
+  "weaknessTypeIds": ["flying"],
+
+  "stats": {
+      "power": 73,
+      "wisdom": 56,
+      "charisma": 70,
+      "bst": 199,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 106,
+            "cropped": 106,
+            "full": 106
+          },
+      "portraits": {
+            "intro": 106,
+            "overworld": null,
+            "emotions": {
+                    "profile": 331,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

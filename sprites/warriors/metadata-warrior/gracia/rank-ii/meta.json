@@ -1,0 +1,45 @@
+{
+  "warriorId": "gracia",
+  "variantId": "rank-ii",
+  "displayName": "Gracia-Rank-II",
+  "genderId": "female",
+  "tags": ["warlord", "rank-ii", "female"],
+
+  "galleryNumber": "22.2",
+  "specialityTypeIds": ["psychic", "ice"],
+  "weaknessTypeIds": ["bug", "fire"],
+
+  "stats": {
+      "power": 52,
+      "wisdom": 73,
+      "charisma": 87,
+      "bst": 212,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 48,
+            "cropped": 48,
+            "full": 48
+          },
+      "portraits": {
+            "intro": 48,
+            "overworld": null,
+            "emotions": {
+                    "profile": 194,
+                    "joyful": 195,
+                    "sad": 196,
+                    "fierce": 197,
+                    "shocked": 198,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

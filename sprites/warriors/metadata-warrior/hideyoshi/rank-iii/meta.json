@@ -1,0 +1,45 @@
+{
+  "warriorId": "hideyoshi",
+  "variantId": "rank-iii",
+  "displayName": "Hideyoshi-Rank-III",
+  "genderId": "male",
+  "tags": ["warlord", "rank-iii", "male"],
+
+  "galleryNumber": "4.3",
+  "specialityTypeIds": ["fire", "fighting"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 80,
+      "wisdom": 98,
+      "charisma": 98,
+      "bst": 276,
+      "capacity": 8
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 12,
+            "cropped": 12,
+            "full": 12
+          },
+      "portraits": {
+            "intro": 12,
+            "overworld": null,
+            "emotions": {
+                    "profile": 56,
+                    "joyful": 57,
+                    "sad": 58,
+                    "fierce": 59,
+                    "shocked": 60,
+                    "special": 357
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

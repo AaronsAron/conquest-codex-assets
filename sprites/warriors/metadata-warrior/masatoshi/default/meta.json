@@ -1,0 +1,45 @@
+{
+  "warriorId": "masatoshi",
+  "variantId": "default",
+  "displayName": "Masatoshi",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "108",
+  "specialityTypeIds": ["fighting"],
+  "weaknessTypeIds": ["flying"],
+
+  "stats": {
+      "power": 70,
+      "wisdom": 48,
+      "charisma": 58,
+      "bst": 176,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 106,
+            "cropped": 106,
+            "full": 106
+          },
+      "portraits": {
+            "intro": 106,
+            "overworld": null,
+            "emotions": {
+                    "profile": 331,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

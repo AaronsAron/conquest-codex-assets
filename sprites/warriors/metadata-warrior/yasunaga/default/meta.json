@@ -1,0 +1,45 @@
+{
+  "warriorId": "yasunaga",
+  "variantId": "default",
+  "displayName": "Yasunaga",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "114",
+  "specialityTypeIds": ["poison"],
+  "weaknessTypeIds": ["psychic"],
+
+  "stats": {
+      "power": 80,
+      "wisdom": 62,
+      "charisma": 66,
+      "bst": 208,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 123,
+            "cropped": 123,
+            "full": 123
+          },
+      "portraits": {
+            "intro": 123,
+            "overworld": null,
+            "emotions": {
+                    "profile": 348,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

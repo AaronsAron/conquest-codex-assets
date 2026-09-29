@@ -1,0 +1,45 @@
+{
+  "warriorId": "motochika",
+  "variantId": "rank-i",
+  "displayName": "Motochika-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "5.1",
+  "specialityTypeIds": ["water"],
+  "weaknessTypeIds": ["grass"],
+
+  "stats": {
+      "power": 82,
+      "wisdom": 81,
+      "charisma": 81,
+      "bst": 244,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 13,
+            "cropped": 13,
+            "full": 13
+          },
+      "portraits": {
+            "intro": 13,
+            "overworld": null,
+            "emotions": {
+                    "profile": 61,
+                    "joyful": 62,
+                    "sad": null,
+                    "fierce": 63,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "kai",
+  "variantId": "rank-ii",
+  "displayName": "Kai-Rank-II",
+  "genderId": "female",
+  "tags": ["warlord", "rank-ii", "female"],
+
+  "galleryNumber": "29.2",
+  "specialityTypeIds": ["fire", "rock"],
+  "weaknessTypeIds": ["water", "grass"],
+
+  "stats": {
+      "power": 83,
+      "wisdom": 72,
+      "charisma": 80,
+      "bst": 235,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 62,
+            "cropped": 62,
+            "full": 62
+          },
+      "portraits": {
+            "intro": 62,
+            "overworld": null,
+            "emotions": {
+                    "profile": 250,
+                    "joyful": 251,
+                    "sad": 252,
+                    "fierce": 253,
+                    "shocked": 254,
+                    "special": 375
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

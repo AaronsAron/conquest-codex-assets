@@ -1,0 +1,45 @@
+{
+  "warriorId": "toshimitsu",
+  "variantId": "default",
+  "displayName": "Toshimitsu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "97",
+  "specialityTypeIds": ["ice"],
+  "weaknessTypeIds": ["normal"],
+
+  "stats": {
+      "power": 68,
+      "wisdom": 68,
+      "charisma": 68,
+      "bst": 204,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 101,
+            "cropped": 101,
+            "full": 101
+          },
+      "portraits": {
+            "intro": 101,
+            "overworld": null,
+            "emotions": {
+                    "profile": 326,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

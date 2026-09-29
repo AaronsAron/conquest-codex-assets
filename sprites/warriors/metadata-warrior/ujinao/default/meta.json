@@ -1,0 +1,45 @@
+{
+  "warriorId": "ujinao",
+  "variantId": "default",
+  "displayName": "Ujinao",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "158",
+  "specialityTypeIds": ["rock"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 42,
+      "wisdom": 35,
+      "charisma": 79,
+      "bst": 156,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 107,
+            "cropped": 107,
+            "full": 107
+          },
+      "portraits": {
+            "intro": 107,
+            "overworld": 107,
+            "emotions": {
+                    "profile": 332,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

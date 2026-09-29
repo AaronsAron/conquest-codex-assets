@@ -1,0 +1,45 @@
+{
+  "warriorId": "hiroko",
+  "variantId": "default",
+  "displayName": "Hiroko",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "103",
+  "specialityTypeIds": ["ice"],
+  "weaknessTypeIds": ["normal"],
+
+  "stats": {
+      "power": 38,
+      "wisdom": 63,
+      "charisma": 66,
+      "bst": 167,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 114,
+            "cropped": 114,
+            "full": 114
+          },
+      "portraits": {
+            "intro": 114,
+            "overworld": null,
+            "emotions": {
+                    "profile": 339,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

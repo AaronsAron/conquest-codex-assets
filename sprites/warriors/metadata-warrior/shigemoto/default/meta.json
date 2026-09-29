@@ -1,0 +1,45 @@
+{
+  "warriorId": "shigemoto",
+  "variantId": "default",
+  "displayName": "Shigemoto",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "98",
+  "specialityTypeIds": ["ice"],
+  "weaknessTypeIds": ["normal"],
+
+  "stats": {
+      "power": 60,
+      "wisdom": 36,
+      "charisma": 64,
+      "bst": 160,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 103,
+            "cropped": 103,
+            "full": 103
+          },
+      "portraits": {
+            "intro": 103,
+            "overworld": null,
+            "emotions": {
+                    "profile": 328,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

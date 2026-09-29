@@ -1,0 +1,45 @@
+{
+  "warriorId": "kame",
+  "variantId": "default",
+  "displayName": "Kame",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "182",
+  "specialityTypeIds": ["bug", "steel"],
+  "weaknessTypeIds": ["normal", "ghost"],
+
+  "stats": {
+      "power": 62,
+      "wisdom": 73,
+      "charisma": 55,
+      "bst": 190,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 126,
+            "cropped": 126,
+            "full": 126
+          },
+      "portraits": {
+            "intro": 126,
+            "overworld": null,
+            "emotions": {
+                    "profile": 351,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "tatsuko",
+  "variantId": "default",
+  "displayName": "Tatsuko",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "71",
+  "specialityTypeIds": ["fire"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 50,
+      "wisdom": 55,
+      "charisma": 50,
+      "bst": 155,
+      "capacity": 2
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 113,
+            "cropped": 113,
+            "full": 113
+          },
+      "portraits": {
+            "intro": 113,
+            "overworld": null,
+            "emotions": {
+                    "profile": 338,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

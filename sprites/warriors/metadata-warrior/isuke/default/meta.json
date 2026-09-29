@@ -1,0 +1,45 @@
+{
+  "warriorId": "isuke",
+  "variantId": "default",
+  "displayName": "Isuke",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "172",
+  "specialityTypeIds": ["dark"],
+  "weaknessTypeIds": ["bug"],
+
+  "stats": {
+      "power": 72,
+      "wisdom": 68,
+      "charisma": 63,
+      "bst": 203,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 123,
+            "cropped": 123,
+            "full": 123
+          },
+      "portraits": {
+            "intro": 123,
+            "overworld": null,
+            "emotions": {
+                    "profile": 348,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

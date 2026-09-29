@@ -1,0 +1,45 @@
+{
+  "warriorId": "fujitaka",
+  "variantId": "default",
+  "displayName": "Fujitaka",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "102",
+  "specialityTypeIds": ["psychic", "ice"],
+  "weaknessTypeIds": ["bug", "normal"],
+
+  "stats": {
+      "power": 70,
+      "wisdom": 85,
+      "charisma": 80,
+      "bst": 235,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 129,
+            "cropped": 129,
+            "full": 129
+          },
+      "portraits": {
+            "intro": 129,
+            "overworld": null,
+            "emotions": {
+                    "profile": 354,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

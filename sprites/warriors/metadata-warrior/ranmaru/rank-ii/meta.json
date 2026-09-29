@@ -1,0 +1,45 @@
+{
+  "warriorId": "ranmaru",
+  "variantId": "rank-ii",
+  "displayName": "Ranmaru-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "31.2",
+  "specialityTypeIds": ["fighting", "steel"],
+  "weaknessTypeIds": ["ghost"],
+
+  "stats": {
+      "power": 79,
+      "wisdom": 82,
+      "charisma": 76,
+      "bst": 237,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 66,
+            "cropped": 66,
+            "full": 66
+          },
+      "portraits": {
+            "intro": 66,
+            "overworld": null,
+            "emotions": {
+                    "profile": 268,
+                    "joyful": 269,
+                    "sad": 270,
+                    "fierce": 271,
+                    "shocked": 272,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

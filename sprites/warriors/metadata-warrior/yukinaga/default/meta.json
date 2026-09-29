@@ -1,0 +1,45 @@
+{
+  "warriorId": "yukinaga",
+  "variantId": "default",
+  "displayName": "Yukinaga",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "62",
+  "specialityTypeIds": ["normal", "fire"],
+  "weaknessTypeIds": ["ground", "rock"],
+
+  "stats": {
+      "power": 31,
+      "wisdom": 72,
+      "charisma": 70,
+      "bst": 173,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 119,
+            "cropped": 119,
+            "full": 119
+          },
+      "portraits": {
+            "intro": 119,
+            "overworld": 119,
+            "emotions": {
+                    "profile": 344,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

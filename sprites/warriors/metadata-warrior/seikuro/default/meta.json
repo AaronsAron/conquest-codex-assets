@@ -1,0 +1,45 @@
+{
+  "warriorId": "seikuro",
+  "variantId": "default",
+  "displayName": "Seikuro",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "115",
+  "specialityTypeIds": ["poison"],
+  "weaknessTypeIds": ["psychic"],
+
+  "stats": {
+      "power": 60,
+      "wisdom": 40,
+      "charisma": 43,
+      "bst": 143,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 124,
+            "cropped": 124,
+            "full": 124
+          },
+      "portraits": {
+            "intro": 124,
+            "overworld": null,
+            "emotions": {
+                    "profile": 349,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

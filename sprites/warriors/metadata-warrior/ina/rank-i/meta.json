@@ -1,0 +1,45 @@
+{
+  "warriorId": "ina",
+  "variantId": "rank-i",
+  "displayName": "Ina-Rank-I",
+  "genderId": "female",
+  "tags": ["warlord", "rank-i", "female"],
+
+  "galleryNumber": "33.1",
+  "specialityTypeIds": ["water", "steel"],
+  "weaknessTypeIds": ["grass", "fire"],
+
+  "stats": {
+      "power": 78,
+      "wisdom": 56,
+      "charisma": 68,
+      "bst": 202,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 69,
+            "cropped": 69,
+            "full": 69
+          },
+      "portraits": {
+            "intro": 69,
+            "overworld": null,
+            "emotions": {
+                    "profile": 277,
+                    "joyful": 278,
+                    "sad": 279,
+                    "fierce": 280,
+                    "shocked": 281,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

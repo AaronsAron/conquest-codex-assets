@@ -1,0 +1,45 @@
+{
+  "warriorId": "masanori",
+  "variantId": "rank-ii",
+  "displayName": "Masanori-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "37.2",
+  "specialityTypeIds": ["ground", "dark"],
+  "weaknessTypeIds": ["grass", "psychic"],
+
+  "stats": {
+      "power": 97,
+      "wisdom": 50,
+      "charisma": 73,
+      "bst": 220,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 78,
+            "cropped": 78,
+            "full": 78
+          },
+      "portraits": {
+            "intro": 78,
+            "overworld": null,
+            "emotions": {
+                    "profile": 320,
+                    "joyful": 321,
+                    "sad": 322,
+                    "fierce": 323,
+                    "shocked": 324,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

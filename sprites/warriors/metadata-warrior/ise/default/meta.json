@@ -1,0 +1,45 @@
+{
+  "warriorId": "ise",
+  "variantId": "default",
+  "displayName": "Ise",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "189",
+  "specialityTypeIds": ["psychic"],
+  "weaknessTypeIds": ["dark"],
+
+  "stats": {
+      "power": 66,
+      "wisdom": 52,
+      "charisma": 61,
+      "bst": 179,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 126,
+            "cropped": 126,
+            "full": 126
+          },
+      "portraits": {
+            "intro": 126,
+            "overworld": null,
+            "emotions": {
+                    "profile": 351,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

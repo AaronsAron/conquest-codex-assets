@@ -1,0 +1,45 @@
+{
+  "warriorId": "hisahide",
+  "variantId": "default",
+  "displayName": "Hisahide",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "196",
+  "specialityTypeIds": ["dark"],
+  "weaknessTypeIds": ["bug"],
+
+  "stats": {
+      "power": 62,
+      "wisdom": 92,
+      "charisma": 65,
+      "bst": 219,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 101,
+            "cropped": 101,
+            "full": 101
+          },
+      "portraits": {
+            "intro": 101,
+            "overworld": null,
+            "emotions": {
+                    "profile": 326,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

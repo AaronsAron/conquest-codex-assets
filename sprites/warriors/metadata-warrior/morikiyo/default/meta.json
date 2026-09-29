@@ -1,0 +1,45 @@
+{
+  "warriorId": "morikiyo",
+  "variantId": "default",
+  "displayName": "Morikiyo",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "112",
+  "specialityTypeIds": ["poison"],
+  "weaknessTypeIds": ["psychic"],
+
+  "stats": {
+      "power": 68,
+      "wisdom": 47,
+      "charisma": 61,
+      "bst": 176,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 122,
+            "cropped": 122,
+            "full": 122
+          },
+      "portraits": {
+            "intro": 122,
+            "overworld": null,
+            "emotions": {
+                    "profile": 347,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

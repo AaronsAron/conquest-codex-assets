@@ -1,0 +1,45 @@
+{
+  "warriorId": "masatoyo",
+  "variantId": "default",
+  "displayName": "Masatoyo",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "119",
+  "specialityTypeIds": ["ground"],
+  "weaknessTypeIds": ["ice"],
+
+  "stats": {
+      "power": 70,
+      "wisdom": 76,
+      "charisma": 70,
+      "bst": 216,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 100,
+            "cropped": 100,
+            "full": 100
+          },
+      "portraits": {
+            "intro": 100,
+            "overworld": null,
+            "emotions": {
+                    "profile": 325,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

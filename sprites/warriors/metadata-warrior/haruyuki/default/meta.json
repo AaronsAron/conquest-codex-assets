@@ -1,0 +1,45 @@
+{
+  "warriorId": "haruyuki",
+  "variantId": "default",
+  "displayName": "Haruyuki",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "117",
+  "specialityTypeIds": ["flying", "ground"],
+  "weaknessTypeIds": ["grass", "psychic"],
+
+  "stats": {
+      "power": 41,
+      "wisdom": 92,
+      "charisma": 69,
+      "bst": 202,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 108,
+            "cropped": 108,
+            "full": 108
+          },
+      "portraits": {
+            "intro": 108,
+            "overworld": null,
+            "emotions": {
+                    "profile": 333,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -14,15 +14,16 @@ ASSETS_REPO_ROOT = Path(
 )
 
 WARRIOR_ROOT = ASSETS_REPO_ROOT / "sprites" / "warriors"
-WARRIOR_METADATA_ROOT = WARRIOR_ROOT / "metadata"
+WARRIOR_METADATA_ROOT = WARRIOR_ROOT / "metadata-warrior"
+ASSET_METADATA_ROOT = WARRIOR_ROOT / "metadata-asset"
+
 MANIFEST_ROOT = ASSETS_REPO_ROOT / "sprites" / "manifest"
 MANIFEST_WARRIOR_DIR = MANIFEST_ROOT / "warriors"
 WARRIOR_INDEX_PATH = MANIFEST_ROOT / "warrior_index.json"
 WARRIOR_REPORT_PATH = MANIFEST_ROOT / "warrior_manifest_report.json"
 
 ASSET_BASE = (
-    "https://raw.githubusercontent.com/"
-    "AaronsAron/conquest-codex-assets/main/sprites/"
+    "https://raw.githubusercontent.com/AaronsAron/conquest-codex-assets/main/sprites/"
 )
 
 EXPECTED_META_COUNT = 252
@@ -44,6 +45,16 @@ ASSET_FILE_LOCATIONS = {
     "intro": "warriors/portraits/intro/{index}.png",
     "overworld": "warriors/portraits/overworld/{index}.png",
     "emotion": "warriors/portraits/emotions/{index}.png",
+}
+
+ASSET_METADATA_FILES = {
+    "characterSelect": ASSET_METADATA_ROOT / "character-select.json",
+    "battle": ASSET_METADATA_ROOT / "icons" / "battle.json",
+    "cropped": ASSET_METADATA_ROOT / "icons" / "cropped.json",
+    "full": ASSET_METADATA_ROOT / "icons" / "full.json",
+    "intro": ASSET_METADATA_ROOT / "portraits" / "intro.json",
+    "overworld": ASSET_METADATA_ROOT / "portraits" / "overworld.json",
+    "emotion": ASSET_METADATA_ROOT / "portraits" / "emotions.json",
 }
 
 
@@ -140,8 +151,8 @@ def fix_adjacent_object_tokens(text: str) -> str:
     return "".join(output)
 
 
-def load_meta_json(meta_path: Path):
-    raw = meta_path.read_text(encoding="utf-8-sig")
+def load_json_tolerant(path: Path):
+    raw = path.read_text(encoding="utf-8-sig")
 
     try:
         return json.loads(raw), False
@@ -219,7 +230,6 @@ def parse_date(value):
         int(match.group(2)),
         int(match.group(3)),
     )
-
     return comparable, value
 
 
@@ -241,7 +251,6 @@ def max_date_str(date_values):
 
 
 def gallery_sort_key(value):
-    """Sort gallery values such as 4.2 numerically."""
     if value is None:
         return (999999, 999999, "")
 
@@ -267,7 +276,106 @@ def gallery_sort_key(value):
 
 
 # ============================================================
-# METADATA VALIDATION
+# ASSET-METADATA LOADING AND RESOLUTION
+# ============================================================
+
+
+def load_asset_metadata(report):
+    stores = {}
+
+    for asset_type, metadata_path in ASSET_METADATA_FILES.items():
+        if not metadata_path.exists():
+            report["errors"].append(
+                {
+                    "file": str(metadata_path),
+                    "error": "Asset-metadata file was not found",
+                }
+            )
+            stores[asset_type] = {}
+            continue
+
+        try:
+            data, repaired = load_json_tolerant(metadata_path)
+
+            if not isinstance(data, dict):
+                raise TypeError(
+                    "Asset-metadata file must contain a top-level object"
+                )
+
+            stores[asset_type] = data
+            report["counts"]["assetMetadataFilesLoaded"] += 1
+            report["counts"]["assetMetadataEntriesLoaded"] += len(data)
+
+            if repaired:
+                report["counts"][
+                    "assetMetadataFilesParsedWithRepair"
+                ] += 1
+
+        except Exception as error:
+            report["errors"].append(
+                {
+                    "file": str(metadata_path),
+                    "error": str(error),
+                }
+            )
+            stores[asset_type] = {}
+
+    return stores
+
+
+def resolve_asset_metadata(
+    asset_stores,
+    asset_type,
+    asset_index,
+    report,
+    warrior_id,
+    variant_id,
+    logical_asset_name,
+):
+    if asset_index is None:
+        return None
+
+    asset_id = format_asset_index(asset_index)
+    store = asset_stores.get(asset_type, {})
+    entry = store.get(asset_id)
+
+    if not isinstance(entry, dict):
+        report["warnings"].append(
+            {
+                "warriorId": warrior_id,
+                "variantId": variant_id,
+                "reason": "Asset metadata entry was not found",
+                "asset": logical_asset_name,
+                "assetType": asset_type,
+                "assetId": asset_id,
+            }
+        )
+        return None
+
+    credits = entry.get("credits", [])
+    date_modified = entry.get("dateModified", "")
+    history = entry.get("history", [])
+    notes = entry.get("notes", "")
+
+    if not isinstance(credits, list):
+        credits = []
+    if not isinstance(date_modified, str):
+        date_modified = ""
+    if not isinstance(history, list):
+        history = []
+    if not isinstance(notes, str):
+        notes = ""
+
+    return {
+        "credits": credits,
+        "dateModified": date_modified,
+        "history": history,
+        "notes": notes,
+    }
+
+
+# ============================================================
+# WARRIOR METADATA VALIDATION
 # ============================================================
 
 
@@ -285,8 +393,6 @@ def validate_meta(meta, meta_path):
         "weaknessTypeIds",
         "stats",
         "assetIndexes",
-        "credits",
-        "dateModified",
     ]
 
     for field_name in required_fields:
@@ -349,11 +455,11 @@ def validate_meta(meta, meta_path):
 
 
 # ============================================================
-# ASSET PATHS AND AVAILABILITY
+# PATHS, AVAILABILITY, CREDITS, AND DATES
 # ============================================================
 
 
-def build_paths_and_has(meta, report):
+def build_resolved_assets(meta, asset_stores, report):
     warrior_id = meta["warriorId"]
     variant_id = meta["variantId"]
 
@@ -362,102 +468,110 @@ def build_paths_and_has(meta, report):
     portrait_indexes = indexes.get("portraits", {})
     emotion_indexes = portrait_indexes.get("emotions", {})
 
-    character_select_path = asset_relative_path(
-        "characterSelect",
-        indexes.get("characterSelect"),
-    )
+    character_select_index = indexes.get("characterSelect")
 
-    icon_paths = {
-        icon_name: asset_relative_path(
-            icon_name,
-            icon_indexes.get(icon_name),
+    asset_specs = [
+        {
+            "family": "characterSelect",
+            "name": "characterSelect",
+            "assetType": "characterSelect",
+            "index": character_select_index,
+        },
+        {
+            "family": "icons",
+            "name": "battle",
+            "assetType": "battle",
+            "index": icon_indexes.get("battle"),
+        },
+        {
+            "family": "icons",
+            "name": "cropped",
+            "assetType": "cropped",
+            "index": icon_indexes.get("cropped"),
+        },
+        {
+            "family": "icons",
+            "name": "full",
+            "assetType": "full",
+            "index": icon_indexes.get("full"),
+        },
+        {
+            "family": "portraits",
+            "name": "intro",
+            "assetType": "intro",
+            "index": portrait_indexes.get("intro"),
+        },
+        {
+            "family": "portraits",
+            "name": "overworld",
+            "assetType": "overworld",
+            "index": portrait_indexes.get("overworld"),
+        },
+    ]
+
+    for emotion_name in EMOTION_ORDER:
+        asset_specs.append(
+            {
+                "family": "emotions",
+                "name": emotion_name,
+                "assetType": "emotion",
+                "index": emotion_indexes.get(emotion_name),
+            }
         )
-        for icon_name in ["battle", "cropped", "full"]
-    }
 
-    intro_path = asset_relative_path(
-        "intro",
-        portrait_indexes.get("intro"),
-    )
+    resolved = []
 
-    overworld_path = asset_relative_path(
-        "overworld",
-        portrait_indexes.get("overworld"),
-    )
-
-    emotion_paths = {
-        emotion_name: asset_relative_path(
-            "emotion",
-            emotion_indexes.get(emotion_name),
+    for spec in asset_specs:
+        asset_index = spec["index"]
+        relative_path = asset_relative_path(
+            spec["assetType"],
+            asset_index,
         )
-        for emotion_name in EMOTION_ORDER
-        if emotion_indexes.get(emotion_name) is not None
-    }
 
-    candidate_paths = {
-        "characterSelect": character_select_path,
-        "battleIcon": icon_paths["battle"],
-        "croppedIcon": icon_paths["cropped"],
-        "fullIcon": icon_paths["full"],
-        "introPortrait": intro_path,
-        "overworldPortrait": overworld_path,
-    }
+        exists = bool(
+            relative_path and asset_exists(relative_path)
+        )
 
-    for asset_name, relative_path in candidate_paths.items():
-        if relative_path and not asset_exists(relative_path):
+        logical_asset_name = (
+            spec["name"]
+            if spec["family"] == "characterSelect"
+            else f"{spec['family']}.{spec['name']}"
+        )
+
+        if relative_path and not exists:
             report["warnings"].append(
                 {
                     "warriorId": warrior_id,
                     "variantId": variant_id,
                     "reason": "Referenced asset file was not found",
-                    "asset": asset_name,
+                    "asset": logical_asset_name,
                     "path": relative_path,
                 }
             )
 
-    for emotion_name, relative_path in emotion_paths.items():
-        if not asset_exists(relative_path):
-            report["warnings"].append(
-                {
-                    "warriorId": warrior_id,
-                    "variantId": variant_id,
-                    "reason": "Referenced asset file was not found",
-                    "asset": f"emotion.{emotion_name}",
-                    "path": relative_path,
-                }
-            )
+        asset_metadata = resolve_asset_metadata(
+            asset_stores=asset_stores,
+            asset_type=spec["assetType"],
+            asset_index=asset_index,
+            report=report,
+            warrior_id=warrior_id,
+            variant_id=variant_id,
+            logical_asset_name=logical_asset_name,
+        )
 
-    has = {
-        "characterSelect": bool(
-            character_select_path
-            and asset_exists(character_select_path)
-        ),
-        "battleIcon": bool(
-            icon_paths["battle"]
-            and asset_exists(icon_paths["battle"])
-        ),
-        "croppedIcon": bool(
-            icon_paths["cropped"]
-            and asset_exists(icon_paths["cropped"])
-        ),
-        "fullIcon": bool(
-            icon_paths["full"]
-            and asset_exists(icon_paths["full"])
-        ),
-        "introPortrait": bool(
-            intro_path
-            and asset_exists(intro_path)
-        ),
-        "overworldPortrait": bool(
-            overworld_path
-            and asset_exists(overworld_path)
-        ),
-        "emotions": any(
-            asset_exists(path)
-            for path in emotion_paths.values()
-        ),
-    }
+        resolved.append(
+            {
+                **spec,
+                "path": relative_path,
+                "exists": exists,
+                "metadata": asset_metadata,
+            }
+        )
 
+    return resolved
+
+
+def build_paths(resolved_assets, warrior_id, variant_id):
     paths = {
         "meta": (
             f"warriors/metadata/{warrior_id}/"
@@ -467,26 +581,22 @@ def build_paths_and_has(meta, report):
         "portraits": {"emotions": {}},
     }
 
-    if has["characterSelect"]:
-        paths["characterSelect"] = character_select_path
+    for asset in resolved_assets:
+        if not asset["exists"]:
+            continue
 
-    for icon_name in ["battle", "cropped", "full"]:
-        icon_path = icon_paths[icon_name]
-        if icon_path and asset_exists(icon_path):
-            paths["icons"][icon_name] = icon_path
+        family = asset["family"]
+        name = asset["name"]
+        path = asset["path"]
 
-    if has["introPortrait"]:
-        paths["portraits"]["intro"] = intro_path
-
-    if has["overworldPortrait"]:
-        paths["portraits"]["overworld"] = overworld_path
-
-    for emotion_name in EMOTION_ORDER:
-        emotion_path = emotion_paths.get(emotion_name)
-        if emotion_path and asset_exists(emotion_path):
-            paths["portraits"]["emotions"][
-                emotion_name
-            ] = emotion_path
+        if family == "characterSelect":
+            paths["characterSelect"] = path
+        elif family == "icons":
+            paths["icons"][name] = path
+        elif family == "portraits":
+            paths["portraits"][name] = path
+        elif family == "emotions":
+            paths["portraits"]["emotions"][name] = path
 
     if not paths["icons"]:
         paths.pop("icons")
@@ -497,11 +607,91 @@ def build_paths_and_has(meta, report):
     if not paths["portraits"]:
         paths.pop("portraits")
 
-    return paths, has
+    return paths
+
+
+def build_has(resolved_assets):
+    lookup = {
+        (
+            asset["family"],
+            asset["name"],
+        ): asset["exists"]
+        for asset in resolved_assets
+    }
+
+    return {
+        "characterSelect": lookup.get(
+            ("characterSelect", "characterSelect"),
+            False,
+        ),
+        "battleIcon": lookup.get(("icons", "battle"), False),
+        "croppedIcon": lookup.get(("icons", "cropped"), False),
+        "fullIcon": lookup.get(("icons", "full"), False),
+        "introPortrait": lookup.get(("portraits", "intro"), False),
+        "overworldPortrait": lookup.get(
+            ("portraits", "overworld"),
+            False,
+        ),
+        "emotions": any(
+            asset["exists"]
+            for asset in resolved_assets
+            if asset["family"] == "emotions"
+        ),
+    }
+
+
+def build_credits_and_dates(resolved_assets):
+    credits = {}
+    dates = {}
+
+    for asset in resolved_assets:
+        if not asset["exists"] or not asset["metadata"]:
+            continue
+
+        family = asset["family"]
+        name = asset["name"]
+        metadata = asset["metadata"]
+        asset_credits = metadata.get("credits", [])
+        asset_date = metadata.get("dateModified", "")
+
+        if family == "characterSelect":
+            if asset_credits:
+                credits["characterSelect"] = asset_credits
+            if asset_date:
+                dates["characterSelect"] = asset_date
+
+        elif family == "icons":
+            if asset_credits:
+                credits.setdefault("icons", {})[name] = asset_credits
+            if asset_date:
+                dates.setdefault("icons", {})[name] = asset_date
+
+        elif family == "portraits":
+            if asset_credits:
+                credits.setdefault("portraits", {})[name] = asset_credits
+            if asset_date:
+                dates.setdefault("portraits", {})[name] = asset_date
+
+        elif family == "emotions":
+            if asset_credits:
+                (
+                    credits
+                    .setdefault("portraits", {})
+                    .setdefault("emotions", {})
+                )[name] = asset_credits
+
+            if asset_date:
+                (
+                    dates
+                    .setdefault("portraits", {})
+                    .setdefault("emotions", {})
+                )[name] = asset_date
+
+    return credits, dates
 
 
 # ============================================================
-# CREDITS AND SEARCH KEYS
+# SEARCH AND SORT KEYS
 # ============================================================
 
 
@@ -522,14 +712,7 @@ def extract_names_from_credit_list(credit_list):
     return names
 
 
-def extract_artists(meta):
-    """
-    Track artists by top-level asset family.
-
-    Emotions are collected directly into portraits because emotions are
-    portrait assets, just as battle/cropped/full are all icon assets.
-    """
-    credits = meta.get("credits", {})
+def extract_artists(credits):
     if not isinstance(credits, dict):
         credits = {}
 
@@ -538,32 +721,22 @@ def extract_artists(meta):
     )
 
     icons = []
-    icon_credits = credits.get("icons", {})
-
-    if isinstance(icon_credits, dict):
-        for icon_name in ["battle", "cropped", "full"]:
-            icons += extract_names_from_credit_list(
-                icon_credits.get(icon_name, [])
-            )
+    for credit_list in credits.get("icons", {}).values():
+        icons += extract_names_from_credit_list(credit_list)
 
     portraits = []
     portrait_credits = credits.get("portraits", {})
 
     if isinstance(portrait_credits, dict):
-        portraits += extract_names_from_credit_list(
-            portrait_credits.get("intro", [])
-        )
-
-        portraits += extract_names_from_credit_list(
-            portrait_credits.get("overworld", [])
-        )
-
-        emotion_credits = portrait_credits.get("emotions", {})
-
-        if isinstance(emotion_credits, dict):
-            for emotion_name in EMOTION_ORDER:
+        for key, credit_value in portrait_credits.items():
+            if key == "emotions" and isinstance(credit_value, dict):
+                for emotion_credit_list in credit_value.values():
+                    portraits += extract_names_from_credit_list(
+                        emotion_credit_list
+                    )
+            else:
                 portraits += extract_names_from_credit_list(
-                    emotion_credits.get(emotion_name, [])
+                    credit_value
                 )
 
     character_select = dedupe_preserve_order(character_select)
@@ -582,11 +755,6 @@ def extract_artists(meta):
     }
 
 
-# ============================================================
-# DATE AND SORT KEYS
-# ============================================================
-
-
 def collect_string_dates(value):
     dates = []
 
@@ -602,14 +770,7 @@ def collect_string_dates(value):
     return dates
 
 
-def extract_sort_keys(meta):
-    """
-    Track dates by top-level asset family.
-
-    Emotion dates are collected directly into portrait dates because
-    emotions are portrait assets.
-    """
-    date_modified = meta.get("dateModified", {})
+def extract_sort_keys(date_modified):
     if not isinstance(date_modified, dict):
         date_modified = {}
 
@@ -649,11 +810,17 @@ def extract_sort_keys(meta):
 
 
 # ============================================================
-# DETAIL-MANIFEST BUILDING
+# DETAIL MANIFEST
 # ============================================================
 
 
-def build_detail_variant(meta, paths, has):
+def build_detail_variant(
+    meta,
+    paths,
+    has,
+    credits,
+    date_modified,
+):
     emotion_paths = (
         paths
         .get("portraits", {})
@@ -681,15 +848,15 @@ def build_detail_variant(meta, paths, has):
         ],
         "has": has,
         "paths": paths,
-        "credits": meta.get("credits", {}),
-        "dateModified": meta.get("dateModified", {}),
+        "credits": credits,
+        "dateModified": date_modified,
         "history": meta.get("history", []),
         "notes": meta.get("notes", ""),
     }
 
 
 # ============================================================
-# FORMATTING RULES
+# OUTPUT FORMATTING
 # ============================================================
 
 INLINE_LIST_KEY_NAMES = {
@@ -704,8 +871,6 @@ INLINE_LIST_KEY_NAMES = {
     "artists",
 }
 
-INLINE_OBJECT_KEY_NAMES = set()
-
 
 def dumps_inline_list(value):
     return json.dumps(
@@ -715,20 +880,8 @@ def dumps_inline_list(value):
     )
 
 
-def dumps_inline_object(value):
-    return json.dumps(
-        value,
-        ensure_ascii=False,
-        separators=(", ", ": "),
-    )
-
-
 def is_inline_list(key, value):
     return isinstance(value, list) and key in INLINE_LIST_KEY_NAMES
-
-
-def is_inline_object(key, value):
-    return isinstance(value, dict) and key in INLINE_OBJECT_KEY_NAMES
 
 
 def is_credit_object(value):
@@ -753,9 +906,6 @@ def render(value, indent=0, key_name=None):
     if isinstance(value, dict):
         if is_credit_object(value):
             return render_inline_credit(value)
-
-        if is_inline_object(key_name, value):
-            return dumps_inline_object(value)
 
         if not value:
             return "{}"
@@ -861,6 +1011,7 @@ def main():
             "assetsRepoRoot": str(ASSETS_REPO_ROOT),
             "warriorRoot": str(WARRIOR_ROOT),
             "warriorMetadataRoot": str(WARRIOR_METADATA_ROOT),
+            "assetMetadataRoot": str(ASSET_METADATA_ROOT),
             "manifestRoot": str(MANIFEST_ROOT),
             "assetBase": ASSET_BASE,
         },
@@ -871,12 +1022,17 @@ def main():
             "metaParsed": 0,
             "metaParsedWithRepair": 0,
             "metaErrors": 0,
+            "assetMetadataFilesLoaded": 0,
+            "assetMetadataFilesParsedWithRepair": 0,
+            "assetMetadataEntriesLoaded": 0,
             "rowsWritten": 0,
             "detailFilesWritten": 0,
         },
         "errors": [],
         "warnings": [],
     }
+
+    asset_stores = load_asset_metadata(report)
 
     index = {
         "schemaVersion": 1,
@@ -894,7 +1050,7 @@ def main():
         report["counts"]["metaFilesFound"] += 1
 
         try:
-            meta, repaired = load_meta_json(meta_path)
+            meta, repaired = load_json_tolerant(meta_path)
             report["counts"]["metaParsed"] += 1
 
             if repaired:
@@ -989,17 +1145,37 @@ def main():
             meta = record["meta"]
             variant_id = meta["variantId"]
 
-            paths, has = build_paths_and_has(meta, report)
+            resolved_assets = build_resolved_assets(
+                meta,
+                asset_stores,
+                report,
+            )
+
+            paths = build_paths(
+                resolved_assets,
+                warrior_id,
+                variant_id,
+            )
+
+            has = build_has(resolved_assets)
+
+            credits, date_modified = build_credits_and_dates(
+                resolved_assets
+            )
 
             detail["variants"][variant_id] = (
-                build_detail_variant(meta, paths, has)
+                build_detail_variant(
+                    meta=meta,
+                    paths=paths,
+                    has=has,
+                    credits=credits,
+                    date_modified=date_modified,
+                )
             )
 
-            full_icon_path = (
-                paths.get("icons", {}).get("full")
-            )
-
+            full_icon_path = paths.get("icons", {}).get("full")
             thumb = {}
+
             if full_icon_path:
                 thumb["icon"] = full_icon_path
 
@@ -1021,8 +1197,8 @@ def main():
                 "thumb": thumb,
                 "has": has,
                 "stats": meta.get("stats"),
-                "sortKeys": extract_sort_keys(meta),
-                "searchKeys": extract_artists(meta),
+                "sortKeys": extract_sort_keys(date_modified),
+                "searchKeys": extract_artists(credits),
                 "detail": (
                     f"manifest/warriors/{warrior_id}.json"
                     f"#{variant_id}"
@@ -1058,12 +1234,17 @@ def main():
     )
     print(f"Report: {WARRIOR_REPORT_PATH}")
     print(
-        "Meta parsed: "
+        "Warrior meta parsed: "
         f"{report['counts']['metaParsed']} "
         "(repaired: "
         f"{report['counts']['metaParsedWithRepair']}), "
         "errors: "
         f"{report['counts']['metaErrors']}"
+    )
+    print(
+        "Asset metadata loaded: "
+        f"{report['counts']['assetMetadataFilesLoaded']} files, "
+        f"{report['counts']['assetMetadataEntriesLoaded']} entries"
     )
     print(f"Rows written: {report['counts']['rowsWritten']}")
 

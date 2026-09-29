@@ -1,0 +1,45 @@
+{
+  "warriorId": "ujiyasu",
+  "variantId": "rank-i",
+  "displayName": "Ujiyasu-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "15.1",
+  "specialityTypeIds": ["rock"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 80,
+      "wisdom": 78,
+      "charisma": 84,
+      "bst": 242,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 33,
+            "cropped": 33,
+            "full": 33
+          },
+      "portraits": {
+            "intro": 33,
+            "overworld": null,
+            "emotions": {
+                    "profile": 135,
+                    "joyful": 136,
+                    "sad": null,
+                    "fierce": 137,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

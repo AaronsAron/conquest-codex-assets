@@ -1,0 +1,45 @@
+{
+  "warriorId": "kazutoyo",
+  "variantId": "default",
+  "displayName": "Kazutoyo",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "66",
+  "specialityTypeIds": ["fire"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 48,
+      "wisdom": 51,
+      "charisma": 62,
+      "bst": 161,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 110,
+            "cropped": 110,
+            "full": 110
+          },
+      "portraits": {
+            "intro": 110,
+            "overworld": null,
+            "emotions": {
+                    "profile": 335,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

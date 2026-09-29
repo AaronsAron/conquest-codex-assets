@@ -1,0 +1,45 @@
+{
+  "warriorId": "nobutsuna",
+  "variantId": "default",
+  "displayName": "Nobutsuna",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "198",
+  "specialityTypeIds": ["steel"],
+  "weaknessTypeIds": ["fire"],
+
+  "stats": {
+      "power": 95,
+      "wisdom": 42,
+      "charisma": 70,
+      "bst": 207,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 101,
+            "cropped": 101,
+            "full": 101
+          },
+      "portraits": {
+            "intro": 101,
+            "overworld": null,
+            "emotions": {
+                    "profile": 326,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

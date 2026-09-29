@@ -1,0 +1,45 @@
+{
+  "warriorId": "norishige",
+  "variantId": "default",
+  "displayName": "Norishige",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "79",
+  "specialityTypeIds": ["electric", "water"],
+  "weaknessTypeIds": ["grass", "dark"],
+
+  "stats": {
+      "power": 78,
+      "wisdom": 45,
+      "charisma": 52,
+      "bst": 175,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 103,
+            "cropped": 103,
+            "full": 103
+          },
+      "portraits": {
+            "intro": 103,
+            "overworld": null,
+            "emotions": {
+                    "profile": 328,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

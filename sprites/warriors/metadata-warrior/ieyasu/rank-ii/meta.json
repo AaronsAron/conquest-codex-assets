@@ -1,0 +1,45 @@
+{
+  "warriorId": "ieyasu",
+  "variantId": "rank-ii",
+  "displayName": "Ieyasu-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "18.2",
+  "specialityTypeIds": ["steel", "rock"],
+  "weaknessTypeIds": ["fire", "grass"],
+
+  "stats": {
+      "power": 88,
+      "wisdom": 94,
+      "charisma": 97,
+      "bst": 279,
+      "capacity": 8
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 40,
+            "cropped": 40,
+            "full": 40
+          },
+      "portraits": {
+            "intro": 40,
+            "overworld": null,
+            "emotions": {
+                    "profile": 160,
+                    "joyful": 161,
+                    "sad": 162,
+                    "fierce": 163,
+                    "shocked": 164,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

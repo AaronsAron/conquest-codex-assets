@@ -1,9 +1,10 @@
 {
   "run": {
-      "generatedAt": "2026-09-26T20:47:49-04:00",
+      "generatedAt": "2026-09-28T21:07:29-04:00",
       "assetsRepoRoot": "C:\\Users\\aaron\\Documents\\ConquestCodex\\GitHub\\conquest-codex-assets",
       "warriorRoot": "C:\\Users\\aaron\\Documents\\ConquestCodex\\GitHub\\conquest-codex-assets\\sprites\\warriors",
-      "warriorMetadataRoot": "C:\\Users\\aaron\\Documents\\ConquestCodex\\GitHub\\conquest-codex-assets\\sprites\\warriors\\metadata",
+      "warriorMetadataRoot": "C:\\Users\\aaron\\Documents\\ConquestCodex\\GitHub\\conquest-codex-assets\\sprites\\warriors\\metadata-warrior",
+      "assetMetadataRoot": "C:\\Users\\aaron\\Documents\\ConquestCodex\\GitHub\\conquest-codex-assets\\sprites\\warriors\\metadata-asset",
       "manifestRoot": "C:\\Users\\aaron\\Documents\\ConquestCodex\\GitHub\\conquest-codex-assets\\sprites\\manifest",
       "assetBase": "https://raw.githubusercontent.com/AaronsAron/conquest-codex-assets/main/sprites/"
     },
@@ -14,6 +15,9 @@
       "metaParsed": 252,
       "metaParsedWithRepair": 0,
       "metaErrors": 0,
+      "assetMetadataFilesLoaded": 7,
+      "assetMetadataFilesParsedWithRepair": 0,
+      "assetMetadataEntriesLoaded": 946,
       "rowsWritten": 252,
       "detailFilesWritten": 211
     },

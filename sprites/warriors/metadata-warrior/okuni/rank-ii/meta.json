@@ -1,0 +1,45 @@
+{
+  "warriorId": "okuni",
+  "variantId": "rank-ii",
+  "displayName": "Okuni-Rank-II",
+  "genderId": "female",
+  "tags": ["warlord", "rank-ii", "female"],
+
+  "galleryNumber": "30.2",
+  "specialityTypeIds": ["bug", "fire"],
+  "weaknessTypeIds": ["water", "ground"],
+
+  "stats": {
+      "power": 75,
+      "wisdom": 73,
+      "charisma": 88,
+      "bst": 236,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 64,
+            "cropped": 64,
+            "full": 64
+          },
+      "portraits": {
+            "intro": 64,
+            "overworld": null,
+            "emotions": {
+                    "profile": 259,
+                    "joyful": 260,
+                    "sad": 261,
+                    "fierce": null,
+                    "shocked": 262,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

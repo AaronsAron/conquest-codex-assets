@@ -1,0 +1,45 @@
+{
+  "warriorId": "yoshitsugu",
+  "variantId": "default",
+  "displayName": "Yoshitsugu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "61",
+  "specialityTypeIds": ["psychic", "fire"],
+  "weaknessTypeIds": ["dark", "water"],
+
+  "stats": {
+      "power": 72,
+      "wisdom": 86,
+      "charisma": 64,
+      "bst": 222,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 108,
+            "cropped": 108,
+            "full": 108
+          },
+      "portraits": {
+            "intro": 108,
+            "overworld": null,
+            "emotions": {
+                    "profile": 333,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

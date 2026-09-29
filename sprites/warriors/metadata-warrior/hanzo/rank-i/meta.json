@@ -1,0 +1,45 @@
+{
+  "warriorId": "hanzo",
+  "variantId": "rank-i",
+  "displayName": "Hanzo-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "23.1",
+  "specialityTypeIds": ["ghost", "poison"],
+  "weaknessTypeIds": ["ground", "psychic"],
+
+  "stats": {
+      "power": 87,
+      "wisdom": 77,
+      "charisma": 62,
+      "bst": 226,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 49,
+            "cropped": 49,
+            "full": 49
+          },
+      "portraits": {
+            "intro": 49,
+            "overworld": null,
+            "emotions": {
+                    "profile": 199,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": 200,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

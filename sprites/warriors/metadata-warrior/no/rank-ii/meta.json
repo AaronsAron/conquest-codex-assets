@@ -1,0 +1,45 @@
+{
+  "warriorId": "no",
+  "variantId": "rank-ii",
+  "displayName": "No-Rank-II",
+  "genderId": "female",
+  "tags": ["warlord", "rank-ii", "female"],
+
+  "galleryNumber": "16.2",
+  "specialityTypeIds": ["ghost", "dragon"],
+  "weaknessTypeIds": ["bug", "fighting"],
+
+  "stats": {
+      "power": 54,
+      "wisdom": 84,
+      "charisma": 97,
+      "bst": 235,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 36,
+            "cropped": 36,
+            "full": 36
+          },
+      "portraits": {
+            "intro": 36,
+            "overworld": null,
+            "emotions": {
+                    "profile": 146,
+                    "joyful": 147,
+                    "sad": 148,
+                    "fierce": 149,
+                    "shocked": 150,
+                    "special": 365
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

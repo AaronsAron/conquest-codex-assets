@@ -1,0 +1,45 @@
+{
+  "warriorId": "tokitaka",
+  "variantId": "default",
+  "displayName": "Tokitaka",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "110",
+  "specialityTypeIds": ["fire", "fighting"],
+  "weaknessTypeIds": ["water", "ground"],
+
+  "stats": {
+      "power": 56,
+      "wisdom": 65,
+      "charisma": 61,
+      "bst": 182,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 112,
+            "cropped": 112,
+            "full": 112
+          },
+      "portraits": {
+            "intro": 112,
+            "overworld": 112,
+            "emotions": {
+                    "profile": 337,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

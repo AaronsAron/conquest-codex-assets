@@ -1,0 +1,45 @@
+{
+  "warriorId": "muneshige",
+  "variantId": "rank-ii",
+  "displayName": "Muneshige-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "21.2",
+  "specialityTypeIds": ["flying", "normal"],
+  "weaknessTypeIds": ["rock", "fighting"],
+
+  "stats": {
+      "power": 94,
+      "wisdom": 78,
+      "charisma": 83,
+      "bst": 255,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 46,
+            "cropped": 46,
+            "full": 46
+          },
+      "portraits": {
+            "intro": 46,
+            "overworld": null,
+            "emotions": {
+                    "profile": 185,
+                    "joyful": 186,
+                    "sad": null,
+                    "fierce": 187,
+                    "shocked": 188,
+                    "special": 369
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

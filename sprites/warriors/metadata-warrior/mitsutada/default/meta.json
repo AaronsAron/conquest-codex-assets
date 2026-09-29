@@ -1,0 +1,45 @@
+{
+  "warriorId": "mitsutada",
+  "variantId": "default",
+  "displayName": "Mitsutada",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "99",
+  "specialityTypeIds": ["ice"],
+  "weaknessTypeIds": ["normal"],
+
+  "stats": {
+      "power": 65,
+      "wisdom": 40,
+      "charisma": 58,
+      "bst": 163,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 106,
+            "cropped": 106,
+            "full": 106
+          },
+      "portraits": {
+            "intro": 106,
+            "overworld": null,
+            "emotions": {
+                    "profile": 331,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "takeyoshi",
+  "variantId": "default",
+  "displayName": "Takeyoshi",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "92",
+  "specialityTypeIds": ["water", "grass"],
+  "weaknessTypeIds": ["electric", "poison"],
+
+  "stats": {
+      "power": 80,
+      "wisdom": 66,
+      "charisma": 62,
+      "bst": 208,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 116,
+            "cropped": 116,
+            "full": 116
+          },
+      "portraits": {
+            "intro": 116,
+            "overworld": null,
+            "emotions": {
+                    "profile": 341,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

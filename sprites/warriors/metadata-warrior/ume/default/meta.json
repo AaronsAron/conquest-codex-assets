@@ -1,0 +1,45 @@
+{
+  "warriorId": "ume",
+  "variantId": "default",
+  "displayName": "Ume",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "123",
+  "specialityTypeIds": ["ground"],
+  "weaknessTypeIds": ["ice"],
+
+  "stats": {
+      "power": 32,
+      "wisdom": 50,
+      "charisma": 50,
+      "bst": 132,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 114,
+            "cropped": 114,
+            "full": 114
+          },
+      "portraits": {
+            "intro": 114,
+            "overworld": null,
+            "emotions": {
+                    "profile": 339,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

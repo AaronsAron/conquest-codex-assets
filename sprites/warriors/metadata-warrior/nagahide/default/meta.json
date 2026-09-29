@@ -1,0 +1,45 @@
+{
+  "warriorId": "nagahide",
+  "variantId": "default",
+  "displayName": "Nagahide",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "48",
+  "specialityTypeIds": ["dragon"],
+  "weaknessTypeIds": ["ice"],
+
+  "stats": {
+      "power": 75,
+      "wisdom": 73,
+      "charisma": 68,
+      "bst": 216,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 101,
+            "cropped": 101,
+            "full": 101
+          },
+      "portraits": {
+            "intro": 101,
+            "overworld": null,
+            "emotions": {
+                    "profile": 326,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

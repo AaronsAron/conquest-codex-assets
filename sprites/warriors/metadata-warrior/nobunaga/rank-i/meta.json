@@ -1,0 +1,45 @@
+{
+  "warriorId": "nobunaga",
+  "variantId": "rank-i",
+  "displayName": "Nobunaga-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "2.1",
+  "specialityTypeIds": ["dragon", "electric"],
+  "weaknessTypeIds": ["ice"],
+
+  "stats": {
+      "power": 89,
+      "wisdom": 94,
+      "charisma": 92,
+      "bst": 275,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 6,
+            "cropped": 6,
+            "full": 6
+          },
+      "portraits": {
+            "intro": 6,
+            "overworld": null,
+            "emotions": {
+                    "profile": 30,
+                    "joyful": 31,
+                    "sad": null,
+                    "fierce": 32,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

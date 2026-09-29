@@ -1,0 +1,45 @@
+{
+  "warriorId": "chikamasa",
+  "variantId": "default",
+  "displayName": "Chikamasa",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "78",
+  "specialityTypeIds": ["water"],
+  "weaknessTypeIds": ["grass"],
+
+  "stats": {
+      "power": 87,
+      "wisdom": 21,
+      "charisma": 63,
+      "bst": 171,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 106,
+            "cropped": 106,
+            "full": 106
+          },
+      "portraits": {
+            "intro": 106,
+            "overworld": null,
+            "emotions": {
+                    "profile": 331,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

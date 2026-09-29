@@ -1,0 +1,45 @@
+{
+  "warriorId": "masahide",
+  "variantId": "default",
+  "displayName": "Masahide",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "54",
+  "specialityTypeIds": ["dragon"],
+  "weaknessTypeIds": ["ice"],
+
+  "stats": {
+      "power": 26,
+      "wisdom": 79,
+      "charisma": 67,
+      "bst": 172,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 108,
+            "cropped": 108,
+            "full": 108
+          },
+      "portraits": {
+            "intro": 108,
+            "overworld": null,
+            "emotions": {
+                    "profile": 333,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

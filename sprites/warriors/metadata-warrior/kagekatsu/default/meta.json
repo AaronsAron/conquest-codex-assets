@@ -1,0 +1,45 @@
+{
+  "warriorId": "kagekatsu",
+  "variantId": "default",
+  "displayName": "Kagekatsu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "134",
+  "specialityTypeIds": ["psychic"],
+  "weaknessTypeIds": ["ghost"],
+
+  "stats": {
+      "power": 82,
+      "wisdom": 71,
+      "charisma": 64,
+      "bst": 217,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 102,
+            "cropped": 102,
+            "full": 102
+          },
+      "portraits": {
+            "intro": 102,
+            "overworld": null,
+            "emotions": {
+                    "profile": 327,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

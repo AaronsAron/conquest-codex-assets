@@ -1,0 +1,45 @@
+{
+  "warriorId": "tomonobu",
+  "variantId": "default",
+  "displayName": "Tomonobu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "136",
+  "specialityTypeIds": ["psychic"],
+  "weaknessTypeIds": ["ghost"],
+
+  "stats": {
+      "power": 74,
+      "wisdom": 76,
+      "charisma": 68,
+      "bst": 218,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 104,
+            "cropped": 104,
+            "full": 104
+          },
+      "portraits": {
+            "intro": 104,
+            "overworld": null,
+            "emotions": {
+                    "profile": 329,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

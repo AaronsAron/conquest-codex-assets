@@ -1,0 +1,45 @@
+{
+  "warriorId": "hideyori",
+  "variantId": "default",
+  "displayName": "Hideyori",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "64",
+  "specialityTypeIds": ["fire"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 20,
+      "wisdom": 26,
+      "charisma": 68,
+      "bst": 114,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 105,
+            "cropped": 105,
+            "full": 105
+          },
+      "portraits": {
+            "intro": 105,
+            "overworld": null,
+            "emotions": {
+                    "profile": 330,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

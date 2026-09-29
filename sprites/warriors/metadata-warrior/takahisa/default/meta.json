@@ -1,0 +1,45 @@
+{
+  "warriorId": "takahisa",
+  "variantId": "default",
+  "displayName": "Takahisa",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "106",
+  "specialityTypeIds": ["fighting"],
+  "weaknessTypeIds": ["flying"],
+
+  "stats": {
+      "power": 66,
+      "wisdom": 87,
+      "charisma": 85,
+      "bst": 238,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 100,
+            "cropped": 100,
+            "full": 100
+          },
+      "portraits": {
+            "intro": 100,
+            "overworld": null,
+            "emotions": {
+                    "profile": 325,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

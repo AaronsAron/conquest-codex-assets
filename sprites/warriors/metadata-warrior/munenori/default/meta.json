@@ -1,0 +1,45 @@
+{
+  "warriorId": "munenori",
+  "variantId": "default",
+  "displayName": "Munenori",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "181",
+  "specialityTypeIds": ["bug", "steel"],
+  "weaknessTypeIds": ["normal", "ghost"],
+
+  "stats": {
+      "power": 90,
+      "wisdom": 80,
+      "charisma": 66,
+      "bst": 236,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 103,
+            "cropped": 103,
+            "full": 103
+          },
+      "portraits": {
+            "intro": 103,
+            "overworld": null,
+            "emotions": {
+                    "profile": 328,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

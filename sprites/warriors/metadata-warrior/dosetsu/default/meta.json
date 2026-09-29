@@ -1,0 +1,45 @@
+{
+  "warriorId": "dosetsu",
+  "variantId": "default",
+  "displayName": "Dosetsu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "82",
+  "specialityTypeIds": ["electric"],
+  "weaknessTypeIds": ["ground"],
+
+  "stats": {
+      "power": 85,
+      "wisdom": 86,
+      "charisma": 76,
+      "bst": 247,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 100,
+            "cropped": 100,
+            "full": 100
+          },
+      "portraits": {
+            "intro": 100,
+            "overworld": null,
+            "emotions": {
+                    "profile": 325,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

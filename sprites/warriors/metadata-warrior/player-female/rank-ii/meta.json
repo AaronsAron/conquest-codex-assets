@@ -1,0 +1,45 @@
+{
+  "warriorId": "player-female",
+  "variantId": "rank-ii",
+  "displayName": "Player-Female-Rank-II",
+  "genderId": "female",
+  "tags": ["warlord", "rank-ii", "female"],
+
+  "galleryNumber": "1.5",
+  "specialityTypeIds": ["normal"],
+  "weaknessTypeIds": ["fighting"],
+
+  "stats": {
+      "power": 75,
+      "wisdom": 70,
+      "charisma": 80,
+      "bst": 225,
+      "capacity": 8
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 4,
+            "cropped": 4,
+            "full": 4
+          },
+      "portraits": {
+            "intro": 4,
+            "overworld": null,
+            "emotions": {
+                    "profile": 20,
+                    "joyful": 21,
+                    "sad": 22,
+                    "fierce": 23,
+                    "shocked": 24,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

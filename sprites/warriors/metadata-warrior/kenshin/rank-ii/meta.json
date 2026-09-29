@@ -1,0 +1,45 @@
+{
+  "warriorId": "kenshin",
+  "variantId": "rank-ii",
+  "displayName": "Kenshin-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "13.2",
+  "specialityTypeIds": ["psychic", "fighting"],
+  "weaknessTypeIds": ["ghost"],
+
+  "stats": {
+      "power": 99,
+      "wisdom": 76,
+      "charisma": 91,
+      "bst": 266,
+      "capacity": 8
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 30,
+            "cropped": 30,
+            "full": 30
+          },
+      "portraits": {
+            "intro": 30,
+            "overworld": null,
+            "emotions": {
+                    "profile": 125,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": 126,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

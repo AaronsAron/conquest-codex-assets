@@ -1,0 +1,45 @@
+{
+  "warriorId": "sasuke",
+  "variantId": "default",
+  "displayName": "Sasuke",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "185",
+  "specialityTypeIds": ["flying", "fire"],
+  "weaknessTypeIds": ["rock", "ground"],
+
+  "stats": {
+      "power": 81,
+      "wisdom": 72,
+      "charisma": 70,
+      "bst": 223,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 124,
+            "cropped": 124,
+            "full": 124
+          },
+      "portraits": {
+            "intro": 124,
+            "overworld": null,
+            "emotions": {
+                    "profile": 349,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

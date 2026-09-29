@@ -1,0 +1,45 @@
+{
+  "warriorId": "ittetsu",
+  "variantId": "default",
+  "displayName": "Ittetsu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "163",
+  "specialityTypeIds": ["steel", "ghost"],
+  "weaknessTypeIds": ["normal", "grass"],
+
+  "stats": {
+      "power": 70,
+      "wisdom": 72,
+      "charisma": 70,
+      "bst": 212,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 104,
+            "cropped": 104,
+            "full": 104
+          },
+      "portraits": {
+            "intro": 104,
+            "overworld": null,
+            "emotions": {
+                    "profile": 329,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "masayuki",
+  "variantId": "default",
+  "displayName": "Masayuki",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "121",
+  "specialityTypeIds": ["fire", "ground"],
+  "weaknessTypeIds": ["grass", "ice"],
+
+  "stats": {
+      "power": 74,
+      "wisdom": 93,
+      "charisma": 74,
+      "bst": 241,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 101,
+            "cropped": 101,
+            "full": 101
+          },
+      "portraits": {
+            "intro": 101,
+            "overworld": null,
+            "emotions": {
+                    "profile": 326,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

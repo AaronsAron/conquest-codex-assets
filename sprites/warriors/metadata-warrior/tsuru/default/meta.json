@@ -1,0 +1,45 @@
+{
+  "warriorId": "tsuru",
+  "variantId": "default",
+  "displayName": "Tsuru",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "188",
+  "specialityTypeIds": ["ghost"],
+  "weaknessTypeIds": ["bug"],
+
+  "stats": {
+      "power": 75,
+      "wisdom": 43,
+      "charisma": 72,
+      "bst": 190,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 113,
+            "cropped": 113,
+            "full": 113
+          },
+      "portraits": {
+            "intro": 113,
+            "overworld": null,
+            "emotions": {
+                    "profile": 338,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

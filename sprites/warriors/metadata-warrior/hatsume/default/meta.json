@@ -1,0 +1,45 @@
+{
+  "warriorId": "hatsume",
+  "variantId": "default",
+  "displayName": "Hatsume",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "74",
+  "specialityTypeIds": ["steel", "fire"],
+  "weaknessTypeIds": ["normal", "grass"],
+
+  "stats": {
+      "power": 62,
+      "wisdom": 55,
+      "charisma": 73,
+      "bst": 190,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 126,
+            "cropped": 126,
+            "full": 126
+          },
+      "portraits": {
+            "intro": 126,
+            "overworld": null,
+            "emotions": {
+                    "profile": 351,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "seikai",
+  "variantId": "default",
+  "displayName": "Seikai",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "192",
+  "specialityTypeIds": ["fighting", "fire"],
+  "weaknessTypeIds": ["ground", "water"],
+
+  "stats": {
+      "power": 82,
+      "wisdom": 53,
+      "charisma": 65,
+      "bst": 200,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 117,
+            "cropped": 117,
+            "full": 117
+          },
+      "portraits": {
+            "intro": 117,
+            "overworld": 117,
+            "emotions": {
+                    "profile": 342,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

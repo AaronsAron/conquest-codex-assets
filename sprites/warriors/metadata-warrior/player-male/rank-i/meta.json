@@ -1,0 +1,45 @@
+{
+  "warriorId": "player-male",
+  "variantId": "rank-i",
+  "displayName": "Player-Male-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "1.1",
+  "specialityTypeIds": ["normal"],
+  "weaknessTypeIds": ["fighting"],
+
+  "stats": {
+      "power": 65,
+      "wisdom": 60,
+      "charisma": 65,
+      "bst": 190,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": 0,
+      "icons": {
+            "battle": 0,
+            "cropped": 0,
+            "full": 0
+          },
+      "portraits": {
+            "intro": 0,
+            "overworld": null,
+            "emotions": {
+                    "profile": 0,
+                    "joyful": 1,
+                    "sad": 2,
+                    "fierce": 3,
+                    "shocked": 4,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

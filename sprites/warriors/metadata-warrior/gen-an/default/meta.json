@@ -1,0 +1,45 @@
+{
+  "warriorId": "gen-an",
+  "variantId": "default",
+  "displayName": "Gen'an",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "154",
+  "specialityTypeIds": ["rock"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 2,
+      "wisdom": 83,
+      "charisma": 80,
+      "bst": 165,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 121,
+            "cropped": 121,
+            "full": 121
+          },
+      "portraits": {
+            "intro": 121,
+            "overworld": null,
+            "emotions": {
+                    "profile": 346,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

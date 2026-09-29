@@ -1,0 +1,45 @@
+{
+  "warriorId": "kiyo",
+  "variantId": "default",
+  "displayName": "Kiyo",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "88",
+  "specialityTypeIds": ["electric"],
+  "weaknessTypeIds": ["ground"],
+
+  "stats": {
+      "power": 15,
+      "wisdom": 13,
+      "charisma": 78,
+      "bst": 106,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 114,
+            "cropped": 114,
+            "full": 114
+          },
+      "portraits": {
+            "intro": 114,
+            "overworld": null,
+            "emotions": {
+                    "profile": 339,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

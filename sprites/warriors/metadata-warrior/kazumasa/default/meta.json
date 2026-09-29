@@ -1,0 +1,45 @@
+{
+  "warriorId": "kazumasa",
+  "variantId": "default",
+  "displayName": "Kazumasa",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "178",
+  "specialityTypeIds": ["steel"],
+  "weaknessTypeIds": ["fire"],
+
+  "stats": {
+      "power": 51,
+      "wisdom": 78,
+      "charisma": 72,
+      "bst": 201,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 108,
+            "cropped": 108,
+            "full": 108
+          },
+      "portraits": {
+            "intro": 108,
+            "overworld": null,
+            "emotions": {
+                    "profile": 333,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

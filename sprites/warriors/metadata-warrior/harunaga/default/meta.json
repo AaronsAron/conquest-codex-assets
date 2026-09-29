@@ -1,0 +1,45 @@
+{
+  "warriorId": "harunaga",
+  "variantId": "default",
+  "displayName": "Harunaga",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "68",
+  "specialityTypeIds": ["fire"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 14,
+      "wisdom": 42,
+      "charisma": 57,
+      "bst": 113,
+      "capacity": 2
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 109,
+            "cropped": 109,
+            "full": 109
+          },
+      "portraits": {
+            "intro": 109,
+            "overworld": null,
+            "emotions": {
+                    "profile": 334,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

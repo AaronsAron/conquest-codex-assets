@@ -1,0 +1,45 @@
+{
+  "warriorId": "oichi",
+  "variantId": "rank-i",
+  "displayName": "Oichi-Rank-I",
+  "genderId": "female",
+  "tags": ["warlord", "rank-i", "female"],
+
+  "galleryNumber": "3.1",
+  "specialityTypeIds": ["normal", "dragon"],
+  "weaknessTypeIds": ["fighting"],
+
+  "stats": {
+      "power": 48,
+      "wisdom": 73,
+      "charisma": 90,
+      "bst": 211,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 8,
+            "cropped": 8,
+            "full": 8
+          },
+      "portraits": {
+            "intro": 8,
+            "overworld": null,
+            "emotions": {
+                    "profile": 36,
+                    "joyful": 37,
+                    "sad": 38,
+                    "fierce": 39,
+                    "shocked": 40,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

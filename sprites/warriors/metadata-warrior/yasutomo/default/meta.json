@@ -1,0 +1,45 @@
+{
+  "warriorId": "yasutomo",
+  "variantId": "default",
+  "displayName": "Yasutomo",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "148",
+  "specialityTypeIds": ["bug"],
+  "weaknessTypeIds": ["dark"],
+
+  "stats": {
+      "power": 71,
+      "wisdom": 58,
+      "charisma": 59,
+      "bst": 188,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 104,
+            "cropped": 104,
+            "full": 104
+          },
+      "portraits": {
+            "intro": 104,
+            "overworld": null,
+            "emotions": {
+                    "profile": 329,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

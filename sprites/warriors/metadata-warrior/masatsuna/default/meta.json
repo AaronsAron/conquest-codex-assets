@@ -1,0 +1,45 @@
+{
+  "warriorId": "masatsuna",
+  "variantId": "default",
+  "displayName": "Masatsuna",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "147",
+  "specialityTypeIds": ["bug"],
+  "weaknessTypeIds": ["dark"],
+
+  "stats": {
+      "power": 44,
+      "wisdom": 52,
+      "charisma": 62,
+      "bst": 158,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 103,
+            "cropped": 103,
+            "full": 103
+          },
+      "portraits": {
+            "intro": 103,
+            "overworld": null,
+            "emotions": {
+                    "profile": 328,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

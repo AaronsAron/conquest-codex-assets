@@ -1,0 +1,45 @@
+{
+  "warriorId": "danzo",
+  "variantId": "default",
+  "displayName": "Danzo",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "170",
+  "specialityTypeIds": ["flying", "dark"],
+  "weaknessTypeIds": ["psychic", "grass"],
+
+  "stats": {
+      "power": 79,
+      "wisdom": 89,
+      "charisma": 48,
+      "bst": 216,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 124,
+            "cropped": 124,
+            "full": 124
+          },
+      "portraits": {
+            "intro": 124,
+            "overworld": null,
+            "emotions": {
+                    "profile": 349,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

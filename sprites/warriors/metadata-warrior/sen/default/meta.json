@@ -1,0 +1,45 @@
+{
+  "warriorId": "sen",
+  "variantId": "default",
+  "displayName": "Sen",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "143",
+  "specialityTypeIds": ["psychic"],
+  "weaknessTypeIds": ["ghost"],
+
+  "stats": {
+      "power": 27,
+      "wisdom": 61,
+      "charisma": 48,
+      "bst": 136,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 114,
+            "cropped": 114,
+            "full": 114
+          },
+      "portraits": {
+            "intro": 114,
+            "overworld": null,
+            "emotions": {
+                    "profile": 339,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "motozane",
+  "variantId": "default",
+  "displayName": "Motozane",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "150",
+  "specialityTypeIds": ["bug"],
+  "weaknessTypeIds": ["dark"],
+
+  "stats": {
+      "power": 50,
+      "wisdom": 58,
+      "charisma": 63,
+      "bst": 171,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 109,
+            "cropped": 109,
+            "full": 109
+          },
+      "portraits": {
+            "intro": 109,
+            "overworld": null,
+            "emotions": {
+                    "profile": 334,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

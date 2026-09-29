@@ -1,0 +1,45 @@
+{
+  "warriorId": "morinari",
+  "variantId": "default",
+  "displayName": "Morinari",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "165",
+  "specialityTypeIds": ["ghost"],
+  "weaknessTypeIds": ["bug"],
+
+  "stats": {
+      "power": 46,
+      "wisdom": 70,
+      "charisma": 66,
+      "bst": 182,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 111,
+            "cropped": 111,
+            "full": 111
+          },
+      "portraits": {
+            "intro": 111,
+            "overworld": null,
+            "emotions": {
+                    "profile": 336,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

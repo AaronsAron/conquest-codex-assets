@@ -1,0 +1,45 @@
+{
+  "warriorId": "akizane",
+  "variantId": "default",
+  "displayName": "Akizane",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "86",
+  "specialityTypeIds": ["electric"],
+  "weaknessTypeIds": ["ground"],
+
+  "stats": {
+      "power": 58,
+      "wisdom": 40,
+      "charisma": 61,
+      "bst": 159,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 118,
+            "cropped": 118,
+            "full": 118
+          },
+      "portraits": {
+            "intro": 118,
+            "overworld": 118,
+            "emotions": {
+                    "profile": 343,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

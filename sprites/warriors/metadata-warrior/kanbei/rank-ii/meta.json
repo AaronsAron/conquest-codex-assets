@@ -1,0 +1,45 @@
+{
+  "warriorId": "kanbei",
+  "variantId": "rank-ii",
+  "displayName": "Kanbei-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "20.2",
+  "specialityTypeIds": ["ghost", "fire"],
+  "weaknessTypeIds": ["ground", "water"],
+
+  "stats": {
+      "power": 70,
+      "wisdom": 98,
+      "charisma": 70,
+      "bst": 238,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 44,
+            "cropped": 44,
+            "full": 44
+          },
+      "portraits": {
+            "intro": 44,
+            "overworld": null,
+            "emotions": {
+                    "profile": 178,
+                    "joyful": null,
+                    "sad": 179,
+                    "fierce": null,
+                    "shocked": 180,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

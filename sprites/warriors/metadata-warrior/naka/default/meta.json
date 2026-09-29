@@ -1,0 +1,45 @@
+{
+  "warriorId": "naka",
+  "variantId": "default",
+  "displayName": "Naka",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "70",
+  "specialityTypeIds": ["ground", "fire"],
+  "weaknessTypeIds": ["ice", "grass"],
+
+  "stats": {
+      "power": 62,
+      "wisdom": 54,
+      "charisma": 60,
+      "bst": 176,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 128,
+            "cropped": 128,
+            "full": 128
+          },
+      "portraits": {
+            "intro": 128,
+            "overworld": null,
+            "emotions": {
+                    "profile": 353,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

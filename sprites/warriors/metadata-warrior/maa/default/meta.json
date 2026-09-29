@@ -1,0 +1,45 @@
+{
+  "warriorId": "maa",
+  "variantId": "default",
+  "displayName": "Maa",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "72",
+  "specialityTypeIds": ["ghost", "fire"],
+  "weaknessTypeIds": ["ground", "water"],
+
+  "stats": {
+      "power": 57,
+      "wisdom": 73,
+      "charisma": 50,
+      "bst": 180,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 114,
+            "cropped": 114,
+            "full": 114
+          },
+      "portraits": {
+            "intro": 114,
+            "overworld": null,
+            "emotions": {
+                    "profile": 339,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

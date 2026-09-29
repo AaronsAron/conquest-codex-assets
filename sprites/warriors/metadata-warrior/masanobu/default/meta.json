@@ -1,0 +1,45 @@
+{
+  "warriorId": "masanobu",
+  "variantId": "default",
+  "displayName": "Masanobu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "176",
+  "specialityTypeIds": ["ghost", "fire"],
+  "weaknessTypeIds": ["ground", "water"],
+
+  "stats": {
+      "power": 6,
+      "wisdom": 95,
+      "charisma": 53,
+      "bst": 154,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 108,
+            "cropped": 108,
+            "full": 108
+          },
+      "portraits": {
+            "intro": 108,
+            "overworld": null,
+            "emotions": {
+                    "profile": 333,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

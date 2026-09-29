@@ -1,0 +1,45 @@
+{
+  "warriorId": "tsunashige",
+  "variantId": "default",
+  "displayName": "Tsunashige",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "153",
+  "specialityTypeIds": ["fighting", "rock"],
+  "weaknessTypeIds": ["flying", "water"],
+
+  "stats": {
+      "power": 90,
+      "wisdom": 79,
+      "charisma": 76,
+      "bst": 245,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 101,
+            "cropped": 101,
+            "full": 101
+          },
+      "portraits": {
+            "intro": 101,
+            "overworld": null,
+            "emotions": {
+                    "profile": 326,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

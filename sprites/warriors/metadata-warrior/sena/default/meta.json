@@ -1,0 +1,45 @@
+{
+  "warriorId": "sena",
+  "variantId": "default",
+  "displayName": "Sena",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "151",
+  "specialityTypeIds": ["bug"],
+  "weaknessTypeIds": ["dark"],
+
+  "stats": {
+      "power": 48,
+      "wisdom": 74,
+      "charisma": 50,
+      "bst": 172,
+      "capacity": 2
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 125,
+            "cropped": 125,
+            "full": 125
+          },
+      "portraits": {
+            "intro": 125,
+            "overworld": null,
+            "emotions": {
+                    "profile": 350,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

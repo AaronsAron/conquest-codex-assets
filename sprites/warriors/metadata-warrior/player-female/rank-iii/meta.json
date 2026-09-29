@@ -1,0 +1,45 @@
+{
+  "warriorId": "player-female",
+  "variantId": "rank-iii",
+  "displayName": "Player-Female-Rank-III",
+  "genderId": "female",
+  "tags": ["warlord", "rank-iii", "female"],
+
+  "galleryNumber": "1.6",
+  "specialityTypeIds": ["normal"],
+  "weaknessTypeIds": ["fighting"],
+
+  "stats": {
+      "power": 80,
+      "wisdom": 85,
+      "charisma": 100,
+      "bst": 265,
+      "capacity": 8
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 5,
+            "cropped": 5,
+            "full": 5
+          },
+      "portraits": {
+            "intro": 5,
+            "overworld": null,
+            "emotions": {
+                    "profile": 25,
+                    "joyful": 26,
+                    "sad": 27,
+                    "fierce": 28,
+                    "shocked": 29,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

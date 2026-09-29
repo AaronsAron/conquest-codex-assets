@@ -1,0 +1,45 @@
+{
+  "warriorId": "shoun",
+  "variantId": "default",
+  "displayName": "Shoun",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "83",
+  "specialityTypeIds": ["electric"],
+  "weaknessTypeIds": ["ground"],
+
+  "stats": {
+      "power": 90,
+      "wisdom": 70,
+      "charisma": 66,
+      "bst": 226,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 102,
+            "cropped": 102,
+            "full": 102
+          },
+      "portraits": {
+            "intro": 102,
+            "overworld": null,
+            "emotions": {
+                    "profile": 327,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

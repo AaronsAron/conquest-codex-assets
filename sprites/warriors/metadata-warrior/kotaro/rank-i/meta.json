@@ -1,0 +1,45 @@
+{
+  "warriorId": "kotaro",
+  "variantId": "rank-i",
+  "displayName": "Kotaro-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "17.1",
+  "specialityTypeIds": ["dark"],
+  "weaknessTypeIds": ["bug"],
+
+  "stats": {
+      "power": 82,
+      "wisdom": 78,
+      "charisma": 52,
+      "bst": 212,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 37,
+            "cropped": 37,
+            "full": 37
+          },
+      "portraits": {
+            "intro": 37,
+            "overworld": null,
+            "emotions": {
+                    "profile": 151,
+                    "joyful": 152,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

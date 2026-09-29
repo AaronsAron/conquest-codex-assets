@@ -1,0 +1,45 @@
+{
+  "warriorId": "hidenaga",
+  "variantId": "default",
+  "displayName": "Hidenaga",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "58",
+  "specialityTypeIds": ["fire"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 68,
+      "wisdom": 78,
+      "charisma": 77,
+      "bst": 223,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 104,
+            "cropped": 104,
+            "full": 104
+          },
+      "portraits": {
+            "intro": 104,
+            "overworld": null,
+            "emotions": {
+                    "profile": 329,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

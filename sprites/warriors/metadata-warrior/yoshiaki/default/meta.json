@@ -1,0 +1,45 @@
+{
+  "warriorId": "yoshiaki",
+  "variantId": "default",
+  "displayName": "Yoshiaki",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "195",
+  "specialityTypeIds": ["grass", "dragon"],
+  "weaknessTypeIds": ["poison", "ice"],
+
+  "stats": {
+      "power": 14,
+      "wisdom": 86,
+      "charisma": 80,
+      "bst": 180,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 129,
+            "cropped": 129,
+            "full": 129
+          },
+      "portraits": {
+            "intro": 129,
+            "overworld": null,
+            "emotions": {
+                    "profile": 354,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

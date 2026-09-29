@@ -1,0 +1,45 @@
+{
+  "warriorId": "aya",
+  "variantId": "rank-ii",
+  "displayName": "Aya-Rank-II",
+  "genderId": "female",
+  "tags": ["warlord", "rank-ii", "female"],
+
+  "galleryNumber": "28.2",
+  "specialityTypeIds": ["ice", "ghost"],
+  "weaknessTypeIds": ["fighting", "rock"],
+
+  "stats": {
+      "power": 49,
+      "wisdom": 81,
+      "charisma": 86,
+      "bst": 216,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 60,
+            "cropped": 60,
+            "full": 60
+          },
+      "portraits": {
+            "intro": 60,
+            "overworld": null,
+            "emotions": {
+                    "profile": 243,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": 244,
+                    "shocked": null,
+                    "special": 373
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

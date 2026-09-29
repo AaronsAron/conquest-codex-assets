@@ -1,0 +1,45 @@
+{
+  "warriorId": "nagayoshi",
+  "variantId": "default",
+  "displayName": "Nagayoshi",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "55",
+  "specialityTypeIds": ["fighting", "dragon"],
+  "weaknessTypeIds": ["ice", "normal"],
+
+  "stats": {
+      "power": 79,
+      "wisdom": 31,
+      "charisma": 75,
+      "bst": 185,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 105,
+            "cropped": 105,
+            "full": 105
+          },
+      "portraits": {
+            "intro": 105,
+            "overworld": null,
+            "emotions": {
+                    "profile": 330,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

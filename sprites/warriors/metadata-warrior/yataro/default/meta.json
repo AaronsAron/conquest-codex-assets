@@ -1,0 +1,45 @@
+{
+  "warriorId": "yataro",
+  "variantId": "default",
+  "displayName": "Yataro",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "140",
+  "specialityTypeIds": ["grass", "psychic"],
+  "weaknessTypeIds": ["ice", "ghost"],
+
+  "stats": {
+      "power": 92,
+      "wisdom": 2,
+      "charisma": 55,
+      "bst": 149,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 106,
+            "cropped": 106,
+            "full": 106
+          },
+      "portraits": {
+            "intro": 106,
+            "overworld": null,
+            "emotions": {
+                    "profile": 331,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

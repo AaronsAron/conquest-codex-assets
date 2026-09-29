@@ -1,0 +1,45 @@
+{
+  "warriorId": "rikyu",
+  "variantId": "default",
+  "displayName": "Rikyu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "63",
+  "specialityTypeIds": ["grass", "fire"],
+  "weaknessTypeIds": ["poison", "water"],
+
+  "stats": {
+      "power": 68,
+      "wisdom": 66,
+      "charisma": 75,
+      "bst": 209,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 118,
+            "cropped": 118,
+            "full": 118
+          },
+      "portraits": {
+            "intro": 118,
+            "overworld": 118,
+            "emotions": {
+                    "profile": 343,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

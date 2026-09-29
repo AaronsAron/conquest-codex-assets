@@ -1,0 +1,45 @@
+{
+  "warriorId": "naoshige",
+  "variantId": "default",
+  "displayName": "Naoshige",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "42",
+  "specialityTypeIds": ["normal"],
+  "weaknessTypeIds": ["fighting"],
+
+  "stats": {
+      "power": 84,
+      "wisdom": 84,
+      "charisma": 81,
+      "bst": 249,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 101,
+            "cropped": 101,
+            "full": 101
+          },
+      "portraits": {
+            "intro": 101,
+            "overworld": null,
+            "emotions": {
+                    "profile": 326,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

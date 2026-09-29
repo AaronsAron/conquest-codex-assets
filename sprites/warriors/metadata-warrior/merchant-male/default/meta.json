@@ -1,0 +1,45 @@
+{
+  "warriorId": "merchant-male",
+  "variantId": "default",
+  "displayName": "Merchant",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "201",
+  "specialityTypeIds": ["normal"],
+  "weaknessTypeIds": ["fighting"],
+
+  "stats": {
+      "power": 52,
+      "wisdom": 77,
+      "charisma": 50,
+      "bst": 179,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 119,
+            "cropped": 119,
+            "full": 119
+          },
+      "portraits": {
+            "intro": 119,
+            "overworld": 119,
+            "emotions": {
+                    "profile": 344,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

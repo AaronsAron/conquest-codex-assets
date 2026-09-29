@@ -1,0 +1,45 @@
+{
+  "warriorId": "yasumasa",
+  "variantId": "default",
+  "displayName": "Yasumasa",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "175",
+  "specialityTypeIds": ["dragon", "steel"],
+  "weaknessTypeIds": ["ice", "ghost"],
+
+  "stats": {
+      "power": 83,
+      "wisdom": 51,
+      "charisma": 70,
+      "bst": 204,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 102,
+            "cropped": 102,
+            "full": 102
+          },
+      "portraits": {
+            "intro": 102,
+            "overworld": null,
+            "emotions": {
+                    "profile": 327,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

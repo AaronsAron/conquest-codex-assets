@@ -1,0 +1,45 @@
+{
+  "warriorId": "hideyoshi",
+  "variantId": "rank-i",
+  "displayName": "Hideyoshi-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "4.1",
+  "specialityTypeIds": ["fire", "fighting"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 66,
+      "wisdom": 65,
+      "charisma": 78,
+      "bst": 209,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 10,
+            "cropped": 10,
+            "full": 10
+          },
+      "portraits": {
+            "intro": 10,
+            "overworld": null,
+            "emotions": {
+                    "profile": 46,
+                    "joyful": 47,
+                    "sad": 48,
+                    "fierce": 49,
+                    "shocked": 50,
+                    "special": 355
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "nobuchika",
+  "variantId": "default",
+  "displayName": "Nobuchika",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "75",
+  "specialityTypeIds": ["water"],
+  "weaknessTypeIds": ["grass"],
+
+  "stats": {
+      "power": 79,
+      "wisdom": 66,
+      "charisma": 70,
+      "bst": 215,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 110,
+            "cropped": 110,
+            "full": 110
+          },
+      "portraits": {
+            "intro": 110,
+            "overworld": null,
+            "emotions": {
+                    "profile": 335,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

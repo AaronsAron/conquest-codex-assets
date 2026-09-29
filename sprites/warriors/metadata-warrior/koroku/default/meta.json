@@ -1,0 +1,45 @@
+{
+  "warriorId": "koroku",
+  "variantId": "default",
+  "displayName": "Koroku",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "59",
+  "specialityTypeIds": ["fighting", "fire"],
+  "weaknessTypeIds": ["water", "ground"],
+
+  "stats": {
+      "power": 75,
+      "wisdom": 74,
+      "charisma": 69,
+      "bst": 218,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 117,
+            "cropped": 117,
+            "full": 117
+          },
+      "portraits": {
+            "intro": 117,
+            "overworld": 117,
+            "emotions": {
+                    "profile": 342,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

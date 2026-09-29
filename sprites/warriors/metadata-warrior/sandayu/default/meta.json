@@ -1,0 +1,45 @@
+{
+  "warriorId": "sandayu",
+  "variantId": "default",
+  "displayName": "Sandayu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "111",
+  "specialityTypeIds": ["poison"],
+  "weaknessTypeIds": ["psychic"],
+
+  "stats": {
+      "power": 87,
+      "wisdom": 89,
+      "charisma": 34,
+      "bst": 210,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 122,
+            "cropped": 122,
+            "full": 122
+          },
+      "portraits": {
+            "intro": 122,
+            "overworld": null,
+            "emotions": {
+                    "profile": 347,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

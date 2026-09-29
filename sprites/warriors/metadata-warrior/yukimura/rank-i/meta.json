@@ -1,0 +1,45 @@
+{
+  "warriorId": "yukimura",
+  "variantId": "rank-i",
+  "displayName": "Yukimura-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "25.1",
+  "specialityTypeIds": ["fire", "flying"],
+  "weaknessTypeIds": ["ground", "rock"],
+
+  "stats": {
+      "power": 87,
+      "wisdom": 78,
+      "charisma": 80,
+      "bst": 245,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 53,
+            "cropped": 53,
+            "full": 53
+          },
+      "portraits": {
+            "intro": 53,
+            "overworld": null,
+            "emotions": {
+                    "profile": 213,
+                    "joyful": 214,
+                    "sad": 215,
+                    "fierce": 216,
+                    "shocked": 217,
+                    "special": 370
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

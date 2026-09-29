@@ -1,0 +1,45 @@
+{
+  "warriorId": "chiyo",
+  "variantId": "default",
+  "displayName": "Chiyo",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "73",
+  "specialityTypeIds": ["normal"],
+  "weaknessTypeIds": ["fighting"],
+
+  "stats": {
+      "power": 30,
+      "wisdom": 67,
+      "charisma": 67,
+      "bst": 164,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 113,
+            "cropped": 113,
+            "full": 113
+          },
+      "portraits": {
+            "intro": 113,
+            "overworld": null,
+            "emotions": {
+                    "profile": 338,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "shingen",
+  "variantId": "rank-i",
+  "displayName": "Shingen-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "11.1",
+  "specialityTypeIds": ["ground", "rock"],
+  "weaknessTypeIds": ["ice"],
+
+  "stats": {
+      "power": 82,
+      "wisdom": 96,
+      "charisma": 86,
+      "bst": 264,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 25,
+            "cropped": 25,
+            "full": 25
+          },
+      "portraits": {
+            "intro": 25,
+            "overworld": null,
+            "emotions": {
+                    "profile": 109,
+                    "joyful": 110,
+                    "sad": null,
+                    "fierce": 111,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

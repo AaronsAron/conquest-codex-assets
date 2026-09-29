@@ -1,0 +1,45 @@
+{
+  "warriorId": "sessai",
+  "variantId": "default",
+  "displayName": "Sessai",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "146",
+  "specialityTypeIds": ["ice", "bug"],
+  "weaknessTypeIds": ["normal", "psychic"],
+
+  "stats": {
+      "power": 50,
+      "wisdom": 92,
+      "charisma": 77,
+      "bst": 219,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 121,
+            "cropped": 121,
+            "full": 121
+          },
+      "portraits": {
+            "intro": 121,
+            "overworld": null,
+            "emotions": {
+                    "profile": 346,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

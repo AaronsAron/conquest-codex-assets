@@ -1,0 +1,45 @@
+{
+  "warriorId": "chiyome",
+  "variantId": "default",
+  "displayName": "Chiyome",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "124",
+  "specialityTypeIds": ["dark", "ground"],
+  "weaknessTypeIds": ["bug", "grass"],
+
+  "stats": {
+      "power": 60,
+      "wisdom": 67,
+      "charisma": 68,
+      "bst": 195,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 125,
+            "cropped": 125,
+            "full": 125
+          },
+      "portraits": {
+            "intro": 125,
+            "overworld": null,
+            "emotions": {
+                    "profile": 350,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

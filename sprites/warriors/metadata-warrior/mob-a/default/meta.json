@@ -1,0 +1,45 @@
+{
+  "warriorId": "mob-a",
+  "variantId": "default",
+  "displayName": "Mob",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "209",
+  "specialityTypeIds": ["water"],
+  "weaknessTypeIds": ["grass"],
+
+  "stats": {
+      "power": 50,
+      "wisdom": 50,
+      "charisma": 50,
+      "bst": 150,
+      "capacity": 1
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 129,
+            "cropped": 129,
+            "full": 129
+          },
+      "portraits": {
+            "intro": 129,
+            "overworld": null,
+            "emotions": {
+                    "profile": 354,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

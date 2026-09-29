@@ -1,0 +1,45 @@
+{
+  "warriorId": "mitsunari",
+  "variantId": "rank-i",
+  "displayName": "Mitsunari-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "35.1",
+  "specialityTypeIds": ["steel", "dark"],
+  "weaknessTypeIds": ["fire", "electric"],
+
+  "stats": {
+      "power": 46,
+      "wisdom": 85,
+      "charisma": 72,
+      "bst": 203,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 73,
+            "cropped": 73,
+            "full": 73
+          },
+      "portraits": {
+            "intro": 73,
+            "overworld": null,
+            "emotions": {
+                    "profile": 295,
+                    "joyful": 296,
+                    "sad": 297,
+                    "fierce": 298,
+                    "shocked": 299,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "captain",
+  "variantId": "default",
+  "displayName": "Captain",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "203",
+  "specialityTypeIds": ["water"],
+  "weaknessTypeIds": ["grass"],
+
+  "stats": {
+      "power": 83,
+      "wisdom": 58,
+      "charisma": 40,
+      "bst": 181,
+      "capacity": 1
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 116,
+            "cropped": 116,
+            "full": 116
+          },
+      "portraits": {
+            "intro": 116,
+            "overworld": null,
+            "emotions": {
+                    "profile": 341,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

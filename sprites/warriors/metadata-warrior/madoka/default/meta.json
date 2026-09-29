@@ -1,0 +1,45 @@
+{
+  "warriorId": "madoka",
+  "variantId": "default",
+  "displayName": "Madoka",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "160",
+  "specialityTypeIds": ["rock"],
+  "weaknessTypeIds": ["water"],
+
+  "stats": {
+      "power": 58,
+      "wisdom": 50,
+      "charisma": 62,
+      "bst": 170,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 113,
+            "cropped": 113,
+            "full": 113
+          },
+      "portraits": {
+            "intro": 113,
+            "overworld": null,
+            "emotions": {
+                    "profile": 338,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

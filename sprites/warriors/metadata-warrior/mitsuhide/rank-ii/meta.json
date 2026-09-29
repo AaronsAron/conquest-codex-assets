@@ -1,0 +1,45 @@
+{
+  "warriorId": "mitsuhide",
+  "variantId": "rank-ii",
+  "displayName": "Mitsuhide-Rank-II",
+  "genderId": "male",
+  "tags": ["warlord", "rank-ii", "male"],
+
+  "galleryNumber": "8.2",
+  "specialityTypeIds": ["ice", "flying"],
+  "weaknessTypeIds": ["steel", "rock"],
+
+  "stats": {
+      "power": 88,
+      "wisdom": 92,
+      "charisma": 92,
+      "bst": 272,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 20,
+            "cropped": 20,
+            "full": 20
+          },
+      "portraits": {
+            "intro": 20,
+            "overworld": null,
+            "emotions": {
+                    "profile": 86,
+                    "joyful": 87,
+                    "sad": 88,
+                    "fierce": 89,
+                    "shocked": 90,
+                    "special": 361
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

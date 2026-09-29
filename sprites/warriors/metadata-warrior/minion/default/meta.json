@@ -1,0 +1,45 @@
+{
+  "warriorId": "minion",
+  "variantId": "default",
+  "displayName": "Minion",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "208",
+  "specialityTypeIds": ["ground"],
+  "weaknessTypeIds": ["ice"],
+
+  "stats": {
+      "power": 69,
+      "wisdom": 10,
+      "charisma": 25,
+      "bst": 104,
+      "capacity": 1
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 106,
+            "cropped": 106,
+            "full": 106
+          },
+      "portraits": {
+            "intro": 106,
+            "overworld": null,
+            "emotions": {
+                    "profile": 331,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

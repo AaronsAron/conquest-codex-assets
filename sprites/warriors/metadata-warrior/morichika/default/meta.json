@@ -1,0 +1,45 @@
+{
+  "warriorId": "morichika",
+  "variantId": "default",
+  "displayName": "Morichika",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "77",
+  "specialityTypeIds": ["water"],
+  "weaknessTypeIds": ["grass"],
+
+  "stats": {
+      "power": 77,
+      "wisdom": 35,
+      "charisma": 83,
+      "bst": 195,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 105,
+            "cropped": 105,
+            "full": 105
+          },
+      "portraits": {
+            "intro": 105,
+            "overworld": null,
+            "emotions": {
+                    "profile": 330,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

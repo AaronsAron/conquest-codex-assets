@@ -1,0 +1,45 @@
+{
+  "warriorId": "takakage",
+  "variantId": "default",
+  "displayName": "Takakage",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "90",
+  "specialityTypeIds": ["grass"],
+  "weaknessTypeIds": ["poison"],
+
+  "stats": {
+      "power": 69,
+      "wisdom": 90,
+      "charisma": 84,
+      "bst": 243,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 107,
+            "cropped": 107,
+            "full": 107
+          },
+      "portraits": {
+            "intro": 107,
+            "overworld": 107,
+            "emotions": {
+                    "profile": 332,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

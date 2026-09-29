@@ -1,0 +1,45 @@
+{
+  "warriorId": "takatora",
+  "variantId": "default",
+  "displayName": "Takatora",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "60",
+  "specialityTypeIds": ["flying", "fire"],
+  "weaknessTypeIds": ["rock", "ground"],
+
+  "stats": {
+      "power": 70,
+      "wisdom": 87,
+      "charisma": 72,
+      "bst": 229,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 110,
+            "cropped": 110,
+            "full": 110
+          },
+      "portraits": {
+            "intro": 110,
+            "overworld": null,
+            "emotions": {
+                    "profile": 335,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

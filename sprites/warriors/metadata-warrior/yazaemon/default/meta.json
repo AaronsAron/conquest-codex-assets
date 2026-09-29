@@ -1,0 +1,45 @@
+{
+  "warriorId": "yazaemon",
+  "variantId": "default",
+  "displayName": "Yazaemon",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "171",
+  "specialityTypeIds": ["poison", "dark"],
+  "weaknessTypeIds": ["psychic", "normal"],
+
+  "stats": {
+      "power": 80,
+      "wisdom": 77,
+      "charisma": 57,
+      "bst": 214,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 123,
+            "cropped": 123,
+            "full": 123
+          },
+      "portraits": {
+            "intro": 123,
+            "overworld": null,
+            "emotions": {
+                    "profile": 348,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

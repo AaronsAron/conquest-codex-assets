@@ -1,0 +1,45 @@
+{
+  "warriorId": "tadatsugu",
+  "variantId": "default",
+  "displayName": "Tadatsugu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "173",
+  "specialityTypeIds": ["steel"],
+  "weaknessTypeIds": ["fire"],
+
+  "stats": {
+      "power": 72,
+      "wisdom": 74,
+      "charisma": 71,
+      "bst": 217,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 100,
+            "cropped": 100,
+            "full": 100
+          },
+      "portraits": {
+            "intro": 100,
+            "overworld": null,
+            "emotions": {
+                    "profile": 325,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

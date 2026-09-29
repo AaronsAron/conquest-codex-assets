@@ -1,0 +1,45 @@
+{
+  "warriorId": "sadamitsu",
+  "variantId": "default",
+  "displayName": "Sadamitsu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "139",
+  "specialityTypeIds": ["psychic"],
+  "weaknessTypeIds": ["ghost"],
+
+  "stats": {
+      "power": 55,
+      "wisdom": 92,
+      "charisma": 74,
+      "bst": 221,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 112,
+            "cropped": 112,
+            "full": 112
+          },
+      "portraits": {
+            "intro": 112,
+            "overworld": 112,
+            "emotions": {
+                    "profile": 337,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

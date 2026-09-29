@@ -1,0 +1,45 @@
+{
+  "warriorId": "hana",
+  "variantId": "default",
+  "displayName": "Hana",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "142",
+  "specialityTypeIds": ["psychic"],
+  "weaknessTypeIds": ["ghost"],
+
+  "stats": {
+      "power": 70,
+      "wisdom": 57,
+      "charisma": 50,
+      "bst": 177,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 113,
+            "cropped": 113,
+            "full": 113
+          },
+      "portraits": {
+            "intro": 113,
+            "overworld": null,
+            "emotions": {
+                    "profile": 338,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

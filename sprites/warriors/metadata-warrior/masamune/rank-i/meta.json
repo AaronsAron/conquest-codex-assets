@@ -1,0 +1,45 @@
+{
+  "warriorId": "masamune",
+  "variantId": "rank-i",
+  "displayName": "Masamune-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "12.1",
+  "specialityTypeIds": ["flying"],
+  "weaknessTypeIds": ["rock"],
+
+  "stats": {
+      "power": 86,
+      "wisdom": 82,
+      "charisma": 80,
+      "bst": 248,
+      "capacity": 7
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 27,
+            "cropped": 27,
+            "full": 27
+          },
+      "portraits": {
+            "intro": 27,
+            "overworld": null,
+            "emotions": {
+                    "profile": 115,
+                    "joyful": 116,
+                    "sad": null,
+                    "fierce": 117,
+                    "shocked": 118,
+                    "special": 362
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

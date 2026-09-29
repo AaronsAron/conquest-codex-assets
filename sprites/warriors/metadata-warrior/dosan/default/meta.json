@@ -1,0 +1,45 @@
+{
+  "warriorId": "dosan",
+  "variantId": "default",
+  "displayName": "Dosan",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "161",
+  "specialityTypeIds": ["poison", "ghost"],
+  "weaknessTypeIds": ["psychic", "ground"],
+
+  "stats": {
+      "power": 73,
+      "wisdom": 93,
+      "charisma": 82,
+      "bst": 248,
+      "capacity": 8
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 119,
+            "cropped": 119,
+            "full": 119
+          },
+      "portraits": {
+            "intro": 119,
+            "overworld": 119,
+            "emotions": {
+                    "profile": 344,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

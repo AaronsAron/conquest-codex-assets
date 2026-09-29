@@ -1,0 +1,45 @@
+{
+  "warriorId": "otsu",
+  "variantId": "default",
+  "displayName": "Otsu",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "200",
+  "specialityTypeIds": ["flying"],
+  "weaknessTypeIds": ["rock"],
+
+  "stats": {
+      "power": 67,
+      "wisdom": 51,
+      "charisma": 50,
+      "bst": 168,
+      "capacity": 3
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 126,
+            "cropped": 126,
+            "full": 126
+          },
+      "portraits": {
+            "intro": 126,
+            "overworld": null,
+            "emotions": {
+                    "profile": 351,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

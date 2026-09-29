@@ -1,0 +1,45 @@
+{
+  "warriorId": "henchman",
+  "variantId": "default",
+  "displayName": "Henchman",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "207",
+  "specialityTypeIds": ["water"],
+  "weaknessTypeIds": ["grass"],
+
+  "stats": {
+      "power": 69,
+      "wisdom": 10,
+      "charisma": 25,
+      "bst": 104,
+      "capacity": 1
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 116,
+            "cropped": 116,
+            "full": 116
+          },
+      "portraits": {
+            "intro": 116,
+            "overworld": null,
+            "emotions": {
+                    "profile": 341,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

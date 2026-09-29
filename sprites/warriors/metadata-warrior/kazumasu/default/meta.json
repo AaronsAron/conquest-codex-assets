@@ -1,0 +1,45 @@
+{
+  "warriorId": "kazumasu",
+  "variantId": "default",
+  "displayName": "Kazumasu",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "47",
+  "specialityTypeIds": ["water", "dragon"],
+  "weaknessTypeIds": ["grass", "psychic"],
+
+  "stats": {
+      "power": 79,
+      "wisdom": 80,
+      "charisma": 65,
+      "bst": 224,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 122,
+            "cropped": 122,
+            "full": 122
+          },
+      "portraits": {
+            "intro": 122,
+            "overworld": null,
+            "emotions": {
+                    "profile": 347,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

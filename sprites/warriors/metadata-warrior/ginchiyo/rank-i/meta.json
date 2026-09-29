@@ -1,0 +1,45 @@
+{
+  "warriorId": "ginchiyo",
+  "variantId": "rank-i",
+  "displayName": "Ginchiyo-Rank-I",
+  "genderId": "female",
+  "tags": ["warlord", "rank-i", "female"],
+
+  "galleryNumber": "6.1",
+  "specialityTypeIds": ["electric"],
+  "weaknessTypeIds": ["ground"],
+
+  "stats": {
+      "power": 74,
+      "wisdom": 68,
+      "charisma": 72,
+      "bst": 214,
+      "capacity": 5
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 15,
+            "cropped": 15,
+            "full": 15
+          },
+      "portraits": {
+            "intro": 15,
+            "overworld": null,
+            "emotions": {
+                    "profile": 67,
+                    "joyful": 68,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": 69,
+                    "special": 358
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

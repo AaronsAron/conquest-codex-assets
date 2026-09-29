@@ -1,0 +1,45 @@
+{
+  "warriorId": "murashige",
+  "variantId": "default",
+  "displayName": "Murashige",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "53",
+  "specialityTypeIds": ["grass", "dragon"],
+  "weaknessTypeIds": ["poison", "ice"],
+
+  "stats": {
+      "power": 70,
+      "wisdom": 42,
+      "charisma": 73,
+      "bst": 185,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 118,
+            "cropped": 118,
+            "full": 118
+          },
+      "portraits": {
+            "intro": 118,
+            "overworld": 118,
+            "emotions": {
+                    "profile": 343,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

@@ -1,0 +1,45 @@
+{
+  "warriorId": "bokuden",
+  "variantId": "default",
+  "displayName": "Bokuden",
+  "genderId": "male",
+  "tags": ["warrior", "male"],
+
+  "galleryNumber": "199",
+  "specialityTypeIds": ["steel"],
+  "weaknessTypeIds": ["fire"],
+
+  "stats": {
+      "power": 95,
+      "wisdom": 30,
+      "charisma": 50,
+      "bst": 175,
+      "capacity": 4
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 101,
+            "cropped": 101,
+            "full": 101
+          },
+      "portraits": {
+            "intro": 101,
+            "overworld": null,
+            "emotions": {
+                    "profile": 326,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

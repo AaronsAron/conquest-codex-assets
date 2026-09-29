@@ -1,0 +1,45 @@
+{
+  "warriorId": "keiji",
+  "variantId": "rank-i",
+  "displayName": "Keiji-Rank-I",
+  "genderId": "male",
+  "tags": ["warlord", "rank-i", "male"],
+
+  "galleryNumber": "34.1",
+  "specialityTypeIds": ["rock", "fighting"],
+  "weaknessTypeIds": ["grass", "flying"],
+
+  "stats": {
+      "power": 92,
+      "wisdom": 40,
+      "charisma": 73,
+      "bst": 205,
+      "capacity": 6
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 71,
+            "cropped": 71,
+            "full": 71
+          },
+      "portraits": {
+            "intro": 71,
+            "overworld": null,
+            "emotions": {
+                    "profile": 287,
+                    "joyful": 288,
+                    "sad": null,
+                    "fierce": 289,
+                    "shocked": 290,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}

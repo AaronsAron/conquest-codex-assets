@@ -1,0 +1,45 @@
+{
+  "warriorId": "merchant-female",
+  "variantId": "default",
+  "displayName": "Merchant",
+  "genderId": "female",
+  "tags": ["warrior", "female"],
+
+  "galleryNumber": "202",
+  "specialityTypeIds": ["normal"],
+  "weaknessTypeIds": ["fighting"],
+
+  "stats": {
+      "power": 45,
+      "wisdom": 57,
+      "charisma": 74,
+      "bst": 176,
+      "capacity": 1
+    },
+
+  "inheritsFrom": null,
+
+  "assetIndexes": {
+      "characterSelect": null,
+      "icons": {
+            "battle": 120,
+            "cropped": 120,
+            "full": 120
+          },
+      "portraits": {
+            "intro": 120,
+            "overworld": 120,
+            "emotions": {
+                    "profile": 345,
+                    "joyful": null,
+                    "sad": null,
+                    "fierce": null,
+                    "shocked": null,
+                    "special": null
+                  }
+          }
+    },
+
+  "history": [],
+  "notes": ""
+}
