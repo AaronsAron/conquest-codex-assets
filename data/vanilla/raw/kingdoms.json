@@ -1,0 +1,477 @@
+[
+  {
+    "kingdomIndex": 0,
+    "id": "aurora",
+    "name": "Aurora",
+
+    "unknown1": 4,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 5, "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "slot": 6, "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "slot": 7, "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "slot": 8, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 9, "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "slot": 10, "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "slot": 11, "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "slot": 12, "kingdomIndex": null, "kingdomName": null }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 0, "battleConfigName": "Aurora" },
+
+    "swarmPokemon": { "pokemonIndex": 184, "pokemonName": "Audino" }
+  },
+
+  {
+    "kingdomIndex": 1,
+    "id": "ignis",
+    "name": "Ignis",
+
+    "unknown1": 4,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "slot": 5, "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "slot": 6, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 7, "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "slot": 8, "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "slot": 9, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 10, "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "slot": 11, "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "slot": 12, "kingdomIndex": null, "kingdomName": null }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 1, "battleConfigName": "Ignis" },
+
+    "swarmPokemon": { "pokemonIndex": 137, "pokemonName": "Pansear" }
+  },
+
+  {
+    "kingdomIndex": 2,
+    "id": "fontaine",
+    "name": "Fontaine",
+
+    "unknown1": 4,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "slot": 5, "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "slot": 6, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 7, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 8, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 9, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 10, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 11, "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "slot": 12, "kingdomIndex": 6, "kingdomName": "Pugilis" }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 2, "battleConfigName": "Fontaine" },
+
+    "swarmPokemon": { "pokemonIndex": 139, "pokemonName": "Panpour" }
+  },
+
+  {
+    "kingdomIndex": 3,
+    "id": "violight",
+    "name": "Violight",
+
+    "unknown1": 3,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 5, "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "slot": 6, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 7, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 8, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 9, "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "slot": 10, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 11, "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "slot": 12, "kingdomIndex": null, "kingdomName": null }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 3, "battleConfigName": "Violight" },
+
+    "swarmPokemon": { "pokemonIndex": 179, "pokemonName": "Emolga" }
+  },
+
+  {
+    "kingdomIndex": 4,
+    "id": "greenleaf",
+    "name": "Greenleaf",
+
+    "unknown1": 3,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "slot": 5, "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "slot": 6, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 7, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 8, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 9, "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "slot": 10, "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "slot": 11, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 12, "kingdomIndex": 1, "kingdomName": "Ignis" }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 4, "battleConfigName": "Greenleaf" },
+
+    "swarmPokemon": { "pokemonIndex": 135, "pokemonName": "Pansage" }
+  },
+
+  {
+    "kingdomIndex": 5,
+    "id": "nixtorm",
+    "name": "Nixtorm",
+
+    "unknown1": 3,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 5, "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "slot": 6, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 7, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 8, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 9, "kingdomIndex": 16, "kingdomName": "Valora" },
+      { "slot": 10, "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "slot": 11, "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "slot": 12, "kingdomIndex": 14, "kingdomName": "Dragnor" }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 5, "battleConfigName": "Nixtorm" },
+
+    "swarmPokemon": { "pokemonIndex": 180, "pokemonName": "Sneasel" }
+  },
+
+  {
+    "kingdomIndex": 6,
+    "id": "pugilis",
+    "name": "Pugilis",
+
+    "unknown1": 3,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "slot": 5, "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "slot": 6, "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "slot": 7, "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "slot": 8, "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "slot": 9, "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "slot": 10, "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "slot": 11, "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "slot": 12, "kingdomIndex": null, "kingdomName": null }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 6, "battleConfigName": "Pugilis" },
+
+    "swarmPokemon": { "pokemonIndex": 87, "pokemonName": "Croagunk" }
+  },
+
+  {
+    "kingdomIndex": 7,
+    "id": "viperia",
+    "name": "Viperia",
+
+    "unknown1": 0,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 15, "kingdomName": "Yakasha" },
+      { "slot": 5, "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "slot": 6, "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "slot": 7, "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "slot": 8, "kingdomIndex": 15, "kingdomName": "Yakasha" },
+      { "slot": 9, "kingdomIndex": 15, "kingdomName": "Yakasha" },
+      { "slot": 10, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 11, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 12, "kingdomIndex": 13, "kingdomName": "Spectra" }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 7, "battleConfigName": "Viperia" },
+
+    "swarmPokemon": { "pokemonIndex": 87, "pokemonName": "Croagunk" }
+  },
+
+  {
+    "kingdomIndex": 8,
+    "id": "terrera",
+    "name": "Terrera",
+
+    "unknown1": 1,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": 15, "kingdomName": "Yakasha" },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "slot": 5, "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "slot": 6, "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "slot": 7, "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "slot": 8, "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "slot": 9, "kingdomIndex": 15, "kingdomName": "Yakasha" },
+      { "slot": 10, "kingdomIndex": 15, "kingdomName": "Yakasha" },
+      { "slot": 11, "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "slot": 12, "kingdomIndex": null, "kingdomName": null }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 8, "battleConfigName": "Terrera" },
+
+    "swarmPokemon": { "pokemonIndex": 84, "pokemonName": "Gible" }
+  },
+
+  {
+    "kingdomIndex": 9,
+    "id": "avia",
+    "name": "Avia",
+
+    "unknown1": 1,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": 16, "kingdomName": "Valora" },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "slot": 5, "kingdomIndex": 16, "kingdomName": "Valora" },
+      { "slot": 6, "kingdomIndex": 16, "kingdomName": "Valora" },
+      { "slot": 7, "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "slot": 8, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 9, "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "slot": 10, "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "slot": 11, "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "slot": 12, "kingdomIndex": 13, "kingdomName": "Spectra" }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 9, "battleConfigName": "Avia" },
+
+    "swarmPokemon": { "pokemonIndex": 166, "pokemonName": "Drifloon" }
+  },
+
+  {
+    "kingdomIndex": 10,
+    "id": "illusio",
+    "name": "Illusio",
+
+    "unknown1": 1,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "slot": 5, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 6, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 7, "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "slot": 8, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 9, "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "slot": 10, "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "slot": 11, "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "slot": 12, "kingdomIndex": null, "kingdomName": null }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 10, "battleConfigName": "Illusio" },
+
+    "swarmPokemon": { "pokemonIndex": 81, "pokemonName": "Beldum" }
+  },
+
+  {
+    "kingdomIndex": 11,
+    "id": "chrysalia",
+    "name": "Chrysalia",
+
+    "unknown1": 0,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "slot": 5, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 6, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 7, "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "slot": 8, "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "slot": 9, "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "slot": 10, "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "slot": 11, "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "slot": 12, "kingdomIndex": null, "kingdomName": null }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 11, "battleConfigName": "Chrysalia" },
+
+    "swarmPokemon": { "pokemonIndex": 170, "pokemonName": "Anorith" }
+  },
+
+  {
+    "kingdomIndex": 12,
+    "id": "cragspur",
+    "name": "Cragspur",
+
+    "unknown1": 2,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": 15, "kingdomName": "Yakasha" },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "slot": 5, "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "slot": 6, "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "slot": 7, "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "slot": 8, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 9, "kingdomIndex": 15, "kingdomName": "Yakasha" },
+      { "slot": 10, "kingdomIndex": 15, "kingdomName": "Yakasha" },
+      { "slot": 11, "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "slot": 12, "kingdomIndex": null, "kingdomName": null }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 12, "battleConfigName": "Cragspur" },
+
+    "swarmPokemon": { "pokemonIndex": 170, "pokemonName": "Anorith" }
+  },
+
+  {
+    "kingdomIndex": 13,
+    "id": "spectra",
+    "name": "Spectra",
+
+    "unknown1": 2,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": 16, "kingdomName": "Valora" },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "slot": 5, "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "slot": 6, "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "slot": 7, "kingdomIndex": 16, "kingdomName": "Valora" },
+      { "slot": 8, "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "slot": 9, "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "slot": 10, "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "slot": 11, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 12, "kingdomIndex": null, "kingdomName": null }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 13, "battleConfigName": "Spectra" },
+
+    "swarmPokemon": { "pokemonIndex": 166, "pokemonName": "Drifloon" }
+  },
+
+  {
+    "kingdomIndex": 14,
+    "id": "dragnor",
+    "name": "Dragnor",
+
+    "unknown1": 2,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 5, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 6, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 7, "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "slot": 8, "kingdomIndex": 16, "kingdomName": "Valora" },
+      { "slot": 9, "kingdomIndex": 16, "kingdomName": "Valora" },
+      { "slot": 10, "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "slot": 11, "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "slot": 12, "kingdomIndex": null, "kingdomName": null }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 14, "battleConfigName": "Dragnor" },
+
+    "swarmPokemon": { "pokemonIndex": 84, "pokemonName": "Gible" }
+  },
+
+  {
+    "kingdomIndex": 15,
+    "id": "yaksha",
+    "name": "Yaksha",
+
+    "unknown1": 2,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 5, "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "slot": 6, "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "slot": 7, "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "slot": 8, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 9, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 10, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 11, "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "slot": 12, "kingdomIndex": 7, "kingdomName": "Viperia" }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 15, "battleConfigName": "Yakasha" },
+
+    "swarmPokemon": { "pokemonIndex": 180, "pokemonName": "Sneasel" }
+  },
+
+  {
+    "kingdomIndex": 16,
+    "id": "valora",
+    "name": "Valora",
+
+    "unknown1": 0,
+
+    "mapConnections": [
+      { "slot": 0, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 1, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 2, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 3, "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "slot": 4, "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "slot": 5, "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "slot": 6, "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "slot": 7, "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "slot": 8, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 9, "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "slot": 10, "kingdomIndex": null, "kingdomName": null },
+      { "slot": 11, "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "slot": 12, "kingdomIndex": 14, "kingdomName": "Dragnor" }
+    ],
+
+    "battleConfig": { "battleConfigIndex": 16, "battleConfigName": "Valora" },
+
+    "swarmPokemon": { "pokemonIndex": 81, "pokemonName": "Beldum" }
+  }
+]

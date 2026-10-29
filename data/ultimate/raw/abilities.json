@@ -1,0 +1,606 @@
+[
+  {
+    "abilityIndex": 0,
+    "name": "Levitate",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 1,
+    "name": "Mountaineer",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 2,
+    "name": "Wave Rider",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 3,
+    "name": "Skater",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 4,
+    "name": "Thrust",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 5,
+    "name": "Mold Breaker",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 6,
+    "name": "Turboblaze",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 7,
+    "name": "Teravolt",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 8,
+    "name": "Sniper",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 9,
+    "name": "Solid Rock",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 10,
+    "name": "Battle Armor",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 11,
+    "name": "Shell Armor",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 12,
+    "name": "Sturdy",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 13,
+    "name": "Unaware",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 14,
+    "name": "Thick Fat",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 15,
+    "name": "Limber",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 16,
+    "name": "Immunity",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 17,
+    "name": "Own Tempo",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 18,
+    "name": "Inner Focus",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 19,
+    "name": "Clear Body",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 20,
+    "name": "Keen Eye",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 21,
+    "name": "Flash Fire",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 22,
+    "name": "Water Absorb",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 23,
+    "name": "Volt Absorb",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 24,
+    "name": "Motor Drive",
+    "effects": [
+      { "effectId": "increase-user-movement-range", "amount": 1 },
+      { "effectId": "increase-user-speed", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 25,
+    "name": "Lightning Rod",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 26,
+    "name": "Perception",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 27,
+    "name": "Parry",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 28,
+    "name": "Instinct",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 29,
+    "name": "Dodge",
+    "effects": [
+      { "effectId": "decrease-opponent-defence", "amount": 1 },
+      { "effectId": "decrease-opponent-speed", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 30,
+    "name": "Jagged Edge",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 31,
+    "name": "Poison Point",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 32,
+    "name": "Static",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 33,
+    "name": "Flame Body",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 34,
+    "name": "Frostbite",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 35,
+    "name": "Tenacity",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 36,
+    "name": "Blaze",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 37,
+    "name": "Torrent",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 38,
+    "name": "Overgrow",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 39,
+    "name": "Swarm",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 40,
+    "name": "Guts",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 41,
+    "name": "Pride",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 1 },
+      { "effectId": "increase-user-defence", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 43,
+    "name": "Justified",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 45,
+    "name": "Power Nap",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 46,
+    "name": "Spirit",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 47,
+    "name": "Warm Blanket",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 48,
+    "name": "Gulp",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 49,
+    "name": "Herbivore",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 50,
+    "name": "Sandpit",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 51,
+    "name": "Hot Blooded",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 53,
+    "name": "Life Force",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 54,
+    "name": "Lunch Box",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 55,
+    "name": "Natural Cure",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 57,
+    "name": "Nurse",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 58,
+    "name": "Melee",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 59,
+    "name": "Sponge",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 60,
+    "name": "Bodyguard",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 61,
+    "name": "Hero",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 2 },
+      { "effectId": "increase-user-defence", "amount": 2 }
+    ]
+  },
+
+  {
+    "abilityIndex": 62,
+    "name": "Last Bastion",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 2 },
+      { "effectId": "increase-user-defence", "amount": 2 }
+    ]
+  },
+
+  {
+    "abilityIndex": 64,
+    "name": "Stealth",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 65,
+    "name": "Vanguard",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 66,
+    "name": "Nomad",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 67,
+    "name": "Sequence",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 68,
+    "name": "Grass Cloak",
+    "effects": [
+      { "effectId": "increase-user-defence", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 69,
+    "name": "Compound Eyes",
+    "effects": [
+      { "effectId": "increase-user-accuracy", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 70,
+    "name": "Simple",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 71,
+    "name": "Moxie",
+    "effects": [
+      { "effectId": "increase-user-attack", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 72,
+    "name": "Celebrate",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 73,
+    "name": "Lullaby",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 74,
+    "name": "Effect Spore",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 75,
+    "name": "Daze",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 76,
+    "name": "Intimidate",
+    "effects": [
+      { "effectId": "decrease-opponent-attack", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 77,
+    "name": "Frighten",
+    "effects": [
+      { "effectId": "decrease-opponent-speed", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 78,
+    "name": "Interference",
+    "effects": [
+      { "effectId": "decrease-opponent-accuracy", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 79,
+    "name": "Mood Maker",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 80,
+    "name": "Victory Star",
+    "effects": [
+      { "effectId": "increase-user-defence", "amount": 3 },
+      { "effectId": "increase-user-accuracy", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 81,
+    "name": "Fortune",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 83,
+    "name": "Explode",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 86,
+    "name": "Share",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 87,
+    "name": "Magnet Pull",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 88,
+    "name": "Quick Draw",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 89,
+    "name": "Truant",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 90,
+    "name": "Shadow Dash",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 91,
+    "name": "Sprint",
+    "effects": [
+      { "effectId": "increase-user-movement-range", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 92,
+    "name": "Disgust",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 93,
+    "name": "High-rise",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 94,
+    "name": "Climber",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 95,
+    "name": "Flame Boost",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 97,
+    "name": "Run Up",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 98,
+    "name": "Conqueror",
+    "effects": []
+  },
+
+  {
+    "abilityIndex": 99,
+    "name": "Shackle",
+    "effects": [
+      { "effectId": "decrease-opponent-movement-range", "amount": 1 },
+      { "effectId": "decrease-opponent-speed", "amount": 1 }
+    ]
+  },
+
+  {
+    "abilityIndex": 102,
+    "name": "Zen Mode",
+    "effects": []
+  }
+]

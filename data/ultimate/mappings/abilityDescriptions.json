@@ -1,0 +1,1011 @@
+[
+  {
+    "abilityIndex": 0,
+    "abilityName": "Levitate",
+
+    "usesValue": false,
+
+    "shortDescription": "Immune to Ground moves. Can fly over terrain.",
+    "longDescription": "This Pokemon is immune to Ground-type damage from all sources. This Pokemon can move over terrain as if it had the Flying-type. "
+  },
+
+  {
+    "abilityIndex": 1,
+    "abilityName": "Mountaineer",
+
+    "usesValue": false,
+
+    "shortDescription": "Can climb up two tiles instead of one.",
+    "longDescription": "This Pokemon can climb to tiles two above its current position instead of the standard one."
+  },
+
+  {
+    "abilityIndex": 2,
+    "abilityName": "Wave Rider",
+
+    "usesValue": false,
+
+    "shortDescription": "Increased movement near water.",
+    "longDescription": "This Pokemon can move to any tile that is adjacent to a water tile within range. This does not grant the ability to walk on water tiles themselves. "
+  },
+
+  {
+    "abilityIndex": 3,
+    "abilityName": "Skater",
+
+    "usesValue": false,
+
+    "shortDescription": "Increased movement near ice.",
+    "longDescription": "This Pokemon can move to any tile that is adjacent to an ice tile within range. This does not apply to snow tiles."
+  },
+
+  {
+    "abilityIndex": 4,
+    "abilityName": "Thrust",
+
+    "usesValue": false,
+
+    "shortDescription": "Attacks push back the target one tile.",
+    "longDescription": "Attacks from this Pokemon push back the target one tile if they successfully hit. If the attack would already push back the target, they are pushed back an additional tile."
+  },
+
+  {
+    "abilityIndex": 5,
+    "abilityName": "Mold Breaker",
+
+    "usesValue": false,
+
+    "shortDescription": "Attacks ignore target's ability before damage.",
+    "longDescription": "Attacks from this Pokemon ignore the target's ability if it triggers prior to or during the execution of the move. Any abilitie that triggers after the execution of the move, such as {abilityIndex: 32} or {abilityIndex: 30}, still activates."
+  },
+
+  {
+    "abilityIndex": 6,
+    "abilityName": "Turboblaze",
+
+    "usesValue": false,
+
+    "shortDescription": "Attacks ignore target's ability before damage.",
+    "longDescription": "Attacks from this Pokemon ignore the target's ability if it triggers prior to or during the execution of the move. Any abilitie that triggers after the execution of the move, such as {abilityIndex: 32} or {abilityIndex: 30}, still activates."
+  },
+
+  {
+    "abilityIndex": 7,
+    "abilityName": "Teravolt",
+
+    "usesValue": false,
+
+    "shortDescription": "Attacks ignore target's ability before damage.",
+    "longDescription": "Attacks from this Pokemon ignore the target's ability if it triggers prior to or during the execution of the move. Any abilitie that triggers after the execution of the move, such as {abilityIndex: 32} or {abilityIndex: 30}, still activates."
+  },
+
+  {
+    "abilityIndex": 8,
+    "abilityName": "Sniper",
+
+    "usesValue": false,
+
+    "shortDescription": "Critical hits deal 3x damage instead of 2x.",
+    "longDescription": "Critical hits dealt by this Pokemon's attacks deal triple the damage instead of the standard double. However, this does not apply if the critical hit was triggered by an item such as {itemIndex: 30}."
+  },
+
+  {
+    "abilityIndex": 9,
+    "abilityName": "Solid Rock",
+
+    "usesValue": false,
+
+    "shortDescription": "Takes 25% less damage from supereffective moves.",
+    "longDescription": "This Pokemon takes 25% less damage from supereffective moves."
+  },
+
+  {
+    "abilityIndex": 10,
+    "abilityName": "Battle Armor",
+
+    "usesValue": false,
+
+    "shortDescription": "Prevents taking critical hits.",
+    "longDescription": "This Pokemon is prevented from taking a critical hit, even if the attacker has an effect active that would guarantee a critical hit."
+  },
+
+  {
+    "abilityIndex": 11,
+    "abilityName": "Shell Armor",
+
+    "usesValue": false,
+
+    "shortDescription": "Prevents taking critical hits.",
+    "longDescription": "This Pokemon is prevented from taking a critical hit, even if the attacker has an effect active that would guarantee a critical hit."
+  },
+
+  {
+    "abilityIndex": 12,
+    "abilityName": "Sturdy",
+
+    "usesValue": false,
+
+    "shortDescription": "If knocked out with full HP, survive with 1 HP.",
+    "longDescription": "While at full health, if this Pokemon would be knocked out, it will survive with 1 HP remaining. Multihit moves can knock out this Pokemon as it will no longer be at full health after the first hit."
+  },
+
+  {
+    "abilityIndex": 13,
+    "abilityName": "Unaware",
+
+    "usesValue": false,
+
+    "shortDescription": "Ignores stat stage changes in other Pokemon.",
+    "longDescription": "This Pokemon ignores the stats changes of other Pokemon during accuracy checks and damage calculation. When this Pokémon attacks, the Defense stat stages of the target is ignored. When this Pokemon is targeted by an attack, the Accuracy and Attack stat stages of the attacking Pokémon are ignored."
+  },
+
+  {
+    "abilityIndex": 14,
+    "abilityName": "Thick Fat",
+
+    "usesValue": false,
+
+    "shortDescription": "Takes 50% less damage from Fire and Ice moves.",
+    "longDescription": "This Pokémon takes 50% less damage from Fire- and Ice-type moves. If this ability is triggered, it blocks and ignores the damage boosts from {abilityIndex: 65}, {abilityIndex: 66}, {abilityIndex: 97}, {abilityIndex: 93}, {abilityIndex: 94}, {abilityIndex: 95}, and {abilityIndex: 96}."
+  },
+
+  {
+    "abilityIndex": 15,
+    "abilityName": "Limber",
+
+    "usesValue": false,
+
+    "shortDescription": "Prevents becoming paralyzed.",
+    "longDescription": "This Pokemon cannot be afflicted with paralysis."
+  },
+
+  {
+    "abilityIndex": 16,
+    "abilityName": "Immunity",
+
+    "usesValue": false,
+
+    "shortDescription": "Prevents becoming poisoned.",
+    "longDescription": "This Pokemon cannot be afflicted with poison or badly poison."
+  },
+
+  {
+    "abilityIndex": 17,
+    "abilityName": "Own Tempo",
+
+    "usesValue": false,
+
+    "shortDescription": "Prevents becoming confused.",
+    "longDescription": "This Pokemon cannot be afflicted with confusion."
+  },
+
+  {
+    "abilityIndex": 18,
+    "abilityName": "Inner Focus",
+
+    "usesValue": false,
+
+    "shortDescription": "Prevents being flinched.",
+    "longDescription": "This Pokemon cannot flinch."
+  },
+
+  {
+    "abilityIndex": 19,
+    "abilityName": "Clear Body",
+
+    "usesValue": false,
+
+    "shortDescription": "Prevents stat reduction caused by other Pokemon.",
+    "longDescription": "This Pokemon cannot have its stats lowered by outside sources, such as moves, abilities, warrior skills, items, or battlefield effects. This does not prevent self-inflicted stat reductions, such as from drawbacks of moves."
+  },
+
+  {
+    "abilityIndex": 20,
+    "abilityName": "Keen Eye",
+
+    "usesValue": false,
+
+    "shortDescription": "Prevents having Accuracy lowered.",
+    "longDescription": "This Pokemon cannot have its Accuracy lowered by outside sources, such as moves, abilities, warrior skills, items, or battlefield effects."
+  },
+
+  {
+    "abilityIndex": 21,
+    "abilityName": "Flash Fire",
+
+    "usesValue": true,
+
+    "shortDescription": "When hit by Fire move: immune and +{value:increase-user-attack} Attack for one turn.",
+    "longDescription": "This Pokemon is immune to Fire-type damage from all sources. When this Pokemon is hit by a Fire-type move, its Attack stage is increased by {value:increase-user-attack} until the end of its next turn. If this ability triggers due to an ally's multihit move, the move will continue, but if it is due an enemy's multihit move, the additional hits will not activate and the move will end."
+  },
+
+  {
+    "abilityIndex": 22,
+    "abilityName": "Water Absorb",
+
+    "usesValue": false,
+
+    "shortDescription": "When hit by Water move: immune and restore 25% of max HP.",
+    "longDescription": "This Pokemon is immune to Water-type damage from all sources. When this Pokemon is hit by a Water-type move, its HP is restored by 25% of its maximum HP. If this ability triggers due to an ally's multihit move, the move will continue, but if it is due an enemy's multihit move, the additional hits will not activate and the move will end."
+  },
+
+  {
+    "abilityIndex": 23,
+    "abilityName": "Volt Absorb",
+
+    "usesValue": false,
+
+    "shortDescription": "When hit by Electric move: immune and restore 25% of max HP.",
+    "longDescription": "This Pokemon is immune to Electric-type damage from all sources. When this Pokemon is hit by a Electric-type move, its HP is restored by 25% of its maximum HP. If this ability triggers due to an ally's multihit move, the move will continue, but if it is due an enemy's multihit move, the additional hits will not activate and the move will end."
+  },
+
+  {
+    "abilityIndex": 24,
+    "abilityName": "Motor Drive",
+
+    "usesValue": true,
+
+    "shortDescription": "When hit by Electric move: immune, +{value:increase-user-speed} Speed and +{value:increase-user-movement-range} Range for one turn.",
+    "longDescription": "This Pokemon is immune to Electric-type damage from all sources. When this Pokemon is hit by a Electric-type move, its Speed stage is increased by {value:increase-user-speed} and its movement Range is increased by {value:increase-user-movement-range} until the end of its next turn. If this ability triggers due to an ally's multihit move, the move will continue, but if it is due an enemy's multihit move, the additional hits will not activate and the move will end."
+  },
+
+  {
+    "abilityIndex": 25,
+    "abilityName": "Lightning Rod",
+
+    "usesValue": true,
+
+    "shortDescription": "Hit by Electric: immune, protects other targets, +{value:increase-user-attack} Attack for one turn.",
+    "longDescription": "This Pokemon is immune to Electric-type damage from all sources. When this Pokemon is hit by a Electric-type move, its Attack stage is increased by {value:increase-user-attack} until the end of its next turn and all other targets of the move are no longer attacked. If this ability triggers due to an ally's multihit move, the move will continue, but if it is due an enemy's multihit move, the additional hits will not activate and the move will end."
+  },
+
+  {
+    "abilityIndex": 26,
+    "abilityName": "Perception",
+
+    "usesValue": false,
+
+    "shortDescription": "Avoides moves from allied Pokemon.",
+    "longDescription": "This Pokemon dodges all attacks from allied Pokemon. However, moves that never miss and {warriorSkillIndex: 9} bypass this ability and cause allied attacks to land."
+  },
+
+  {
+    "abilityIndex": 27,
+    "abilityName": "Parry",
+
+    "usesValue": false,
+
+    "shortDescription": "16.67% chance to dodge contact moves.",
+    "longDescription": "This Pokemon has a 16.67% chance to dodge contact moves. The likelihood increases by 0.33% for each link gained past 50%, reaching a 33.33% chance to dodge at 100% link."
+  },
+
+  {
+    "abilityIndex": 28,
+    "abilityName": "Instinct",
+
+    "usesValue": false,
+
+    "shortDescription": "12.5% chance to dodge moves.",
+    "longDescription": "This Pokemon has a 12.5% chance to dodge moves. The likelihood increases by 0.25% for each link gained past 50%, reaching a 25% chance to dodge at 100% link."
+  },
+
+  {
+    "abilityIndex": 29,
+    "abilityName": "Dodge",
+
+    "usesValue": true,
+
+    "shortDescription": "12.5% chance to dodge contact moves. If triggered, attacker -{value:decrease-opponent-defence} Defense and -{value:decrease-opponent-speed} Speed for one turn.",
+    "longDescription": "This Pokemon has a 12.5% chance to dodge contact moves. The likelihood increases by 0.25% for each link gained past 50%, reaching a 25% chance to dodge at 100% link. If this ability tiggers, the attacker has its Defense stage lowered by {value:decrease-opponent-defence} and its Speed stage lowered by {value:decrease-opponent-speed} until the end of its next turn."
+  },
+
+  {
+    "abilityIndex": 30,
+    "abilityName": "Jagged Edge",
+
+    "usesValue": false,
+
+    "shortDescription": "When hit by contact move, attacker loses 12.5% of max HP.",
+    "longDescription": "When this Pokemon is hit by a contact move, the attacking Pokemon loses 12.5% of its maximum HP. Multihit moves trigger this ability on every hit. This stacks with {abilityIndex: 61}."
+  },
+
+  {
+    "abilityIndex": 31,
+    "abilityName": "Poison Point",
+
+    "usesValue": false,
+
+    "shortDescription": "When hit by contact move, 30% chance to poison attacker.",
+    "longDescription": "When this Pokemon is hit by a contact move, the attacking Pokemon has a 30% chance to be afflicted with poison. Multihit moves trigger this ability on every hit."
+  },
+
+  {
+    "abilityIndex": 32,
+    "abilityName": "Static",
+
+    "usesValue": false,
+
+    "shortDescription": "When hit by contact move, 30% chance to paralyze attacker.",
+    "longDescription": "When this Pokemon is hit by a contact move, the attacking Pokemon has a 30% chance to be afflicted with paralysis. Multihit moves trigger this ability on every hit."
+  },
+
+  {
+    "abilityIndex": 33,
+    "abilityName": "Flame Body",
+
+    "usesValue": false,
+
+    "shortDescription": "When hit by contact move, 30% chance to burn attacker.",
+    "longDescription": "When this Pokemon is hit by a contact move, the attacking Pokemon has a 30% chance to be afflicted with burn. Multihit moves trigger this ability on every hit."
+  },
+
+  {
+    "abilityIndex": 34,
+    "abilityName": "Frostbite",
+
+    "usesValue": false,
+
+    "shortDescription": "When hit by contact move, 30% chance to freeze attacker.",
+    "longDescription": "When this Pokemon is hit by a contact move, the attacking Pokemon has a 30% chance to be afflicted with freeze. Multihit moves trigger this ability on every hit."
+  },
+
+  {
+    "abilityIndex": 35,
+    "abilityName": "Tenacity",
+
+    "usesValue": false,
+
+    "shortDescription": "When hit by contact move, 30% chance to flinch attacker.",
+    "longDescription": "When this Pokemon is hit by a contact move, the attacking Pokemon has a 30% chance of flinching, causing it to be unable to act on its next turn. Multihit moves trigger this ability on every hit."
+  },
+
+  {
+    "abilityIndex": 36,
+    "abilityName": "Blaze",
+
+    "usesValue": true,
+
+    "shortDescription": "While below 33.33% max HP, +{value:increase-user-attack} Attack.",
+    "longDescription": "While the Pokemon is below 33.33% of its max HP, its Attack stage is increased by {value:increase-user-attack}. If its HP is restored and goes above 33.33% of its max HP, the ability becomes inactive, but will become active again once dropping below 33.33%."
+  },
+
+  {
+    "abilityIndex": 37,
+    "abilityName": "Torrent",
+
+    "usesValue": true,
+
+    "shortDescription": "While below 33.33% max HP, +{value:increase-user-attack} Attack.",
+    "longDescription": "While the Pokemon is below 33.33% of its max HP, its Attack stage is increased by {value:increase-user-attack}. If its HP is restored and goes above 33.33% of its max HP, the ability becomes inactive, but will become active again once dropping below 33.33%."
+  },
+
+  {
+    "abilityIndex": 38,
+    "abilityName": "Overgrow",
+
+    "usesValue": true,
+
+    "shortDescription": "While below 33.33% max HP, +{value:increase-user-attack} Attack.",
+    "longDescription": "While the Pokemon is below 33.33% of its max HP, its Attack stage is increased by {value:increase-user-attack}. If its HP is restored and goes above 33.33% of its max HP, the ability becomes inactive, but will become active again once dropping below 33.33%."
+  },
+
+  {
+    "abilityIndex": 39,
+    "abilityName": "Swarm",
+
+    "usesValue": true,
+
+    "shortDescription": "While below 33.33% max HP, +{value:increase-user-attack} Attack.",
+    "longDescription": "While the Pokemon is below 33.33% of its max HP, its Attack stage is increased by {value:increase-user-attack}. If its HP is restored and goes above 33.33% of its max HP, the ability becomes inactive, but will become active again once dropping below 33.33%."
+  },
+
+  {
+    "abilityIndex": 40,
+    "abilityName": "Guts",
+
+    "usesValue": true,
+
+    "shortDescription": "While inflicted with non-volatile status condition, +{value:increase-user-attack} Attack.",
+    "longDescription": "While the Pokemon is inflicted with a non-volatile status condition (burn, freeze, paralysis, poison, badly poison, or sleep), it's Attack stage is increased by {value:increase-user-attack}."
+  },
+
+  {
+    "abilityIndex": 41,
+    "abilityName": "Pride",
+
+    "usesValue": true,
+
+    "shortDescription": "While inflicted with non-volatile status condition, +{value:increase-user-attack} Attack and +{value:increase-user-defence} Defense.",
+    "longDescription": "While the Pokemon is inflicted with a non-volatile status condition (burn, freeze, paralysis, poison, badly poison, or sleep), it's Attack stage is increased by {value:increase-user-attack} and its Defense stage is increased by {value:increase-user-defence}."
+  },
+
+  {
+    "abilityIndex": 43,
+    "abilityName": "Justified",
+
+    "usesValue": true,
+
+    "shortDescription": "When hit by Dark move: +{value:increase-user-attack} Attack for one turn.",
+    "longDescription": "When this Pokemon is hit by a Dark-type move, its Attack stage is increased by {value:increase-user-attack} until the end of its next turn."
+  },
+
+  {
+    "abilityIndex": 44,
+    "abilityName": "Deep Sleep",
+
+    "usesValue": false,
+
+    "shortDescription": "When asleep, restores 12.5% of max HP at start of its turn.",
+    "longDescription": "When this Pokemon is asleep, its HP is restored by 12.5% of its maximum HP at the start of its turn."
+  },
+
+  {
+    "abilityIndex": 45,
+    "abilityName": "Power Nap",
+
+    "usesValue": false,
+
+    "shortDescription": "Once: when drops below 33.33% max HP, restores HP and sleeps.",
+    "longDescription": "Once per battle, when the Pokemon drops below 33.33% of its max HP, its HP is restored and is put to sleep."
+  },
+
+  {
+    "abilityIndex": 46,
+    "abilityName": "Spirit",
+
+    "usesValue": false,
+
+    "shortDescription": "Once: when drops below 33.33% max HP, HP is fully restored.",
+    "longDescription": "Once per battle, when this Pokemon drops below 33.33% of its maximum HP, its HP is fully restored."
+  },
+
+  {
+    "abilityIndex": 47,
+    "abilityName": "Warm Blanket",
+
+    "usesValue": false,
+
+    "shortDescription": "While on magma, restores 12.5% of max HP at the start of its turn.",
+    "longDescription": "While this Pokemon is standing on a magma tile, its HP is restored by 12.5% of its maximum HP at the start of its turn."
+  },
+
+  {
+    "abilityIndex": 48,
+    "abilityName": "Gulp",
+
+    "usesValue": false,
+
+    "shortDescription": "While on water, restores 12.5% of max HP at the start of its turn.",
+    "longDescription": "While this Pokemon is standing on a water tile, its HP is restored by 12.5% of its maximum HP at the start of its turn."
+  },
+
+  {
+    "abilityIndex": 49,
+    "abilityName": "Herbivore",
+
+    "usesValue": false,
+
+    "shortDescription": "While on grass, restores 12.5% of max HP at the start of its turn.",
+    "longDescription": "While this Pokemon is standing on a grass tile, its HP is restored by 12.5% of its maximum HP at the start of its turn."
+  },
+
+  {
+    "abilityIndex": 50,
+    "abilityName": "Sandpit",
+
+    "usesValue": false,
+
+    "shortDescription": "While on soil/sand, restores 12.5% of max HP at the start of its turn.",
+    "longDescription": "While this Pokemon is standing on a soil or sand tile, its HP is restored by 12.5% of its maximum HP at the start of its turn."
+  },
+
+  {
+    "abilityIndex": 51,
+    "abilityName": "Hot Blooded",
+
+    "usesValue": false,
+
+    "shortDescription": "While on magma/soil/sand, restores 12.5% of max HP at the start of its turn.",
+    "longDescription": "While this Pokemon is standing on a magma, soil, or sand tile, its HP is restored by 12.5% of its maximum HP at the start of its turn."
+  },
+
+  {
+    "abilityIndex": 52,
+    "abilityName": "Medic",
+
+    "usesValue": false,
+
+    "shortDescription": "Restores 12.5% of adjacent allies max HP at the start of its turn.",
+    "longDescription": "At the start of this Pokemon's turn, adjacent allied Pokemon have their HP restored by 12.5% of their maximum HP."
+  },
+
+  {
+    "abilityIndex": 53,
+    "abilityName": "Life Force",
+
+    "usesValue": false,
+
+    "shortDescription": "Restores 12.5% of max HP at the start of its turn.",
+    "longDescription": "At the start of this Pokemon's turn, its HP is restored by 12.5% of its maximum HP."
+  },
+
+  {
+    "abilityIndex": 54,
+    "abilityName": "Lunchbox",
+
+    "usesValue": false,
+
+    "shortDescription": "Restores 12.5% of max HP when selecting 'Wait'.",
+    "longDescription": "When this Pokemon selects 'Wait' to pass its turn without attacking, its HP is restored by 12.5% of its maximum HP."
+  },
+
+  {
+    "abilityIndex": 55,
+    "abilityName": "Natural Cure",
+
+    "usesValue": false,
+
+    "shortDescription": "33.33% chance to cure its non-volatile status condition at the start of its turn.",
+    "longDescription": "At the start of this Pokemon's turn, it has a 33.33% chance to cure itself of a non-volatile status condition (burn, freeze, paralysis, poison, badly poison, or sleep)."
+  },
+
+  {
+    "abilityIndex": 56,
+    "abilityName": "Healer",
+
+    "usesValue": false,
+
+    "shortDescription": "Cures status conditions of adjacent allies at the start of its turn.",
+    "longDescription": "At the start of this Pokemon's turn, it cures status conditions affecting adjacent allied Pokemon."
+  },
+
+  {
+    "abilityIndex": 57,
+    "abilityName": "Nurse",
+
+    "usesValue": false,
+
+    "shortDescription": "Cures status conditions of adjacent allies at the start of its turn.",
+    "longDescription": "At the start of this Pokemon's turn, it cures status conditions affecting adjacent allied Pokemon."
+  },
+
+  {
+    "abilityIndex": 58,
+    "abilityName": "Melee",
+
+    "usesValue": false,
+
+    "shortDescription": "After adjacent enemy takes damage, it loses 6.25% of its max HP.",
+    "longDescription": "After an adjacent enemy Pokemon takes damage, it loses an additional 6.25% of its max HP. This cannot reduce a Pokemon below 1 HP. "
+  },
+
+  {
+    "abilityIndex": 59,
+    "abilityName": "Sponge",
+
+    "usesValue": false,
+
+    "shortDescription": "Turn start: adjacent enemy -6.25% max HP; heals user 50% of damage dealt.",
+    "longDescription": "At the start of this Pokemon's turn, adjacent enemy Pokemon lose 6.25% of their max HP and this Pokemon's HP is restored by 50% of the damage dealt (minimum of 1 HP restored). This cannot reduce a Pokemon's HP below 1."
+  },
+
+  {
+    "abilityIndex": 60,
+    "abilityName": "Bodyguard",
+
+    "usesValue": false,
+
+    "shortDescription": "When adjacent ally attacked, swap places and take hit instead.",
+    "longDescription": "When an adjacent allied Pokemon would be hit by an enemy attack, this Pokemon switches positions with that ally and takes the attack in its place. This ability can protect a given ally only once per turn."
+  },
+
+  {
+    "abilityIndex": 61,
+    "abilityName": "Hero",
+
+    "usesValue": true,
+
+    "shortDescription": "While army strength is below one-third of enemy army: +{value:increase-user-attack} Attack and +{value:increase-user-defence} Defense.",
+    "longDescription": "While the total strength of this Pokemon's army is below one-third of the opposing army's total strength, its Attack stage is increased by {value:increase-user-attack} and its Defense stage is increased by {value:increase-user-defence}."
+  },
+
+  {
+    "abilityIndex": 62,
+    "abilityName": "Last Bastion",
+
+    "usesValue": true,
+
+    "shortDescription": "When last allied Pokemon remaining: +{value:increase-user-attack} Attack and +{value:increase-user-defence} Defense.",
+    "longDescription": "While this Pokemon is the last active Pokemon remaining in its army, its Attack stage is increased by {value:increase-user-attack} and its Defense stage is increased by {value:increase-user-defence}."
+  },
+
+  {
+    "abilityIndex": 64,
+    "abilityName": "Stealth",
+
+    "usesValue": false,
+
+    "shortDescription": "Increased dodge chance while on type-matching terrain.",
+    "longDescription": "While this Pokemon is standing on terrain associated with one of its types, it has an increased chance to dodge attacks."
+  },
+
+  {
+    "abilityIndex": 65,
+    "abilityName": "Vanguard",
+
+    "usesValue": false,
+
+    "shortDescription": "If first Pokemon to move during the turn, deals 50% more damage.",
+    "longDescription": "If this Pokemon is the first to move during the turn, its attack deals 50% more damage. If the defending Pokemon has the abiliy {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
+  },
+
+  {
+    "abilityIndex": 66,
+    "abilityName": "Nomad",
+
+    "usesValue": false,
+
+    "shortDescription": "Deals 20% more damage per tile traveled before attacking.",
+    "longDescription": "This Pokemon deals 20% more damage for each tile it travels before executing an attack. If the defending Pokemon has the abiliy {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
+  },
+
+  {
+    "abilityIndex": 67,
+    "abilityName": "Sequence",
+
+    "usesValue": true,
+
+    "shortDescription": "+{value:increase-user-attack} Attack when adjacent allied Electric Pokemon.",
+    "longDescription": "While this Pokemon is adjacent an allied Electric-type Pokemon, its Attack stage is increased by {value:increase-user-attack}. Being adjacent additional allied Electric-type Pokemon further increased its Attack."
+  },
+
+  {
+    "abilityIndex": 68,
+    "abilityName": "Grass Cloak",
+
+    "usesValue": true,
+
+    "shortDescription": "While on grass, +{value:increase-user-defence} Defense.",
+    "longDescription": "While this Pokemon is standing on a grass tile, its Defense stage is increased by {value:increase-user-defence}."
+  },
+
+  {
+    "abilityIndex": 69,
+    "abilityName": "Compound Eyes",
+
+    "usesValue": true,
+
+    "shortDescription": "+{value:increase-user-accuracy} Accuracy.",
+    "longDescription": "This Pokemon's Accuracy stage is increased by {value:increase-user-accuracy}."
+  },
+
+  {
+    "abilityIndex": 70,
+    "abilityName": "Simple",
+
+    "usesValue": false,
+
+    "shortDescription": "Doubles all non-Range stat changes.",
+    "longDescription": "Stat changes affecting this Pokemon are doubled. This applies to Attack, Defense, Speed, Accuracy, and critical-hit chance, including changes caused by held items, but does not apply to movement Range."
+  },
+
+  {
+    "abilityIndex": 71,
+    "abilityName": "Moxie",
+
+    "usesValue": true,
+
+    "shortDescription": "After defeating an enemy, +{value:increase-user-attack} Attack for one turn.",
+    "longDescription": "When this Pokemon defeats an enemy Pokemon, its Attack stage is increased by {value:increase-user-attack} until the end of its next turn."
+  },
+
+  {
+    "abilityIndex": 72,
+    "abilityName": "Celebrate",
+
+    "usesValue": false,
+
+    "shortDescription": "Can move again after defeating an enemy (max twice per turn).",
+    "longDescription": "The first time this Pokemon defeats an enemy Pokemon with an attack in a turn, it can move and act a second time."
+  
+
+  {
+    "abilityIndex": 73,
+    "abilityName": "Lullaby",
+
+    "usesValue": false,
+
+    "shortDescription": "Start of its turn: 10% chance to put enemies within two tiles to sleep.",
+    "longDescription": "At the start of this Pokemon's turn, enemy Pokemon within two tiles each have a 10% chance to fall asleep. The likelihood increases by 0.20% for each link gained past 50%, reaching a 20% chance to put an enemy to sleep at 100% link."
+  },
+
+  {
+    "abilityIndex": 74,
+    "abilityName": "Effect Spore",
+
+    "usesValue": false,
+
+    "shortDescription": "Start of its turn: 10% chance to put enemies within two tiles to sleep.",
+    "longDescription": "At the start of this Pokemon's turn, enemy Pokemon within two tiles each have a 10% chance to fall asleep. The likelihood increases by 0.20% for each link gained past 50%, reaching a 20% chance to put an enemy to sleep at 100% link."
+  },
+
+  {
+    "abilityIndex": 75,
+    "abilityName": "Daze",
+
+    "usesValue": false,
+
+    "shortDescription": "Start of its turn: 12.5% chance to put enemies within two tiles to sleep.",
+    "longDescription": "At the start of this Pokemon's turn, enemy Pokemon within two tiles each have a 12.5% chance to fall asleep. The likelihood increases by 0.25% for each link gained past 50%, reaching a 25% chance to put an enemy to sleep at 100% link."
+  },
+
+  {
+    "abilityIndex": 76,
+    "abilityName": "Intimidate",
+
+    "usesValue": true,
+
+    "shortDescription": "Start of its turn: -{value:decrease-opponent-attack} Attack to enemies within two tiles for one turn.",
+    "longDescription": "At the start of this Pokemon's turn, any enemy Pokemon within two tiles has its Attack stage lowered by {value:decrease-opponent-attack} until the end of its next turn."
+  },
+
+  {
+    "abilityIndex": 77,
+    "abilityName": "Frighten",
+
+    "usesValue": true,
+
+    "shortDescription": "Start of its turn: -{value:decrease-opponent-speed} Speed to enemies within two tiles for one turn.",
+    "longDescription": "At the start of this Pokemon's turn, any enemy Pokemon within two tiles has its Speed stage lowered by {value:decrease-opponent-speed} until the end of its next turn."
+  },
+
+  {
+    "abilityIndex": 78,
+    "abilityName": "Interference",
+
+    "usesValue": true,
+
+    "shortDescription": "Start of its turn: -{value:decrease-opponent-accuracy} Accuracy to enemies within two tiles for one turn.",
+    "longDescription": "At the start of this Pokemon's turn, any enemy Pokemon within two tiles has its Accuracy stage lowered by {value:decrease-opponent-accuracy} until the end of its next turn."
+  },
+
+  {
+    "abilityIndex": 79,
+    "abilityName": "Mood Maker",
+
+    "usesValue": false,
+
+    "shortDescription": "Start of its turn: +1 Energy to allies within two tiles for one turn.",
+    "longDescription": "At the start of this Pokemon's turn, any allied Pokemon within two tiles has its Energy stage increased by 1 until the end of its turn. Any increase to maximum HP from an Energy boost does not also restore current HP, which can cause army strength to decrease (relevant to {abilityIndex: 61}, for example)."
+  },
+
+  {
+    "abilityIndex": 80,
+    "abilityName": "Victory Star",
+
+    "usesValue": true,
+
+    "shortDescription": "Start of its turn: {value:increase-user-defence} Defense and {value:increase-user-accuracy} Accuracy to allies within two tiles until they act.",
+    "longDescription": "At the start of this Pokemon's turn, any allied Pokemon within two tiles has its Defense stage increased by {value:increase-user-defence} and its Accuracy stage increased by {value:increase-user-accuracy} until it acts this turn or its turn ends."
+  },
+
+  {
+    "abilityIndex": 81,
+    "abilityName": "Fortune",
+
+    "usesValue": false,
+
+    "shortDescription": "Collects more gold from treasure boxes and mining.",
+    "longDescription": "When this Pokemon collects a treasure box or goes mining, the amount of gold obtained is increased."
+  },
+
+  {
+    "abilityIndex": 82,
+    "abilityName": "Bonanza",
+
+    "usesValue": false,
+
+    "shortDescription": "Collects considerably more gold from treasure boxes and mining.",
+    "longDescription": "When this Pokemon collects a treasure box or goes mining, the amount of gold obtained is increased considerably."
+  },
+
+  {
+    "abilityIndex": 83,
+    "abilityName": "Explode",
+
+    "usesValue": false,
+
+    "shortDescription": "When knocked out, damages Pokemon within eight tiles.",
+    "longDescription": "When this Pokemon is knocked out, it attempts to damage all Pokemon within eight tiles. It uses this Pokemon's attack stat and is subject to an accuracy check, but deals typeless damage."
+  },
+
+  {
+    "abilityIndex": 84,
+    "abilityName": "Illusion",
+
+    "usesValue": false,
+
+    "shortDescription": "At battle start, appears as an allied Pokemon.",
+    "longDescription": "At the start of battle, this Pokemon takes on the appearance of an allied Pokemon. This changes only its appearance and does not copy the ally's stats, type,ability, or move. Computer controlled armies see through the illusion and are not tricked."
+  },
+
+  {
+    "abilityIndex": 85,
+    "abilityName": "Omnipotent",
+
+    "usesValue": false,
+
+    "shortDescription": "Attacks deal at least neutral damage; has {abilityIndex: 28}, {abilityIndex: 1}, {abilityIndex: 53}.",
+    "longDescription": "Attacks from this Pokemon ignore resistances and immunities and always deal at least neutral damage. This Pokemon also has the effects of {abilityIndex: 28}, {abilityIndex: 1}, and {abilityIndex: 53}."
+  },
+
+  {
+    "abilityIndex": 86,
+    "abilityName": "Share",
+
+    "usesValue": false,
+
+    "shortDescription": "Allows its Warrior to use their Warrior Skill twice.",
+    "longDescription": "The Warrior linked with this Pokemon can use their Warrior Skill twice during the battle."
+  },
+
+  {
+    "abilityIndex": 87,
+    "abilityName": "Black Hole",
+
+    "usesValue": false,
+
+    "shortDescription": "Start of its turn: adjacent enemy Range to 0 for one turn.",
+    "longDescription": "At the start of this Pokemon's turn, any adjacent enemy Pokemon has its movement Range lowered to zero until the end of its next turn."
+  },
+
+  {
+    "abilityIndex": 88,
+    "abilityName": "Quick Draw",
+
+    "usesValue": false,
+
+    "shortDescription": "Its attacks never miss.",
+    "longDescription": "Has no effect. The intention is for this Pokemon's attacks to never miss, but the never-miss effect is assigned directly to {moveIndex: 128} itself rather than coming from this abiliy. As such, if this ability is given to other Pokemon, the never-miss effect will still be assinged to {moveIndex: 128} and not the new move."
+  },
+
+  {
+    "abilityIndex": 89,
+    "abilityName": "Truant",
+
+    "usesValue": false,
+
+    "shortDescription": "User Range to 0 turn after successfully hitting a target.",
+    "longDescription": "Has no effect. The intention is for this Pokemon's range to be reduced to zero the turn after succesffuly landing an attack, but range-to-zero effect is assigned directly to {moveIndex: 1} itself rather than coming from this abiliy. As such, if this ability is given to other Pokemon, the range-to-zero effect will still be assinged to {moveIndex: 1} and not the new move."
+  },
+
+  {
+    "abilityIndex": 90,
+    "abilityName": "Shadow Dash",
+
+    "usesValue": false,
+
+    "shortDescription": "When no Pokemon are within three tiles, +2 movement Range.",
+    "longDescription": "When no other Pokemon are within three tiles of this Pokemon, its movement Range is increased by 2 (maximum of 6)."
+  },
+
+  {
+    "abilityIndex": 91,
+    "abilityName": "Sprint",
+
+    "usesValue": true,
+
+    "shortDescription": "+{value:increase-user-movement-range} movement Range.",
+    "longDescription": "This Pokemon's movement Range is increased by {value:increase-user-movement-range} (maximum of 6)."
+  },
+
+  {
+    "abilityIndex": 92,
+    "abilityName": "Disgust",
+
+    "usesValue": false,
+
+    "shortDescription": "Enemies hit by this Pokemon switch places with an adjacent enemy.",
+    "longDescription": "When this Pokemon hits an enemy with an attack, the target is forced to switch positions with an adjacent enemy Pokemon if one is available."
+  },
+
+  {
+    "abilityIndex": 93,
+    "abilityName": "High-rise",
+
+    "usesValue": false,
+
+    "shortDescription": "Deals 50% more damage if above the defender.",
+    "longDescription": "This Pokemon deals 50% more damage to targets positioned on lower ground. If the defending Pokemon has the abiliy {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
+  },
+
+  {
+    "abilityIndex": 94,
+    "abilityName": "Climber",
+
+    "usesValue": false,
+
+    "shortDescription": "Deals 50% more damage if below the defender.",
+    "longDescription": "This Pokemon deals 50% more damage to targets positioned on higher ground. This Pokemon's attacks do not suffer the height modifier penalty during damage calculation for being on lower ground than the defender. If the defending Pokemon has the abiliy {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
+  },
+
+  {
+    "abilityIndex": 95,
+    "abilityName": "Flame Boost",
+
+    "usesValue": false,
+
+    "shortDescription": "Adjacent allies' Fire-type moves deal 50% more damage.",
+    "longDescription": "Fire-type moves used by adjacent allied Pokemon deal 50% more damage. If the defending Pokemon has the abiliy {abilityIndex: 14} or the attacking Pokemon has the ability {abilityIndex: 65}, {abilityIndex: 66}, {abilityIndex: 97}, {abilityIndex: 93}, or {abilityIndex: 94}, and either triggers from the attack, the damage boost from this effect is negated."
+  },
+
+  {
+    "abilityIndex": 96,
+    "abilityName": "Aqua Boost",
+
+    "usesValue": false,
+
+    "shortDescription": "Adjacent allies' Water-type moves deal 50% more damage.",
+    "longDescription": "Water-type moves used by adjacent allied Pokemon deal 50% more damage. If the defending Pokemon has the abiliy {abilityIndex: 14} or the attacking Pokemon has the ability {abilityIndex: 65}, {abilityIndex: 66}, {abilityIndex: 97}, {abilityIndex: 93}, or {abilityIndex: 94}, and either triggers from the attack, the damage boost from this effect is negated."
+  },
+
+  {
+    "abilityIndex": 97,
+    "abilityName": "Run Up",
+
+    "usesValue": false,
+
+    "shortDescription": "Deals 12.5% more damage per tile traveled before attacking.",
+    "longDescription": "This Pokemon deals 12.5% more damage for each tile it travels before executing an attack. If the defending Pokemon has the abiliy {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
+  },
+
+  {
+    "abilityIndex": 98,
+    "abilityName": "Conqueror",
+
+    "usesValue": false,
+
+    "shortDescription": "After defeating enemy, +20% Attack/Defense/Speed until end of battle.",
+    "longDescription": "When this Pokemon defeats an enemy Pokemon, its Attack, Defense, and Speed stats are boosted by 20% until the end of the battle. This stacks, so defeating additional enemy Pokemon further increases the boost."
+  },
+
+  {
+    "abilityIndex": 99,
+    "abilityName": "Shackle",
+
+    "usesValue": true,
+
+    "shortDescription": "Pokemon hit have -{value:decrease-opponent-movement-range} Range and -{value:decrease-opponent-speed} Speed for one turn.",
+    "longDescription": "When this Pokemon hits another Pokemon with an attack, that Pokemon has its movement Range lowered by {value:decrease-opponent-movement-range} (to a minimum of one before the snow movement penalty) and its Speed stage lowered by {value:decrease-opponent-speed} until the end of its next turn."
+  },
+
+  {
+    "abilityIndex": 100,
+    "abilityName": "Decoy",
+
+    "usesValue": false,
+
+    "shortDescription": "Has no effect.",
+    "longDescription": "Has no effect."
+  },
+
+  {
+    "abilityIndex": 101,
+    "abilityName": "Shield",
+
+    "usesValue": false,
+
+    "shortDescription": "Blocks attacks from hitting allied Pokemon behind it.",
+    "longDescription": "Attacks miss any allied Pokemon on a tile behind this Pokemon and in the same column."
+  },
+
+  {
+    "abilityIndex": 102,
+    "abilityName": "Zen Mode",
+
+    "usesValue": false,
+
+    "shortDescription": "Has no effect.",
+    "longDescription": "Has no effect."
+  }
+]

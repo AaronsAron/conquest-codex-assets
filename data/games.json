@@ -1,0 +1,25 @@
+{
+  "defaultGameId": "vanilla",
+
+  "games": [
+    {
+      "id": "vanilla",
+      "name": "Vanilla",
+      "fullName": "Pokémon Conquest",
+      "dataPath": "data/vanilla",
+      "assetNamespace": "vanilla",
+      "isDefault": true,
+      "isAvailable": true
+    },
+
+    {
+      "id": "ultimate",
+      "name": "Ultimate",
+      "fullName": "Pokémon Conquest: Ultimate",
+      "dataPath": "data/ultimate",
+      "assetNamespace": "ultimate",
+      "isDefault": false,
+      "isAvailable": true
+    }
+  ]
+}

@@ -1,0 +1,8601 @@
+[
+  {
+    "pokemonIndex": 0,
+    "name": "Meloetta",
+
+    "nationalDexNumber": 648,
+    "galleryNumber": 1,
+
+    "isLegendary": false,
+    "catchRate": 3,
+
+    "stats": {
+      "hp": 310,
+      "attack": 261,
+      "defense": 210,
+      "speed": 185
+    },
+    "bst": 966,
+    "movementRange": 3,
+
+    "typeIds": ["normal", "psychic"],
+
+    "move": { "moveIndex": 121, "moveName": "Relic Song" },
+
+    "abilities": [
+      { "abilityIndex": 73, "abilityName": "Lullaby" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 1,
+    "name": "Vaporeon",
+
+    "nationalDexNumber": 134,
+    "galleryNumber": 2,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 370,
+      "attack": 225,
+      "defense": 160,
+      "speed": 135
+    },
+    "bst": 890,
+    "movementRange": 3,
+
+    "typeIds": ["water"],
+
+    "move": { "moveIndex": 124, "moveName": "Scald" },
+
+    "abilities": [
+      { "abilityIndex": 22, "abilityName": "Water Absorb" },
+      { "abilityIndex": 2, "abilityName": "Wave Rider" },
+      { "abilityIndex": 64, "abilityName": "Stealth" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 98
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 2,
+    "name": "Jolteon",
+
+    "nationalDexNumber": 135,
+    "galleryNumber": 3,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 240,
+      "attack": 225,
+      "defense": 160,
+      "speed": 265
+    },
+    "bst": 890,
+    "movementRange": 3,
+
+    "typeIds": ["electric"],
+
+    "move": { "moveIndex": 35, "moveName": "Thunderbolt" },
+
+    "abilities": [
+      { "abilityIndex": 23, "abilityName": "Volt Absorb" },
+      { "abilityIndex": 24, "abilityName": "Motor Drive" },
+      { "abilityIndex": 67, "abilityName": "Sequence" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 99
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 3,
+    "name": "Flareon",
+
+    "nationalDexNumber": 136,
+    "galleryNumber": 4,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 240,
+      "attack": 265,
+      "defense": 175,
+      "speed": 135
+    },
+    "bst": 815,
+    "movementRange": 3,
+
+    "typeIds": ["fire"],
+
+    "move": { "moveIndex": 15, "moveName": "Flare Blitz" },
+
+    "abilities": [
+      { "abilityIndex": 21, "abilityName": "Flash Fire" },
+      { "abilityIndex": 40, "abilityName": "Guts" },
+      { "abilityIndex": 33, "abilityName": "Flame Body" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 97
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 4,
+    "name": "Espeon",
+
+    "nationalDexNumber": 196,
+    "galleryNumber": 5,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 240,
+      "attack": 265,
+      "defense": 160,
+      "speed": 225
+    },
+    "bst": 890,
+    "movementRange": 3,
+
+    "typeIds": ["psychic"],
+
+    "move": { "moveIndex": 84, "moveName": "Psychic" },
+
+    "abilities": [
+      { "abilityIndex": 86, "abilityName": "Share" },
+      { "abilityIndex": 26, "abilityName": "Perception" },
+      { "abilityIndex": 28, "abilityName": "Instinct" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 50
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 10
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 5,
+    "name": "Umbreon",
+
+    "nationalDexNumber": 197,
+    "galleryNumber": 6,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 300,
+      "attack": 135,
+      "defense": 245,
+      "speed": 135
+    },
+    "bst": 815,
+    "movementRange": 3,
+
+    "typeIds": ["dark"],
+
+    "move": { "moveIndex": 111, "moveName": "Foul Play" },
+
+    "abilities": [
+      { "abilityIndex": 18, "abilityName": "Inner Focus" },
+      { "abilityIndex": 90, "abilityName": "Shadow Dash" },
+      { "abilityIndex": 78, "abilityName": "Interference" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 50
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 15
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 6,
+    "name": "Leafeon",
+
+    "nationalDexNumber": 470,
+    "galleryNumber": 7,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 240,
+      "attack": 225,
+      "defense": 200,
+      "speed": 195
+    },
+    "bst": 860,
+    "movementRange": 3,
+
+    "typeIds": ["grass"],
+
+    "move": { "moveIndex": 43, "moveName": "Leaf Blade" },
+
+    "abilities": [
+      { "abilityIndex": 54, "abilityName": "Lunch Box" },
+      { "abilityIndex": 55, "abilityName": "Natural Cure" },
+      { "abilityIndex": 27, "abilityName": "Parry" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 73
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 5
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 7,
+    "name": "Glaceon",
+
+    "nationalDexNumber": 471,
+    "galleryNumber": 8,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 240,
+      "attack": 265,
+      "defense": 210,
+      "speed": 135
+    },
+    "bst": 850,
+    "movementRange": 3,
+
+    "typeIds": ["ice"],
+
+    "move": { "moveIndex": 47, "moveName": "Icy Wind" },
+
+    "abilities": [
+      { "abilityIndex": 34, "abilityName": "Frostbite" },
+      { "abilityIndex": 64, "abilityName": "Stealth" },
+      { "abilityIndex": 3, "abilityName": "Skater" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 71
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 10
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 8,
+    "name": "Charizard",
+
+    "nationalDexNumber": 6,
+    "galleryNumber": 9,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 266,
+      "attack": 223,
+      "defense": 168,
+      "speed": 205
+    },
+    "bst": 862,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "flying"],
+
+    "move": { "moveIndex": 19, "moveName": "Flamethrower" },
+
+    "abilities": [
+      { "abilityIndex": 36, "abilityName": "Blaze" },
+      { "abilityIndex": 71, "abilityName": "Moxie" },
+      { "abilityIndex": 62, "abilityName": "Last Bastion" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 9,
+    "name": "Beedrill",
+
+    "nationalDexNumber": 15,
+    "galleryNumber": 10,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 240,
+      "attack": 205,
+      "defense": 145,
+      "speed": 215
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "poison"],
+
+    "move": { "moveIndex": 90, "moveName": "Twineedle" },
+
+    "abilities": [
+      { "abilityIndex": 39, "abilityName": "Swarm" },
+      { "abilityIndex": 8, "abilityName": "Sniper" },
+      { "abilityIndex": 65, "abilityName": "Vanguard" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 44
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 10,
+    "name": "Arbok",
+
+    "nationalDexNumber": 24,
+    "galleryNumber": 11,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 195,
+      "defense": 165,
+      "speed": 185
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["poison"],
+
+    "move": { "moveIndex": 48, "moveName": "Gunk Shot" },
+
+    "abilities": [
+      { "abilityIndex": 76, "abilityName": "Intimidate" },
+      { "abilityIndex": 55, "abilityName": "Natural Cure" },
+      { "abilityIndex": 77, "abilityName": "Frighten" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 75
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 11,
+    "name": "Raichu",
+
+    "nationalDexNumber": 26,
+    "galleryNumber": 12,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 235,
+      "defense": 160,
+      "speed": 225
+    },
+    "bst": 870,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "psychic"],
+
+    "move": { "moveIndex": 35, "moveName": "Thunderbolt" },
+
+    "abilities": [
+      { "abilityIndex": 32, "abilityName": "Static" },
+      { "abilityIndex": 25, "abilityName": "Lightning Rod" },
+      { "abilityIndex": 24, "abilityName": "Motor Drive" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 105
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 0
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 12,
+    "name": "Sandslash",
+
+    "nationalDexNumber": 29,
+    "galleryNumber": 13,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 205,
+      "defense": 195,
+      "speed": 145
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["ice", "steel"],
+
+    "move": { "moveIndex": 51, "moveName": "Icicle Crash" },
+
+    "abilities": [
+      { "abilityIndex": 64, "abilityName": "Stealth" },
+      { "abilityIndex": 3, "abilityName": "Skater" },
+      { "abilityIndex": 11, "abilityName": "Shell Armor" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 13,
+    "name": "Nidoking",
+
+    "nationalDexNumber": 34,
+    "galleryNumber": 14,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 272,
+      "attack": 209,
+      "defense": 157,
+      "speed": 175
+    },
+    "bst": 813,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "ground"],
+
+    "move": { "moveIndex": 72, "moveName": "Drill Run" },
+
+    "abilities": [
+      { "abilityIndex": 31, "abilityName": "Poison Point" },
+      { "abilityIndex": 97, "abilityName": "Run Up" },
+      { "abilityIndex": 98, "abilityName": "Conqueror" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 16
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 14,
+    "name": "Crobat",
+
+    "nationalDexNumber": 169,
+    "galleryNumber": 15,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 280,
+      "attack": 185,
+      "defense": 165,
+      "speed": 265
+    },
+    "bst": 895,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "flying"],
+
+    "move": { "moveIndex": 134, "moveName": "Aerial Ace" },
+
+    "abilities": [
+      { "abilityIndex": 18, "abilityName": "Inner Focus" },
+      { "abilityIndex": 90, "abilityName": "Shadow Dash" },
+      { "abilityIndex": 59, "abilityName": "Sponge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 15,
+    "name": "Annihilape",
+
+    "nationalDexNumber": 979,
+    "galleryNumber": 16,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 330,
+      "attack": 235,
+      "defense": 175,
+      "speed": 185
+    },
+    "bst": 925,
+    "movementRange": 3,
+
+    "typeIds": ["fighting", "ghost"],
+
+    "move": { "moveIndex": 102, "moveName": "Rage Fist" },
+
+    "abilities": [
+      { "abilityIndex": 18, "abilityName": "Inner Focus" },
+      { "abilityIndex": 77, "abilityName": "Frighten" },
+      { "abilityIndex": 46, "abilityName": "Spirit" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 30
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 16,
+    "name": "Arcanine",
+
+    "nationalDexNumber": 59,
+    "galleryNumber": 17,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 300,
+      "attack": 235,
+      "defense": 165,
+      "speed": 185
+    },
+    "bst": 885,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "rock"],
+
+    "move": { "moveIndex": 15, "moveName": "Flare Blitz" },
+
+    "abilities": [
+      { "abilityIndex": 76, "abilityName": "Intimidate" },
+      { "abilityIndex": 21, "abilityName": "Flash Fire" },
+      { "abilityIndex": 61, "abilityName": "Hero" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 99
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 17,
+    "name": "Tentacruel",
+
+    "nationalDexNumber": 73,
+    "galleryNumber": 18,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 185,
+      "defense": 190,
+      "speed": 205
+    },
+    "bst": 850,
+    "movementRange": 3,
+
+    "typeIds": ["water", "poison"],
+
+    "move": { "moveIndex": 65, "moveName": "Sludge Bomb" },
+
+    "abilities": [
+      { "abilityIndex": 19, "abilityName": "Clear Body" },
+      { "abilityIndex": 48, "abilityName": "Gulp" },
+      { "abilityIndex": 99, "abilityName": "Shackle" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 18,
+    "name": "Golem",
+
+    "nationalDexNumber": 76,
+    "galleryNumber": 19,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 245,
+      "defense": 200,
+      "speed": 95
+    },
+    "bst": 810,
+    "movementRange": 3,
+
+    "typeIds": ["rock", "electric"],
+
+    "move": { "moveIndex": 129, "moveName": "Shock Wave" },
+
+    "abilities": [
+      { "abilityIndex": 87, "abilityName": "Magnet Pull" },
+      { "abilityIndex": 12, "abilityName": "Sturdy" },
+      { "abilityIndex": 99, "abilityName": "Shackle" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 94
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 19,
+    "name": "Slowbro",
+
+    "nationalDexNumber": 80,
+    "galleryNumber": 20,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 205,
+      "defense": 205,
+      "speed": 85
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "psychic"],
+
+    "move": { "moveIndex": 128, "moveName": "Shell Side Arm" },
+
+    "abilities": [
+      { "abilityIndex": 88, "abilityName": "Quick Draw" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 20,
+    "name": "Slowking",
+
+    "nationalDexNumber": 199,
+    "galleryNumber": 21,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 300,
+      "attack": 225,
+      "defense": 195,
+      "speed": 85
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "psychic"],
+
+    "move": { "moveIndex": 82, "moveName": "Eerie Spell" },
+
+    "abilities": [
+      { "abilityIndex": 17, "abilityName": "Own Tempo" },
+      { "abilityIndex": 53, "abilityName": "Life Force" },
+      { "abilityIndex": 13, "abilityName": "Unaware" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 30
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 21,
+    "name": "Magnezone",
+
+    "nationalDexNumber": 462,
+    "galleryNumber": 22,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 265,
+      "defense": 210,
+      "speed": 125
+    },
+    "bst": 850,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "steel"],
+
+    "move": { "moveIndex": 79, "moveName": "Magnet Bomb" },
+
+    "abilities": [
+      { "abilityIndex": 12, "abilityName": "Sturdy" },
+      { "abilityIndex": 87, "abilityName": "Magnet Pull" },
+      { "abilityIndex": 67, "abilityName": "Sequence" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 101
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 22,
+    "name": "Gengar",
+
+    "nationalDexNumber": 94,
+    "galleryNumber": 23,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 230,
+      "attack": 265,
+      "defense": 140,
+      "speed": 225
+    },
+    "bst": 860,
+    "movementRange": 3,
+
+    "typeIds": ["ghost", "poison"],
+
+    "move": { "moveIndex": 100, "moveName": "Shadow Ball" },
+
+    "abilities": [
+      { "abilityIndex": 90, "abilityName": "Shadow Dash" },
+      { "abilityIndex": 77, "abilityName": "Frighten" },
+      { "abilityIndex": 29, "abilityName": "Dodge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 23,
+    "name": "Exeggutor",
+
+    "nationalDexNumber": 103,
+    "galleryNumber": 24,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 300,
+      "attack": 255,
+      "defense": 165,
+      "speed": 115
+    },
+    "bst": 835,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "psychic"],
+
+    "move": { "moveIndex": 81, "moveName": "Dream Eater" },
+
+    "abilities": [
+      { "abilityIndex": 49, "abilityName": "Herbivore" },
+      { "abilityIndex": 86, "abilityName": "Share" },
+      { "abilityIndex": 26, "abilityName": "Perception" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 55
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 24,
+    "name": "Rhyperior",
+
+    "nationalDexNumber": 464,
+    "galleryNumber": 25,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 340,
+      "attack": 285,
+      "defense": 190,
+      "speed": 85
+    },
+    "bst": 900,
+    "movementRange": 3,
+
+    "typeIds": ["ground", "rock"],
+
+    "move": { "moveIndex": 72, "moveName": "Drill Run" },
+
+    "abilities": [
+      { "abilityIndex": 25, "abilityName": "Lightning Rod" },
+      { "abilityIndex": 9, "abilityName": "Solid Rock" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 60
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 25,
+    "name": "Kingdra",
+
+    "nationalDexNumber": 230,
+    "galleryNumber": 26,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 195,
+      "defense": 195,
+      "speed": 175
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["water", "dragon"],
+
+    "move": { "moveIndex": 140, "moveName": "Whirlpool" },
+
+    "abilities": [
+      { "abilityIndex": 8, "abilityName": "Sniper" },
+      { "abilityIndex": 2, "abilityName": "Wave Rider" },
+      { "abilityIndex": 54, "abilityName": "Lunch Box" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 26,
+    "name": "Starmie",
+
+    "nationalDexNumber": 121,
+    "galleryNumber": 27,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 230,
+      "attack": 205,
+      "defense": 175,
+      "speed": 235
+    },
+    "bst": 845,
+    "movementRange": 3,
+
+    "typeIds": ["water", "psychic"],
+
+    "move": { "moveIndex": 84, "moveName": "Psychic" },
+
+    "abilities": [
+      { "abilityIndex": 55, "abilityName": "Natural Cure" },
+      { "abilityIndex": 78, "abilityName": "Interference" },
+      { "abilityIndex": 86, "abilityName": "Share" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 48
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 27,
+    "name": "Mr. Rime",
+
+    "nationalDexNumber": 866,
+    "galleryNumber": 28,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 225,
+      "defense": 180,
+      "speed": 145
+    },
+    "bst": 820,
+    "movementRange": 3,
+
+    "typeIds": ["ice", "psychic"],
+
+    "move": { "moveIndex": 84, "moveName": "Psychic" },
+
+    "abilities": [
+      { "abilityIndex": 79, "abilityName": "Mood Maker" },
+      { "abilityIndex": 72, "abilityName": "Celebrate" },
+      { "abilityIndex": 29, "abilityName": "Dodge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 92
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 28,
+    "name": "Scyther",
+
+    "nationalDexNumber": 123,
+    "galleryNumber": 29,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 225,
+      "defense": 165,
+      "speed": 215
+    },
+    "bst": 855,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "flying"],
+
+    "move": { "moveIndex": 88, "moveName": "Fury Cutter" },
+
+    "abilities": [
+      { "abilityIndex": 39, "abilityName": "Swarm" },
+      { "abilityIndex": 27, "abilityName": "Parry" },
+      { "abilityIndex": 68, "abilityName": "Grass Cloak" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 29,
+    "name": "Scizor",
+
+    "nationalDexNumber": 212,
+    "galleryNumber": 30,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 265,
+      "defense": 185,
+      "speed": 135
+    },
+    "bst": 835,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "steel"],
+
+    "move": { "moveIndex": 120, "moveName": "Bullet Punch" },
+
+    "abilities": [
+      { "abilityIndex": 39, "abilityName": "Swarm" },
+      { "abilityIndex": 27, "abilityName": "Parry" },
+      { "abilityIndex": 58, "abilityName": "Melee" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 39
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 30,
+    "name": "Kleavor",
+
+    "nationalDexNumber": 900,
+    "galleryNumber": 31,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 275,
+      "defense": 170,
+      "speed": 175
+    },
+    "bst": 870,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "rock"],
+
+    "move": { "moveIndex": 113, "moveName": "Stone Axe" },
+
+    "abilities": [
+      { "abilityIndex": 39, "abilityName": "Swarm" },
+      { "abilityIndex": 27, "abilityName": "Parry" },
+      { "abilityIndex": 58, "abilityName": "Melee" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 31,
+    "name": "Gyarados",
+
+    "nationalDexNumber": 130,
+    "galleryNumber": 32,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 300,
+      "attack": 255,
+      "defense": 184,
+      "speed": 167
+    },
+    "bst": 906,
+    "movementRange": 3,
+
+    "typeIds": ["water", "flying"],
+
+    "move": { "moveIndex": 29, "moveName": "Aqua Tail" },
+
+    "abilities": [
+      { "abilityIndex": 76, "abilityName": "Intimidate" },
+      { "abilityIndex": 71, "abilityName": "Moxie" },
+      { "abilityIndex": 77, "abilityName": "Frighten" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 50
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 32,
+    "name": "Lapras",
+
+    "nationalDexNumber": 131,
+    "galleryNumber": 33,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 370,
+      "attack": 175,
+      "defense": 180,
+      "speed": 125
+    },
+    "bst": 850,
+    "movementRange": 3,
+
+    "typeIds": ["water", "ice"],
+
+    "move": { "moveIndex": 30, "moveName": "Hydro Pump" },
+
+    "abilities": [
+      { "abilityIndex": 22, "abilityName": "Water Absorb" },
+      { "abilityIndex": 11, "abilityName": "Shell Armor" },
+      { "abilityIndex": 79, "abilityName": "Mood Maker" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 57
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 33,
+    "name": "Porygon-Z",
+
+    "nationalDexNumber": 474,
+    "galleryNumber": 34,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 280,
+      "attack": 275,
+      "defense": 150,
+      "speed": 185
+    },
+    "bst": 890,
+    "movementRange": 3,
+
+    "typeIds": ["normal"],
+
+    "move": { "moveIndex": 135, "moveName": "Tri Attack" },
+
+    "abilities": [
+      { "abilityIndex": 65, "abilityName": "Vanguard" },
+      { "abilityIndex": 86, "abilityName": "Share" },
+      { "abilityIndex": 53, "abilityName": "Life Force" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 34,
+    "name": "Kabutops",
+
+    "nationalDexNumber": 141,
+    "galleryNumber": 35,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 230,
+      "attack": 235,
+      "defense": 180,
+      "speed": 165
+    },
+    "bst": 810,
+    "movementRange": 3,
+
+    "typeIds": ["rock", "water"],
+
+    "move": { "moveIndex": 94, "moveName": "Stone Edge" },
+
+    "abilities": [
+      { "abilityIndex": 10, "abilityName": "Battle Armor" },
+      { "abilityIndex": 2, "abilityName": "Wave Rider" },
+      { "abilityIndex": 27, "abilityName": "Parry" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 35
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 35,
+    "name": "Aerodactyl",
+
+    "nationalDexNumber": 142,
+    "galleryNumber": 36,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 215,
+      "defense": 145,
+      "speed": 265
+    },
+    "bst": 895,
+    "movementRange": 3,
+
+    "typeIds": ["rock", "flying"],
+
+    "move": { "moveIndex": 93, "moveName": "Rock Slide" },
+
+    "abilities": [
+      { "abilityIndex": 77, "abilityName": "Frighten" },
+      { "abilityIndex": 76, "abilityName": "Intimidate" },
+      { "abilityIndex": 93, "abilityName": "High-rise" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 95
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 36,
+    "name": "Typhlosion",
+
+    "nationalDexNumber": 157,
+    "galleryNumber": 37,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 256,
+      "attack": 243,
+      "defense": 168,
+      "speed": 195
+    },
+    "bst": 862,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "ghost"],
+
+    "move": { "moveIndex": 68, "moveName": "InfernalParade" },
+
+    "abilities": [
+      { "abilityIndex": 36, "abilityName": "Blaze" },
+      { "abilityIndex": 21, "abilityName": "Flash Fire" },
+      { "abilityIndex": 26, "abilityName": "Perception" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 37,
+    "name": "Ariados",
+
+    "nationalDexNumber": 168,
+    "galleryNumber": 38,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 205,
+      "defense": 165,
+      "speed": 165
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "poison"],
+
+    "move": { "moveIndex": 80, "moveName": "Toxic Thread" },
+
+    "abilities": [
+      { "abilityIndex": 99, "abilityName": "Shackle" },
+      { "abilityIndex": 77, "abilityName": "Frighten" },
+      { "abilityIndex": 59, "abilityName": "Sponge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 84
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 38,
+    "name": "Yanmega",
+
+    "nationalDexNumber": 469,
+    "galleryNumber": 39,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 282,
+      "attack": 237,
+      "defense": 147,
+      "speed": 195
+    },
+    "bst": 861,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "flying"],
+
+    "move": { "moveIndex": 9, "moveName": "Air Cutter" },
+
+    "abilities": [
+      { "abilityIndex": 91, "abilityName": "Sprint" },
+      { "abilityIndex": 4, "abilityName": "Thrust" },
+      { "abilityIndex": 8, "abilityName": "Sniper" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 103
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 39,
+    "name": "Honchkrow",
+
+    "nationalDexNumber": 430,
+    "galleryNumber": 40,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 255,
+      "defense": 109,
+      "speed": 147
+    },
+    "bst": 821,
+    "movementRange": 3,
+
+    "typeIds": ["dark", "flying"],
+
+    "move": { "moveIndex": 9, "moveName": "Air Cutter" },
+
+    "abilities": [
+      { "abilityIndex": 71, "abilityName": "Moxie" },
+      { "abilityIndex": 41, "abilityName": "Pride" },
+      { "abilityIndex": 8, "abilityName": "Sniper" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 40,
+    "name": "Farigiraf",
+
+    "nationalDexNumber": 981,
+    "galleryNumber": 41,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 350,
+      "attack": 225,
+      "defense": 145,
+      "speed": 125
+    },
+    "bst": 845,
+    "movementRange": 3,
+
+    "typeIds": ["normal", "psychic"],
+
+    "move": { "moveIndex": 136, "moveName": "Twin Beam" },
+
+    "abilities": [
+      { "abilityIndex": 26, "abilityName": "Perception" },
+      { "abilityIndex": 10, "abilityName": "Battle Armor" },
+      { "abilityIndex": 28, "abilityName": "Instinct" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 59
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 41,
+    "name": "Gliscor",
+
+    "nationalDexNumber": 472,
+    "galleryNumber": 42,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 195,
+      "defense": 205,
+      "speed": 195
+    },
+    "bst": 855,
+    "movementRange": 3,
+
+    "typeIds": ["ground", "flying"],
+
+    "move": { "moveIndex": 67, "moveName": "Earthquake" },
+
+    "abilities": [
+      { "abilityIndex": 64, "abilityName": "Stealth" },
+      { "abilityIndex": 16, "abilityName": "Immunity" },
+      { "abilityIndex": 59, "abilityName": "Sponge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 60
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 42,
+    "name": "Overqwil",
+
+    "nationalDexNumber": 904,
+    "galleryNumber": 43,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 280,
+      "attack": 235,
+      "defense": 165,
+      "speed": 175
+    },
+    "bst": 855,
+    "movementRange": 3,
+
+    "typeIds": ["dark", "poison"],
+
+    "move": { "moveIndex": 28, "moveName": "Barb Barrage" },
+
+    "abilities": [
+      { "abilityIndex": 31, "abilityName": "Poison Point" },
+      { "abilityIndex": 76, "abilityName": "Intimidate" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 43,
+    "name": "Heracross",
+
+    "nationalDexNumber": 214,
+    "galleryNumber": 44,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 255,
+      "defense": 175,
+      "speed": 175
+    },
+    "bst": 875,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "fighting"],
+
+    "move": { "moveIndex": 74, "moveName": "Megahorn" },
+
+    "abilities": [
+      { "abilityIndex": 39, "abilityName": "Swarm" },
+      { "abilityIndex": 40, "abilityName": "Guts" },
+      { "abilityIndex": 71, "abilityName": "Moxie" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 102
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 44,
+    "name": "Weavile",
+
+    "nationalDexNumber": 461,
+    "galleryNumber": 45,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 245,
+      "defense": 155,
+      "speed": 255
+    },
+    "bst": 905,
+    "movementRange": 3,
+
+    "typeIds": ["dark", "ice"],
+
+    "move": { "moveIndex": 112, "moveName": "Night Slash" },
+
+    "abilities": [
+      { "abilityIndex": 29, "abilityName": "Dodge" },
+      { "abilityIndex": 99, "abilityName": "Shackle" },
+      { "abilityIndex": 90, "abilityName": "Shadow Dash" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 45,
+    "name": "Sneasler",
+
+    "nationalDexNumber": 903,
+    "galleryNumber": 46,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 265,
+      "defense": 145,
+      "speed": 245
+    },
+    "bst": 925,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "ice"],
+
+    "move": { "moveIndex": 17, "moveName": "Dire Claw" },
+
+    "abilities": [
+      { "abilityIndex": 31, "abilityName": "Poison Point" },
+      { "abilityIndex": 91, "abilityName": "Sprint" },
+      { "abilityIndex": 1, "abilityName": "Mountaineer" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 53
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 46,
+    "name": "Ursaluna",
+
+    "nationalDexNumber": 901,
+    "galleryNumber": 47,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 370,
+      "attack": 285,
+      "defense": 190,
+      "speed": 105
+    },
+    "bst": 950,
+    "movementRange": 3,
+
+    "typeIds": ["ground", "normal"],
+
+    "move": { "moveIndex": 62, "moveName": "Headlong Rush" },
+
+    "abilities": [
+      { "abilityIndex": 40, "abilityName": "Guts" },
+      { "abilityIndex": 77, "abilityName": "Frighten" },
+      { "abilityIndex": 26, "abilityName": "Perception" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 90
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 47,
+    "name": "Mamoswine",
+
+    "nationalDexNumber": 473,
+    "galleryNumber": 48,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 330,
+      "attack": 265,
+      "defense": 145,
+      "speed": 165
+    },
+    "bst": 905,
+    "movementRange": 3,
+
+    "typeIds": ["ice", "ground"],
+
+    "move": { "moveIndex": 67, "moveName": "Earthquake" },
+
+    "abilities": [
+      { "abilityIndex": 14, "abilityName": "Thick Fat" },
+      { "abilityIndex": 64, "abilityName": "Stealth" },
+      { "abilityIndex": 13, "abilityName": "Unaware" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 48,
+    "name": "Cursola",
+
+    "nationalDexNumber": 864,
+    "galleryNumber": 49,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 230,
+      "attack": 295,
+      "defense": 195,
+      "speed": 85
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["ghost", "rock"],
+
+    "move": { "moveIndex": 91, "moveName": "Power Gem" },
+
+    "abilities": [
+      { "abilityIndex": 53, "abilityName": "Life Force" },
+      { "abilityIndex": 34, "abilityName": "Frostbite" },
+      { "abilityIndex": 99, "abilityName": "Shackle" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 102
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 49,
+    "name": "Delibird",
+
+    "nationalDexNumber": 225,
+    "galleryNumber": 50,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 175,
+      "defense": 155,
+      "speed": 215
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["ice", "flying"],
+
+    "move": { "moveIndex": 134, "moveName": "Aerial Ace" },
+
+    "abilities": [
+      { "abilityIndex": 66, "abilityName": "Nomad" },
+      { "abilityIndex": 18, "abilityName": "Inner Focus" },
+      { "abilityIndex": 15, "abilityName": "Limber" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 50,
+    "name": "Skarmory",
+
+    "nationalDexNumber": 227,
+    "galleryNumber": 51,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 240,
+      "attack": 185,
+      "defense": 215,
+      "speed": 185
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["steel", "flying"],
+
+    "move": { "moveIndex": 110, "moveName": "Steel Wing" },
+
+    "abilities": [
+      { "abilityIndex": 20, "abilityName": "Keen Eye" },
+      { "abilityIndex": 12, "abilityName": "Sturdy" },
+      { "abilityIndex": 27, "abilityName": "Parry" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 50
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 51,
+    "name": "Tyranitar",
+
+    "nationalDexNumber": 248,
+    "galleryNumber": 52,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 273,
+      "defense": 215,
+      "speed": 127
+    },
+    "bst": 925,
+    "movementRange": 3,
+
+    "typeIds": ["rock", "dark"],
+
+    "move": { "moveIndex": 93, "moveName": "Rock Slide" },
+
+    "abilities": [
+      { "abilityIndex": 77, "abilityName": "Frighten" },
+      { "abilityIndex": 9, "abilityName": "Solid Rock" },
+      { "abilityIndex": 10, "abilityName": "Battle Armor" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 52,
+    "name": "Blaziken",
+
+    "nationalDexNumber": 257,
+    "galleryNumber": 53,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 245,
+      "defense": 145,
+      "speed": 165
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "fighting"],
+
+    "move": { "moveIndex": 3, "moveName": "Blaze Kick" },
+
+    "abilities": [
+      { "abilityIndex": 36, "abilityName": "Blaze" },
+      { "abilityIndex": 91, "abilityName": "Sprint" },
+      { "abilityIndex": 46, "abilityName": "Spirit" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 50
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 53,
+    "name": "Swampert",
+
+    "nationalDexNumber": 260,
+    "galleryNumber": 54,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 225,
+      "defense": 185,
+      "speed": 125
+    },
+    "bst": 845,
+    "movementRange": 3,
+
+    "typeIds": ["water", "ground"],
+
+    "move": { "moveIndex": 95, "moveName": "Muddy Water" },
+
+    "abilities": [
+      { "abilityIndex": 37, "abilityName": "Torrent" },
+      { "abilityIndex": 2, "abilityName": "Wave Rider" },
+      { "abilityIndex": 26, "abilityName": "Perception" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 54,
+    "name": "Obstagoon",
+
+    "nationalDexNumber": 862,
+    "galleryNumber": 55,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 296,
+      "attack": 185,
+      "defense": 187,
+      "speed": 195
+    },
+    "bst": 863,
+    "movementRange": 3,
+
+    "typeIds": ["dark", "normal"],
+
+    "move": { "moveIndex": 130, "moveName": "Snarl" },
+
+    "abilities": [
+      { "abilityIndex": 40, "abilityName": "Guts" },
+      { "abilityIndex": 78, "abilityName": "Interference" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 59
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 55,
+    "name": "Ludicolo",
+
+    "nationalDexNumber": 272,
+    "galleryNumber": 56,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 205,
+      "defense": 185,
+      "speed": 145
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["water", "grass"],
+
+    "move": { "moveIndex": 124, "moveName": "Scald" },
+
+    "abilities": [
+      { "abilityIndex": 17, "abilityName": "Own Tempo" },
+      { "abilityIndex": 2, "abilityName": "Wave Rider" },
+      { "abilityIndex": 79, "abilityName": "Mood Maker" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 56,
+    "name": "Shiftry",
+
+    "nationalDexNumber": 275,
+    "galleryNumber": 57,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 290,
+      "attack": 205,
+      "defense": 135,
+      "speed": 175
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "dark"],
+
+    "move": { "moveIndex": 117, "moveName": "Sucker Punch" },
+
+    "abilities": [
+      { "abilityIndex": 77, "abilityName": "Frighten" },
+      { "abilityIndex": 28, "abilityName": "Instinct" },
+      { "abilityIndex": 78, "abilityName": "Interference" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 41
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 57,
+    "name": "Gallade",
+
+    "nationalDexNumber": 475,
+    "galleryNumber": 58,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 246,
+      "attack": 255,
+      "defense": 185,
+      "speed": 165
+    },
+    "bst": 851,
+    "movementRange": 3,
+
+    "typeIds": ["psychic", "fighting"],
+
+    "move": { "moveIndex": 60, "moveName": "Sacred Sword" },
+
+    "abilities": [
+      { "abilityIndex": 43, "abilityName": "Justified" },
+      { "abilityIndex": 26, "abilityName": "Perception" },
+      { "abilityIndex": 27, "abilityName": "Parry" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 58,
+    "name": "Breloom",
+
+    "nationalDexNumber": 286,
+    "galleryNumber": 59,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 240,
+      "attack": 265,
+      "defense": 155,
+      "speed": 155
+    },
+    "bst": 815,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "fighting"],
+
+    "move": { "moveIndex": 107, "moveName": "Mach Punch" },
+
+    "abilities": [
+      { "abilityIndex": 74, "abilityName": "Effect Spore" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 96
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 59,
+    "name": "Slaking",
+
+    "nationalDexNumber": 289,
+    "galleryNumber": 60,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 410,
+      "attack": 325,
+      "defense": 170,
+      "speed": 205
+    },
+    "bst": 1110,
+    "movementRange": 3,
+
+    "typeIds": ["normal"],
+
+    "move": { "moveIndex": 1, "moveName": "Giga Impact" },
+
+    "abilities": [
+      { "abilityIndex": 89, "abilityName": "Truant" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 60,
+    "name": "Shedinja",
+
+    "nationalDexNumber": 292,
+    "galleryNumber": 61,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 110,
+      "attack": 225,
+      "defense": 505,
+      "speed": 85
+    },
+    "bst": 925,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "ghost"],
+
+    "move": { "moveIndex": 99, "moveName": "Shadow Sneak" },
+
+    "abilities": [
+      { "abilityIndex": 0, "abilityName": "Levitate" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 138
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 61,
+    "name": "Aggron",
+
+    "nationalDexNumber": 306,
+    "galleryNumber": 62,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 225,
+      "defense": 245,
+      "speed": 105
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["steel", "rock"],
+
+    "move": { "moveIndex": 116, "moveName": "Iron Head" },
+
+    "abilities": [
+      { "abilityIndex": 12, "abilityName": "Sturdy" },
+      { "abilityIndex": 10, "abilityName": "Battle Armor" },
+      { "abilityIndex": 97, "abilityName": "Run Up" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 195
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 62,
+    "name": "Roserade",
+
+    "nationalDexNumber": 407,
+    "galleryNumber": 63,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 230,
+      "attack": 255,
+      "defense": 175,
+      "speed": 185
+    },
+    "bst": 845,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "poison"],
+
+    "move": { "moveIndex": 45, "moveName": "Petal Blizzard" },
+
+    "abilities": [
+      { "abilityIndex": 55, "abilityName": "Natural Cure" },
+      { "abilityIndex": 31, "abilityName": "Poison Point" },
+      { "abilityIndex": 73, "abilityName": "Lullaby" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 63,
+    "name": "Camerupt",
+
+    "nationalDexNumber": 323,
+    "galleryNumber": 64,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 215,
+      "defense": 155,
+      "speed": 125
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "ground"],
+
+    "move": { "moveIndex": 125, "moveName": "ScorchingSand" },
+
+    "abilities": [
+      { "abilityIndex": 9, "abilityName": "Solid Rock" },
+      { "abilityIndex": 46, "abilityName": "Spirit" },
+      { "abilityIndex": 51, "abilityName": "Hot Blooded" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 70
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 64,
+    "name": "Flygon",
+
+    "nationalDexNumber": 330,
+    "galleryNumber": 65,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 205,
+      "defense": 165,
+      "speed": 205
+    },
+    "bst": 845,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "dragon"],
+
+    "move": { "moveIndex": 38, "moveName": "Dragon Claw" },
+
+    "abilities": [
+      { "abilityIndex": 0, "abilityName": "Levitate" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 106
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 65,
+    "name": "Lunatone",
+
+    "nationalDexNumber": 337,
+    "galleryNumber": 66,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 290,
+      "attack": 195,
+      "defense": 175,
+      "speed": 145
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["rock", "psychic"],
+
+    "move": { "moveIndex": 91, "moveName": "Power Gem" },
+
+    "abilities": [
+      { "abilityIndex": 0, "abilityName": "Levitate" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 66,
+    "name": "Solrock",
+
+    "nationalDexNumber": 338,
+    "galleryNumber": 67,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 290,
+      "attack": 195,
+      "defense": 175,
+      "speed": 145
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["rock", "psychic"],
+
+    "move": { "moveIndex": 84, "moveName": "Psychic" },
+
+    "abilities": [
+      { "abilityIndex": 0, "abilityName": "Levitate" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 80
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 67,
+    "name": "Claydol",
+
+    "nationalDexNumber": 344,
+    "galleryNumber": 68,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 230,
+      "attack": 195,
+      "defense": 235,
+      "speed": 155
+    },
+    "bst": 815,
+    "movementRange": 3,
+
+    "typeIds": ["ground", "psychic"],
+
+    "move": { "moveIndex": 81, "moveName": "Dream Eater" },
+
+    "abilities": [
+      { "abilityIndex": 0, "abilityName": "Levitate" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 110
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 68,
+    "name": "Cradily",
+
+    "nationalDexNumber": 346,
+    "galleryNumber": 69,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 282,
+      "attack": 205,
+      "defense": 219,
+      "speed": 105
+    },
+    "bst": 811,
+    "movementRange": 3,
+
+    "typeIds": ["rock", "grass"],
+
+    "move": { "moveIndex": 42, "moveName": "Giga Drain" },
+
+    "abilities": [
+      { "abilityIndex": 22, "abilityName": "Water Absorb" },
+      { "abilityIndex": 99, "abilityName": "Shackle" },
+      { "abilityIndex": 59, "abilityName": "Sponge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 69,
+    "name": "Castform",
+
+    "nationalDexNumber": 351,
+    "galleryNumber": 70,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 205,
+      "defense": 165,
+      "speed": 185
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["normal", "ice"],
+
+    "move": { "moveIndex": 139, "moveName": "Weather Ball" },
+
+    "abilities": [
+      { "abilityIndex": 0, "abilityName": "Levitate" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 104
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 70,
+    "name": "Dusknoir",
+
+    "nationalDexNumber": 477,
+    "galleryNumber": 71,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 230,
+      "attack": 205,
+      "defense": 275,
+      "speed": 95
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["ghost"],
+
+    "move": { "moveIndex": 103, "moveName": "Shadow Punch" },
+
+    "abilities": [
+      { "abilityIndex": 26, "abilityName": "Perception" },
+      { "abilityIndex": 78, "abilityName": "Interference" },
+      { "abilityIndex": 53, "abilityName": "Life Force" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 95
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 71,
+    "name": "Tropius",
+
+    "nationalDexNumber": 357,
+    "galleryNumber": 72,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 348,
+      "attack": 185,
+      "defense": 175,
+      "speed": 117
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "flying"],
+
+    "move": { "moveIndex": 11, "moveName": "Air Slash" },
+
+    "abilities": [
+      { "abilityIndex": 49, "abilityName": "Herbivore" },
+      { "abilityIndex": 54, "abilityName": "Lunch Box" },
+      { "abilityIndex": 68, "abilityName": "Grass Cloak" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 72,
+    "name": "Froslass",
+
+    "nationalDexNumber": 478,
+    "galleryNumber": 73,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 185,
+      "defense": 145,
+      "speed": 225
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["ice", "ghost"],
+
+    "move": { "moveIndex": 52, "moveName": "Blizzard" },
+
+    "abilities": [
+      { "abilityIndex": 29, "abilityName": "Dodge" },
+      { "abilityIndex": 34, "abilityName": "Frostbite" },
+      { "abilityIndex": 78, "abilityName": "Interference" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 101
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 73,
+    "name": "Walrein",
+
+    "nationalDexNumber": 365,
+    "galleryNumber": 74,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 330,
+      "attack": 195,
+      "defense": 185,
+      "speed": 135
+    },
+    "bst": 845,
+    "movementRange": 3,
+
+    "typeIds": ["ice", "water"],
+
+    "move": { "moveIndex": 50, "moveName": "Ice Ball" },
+
+    "abilities": [
+      { "abilityIndex": 14, "abilityName": "Thick Fat" },
+      { "abilityIndex": 13, "abilityName": "Unaware" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 74,
+    "name": "Salamence",
+
+    "nationalDexNumber": 373,
+    "galleryNumber": 75,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 300,
+      "attack": 275,
+      "defense": 165,
+      "speed": 205
+    },
+    "bst": 945,
+    "movementRange": 3,
+
+    "typeIds": ["dragon", "flying"],
+
+    "move": { "moveIndex": 38, "moveName": "Dragon Claw" },
+
+    "abilities": [
+      { "abilityIndex": 76, "abilityName": "Intimidate" },
+      { "abilityIndex": 71, "abilityName": "Moxie" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 81
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 75,
+    "name": "Metagross",
+
+    "nationalDexNumber": 376,
+    "galleryNumber": 76,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 275,
+      "defense": 225,
+      "speed": 145
+    },
+    "bst": 915,
+    "movementRange": 3,
+
+    "typeIds": ["steel", "psychic"],
+
+    "move": { "moveIndex": 118, "moveName": "Meteor Mash" },
+
+    "abilities": [
+      { "abilityIndex": 19, "abilityName": "Clear Body" },
+      { "abilityIndex": 87, "abilityName": "Magnet Pull" },
+      { "abilityIndex": 86, "abilityName": "Share" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 76,
+    "name": "Torterra",
+
+    "nationalDexNumber": 389,
+    "galleryNumber": 77,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 300,
+      "attack": 223,
+      "defense": 195,
+      "speed": 117
+    },
+    "bst": 835,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "ground"],
+
+    "move": { "moveIndex": 141, "moveName": "Grassy Glide" },
+
+    "abilities": [
+      { "abilityIndex": 38, "abilityName": "Overgrow" },
+      { "abilityIndex": 11, "abilityName": "Shell Armor" },
+      { "abilityIndex": 49, "abilityName": "Herbivore" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 60
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 77,
+    "name": "Infernape",
+
+    "nationalDexNumber": 392,
+    "galleryNumber": 78,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 262,
+      "attack": 213,
+      "defense": 147,
+      "speed": 221
+    },
+    "bst": 843,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "fighting"],
+
+    "move": { "moveIndex": 8, "moveName": "Close Combat" },
+
+    "abilities": [
+      { "abilityIndex": 36, "abilityName": "Blaze" },
+      { "abilityIndex": 29, "abilityName": "Dodge" },
+      { "abilityIndex": 94, "abilityName": "Climber" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 132
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 78,
+    "name": "Empoleon",
+
+    "nationalDexNumber": 395,
+    "galleryNumber": 79,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 278,
+      "attack": 227,
+      "defense": 194,
+      "speed": 125
+    },
+    "bst": 824,
+    "movementRange": 3,
+
+    "typeIds": ["water", "steel"],
+
+    "move": { "moveIndex": 138, "moveName": "Wave Crash" },
+
+    "abilities": [
+      { "abilityIndex": 37, "abilityName": "Torrent" },
+      { "abilityIndex": 2, "abilityName": "Wave Rider" },
+      { "abilityIndex": 41, "abilityName": "Pride" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 79,
+    "name": "Staraptor",
+
+    "nationalDexNumber": 398,
+    "galleryNumber": 80,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 280,
+      "attack": 245,
+      "defense": 135,
+      "speed": 205
+    },
+    "bst": 865,
+    "movementRange": 3,
+
+    "typeIds": ["normal", "flying"],
+
+    "move": { "moveIndex": 76, "moveName": "Brave Bird" },
+
+    "abilities": [
+      { "abilityIndex": 76, "abilityName": "Intimidate" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" },
+      { "abilityIndex": 20, "abilityName": "Keen Eye" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 74
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 80,
+    "name": "Bibarel",
+
+    "nationalDexNumber": 400,
+    "galleryNumber": 81,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 290,
+      "attack": 195,
+      "defense": 165,
+      "speed": 155
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["normal", "water"],
+
+    "move": { "moveIndex": 29, "moveName": "Aqua Tail" },
+
+    "abilities": [
+      { "abilityIndex": 70, "abilityName": "Simple" },
+      { "abilityIndex": 13, "abilityName": "Unaware" },
+      { "abilityIndex": 2, "abilityName": "Wave Rider" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 132
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 81,
+    "name": "Kricketune",
+
+    "nationalDexNumber": 402,
+    "galleryNumber": 82,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 264,
+      "attack": 225,
+      "defense": 137,
+      "speed": 185
+    },
+    "bst": 811,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "normal"],
+
+    "move": { "moveIndex": 88, "moveName": "Fury Cutter" },
+
+    "abilities": [
+      { "abilityIndex": 39, "abilityName": "Swarm" },
+      { "abilityIndex": 73, "abilityName": "Lullaby" },
+      { "abilityIndex": 79, "abilityName": "Mood Maker" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 82,
+    "name": "Rampardos",
+
+    "nationalDexNumber": 409,
+    "galleryNumber": 83,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 304,
+      "attack": 335,
+      "defense": 115,
+      "speed": 121
+    },
+    "bst": 875,
+    "movementRange": 3,
+
+    "typeIds": ["rock"],
+
+    "move": { "moveIndex": 59, "moveName": "Head Smash" },
+
+    "abilities": [
+      { "abilityIndex": 5, "abilityName": "Mold Breaker" },
+      { "abilityIndex": 4, "abilityName": "Thrust" },
+      { "abilityIndex": 10, "abilityName": "Battle Armor" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 64
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 83,
+    "name": "Wormadam",
+
+    "nationalDexNumber": 413,
+    "galleryNumber": 84,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 185,
+      "defense": 255,
+      "speed": 95
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "ground"],
+
+    "move": { "moveIndex": 5, "moveName": "Infestation" },
+
+    "abilities": [
+      { "abilityIndex": 28, "abilityName": "Instinct" },
+      { "abilityIndex": 11, "abilityName": "Shell Armor" },
+      { "abilityIndex": 26, "abilityName": "Perception" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 111
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 84,
+    "name": "Gastrodon",
+
+    "nationalDexNumber": 423,
+    "galleryNumber": 85,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 352,
+      "attack": 189,
+      "defense": 175,
+      "speed": 95
+    },
+    "bst": 811,
+    "movementRange": 3,
+
+    "typeIds": ["water", "ground"],
+
+    "move": { "moveIndex": 73, "moveName": "Earth Power" },
+
+    "abilities": [
+      { "abilityIndex": 22, "abilityName": "Water Absorb" },
+      { "abilityIndex": 99, "abilityName": "Shackle" },
+      { "abilityIndex": 53, "abilityName": "Life Force" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 85,
+    "name": "Drifblim",
+
+    "nationalDexNumber": 426,
+    "galleryNumber": 86,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 410,
+      "attack": 185,
+      "defense": 103,
+      "speed": 165
+    },
+    "bst": 863,
+    "movementRange": 3,
+
+    "typeIds": ["ghost", "flying"],
+
+    "move": { "moveIndex": 9, "moveName": "Air Cutter" },
+
+    "abilities": [
+      { "abilityIndex": 83, "abilityName": "Explode" },
+      { "abilityIndex": 91, "abilityName": "Sprint" },
+      { "abilityIndex": 72, "abilityName": "Celebrate" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 44
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 86,
+    "name": "Bronzong",
+
+    "nationalDexNumber": 437,
+    "galleryNumber": 87,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 264,
+      "attack": 195,
+      "defense": 257,
+      "speed": 95
+    },
+    "bst": 811,
+    "movementRange": 3,
+
+    "typeIds": ["steel", "psychic"],
+
+    "move": { "moveIndex": 81, "moveName": "Dream Eater" },
+
+    "abilities": [
+      { "abilityIndex": 0, "abilityName": "Levitate" },
+      { "abilityIndex": 21, "abilityName": "Flash Fire" },
+      { "abilityIndex": 45, "abilityName": "Power Nap" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 136
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 87,
+    "name": "Spiritomb",
+
+    "nationalDexNumber": 442,
+    "galleryNumber": 88,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 189,
+      "defense": 261,
+      "speed": 95
+    },
+    "bst": 795,
+    "movementRange": 3,
+
+    "typeIds": ["ghost", "dark"],
+
+    "move": { "moveIndex": 117, "moveName": "Sucker Punch" },
+
+    "abilities": [
+      { "abilityIndex": 98, "abilityName": "Conqueror" },
+      { "abilityIndex": 78, "abilityName": "Interference" },
+      { "abilityIndex": 53, "abilityName": "Life Force" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 88,
+    "name": "Garchomp",
+
+    "nationalDexNumber": 445,
+    "galleryNumber": 89,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 326,
+      "attack": 265,
+      "defense": 185,
+      "speed": 209
+    },
+    "bst": 985,
+    "movementRange": 3,
+
+    "typeIds": ["dragon", "ground"],
+
+    "move": { "moveIndex": 123, "moveName": "Sand Tomb" },
+
+    "abilities": [
+      { "abilityIndex": 30, "abilityName": "Jagged Edge" },
+      { "abilityIndex": 64, "abilityName": "Stealth" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 81
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 89,
+    "name": "Lucario",
+
+    "nationalDexNumber": 448,
+    "galleryNumber": 90,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 235,
+      "defense": 145,
+      "speed": 185
+    },
+    "bst": 815,
+    "movementRange": 3,
+
+    "typeIds": ["fighting", "steel"],
+
+    "move": { "moveIndex": 57, "moveName": "Aura Sphere" },
+
+    "abilities": [
+      { "abilityIndex": 18, "abilityName": "Inner Focus" },
+      { "abilityIndex": 43, "abilityName": "Justified" },
+      { "abilityIndex": 28, "abilityName": "Instinct" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 90,
+    "name": "Drapion",
+
+    "nationalDexNumber": 452,
+    "galleryNumber": 91,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 185,
+      "defense": 190,
+      "speed": 195
+    },
+    "bst": 820,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "dark"],
+
+    "move": { "moveIndex": 112, "moveName": "Night Slash" },
+
+    "abilities": [
+      { "abilityIndex": 10, "abilityName": "Battle Armor" },
+      { "abilityIndex": 8, "abilityName": "Sniper" },
+      { "abilityIndex": 98, "abilityName": "Conqueror" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 60
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 91,
+    "name": "Toxicroak",
+
+    "nationalDexNumber": 454,
+    "galleryNumber": 92,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 276,
+      "attack": 237,
+      "defense": 140,
+      "speed": 175
+    },
+    "bst": 828,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "fighting"],
+
+    "move": { "moveIndex": 48, "moveName": "Gunk Shot" },
+
+    "abilities": [
+      { "abilityIndex": 22, "abilityName": "Water Absorb" },
+      { "abilityIndex": 31, "abilityName": "Poison Point" },
+      { "abilityIndex": 28, "abilityName": "Instinct" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 134
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 92,
+    "name": "Abomasnow",
+
+    "nationalDexNumber": 460,
+    "galleryNumber": 93,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 290,
+      "attack": 199,
+      "defense": 203,
+      "speed": 125
+    },
+    "bst": 817,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "ice"],
+
+    "move": { "moveIndex": 47, "moveName": "Icy Wind" },
+
+    "abilities": [
+      { "abilityIndex": 34, "abilityName": "Frostbite" },
+      { "abilityIndex": 78, "abilityName": "Interference" },
+      { "abilityIndex": 62, "abilityName": "Last Bastion" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 93,
+    "name": "Rotom",
+
+    "nationalDexNumber": 479,
+    "galleryNumber": 94,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 210,
+      "attack": 215,
+      "defense": 209,
+      "speed": 187
+    },
+    "bst": 821,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "ghost"],
+
+    "move": { "moveIndex": 115, "moveName": "Poltergeist" },
+
+    "abilities": [
+      { "abilityIndex": 0, "abilityName": "Levitate" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 128
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 94,
+    "name": "Rotom-Heat",
+
+    "nationalDexNumber": 479,
+    "galleryNumber": 95,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 210,
+      "attack": 215,
+      "defense": 219,
+      "speed": 177
+    },
+    "bst": 821,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "fire"],
+
+    "move": { "moveIndex": 101, "moveName": "Overheat" },
+
+    "abilities": [
+      { "abilityIndex": 0, "abilityName": "Levitate" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 105
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 1
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 95,
+    "name": "Lanturn",
+
+    "nationalDexNumber": 171,
+    "galleryNumber": 96,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 360,
+      "attack": 167,
+      "defense": 139,
+      "speed": 139
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["water", "electric"],
+
+    "move": { "moveIndex": 140, "moveName": "Whirlpool" },
+
+    "abilities": [
+      { "abilityIndex": 23, "abilityName": "Volt Absorb" },
+      { "abilityIndex": 22, "abilityName": "Water Absorb" },
+      { "abilityIndex": 20, "abilityName": "Keen Eye" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 96,
+    "name": "Arctozolt",
+
+    "nationalDexNumber": 881,
+    "galleryNumber": 97,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 290,
+      "attack": 205,
+      "defense": 175,
+      "speed": 135
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "ice"],
+
+    "move": { "moveIndex": 52, "moveName": "Blizzard" },
+
+    "abilities": [
+      { "abilityIndex": 23, "abilityName": "Volt Absorb" },
+      { "abilityIndex": 32, "abilityName": "Static" },
+      { "abilityIndex": 91, "abilityName": "Sprint" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 104
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 97,
+    "name": "Kilowattrl",
+
+    "nationalDexNumber": 941,
+    "galleryNumber": 98,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 215,
+      "defense": 125,
+      "speed": 255
+    },
+    "bst": 845,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "flying"],
+
+    "move": { "moveIndex": 37, "moveName": "Hurricane" },
+
+    "abilities": [
+      { "abilityIndex": 24, "abilityName": "Motor Drive" },
+      { "abilityIndex": 23, "abilityName": "Volt Absorb" },
+      { "abilityIndex": 20, "abilityName": "Keen Eye" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 98,
+    "name": "Electrode",
+
+    "nationalDexNumber": 101,
+    "galleryNumber": 99,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 230,
+      "attack": 165,
+      "defense": 155,
+      "speed": 305
+    },
+    "bst": 855,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "grass"],
+
+    "move": { "moveIndex": 46, "moveName": "Chloroblast" },
+
+    "abilities": [
+      { "abilityIndex": 32, "abilityName": "Static" },
+      { "abilityIndex": 83, "abilityName": "Explode" },
+      { "abilityIndex": 65, "abilityName": "Vanguard" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 86
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 99,
+    "name": "Samurott",
+
+    "nationalDexNumber": 503,
+    "galleryNumber": 100,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 290,
+      "attack": 221,
+      "defense": 150,
+      "speed": 175
+    },
+    "bst": 836,
+    "movementRange": 3,
+
+    "typeIds": ["water", "dark"],
+
+    "move": { "moveIndex": 4, "moveName": "CeaselessEdge" },
+
+    "abilities": [
+      { "abilityIndex": 37, "abilityName": "Torrent" },
+      { "abilityIndex": 11, "abilityName": "Shell Armor" },
+      { "abilityIndex": 27, "abilityName": "Parry" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 60
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 100,
+    "name": "Excadrill",
+
+    "nationalDexNumber": 530,
+    "galleryNumber": 101,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 330,
+      "attack": 275,
+      "defense": 130,
+      "speed": 181
+    },
+    "bst": 916,
+    "movementRange": 3,
+
+    "typeIds": ["ground", "steel"],
+
+    "move": { "moveIndex": 72, "moveName": "Drill Run" },
+
+    "abilities": [
+      { "abilityIndex": 5, "abilityName": "Mold Breaker" },
+      { "abilityIndex": 50, "abilityName": "Sandpit" },
+      { "abilityIndex": 27, "abilityName": "Parry" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 101,
+    "name": "Conkeldurr",
+
+    "nationalDexNumber": 534,
+    "galleryNumber": 102,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 320,
+      "attack": 285,
+      "defense": 165,
+      "speed": 95
+    },
+    "bst": 865,
+    "movementRange": 3,
+
+    "typeIds": ["fighting"],
+
+    "move": { "moveIndex": 66, "moveName": "Drain Punch" },
+
+    "abilities": [
+      { "abilityIndex": 40, "abilityName": "Guts" },
+      { "abilityIndex": 4, "abilityName": "Thrust" },
+      { "abilityIndex": 54, "abilityName": "Lunch Box" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 81
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 102,
+    "name": "Leavanny",
+
+    "nationalDexNumber": 542,
+    "galleryNumber": 103,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 211,
+      "defense": 165,
+      "speed": 189
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "grass"],
+
+    "move": { "moveIndex": 89, "moveName": "X-Scissor" },
+
+    "abilities": [
+      { "abilityIndex": 39, "abilityName": "Swarm" },
+      { "abilityIndex": 57, "abilityName": "Nurse" },
+      { "abilityIndex": 99, "abilityName": "Shackle" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 60
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 103,
+    "name": "Basculegin",
+
+    "nationalDexNumber": 902,
+    "galleryNumber": 104,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 350,
+      "attack": 229,
+      "defense": 145,
+      "speed": 161
+    },
+    "bst": 885,
+    "movementRange": 3,
+
+    "typeIds": ["water", "ghost"],
+
+    "move": { "moveIndex": 58, "moveName": "Last Respects" },
+
+    "abilities": [
+      { "abilityIndex": 5, "abilityName": "Mold Breaker" },
+      { "abilityIndex": 2, "abilityName": "Wave Rider" },
+      { "abilityIndex": 46, "abilityName": "Spirit" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 104,
+    "name": "Krookodile",
+
+    "nationalDexNumber": 553,
+    "galleryNumber": 105,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 300,
+      "attack": 239,
+      "defense": 155,
+      "speed": 189
+    },
+    "bst": 883,
+    "movementRange": 3,
+
+    "typeIds": ["ground", "dark"],
+
+    "move": { "moveIndex": 10, "moveName": "Darkest Lariat" },
+
+    "abilities": [
+      { "abilityIndex": 76, "abilityName": "Intimidate" },
+      { "abilityIndex": 71, "abilityName": "Moxie" },
+      { "abilityIndex": 20, "abilityName": "Keen Eye" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 73
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 105,
+    "name": "Darmanitan",
+
+    "nationalDexNumber": 555,
+    "galleryNumber": 106,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 320,
+      "attack": 325,
+      "defense": 115,
+      "speed": 275
+    },
+    "bst": 1035,
+    "movementRange": 3,
+
+    "typeIds": ["ice", "fire"],
+
+    "move": { "moveIndex": 18, "moveName": "Fire Punch" },
+
+    "abilities": [
+      { "abilityIndex": 102, "abilityName": "Zen Mode" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 106,
+    "name": "Sigilyph",
+
+    "nationalDexNumber": 561,
+    "galleryNumber": 107,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 254,
+      "attack": 211,
+      "defense": 165,
+      "speed": 199
+    },
+    "bst": 829,
+    "movementRange": 3,
+
+    "typeIds": ["psychic", "flying"],
+
+    "move": { "moveIndex": 11, "moveName": "Air Slash" },
+
+    "abilities": [
+      { "abilityIndex": 19, "abilityName": "Clear Body" },
+      { "abilityIndex": 28, "abilityName": "Instinct" },
+      { "abilityIndex": 53, "abilityName": "Life Force" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 54
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 107,
+    "name": "Zoroark",
+
+    "nationalDexNumber": 571,
+    "galleryNumber": 108,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 220,
+      "attack": 255,
+      "defense": 125,
+      "speed": 225
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["normal", "ghost"],
+
+    "move": { "moveIndex": 16, "moveName": "Bitter Malice" },
+
+    "abilities": [
+      { "abilityIndex": 78, "abilityName": "Interference" },
+      { "abilityIndex": 77, "abilityName": "Frighten" },
+      { "abilityIndex": 92, "abilityName": "Disgust" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 104
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 108,
+    "name": "Sawsbuck",
+
+    "nationalDexNumber": 586,
+    "galleryNumber": 109,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 205,
+      "defense": 145,
+      "speed": 195
+    },
+    "bst": 815,
+    "movementRange": 3,
+
+    "typeIds": ["normal", "grass"],
+
+    "move": { "moveIndex": 21, "moveName": "Horn Leech" },
+
+    "abilities": [
+      { "abilityIndex": 49, "abilityName": "Herbivore" },
+      { "abilityIndex": 28, "abilityName": "Instinct" },
+      { "abilityIndex": 97, "abilityName": "Run Up" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 109,
+    "name": "Galvantula",
+
+    "nationalDexNumber": 596,
+    "galleryNumber": 110,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 199,
+      "defense": 135,
+      "speed": 221
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "electric"],
+
+    "move": { "moveIndex": 34, "moveName": "Electroweb" },
+
+    "abilities": [
+      { "abilityIndex": 69, "abilityName": "Compound Eyes" },
+      { "abilityIndex": 39, "abilityName": "Swarm" },
+      { "abilityIndex": 99, "abilityName": "Shackle" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 50
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 110,
+    "name": "Ferrothorn",
+
+    "nationalDexNumber": 598,
+    "galleryNumber": 111,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 258,
+      "attack": 205,
+      "defense": 272,
+      "speed": 65
+    },
+    "bst": 800,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "steel"],
+
+    "move": { "moveIndex": 119, "moveName": "Gyro Ball" },
+
+    "abilities": [
+      { "abilityIndex": 30, "abilityName": "Jagged Edge" },
+      { "abilityIndex": 28, "abilityName": "Instinct" },
+      { "abilityIndex": 59, "abilityName": "Sponge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 83
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 111,
+    "name": "Klinklang",
+
+    "nationalDexNumber": 601,
+    "galleryNumber": 112,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 230,
+      "attack": 205,
+      "defense": 205,
+      "speed": 185
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["steel"],
+
+    "move": { "moveIndex": 55, "moveName": "Gear Grind" },
+
+    "abilities": [
+      { "abilityIndex": 19, "abilityName": "Clear Body" },
+      { "abilityIndex": 67, "abilityName": "Sequence" },
+      { "abilityIndex": 53, "abilityName": "Life Force" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 112,
+    "name": "Haxorus",
+
+    "nationalDexNumber": 612,
+    "galleryNumber": 113,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 262,
+      "attack": 299,
+      "defense": 165,
+      "speed": 199
+    },
+    "bst": 925,
+    "movementRange": 3,
+
+    "typeIds": ["dragon"],
+
+    "move": { "moveIndex": 53, "moveName": "Dual Chop" },
+
+    "abilities": [
+      { "abilityIndex": 5, "abilityName": "Mold Breaker" },
+      { "abilityIndex": 41, "abilityName": "Pride" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 99
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 113,
+    "name": "Accelgor",
+
+    "nationalDexNumber": 617,
+    "galleryNumber": 114,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 205,
+      "defense": 105,
+      "speed": 295
+    },
+    "bst": 875,
+    "movementRange": 3,
+
+    "typeIds": ["bug"],
+
+    "move": { "moveIndex": 27, "moveName": "Bug Buzz" },
+
+    "abilities": [
+      { "abilityIndex": 91, "abilityName": "Sprint" },
+      { "abilityIndex": 90, "abilityName": "Shadow Dash" },
+      { "abilityIndex": 29, "abilityName": "Dodge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 60
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 114,
+    "name": "Stunfisk",
+
+    "nationalDexNumber": 618,
+    "galleryNumber": 115,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 328,
+      "attack": 195,
+      "defense": 193,
+      "speed": 85
+    },
+    "bst": 801,
+    "movementRange": 3,
+
+    "typeIds": ["ground", "electric"],
+
+    "move": { "moveIndex": 129, "moveName": "Shock Wave" },
+
+    "abilities": [
+      { "abilityIndex": 32, "abilityName": "Static" },
+      { "abilityIndex": 15, "abilityName": "Limber" },
+      { "abilityIndex": 64, "abilityName": "Stealth" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 115,
+    "name": "Golurk",
+
+    "nationalDexNumber": 623,
+    "galleryNumber": 116,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 288,
+      "attack": 253,
+      "defense": 165,
+      "speed": 115
+    },
+    "bst": 821,
+    "movementRange": 3,
+
+    "typeIds": ["ground", "ghost"],
+
+    "move": { "moveIndex": 103, "moveName": "Shadow Punch" },
+
+    "abilities": [
+      { "abilityIndex": 93, "abilityName": "High-rise" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" },
+      { "abilityIndex": 53, "abilityName": "Life Force" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 48
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 116,
+    "name": "Hydreigon",
+
+    "nationalDexNumber": 635,
+    "galleryNumber": 117,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 294,
+      "attack": 255,
+      "defense": 185,
+      "speed": 201
+    },
+    "bst": 935,
+    "movementRange": 3,
+
+    "typeIds": ["dark", "dragon"],
+
+    "move": { "moveIndex": 104, "moveName": "Dragon Pulse" },
+
+    "abilities": [
+      { "abilityIndex": 0, "abilityName": "Levitate" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 102
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 117,
+    "name": "Greninja",
+
+    "nationalDexNumber": 658,
+    "galleryNumber": 118,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 254,
+      "attack": 211,
+      "defense": 143,
+      "speed": 249
+    },
+    "bst": 857,
+    "movementRange": 3,
+
+    "typeIds": ["water", "dark"],
+
+    "move": { "moveIndex": 137, "moveName": "Water Shuriken" },
+
+    "abilities": [
+      { "abilityIndex": 37, "abilityName": "Torrent" },
+      { "abilityIndex": 90, "abilityName": "Shadow Dash" },
+      { "abilityIndex": 29, "abilityName": "Dodge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 118,
+    "name": "Pyroar",
+
+    "nationalDexNumber": 668,
+    "galleryNumber": 119,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 282,
+      "attack": 223,
+      "defense": 143,
+      "speed": 217
+    },
+    "bst": 865,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "normal"],
+
+    "move": { "moveIndex": 96, "moveName": "Noble Roar" },
+
+    "abilities": [
+      { "abilityIndex": 71, "abilityName": "Moxie" },
+      { "abilityIndex": 41, "abilityName": "Pride" },
+      { "abilityIndex": 33, "abilityName": "Flame Body" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 54
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 119,
+    "name": "Pangoro",
+
+    "nationalDexNumber": 675,
+    "galleryNumber": 120,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 300,
+      "attack": 253,
+      "defense": 154,
+      "speed": 121
+    },
+    "bst": 828,
+    "movementRange": 3,
+
+    "typeIds": ["fighting", "dark"],
+
+    "move": { "moveIndex": 112, "moveName": "Night Slash" },
+
+    "abilities": [
+      { "abilityIndex": 5, "abilityName": "Mold Breaker" },
+      { "abilityIndex": 46, "abilityName": "Spirit" },
+      { "abilityIndex": 60, "abilityName": "Bodyguard" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 104
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 120,
+    "name": "Malamar",
+
+    "nationalDexNumber": 687,
+    "galleryNumber": 121,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 282,
+      "attack": 189,
+      "defense": 173,
+      "speed": 161
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["dark", "psychic"],
+
+    "move": { "moveIndex": 83, "moveName": "Psycho Cut" },
+
+    "abilities": [
+      { "abilityIndex": 78, "abilityName": "Interference" },
+      { "abilityIndex": 13, "abilityName": "Unaware" },
+      { "abilityIndex": 75, "abilityName": "Daze" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 121,
+    "name": "Dragalge",
+
+    "nationalDexNumber": 691,
+    "galleryNumber": 122,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 255,
+      "defense": 218,
+      "speed": 105
+    },
+    "bst": 828,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "dragon"],
+
+    "move": { "moveIndex": 65, "moveName": "Sludge Bomb" },
+
+    "abilities": [
+      { "abilityIndex": 31, "abilityName": "Poison Point" },
+      { "abilityIndex": 54, "abilityName": "Lunch Box" },
+      { "abilityIndex": 99, "abilityName": "Shackle" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 41
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 122,
+    "name": "Heliolisk",
+
+    "nationalDexNumber": 695,
+    "galleryNumber": 123,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 234,
+      "attack": 223,
+      "defense": 151,
+      "speed": 223
+    },
+    "bst": 831,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "normal"],
+
+    "move": { "moveIndex": 114, "moveName": "ParabolicChrge" },
+
+    "abilities": [
+      { "abilityIndex": 22, "abilityName": "Water Absorb" },
+      { "abilityIndex": 50, "abilityName": "Sandpit" },
+      { "abilityIndex": 24, "abilityName": "Motor Drive" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 115
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 123,
+    "name": "Tyrantrum",
+
+    "nationalDexNumber": 697,
+    "galleryNumber": 124,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 274,
+      "attack": 247,
+      "defense": 183,
+      "speed": 147
+    },
+    "bst": 851,
+    "movementRange": 3,
+
+    "typeIds": ["rock", "dragon"],
+
+    "move": { "moveIndex": 59, "moveName": "Head Smash" },
+
+    "abilities": [
+      { "abilityIndex": 12, "abilityName": "Sturdy" },
+      { "abilityIndex": 98, "abilityName": "Conqueror" },
+      { "abilityIndex": 76, "abilityName": "Intimidate" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 124,
+    "name": "Aurorus",
+
+    "nationalDexNumber": 699,
+    "galleryNumber": 125,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 356,
+      "attack": 203,
+      "defense": 169,
+      "speed": 121
+    },
+    "bst": 849,
+    "movementRange": 3,
+
+    "typeIds": ["rock", "ice"],
+
+    "move": { "moveIndex": 49, "moveName": "Ice Beam" },
+
+    "abilities": [
+      { "abilityIndex": 34, "abilityName": "Frostbite" },
+      { "abilityIndex": 78, "abilityName": "Interference" },
+      { "abilityIndex": 99, "abilityName": "Shackle" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 60
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 125,
+    "name": "Hawlucha",
+
+    "nationalDexNumber": 701,
+    "galleryNumber": 126,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 266,
+      "attack": 189,
+      "defense": 143,
+      "speed": 241
+    },
+    "bst": 839,
+    "movementRange": 3,
+
+    "typeIds": ["fighting", "flying"],
+
+    "move": { "moveIndex": 54, "moveName": "Flying Press" },
+
+    "abilities": [
+      { "abilityIndex": 15, "abilityName": "Limber" },
+      { "abilityIndex": 5, "abilityName": "Mold Breaker" },
+      { "abilityIndex": 91, "abilityName": "Sprint" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 50
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 126,
+    "name": "Goodra",
+
+    "nationalDexNumber": 706,
+    "galleryNumber": 127,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 225,
+      "defense": 255,
+      "speed": 125
+    },
+    "bst": 875,
+    "movementRange": 3,
+
+    "typeIds": ["steel", "dragon"],
+
+    "move": { "moveIndex": 63, "moveName": "Heavy Slam" },
+
+    "abilities": [
+      { "abilityIndex": 11, "abilityName": "Shell Armor" },
+      { "abilityIndex": 99, "abilityName": "Shackle" },
+      { "abilityIndex": 62, "abilityName": "Last Bastion" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 127,
+    "name": "Trevenant",
+
+    "nationalDexNumber": 709,
+    "galleryNumber": 128,
+
+    "isLegendary": false,
+    "catchRate": 60,
+
+    "stats": {
+      "hp": 290,
+      "attack": 225,
+      "defense": 173,
+      "speed": 117
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["ghost", "grass"],
+
+    "move": { "moveIndex": 21, "moveName": "Horn Leech" },
+
+    "abilities": [
+      { "abilityIndex": 55, "abilityName": "Natural Cure" },
+      { "abilityIndex": 49, "abilityName": "Herbivore" },
+      { "abilityIndex": 26, "abilityName": "Perception" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 83
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 128,
+    "name": "Noivern",
+
+    "nationalDexNumber": 715,
+    "galleryNumber": 129,
+
+    "isLegendary": false,
+    "catchRate": 45,
+
+    "stats": {
+      "hp": 280,
+      "attack": 199,
+      "defense": 165,
+      "speed": 251
+    },
+    "bst": 895,
+    "movementRange": 3,
+
+    "typeIds": ["flying", "dragon"],
+
+    "move": { "moveIndex": 37, "moveName": "Hurricane" },
+
+    "abilities": [
+      { "abilityIndex": 26, "abilityName": "Perception" },
+      { "abilityIndex": 90, "abilityName": "Shadow Dash" },
+      { "abilityIndex": 92, "abilityName": "Disgust" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 55
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 129,
+    "name": "Decidueye",
+
+    "nationalDexNumber": 724,
+    "galleryNumber": 130,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 266,
+      "attack": 219,
+      "defense": 180,
+      "speed": 145
+    },
+    "bst": 810,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "ghost"],
+
+    "move": { "moveIndex": 132, "moveName": "Spirit Shackle" },
+
+    "abilities": [
+      { "abilityIndex": 38, "abilityName": "Overgrow" },
+      { "abilityIndex": 90, "abilityName": "Shadow Dash" },
+      { "abilityIndex": 8, "abilityName": "Sniper" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 130,
+    "name": "Incineroar",
+
+    "nationalDexNumber": 727,
+    "galleryNumber": 131,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 300,
+      "attack": 235,
+      "defense": 185,
+      "speed": 125
+    },
+    "bst": 845,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "dark"],
+
+    "move": { "moveIndex": 10, "moveName": "Darkest Lariat" },
+
+    "abilities": [
+      { "abilityIndex": 36, "abilityName": "Blaze" },
+      { "abilityIndex": 76, "abilityName": "Intimidate" },
+      { "abilityIndex": 46, "abilityName": "Spirit" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 58
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 131,
+    "name": "Crabmnable",
+
+    "nationalDexNumber": 740,
+    "galleryNumber": 132,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 304,
+      "attack": 269,
+      "defense": 149,
+      "speed": 91
+    },
+    "bst": 813,
+    "movementRange": 3,
+
+    "typeIds": ["fighting", "ice"],
+
+    "move": { "moveIndex": 66, "moveName": "Drain Punch" },
+
+    "abilities": [
+      { "abilityIndex": 4, "abilityName": "Thrust" },
+      { "abilityIndex": 99, "abilityName": "Shackle" },
+      { "abilityIndex": 19, "abilityName": "Clear Body" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 118
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 132,
+    "name": "Lycanroc",
+
+    "nationalDexNumber": 745,
+    "galleryNumber": 133,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 239,
+      "defense": 135,
+      "speed": 225
+    },
+    "bst": 859,
+    "movementRange": 3,
+
+    "typeIds": ["normal", "rock"],
+
+    "move": { "moveIndex": 94, "moveName": "Stone Edge" },
+
+    "abilities": [
+      { "abilityIndex": 20, "abilityName": "Keen Eye" },
+      { "abilityIndex": 91, "abilityName": "Sprint" },
+      { "abilityIndex": 8, "abilityName": "Sniper" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 133,
+    "name": "Mudsdale",
+
+    "nationalDexNumber": 750,
+    "galleryNumber": 134,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 255,
+      "defense": 190,
+      "speed": 85
+    },
+    "bst": 840,
+    "movementRange": 3,
+
+    "typeIds": ["ground", "fighting"],
+
+    "move": { "moveIndex": 8, "moveName": "Close Combat" },
+
+    "abilities": [
+      { "abilityIndex": 17, "abilityName": "Own Tempo" },
+      { "abilityIndex": 18, "abilityName": "Inner Focus" },
+      { "abilityIndex": 4, "abilityName": "Thrust" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 51
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 134,
+    "name": "Salazzle",
+
+    "nationalDexNumber": 758,
+    "galleryNumber": 135,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 246,
+      "attack": 227,
+      "defense": 125,
+      "speed": 239
+    },
+    "bst": 837,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "fire"],
+
+    "move": { "moveIndex": 41, "moveName": "Fire Lash" },
+
+    "abilities": [
+      { "abilityIndex": 31, "abilityName": "Poison Point" },
+      { "abilityIndex": 78, "abilityName": "Interference" },
+      { "abilityIndex": 92, "abilityName": "Disgust" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 102
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 135,
+    "name": "Bewear",
+
+    "nationalDexNumber": 760,
+    "galleryNumber": 136,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 350,
+      "attack": 255,
+      "defense": 145,
+      "speed": 125
+    },
+    "bst": 875,
+    "movementRange": 3,
+
+    "typeIds": ["normal", "fighting"],
+
+    "move": { "moveIndex": 66, "moveName": "Drain Punch" },
+
+    "abilities": [
+      { "abilityIndex": 13, "abilityName": "Unaware" },
+      { "abilityIndex": 77, "abilityName": "Frighten" },
+      { "abilityIndex": 99, "abilityName": "Shackle" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 136,
+    "name": "Golisopod",
+
+    "nationalDexNumber": 768,
+    "galleryNumber": 137,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 255,
+      "defense": 235,
+      "speed": 85
+    },
+    "bst": 835,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "water"],
+
+    "move": { "moveIndex": 44, "moveName": "1st Impression" },
+
+    "abilities": [
+      { "abilityIndex": 11, "abilityName": "Shell Armor" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" },
+      { "abilityIndex": 27, "abilityName": "Parry" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 100
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 137,
+    "name": "Turtonator",
+
+    "nationalDexNumber": 776,
+    "galleryNumber": 138,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 215,
+      "defense": 255,
+      "speed": 85
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "dragon"],
+
+    "move": { "moveIndex": 104, "moveName": "Dragon Pulse" },
+
+    "abilities": [
+      { "abilityIndex": 11, "abilityName": "Shell Armor" },
+      { "abilityIndex": 47, "abilityName": "Warm Blanket" },
+      { "abilityIndex": 83, "abilityName": "Explode" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 138,
+    "name": "Togedemaru",
+
+    "nationalDexNumber": 777,
+    "galleryNumber": 139,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 240,
+      "attack": 221,
+      "defense": 151,
+      "speed": 197
+    },
+    "bst": 809,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "steel"],
+
+    "move": { "moveIndex": 142, "moveName": "Zing Zap" },
+
+    "abilities": [
+      { "abilityIndex": 25, "abilityName": "Lightning Rod" },
+      { "abilityIndex": 12, "abilityName": "Sturdy" },
+      { "abilityIndex": 30, "abilityName": "Jagged Edge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 97
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 139,
+    "name": "Kommo-o",
+
+    "nationalDexNumber": 784,
+    "galleryNumber": 140,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 225,
+      "defense": 235,
+      "speed": 175
+    },
+    "bst": 895,
+    "movementRange": 3,
+
+    "typeIds": ["dragon", "fighting"],
+
+    "move": { "moveIndex": 32, "moveName": "ClangingScales" },
+
+    "abilities": [
+      { "abilityIndex": 10, "abilityName": "Battle Armor" },
+      { "abilityIndex": 41, "abilityName": "Pride" },
+      { "abilityIndex": 4, "abilityName": "Thrust" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 140,
+    "name": "Orbeetle",
+
+    "nationalDexNumber": 826,
+    "galleryNumber": 141,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 230,
+      "attack": 175,
+      "defense": 235,
+      "speed": 185
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "psychic"],
+
+    "move": { "moveIndex": 27, "moveName": "Bug Buzz" },
+
+    "abilities": [
+      { "abilityIndex": 39, "abilityName": "Swarm" },
+      { "abilityIndex": 26, "abilityName": "Perception" },
+      { "abilityIndex": 28, "abilityName": "Instinct" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 98
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 141,
+    "name": "Dubwool",
+
+    "nationalDexNumber": 832,
+    "galleryNumber": 142,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 254,
+      "attack": 195,
+      "defense": 195,
+      "speed": 181
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["normal", "steel"],
+
+    "move": { "moveIndex": 116, "moveName": "Iron Head" },
+
+    "abilities": [
+      { "abilityIndex": 10, "abilityName": "Battle Armor" },
+      { "abilityIndex": 54, "abilityName": "Lunch Box" },
+      { "abilityIndex": 70, "abilityName": "Simple" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 142,
+    "name": "Flapple",
+
+    "nationalDexNumber": 841,
+    "galleryNumber": 143,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 225,
+      "defense": 165,
+      "speed": 145
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "dragon"],
+
+    "move": { "moveIndex": 40, "moveName": "Grav Apple" },
+
+    "abilities": [
+      { "abilityIndex": 97, "abilityName": "Run Up" },
+      { "abilityIndex": 49, "abilityName": "Herbivore" },
+      { "abilityIndex": 54, "abilityName": "Lunch Box" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 110
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 143,
+    "name": "Sandaconda",
+
+    "nationalDexNumber": 844,
+    "galleryNumber": 144,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 254,
+      "attack": 219,
+      "defense": 200,
+      "speed": 147
+    },
+    "bst": 820,
+    "movementRange": 3,
+
+    "typeIds": ["ground"],
+
+    "move": { "moveIndex": 125, "moveName": "ScorchingSand" },
+
+    "abilities": [
+      { "abilityIndex": 55, "abilityName": "Natural Cure" },
+      { "abilityIndex": 64, "abilityName": "Stealth" },
+      { "abilityIndex": 50, "abilityName": "Sandpit" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 144,
+    "name": "Toxtricity",
+
+    "nationalDexNumber": 849,
+    "galleryNumber": 145,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 233,
+      "defense": 155,
+      "speed": 155
+    },
+    "bst": 803,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "poison"],
+
+    "move": { "moveIndex": 98, "moveName": "Overdrive" },
+
+    "abilities": [
+      { "abilityIndex": 67, "abilityName": "Sequence" },
+      { "abilityIndex": 46, "abilityName": "Spirit" },
+      { "abilityIndex": 78, "abilityName": "Interference" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 113
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 145,
+    "name": "Centiskrch",
+
+    "nationalDexNumber": 851,
+    "galleryNumber": 146,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 235,
+      "defense": 160,
+      "speed": 135
+    },
+    "bst": 840,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "bug"],
+
+    "move": { "moveIndex": 41, "moveName": "Fire Lash" },
+
+    "abilities": [
+      { "abilityIndex": 21, "abilityName": "Flash Fire" },
+      { "abilityIndex": 33, "abilityName": "Flame Body" },
+      { "abilityIndex": 19, "abilityName": "Clear Body" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 173
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 146,
+    "name": "Frosmoth",
+
+    "nationalDexNumber": 873,
+    "galleryNumber": 147,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 255,
+      "defense": 200,
+      "speed": 135
+    },
+    "bst": 840,
+    "movementRange": 3,
+
+    "typeIds": ["ice", "bug"],
+
+    "move": { "moveIndex": 47, "moveName": "Icy Wind" },
+
+    "abilities": [
+      { "abilityIndex": 34, "abilityName": "Frostbite" },
+      { "abilityIndex": 1, "abilityName": "Mountaineer" },
+      { "abilityIndex": 99, "abilityName": "Shackle" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 147,
+    "name": "Morpeko",
+
+    "nationalDexNumber": 877,
+    "galleryNumber": 148,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 246,
+      "attack": 219,
+      "defense": 141,
+      "speed": 199
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "dark"],
+
+    "move": { "moveIndex": 6, "moveName": "Aura Wheel" },
+
+    "abilities": [
+      { "abilityIndex": 54, "abilityName": "Lunch Box" },
+      { "abilityIndex": 49, "abilityName": "Herbivore" },
+      { "abilityIndex": 67, "abilityName": "Sequence" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 84
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 148,
+    "name": "Dracozolt",
+
+    "nationalDexNumber": 880,
+    "galleryNumber": 149,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 290,
+      "attack": 205,
+      "defense": 165,
+      "speed": 155
+    },
+    "bst": 815,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "dragon"],
+
+    "move": { "moveIndex": 105, "moveName": "Dragon Rush" },
+
+    "abilities": [
+      { "abilityIndex": 23, "abilityName": "Volt Absorb" },
+      { "abilityIndex": 97, "abilityName": "Run Up" },
+      { "abilityIndex": 91, "abilityName": "Sprint" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 149,
+    "name": "Dragapult",
+
+    "nationalDexNumber": 887,
+    "galleryNumber": 150,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 286,
+      "attack": 245,
+      "defense": 155,
+      "speed": 289
+    },
+    "bst": 975,
+    "movementRange": 3,
+
+    "typeIds": ["dragon", "ghost"],
+
+    "move": { "moveIndex": 7, "moveName": "Dragon Darts" },
+
+    "abilities": [
+      { "abilityIndex": 19, "abilityName": "Clear Body" },
+      { "abilityIndex": 90, "abilityName": "Shadow Dash" },
+      { "abilityIndex": 28, "abilityName": "Instinct" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 83
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 150,
+    "name": "Meowscrada",
+
+    "nationalDexNumber": 908,
+    "galleryNumber": 151,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 262,
+      "attack": 225,
+      "defense": 145,
+      "speed": 251
+    },
+    "bst": 883,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "dark"],
+
+    "move": { "moveIndex": 36, "moveName": "Flower Trick" },
+
+    "abilities": [
+      { "abilityIndex": 38, "abilityName": "Overgrow" },
+      { "abilityIndex": 41, "abilityName": "Pride" },
+      { "abilityIndex": 29, "abilityName": "Dodge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 130
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 151,
+    "name": "Quaquaval",
+
+    "nationalDexNumber": 914,
+    "galleryNumber": 152,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 280,
+      "attack": 245,
+      "defense": 160,
+      "speed": 175
+    },
+    "bst": 860,
+    "movementRange": 3,
+
+    "typeIds": ["water", "fighting"],
+
+    "move": { "moveIndex": 2, "moveName": "Aqua Step" },
+
+    "abilities": [
+      { "abilityIndex": 37, "abilityName": "Torrent" },
+      { "abilityIndex": 71, "abilityName": "Moxie" },
+      { "abilityIndex": 79, "abilityName": "Mood Maker" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 152,
+    "name": "Lokix",
+
+    "nationalDexNumber": 920,
+    "galleryNumber": 153,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 252,
+      "attack": 219,
+      "defense": 148,
+      "speed": 189
+    },
+    "bst": 808,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "dark"],
+
+    "move": { "moveIndex": 44, "moveName": "1st Impression" },
+
+    "abilities": [
+      { "abilityIndex": 39, "abilityName": "Swarm" },
+      { "abilityIndex": 97, "abilityName": "Run Up" },
+      { "abilityIndex": 29, "abilityName": "Dodge" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 97
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 153,
+    "name": "Darkrai",
+
+    "nationalDexNumber": 491,
+    "galleryNumber": 154,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 275,
+      "defense": 185,
+      "speed": 255
+    },
+    "bst": 965,
+    "movementRange": 3,
+
+    "typeIds": ["dark"],
+
+    "move": { "moveIndex": 23, "moveName": "Dark Pulse" },
+
+    "abilities": [
+      { "abilityIndex": 75, "abilityName": "Daze" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 154,
+    "name": "Pawmot",
+
+    "nationalDexNumber": 923,
+    "galleryNumber": 155,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 235,
+      "defense": 135,
+      "speed": 215
+    },
+    "bst": 835,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "fighting"],
+
+    "move": { "moveIndex": 33, "moveName": "Double Shock" },
+
+    "abilities": [
+      { "abilityIndex": 23, "abilityName": "Volt Absorb" },
+      { "abilityIndex": 55, "abilityName": "Natural Cure" },
+      { "abilityIndex": 46, "abilityName": "Spirit" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 90
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 155,
+    "name": "Garganacl",
+
+    "nationalDexNumber": 934,
+    "galleryNumber": 156,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 205,
+      "defense": 225,
+      "speed": 85
+    },
+    "bst": 825,
+    "movementRange": 3,
+
+    "typeIds": ["rock"],
+
+    "move": { "moveIndex": 92, "moveName": "Salt Cure" },
+
+    "abilities": [
+      { "abilityIndex": 12, "abilityName": "Sturdy" },
+      { "abilityIndex": 19, "abilityName": "Clear Body" },
+      { "abilityIndex": 55, "abilityName": "Natural Cure" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 156,
+    "name": "Armarouge",
+
+    "nationalDexNumber": 936,
+    "galleryNumber": 157,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 280,
+      "attack": 255,
+      "defense": 185,
+      "speed": 155
+    },
+    "bst": 875,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "psychic"],
+
+    "move": { "moveIndex": 13, "moveName": "Armor Cannon" },
+
+    "abilities": [
+      { "abilityIndex": 21, "abilityName": "Flash Fire" },
+      { "abilityIndex": 10, "abilityName": "Battle Armor" },
+      { "abilityIndex": 41, "abilityName": "Pride" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 90
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 157,
+    "name": "Ceruledge",
+
+    "nationalDexNumber": 937,
+    "galleryNumber": 158,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 255,
+      "defense": 185,
+      "speed": 175
+    },
+    "bst": 875,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "ghost"],
+
+    "move": { "moveIndex": 14, "moveName": "Bitter Blade" },
+
+    "abilities": [
+      { "abilityIndex": 21, "abilityName": "Flash Fire" },
+      { "abilityIndex": 58, "abilityName": "Melee" },
+      { "abilityIndex": 10, "abilityName": "Battle Armor" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 158,
+    "name": "Grafaiai",
+
+    "nationalDexNumber": 945,
+    "galleryNumber": 159,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 246,
+      "attack": 195,
+      "defense": 142,
+      "speed": 225
+    },
+    "bst": 808,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "normal"],
+
+    "move": { "moveIndex": 48, "moveName": "Gunk Shot" },
+
+    "abilities": [
+      { "abilityIndex": 31, "abilityName": "Poison Point" },
+      { "abilityIndex": 91, "abilityName": "Sprint" },
+      { "abilityIndex": 99, "abilityName": "Shackle" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 118
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 159,
+    "name": "Scovillain",
+
+    "nationalDexNumber": 952,
+    "galleryNumber": 160,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 260,
+      "attack": 235,
+      "defense": 155,
+      "speed": 155
+    },
+    "bst": 805,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "fire"],
+
+    "move": { "moveIndex": 131, "moveName": "Spicy Extract" },
+
+    "abilities": [
+      { "abilityIndex": 98, "abilityName": "Conqueror" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" },
+      { "abilityIndex": 95, "abilityName": "Flame Boost" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 160,
+    "name": "Revavroom",
+
+    "nationalDexNumber": 966,
+    "galleryNumber": 161,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 243,
+      "defense": 162,
+      "speed": 185
+    },
+    "bst": 860,
+    "movementRange": 3,
+
+    "typeIds": ["steel", "poison"],
+
+    "move": { "moveIndex": 97, "moveName": "NoxiousTorque" },
+
+    "abilities": [
+      { "abilityIndex": 9, "abilityName": "Solid Rock" },
+      { "abilityIndex": 77, "abilityName": "Frighten" },
+      { "abilityIndex": 83, "abilityName": "Explode" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 108
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 161,
+    "name": "Cyclizar",
+
+    "nationalDexNumber": 967,
+    "galleryNumber": 162,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 250,
+      "attack": 195,
+      "defense": 135,
+      "speed": 247
+    },
+    "bst": 827,
+    "movementRange": 3,
+
+    "typeIds": ["dragon", "normal"],
+
+    "move": { "moveIndex": 105, "moveName": "Dragon Rush" },
+
+    "abilities": [
+      { "abilityIndex": 55, "abilityName": "Natural Cure" },
+      { "abilityIndex": 53, "abilityName": "Life Force" },
+      { "abilityIndex": 97, "abilityName": "Run Up" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 93
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 162,
+    "name": "Glimmora",
+
+    "nationalDexNumber": 970,
+    "galleryNumber": 163,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 276,
+      "attack": 265,
+      "defense": 176,
+      "speed": 177
+    },
+    "bst": 894,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "rock"],
+
+    "move": { "moveIndex": 87, "moveName": "Mortal Spin" },
+
+    "abilities": [
+      { "abilityIndex": 30, "abilityName": "Jagged Edge" },
+      { "abilityIndex": 64, "abilityName": "Stealth" },
+      { "abilityIndex": 31, "abilityName": "Poison Point" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 163,
+    "name": "Baxcalibur",
+
+    "nationalDexNumber": 998,
+    "galleryNumber": 164,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 340,
+      "attack": 295,
+      "defense": 183,
+      "speed": 179
+    },
+    "bst": 997,
+    "movementRange": 3,
+
+    "typeIds": ["dragon", "ice"],
+
+    "move": { "moveIndex": 56, "moveName": "Glaive Rush" },
+
+    "abilities": [
+      { "abilityIndex": 34, "abilityName": "Frostbite" },
+      { "abilityIndex": 14, "abilityName": "Thick Fat" },
+      { "abilityIndex": 21, "abilityName": "Flash Fire" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 113
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 164,
+    "name": "Gholdengo",
+
+    "nationalDexNumber": 1000,
+    "galleryNumber": 165,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 284,
+      "attack": 271,
+      "defense": 191,
+      "speed": 173
+    },
+    "bst": 919,
+    "movementRange": 3,
+
+    "typeIds": ["steel", "ghost"],
+
+    "move": { "moveIndex": 108, "moveName": "Make It Rain" },
+
+    "abilities": [
+      { "abilityIndex": 79, "abilityName": "Mood Maker" },
+      { "abilityIndex": 55, "abilityName": "Natural Cure" },
+      { "abilityIndex": 81, "abilityName": "Fortune" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 165,
+    "name": "Articuno",
+
+    "nationalDexNumber": 144,
+    "galleryNumber": 166,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 290,
+      "attack": 205,
+      "defense": 280,
+      "speed": 175
+    },
+    "bst": 950,
+    "movementRange": 3,
+
+    "typeIds": ["ice", "flying"],
+
+    "move": { "moveIndex": 49, "moveName": "Ice Beam" },
+
+    "abilities": [
+      { "abilityIndex": 34, "abilityName": "Frostbite" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 86
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 166,
+    "name": "Zapdos",
+
+    "nationalDexNumber": 145,
+    "galleryNumber": 167,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 290,
+      "attack": 255,
+      "defense": 185,
+      "speed": 205
+    },
+    "bst": 935,
+    "movementRange": 3,
+
+    "typeIds": ["fighting", "flying"],
+
+    "move": { "moveIndex": 122, "moveName": "ThunderusKick" },
+
+    "abilities": [
+      { "abilityIndex": 4, "abilityName": "Thrust" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 167,
+    "name": "Dragonite",
+
+    "nationalDexNumber": 149,
+    "galleryNumber": 168,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 292,
+      "attack": 273,
+      "defense": 200,
+      "speed": 165
+    },
+    "bst": 930,
+    "movementRange": 3,
+
+    "typeIds": ["dragon", "flying"],
+
+    "move": { "moveIndex": 37, "moveName": "Hurricane" },
+
+    "abilities": [
+      { "abilityIndex": 18, "abilityName": "Inner Focus" },
+      { "abilityIndex": 61, "abilityName": "Hero" },
+      { "abilityIndex": 53, "abilityName": "Life Force" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 146
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 168,
+    "name": "Celebi",
+
+    "nationalDexNumber": 251,
+    "galleryNumber": 169,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 205,
+      "defense": 205,
+      "speed": 205
+    },
+    "bst": 925,
+    "movementRange": 3,
+
+    "typeIds": ["psychic", "grass"],
+
+    "move": { "moveIndex": 42, "moveName": "Giga Drain" },
+
+    "abilities": [
+      { "abilityIndex": 55, "abilityName": "Natural Cure" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 169,
+    "name": "Latios",
+
+    "nationalDexNumber": 381,
+    "galleryNumber": 170,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 265,
+      "defense": 195,
+      "speed": 225
+    },
+    "bst": 955,
+    "movementRange": 3,
+
+    "typeIds": ["dragon", "psychic"],
+
+    "move": { "moveIndex": 70, "moveName": "Luster Purge" },
+
+    "abilities": [
+      { "abilityIndex": 0, "abilityName": "Levitate" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 119
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 170,
+    "name": "Deoxys",
+
+    "nationalDexNumber": 386,
+    "galleryNumber": 171,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 210,
+      "attack": 305,
+      "defense": 105,
+      "speed": 305
+    },
+    "bst": 925,
+    "movementRange": 3,
+
+    "typeIds": ["psychic"],
+
+    "move": { "moveIndex": 86, "moveName": "Psycho Boost" },
+
+    "abilities": [
+      { "abilityIndex": 78, "abilityName": "Interference" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 171,
+    "name": "Heatran",
+
+    "nationalDexNumber": 485,
+    "galleryNumber": 172,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 292,
+      "attack": 265,
+      "defense": 217,
+      "speed": 159
+    },
+    "bst": 933,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "steel"],
+
+    "move": { "moveIndex": 77, "moveName": "Magma Storm" },
+
+    "abilities": [
+      { "abilityIndex": 21, "abilityName": "Flash Fire" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 116
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 172,
+    "name": "Manaphy",
+
+    "nationalDexNumber": 490,
+    "galleryNumber": 173,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 205,
+      "defense": 205,
+      "speed": 205
+    },
+    "bst": 925,
+    "movementRange": 3,
+
+    "typeIds": ["water"],
+
+    "move": { "moveIndex": 140, "moveName": "Whirlpool" },
+
+    "abilities": [
+      { "abilityIndex": 22, "abilityName": "Water Absorb" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 173,
+    "name": "Shaymin",
+
+    "nationalDexNumber": 492,
+    "galleryNumber": 174,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 245,
+      "defense": 155,
+      "speed": 259
+    },
+    "bst": 969,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "flying"],
+
+    "move": { "moveIndex": 127, "moveName": "Seed Flare" },
+
+    "abilities": [
+      { "abilityIndex": 55, "abilityName": "Natural Cure" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 131
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 174,
+    "name": "Victini",
+
+    "nationalDexNumber": 494,
+    "galleryNumber": 175,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 205,
+      "defense": 205,
+      "speed": 205
+    },
+    "bst": 925,
+    "movementRange": 3,
+
+    "typeIds": ["psychic", "fire"],
+
+    "move": { "moveIndex": 126, "moveName": "Searing Shot" },
+
+    "abilities": [
+      { "abilityIndex": 80, "abilityName": "Victory Star" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 175,
+    "name": "Kingambit",
+
+    "nationalDexNumber": 983,
+    "galleryNumber": 176,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 275,
+      "defense": 210,
+      "speed": 105
+    },
+    "bst": 900,
+    "movementRange": 3,
+
+    "typeIds": ["dark", "steel"],
+
+    "move": { "moveIndex": 69, "moveName": "Kowtow Cleave" },
+
+    "abilities": [
+      { "abilityIndex": 62, "abilityName": "Last Bastion" },
+      { "abilityIndex": 35, "abilityName": "Tenacity" },
+      { "abilityIndex": 27, "abilityName": "Parry" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 94
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 176,
+    "name": "Volcarona",
+
+    "nationalDexNumber": 637,
+    "galleryNumber": 177,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 280,
+      "attack": 275,
+      "defense": 175,
+      "speed": 205
+    },
+    "bst": 935,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "fire"],
+
+    "move": { "moveIndex": 20, "moveName": "Fiery Dance" },
+
+    "abilities": [
+      { "abilityIndex": 33, "abilityName": "Flame Body" },
+      { "abilityIndex": 39, "abilityName": "Swarm" },
+      { "abilityIndex": 51, "abilityName": "Hot Blooded" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 177,
+    "name": "Cobalion",
+
+    "nationalDexNumber": 638,
+    "galleryNumber": 178,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 292,
+      "attack": 205,
+      "defense": 206,
+      "speed": 221
+    },
+    "bst": 924,
+    "movementRange": 3,
+
+    "typeIds": ["steel", "fighting"],
+
+    "move": { "moveIndex": 60, "moveName": "Sacred Sword" },
+
+    "abilities": [
+      { "abilityIndex": 43, "abilityName": "Justified" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 178,
+    "name": "Terrakion",
+
+    "nationalDexNumber": 639,
+    "galleryNumber": 179,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 292,
+      "attack": 263,
+      "defense": 185,
+      "speed": 221
+    },
+    "bst": 961,
+    "movementRange": 3,
+
+    "typeIds": ["rock", "fighting"],
+
+    "move": { "moveIndex": 94, "moveName": "Stone Edge" },
+
+    "abilities": [
+      { "abilityIndex": 43, "abilityName": "Justified" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 50
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 179,
+    "name": "Virizion",
+
+    "nationalDexNumber": 640,
+    "galleryNumber": 180,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 292,
+      "attack": 205,
+      "defense": 206,
+      "speed": 221
+    },
+    "bst": 924,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "fighting"],
+
+    "move": { "moveIndex": 43, "moveName": "Leaf Blade" },
+
+    "abilities": [
+      { "abilityIndex": 43, "abilityName": "Justified" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 180,
+    "name": "Tornadus",
+
+    "nationalDexNumber": 641,
+    "galleryNumber": 181,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 268,
+      "attack": 225,
+      "defense": 175,
+      "speed": 247
+    },
+    "bst": 915,
+    "movementRange": 3,
+
+    "typeIds": ["flying"],
+
+    "move": { "moveIndex": 26, "moveName": "BleakwndStorm" },
+
+    "abilities": [
+      { "abilityIndex": 53, "abilityName": "Life Force" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 181,
+    "name": "Thundurus",
+
+    "nationalDexNumber": 642,
+    "galleryNumber": 182,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 268,
+      "attack": 295,
+      "defense": 155,
+      "speed": 207
+    },
+    "bst": 925,
+    "movementRange": 3,
+
+    "typeIds": ["electric", "flying"],
+
+    "move": { "moveIndex": 25, "moveName": "Wildbolt Storm" },
+
+    "abilities": [
+      { "abilityIndex": 23, "abilityName": "Volt Absorb" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 165
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 96
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 182,
+    "name": "Landorus",
+
+    "nationalDexNumber": 645,
+    "galleryNumber": 183,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 288,
+      "attack": 295,
+      "defense": 175,
+      "speed": 187
+    },
+    "bst": 945,
+    "movementRange": 3,
+
+    "typeIds": ["ground", "flying"],
+
+    "move": { "moveIndex": 24, "moveName": "SandsearStorm" },
+
+    "abilities": [
+      { "abilityIndex": 76, "abilityName": "Intimidate" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 183,
+    "name": "Keldeo",
+
+    "nationalDexNumber": 647,
+    "galleryNumber": 184,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 292,
+      "attack": 263,
+      "defense": 185,
+      "speed": 221
+    },
+    "bst": 961,
+    "movementRange": 3,
+
+    "typeIds": ["water", "fighting"],
+
+    "move": { "moveIndex": 30, "moveName": "Hydro Pump" },
+
+    "abilities": [
+      { "abilityIndex": 43, "abilityName": "Justified" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 103
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 184,
+    "name": "Genesect",
+
+    "nationalDexNumber": 649,
+    "galleryNumber": 185,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 252,
+      "attack": 245,
+      "defense": 195,
+      "speed": 203
+    },
+    "bst": 895,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "steel"],
+
+    "move": { "moveIndex": 116, "moveName": "Iron Head" },
+
+    "abilities": [
+      { "abilityIndex": 65, "abilityName": "Vanguard" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 185,
+    "name": "Hoopa",
+
+    "nationalDexNumber": 720,
+    "galleryNumber": 186,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 305,
+      "defense": 195,
+      "speed": 145
+    },
+    "bst": 915,
+    "movementRange": 3,
+
+    "typeIds": ["psychic", "ghost"],
+
+    "move": { "moveIndex": 61, "moveName": "HyprspaceHole" },
+
+    "abilities": [
+      { "abilityIndex": 29, "abilityName": "Dodge" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 186,
+    "name": "Volcanion",
+
+    "nationalDexNumber": 721,
+    "galleryNumber": 187,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 265,
+      "defense": 215,
+      "speed": 145
+    },
+    "bst": 895,
+    "movementRange": 3,
+
+    "typeIds": ["fire", "water"],
+
+    "move": { "moveIndex": 133, "moveName": "Steam Eruption" },
+
+    "abilities": [
+      { "abilityIndex": 22, "abilityName": "Water Absorb" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 187,
+    "name": "Buzzwole",
+
+    "nationalDexNumber": 794,
+    "galleryNumber": 188,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 324,
+      "attack": 283,
+      "defense": 197,
+      "speed": 163
+    },
+    "bst": 967,
+    "movementRange": 3,
+
+    "typeIds": ["bug", "fighting"],
+
+    "move": { "moveIndex": 64, "moveName": "Leech Life" },
+
+    "abilities": [
+      { "abilityIndex": 71, "abilityName": "Moxie" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 188,
+    "name": "Kartana",
+
+    "nationalDexNumber": 798,
+    "galleryNumber": 189,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 228,
+      "attack": 367,
+      "defense": 167,
+      "speed": 223
+    },
+    "bst": 985,
+    "movementRange": 3,
+
+    "typeIds": ["grass", "steel"],
+
+    "move": { "moveIndex": 43, "moveName": "Leaf Blade" },
+
+    "abilities": [
+      { "abilityIndex": 71, "abilityName": "Moxie" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 94
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 189,
+    "name": "Marshadow",
+
+    "nationalDexNumber": 802,
+    "galleryNumber": 190,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 290,
+      "attack": 255,
+      "defense": 175,
+      "speed": 255
+    },
+    "bst": 975,
+    "movementRange": 3,
+
+    "typeIds": ["fighting", "ghost"],
+
+    "move": { "moveIndex": 109, "moveName": "Spectral Thief" },
+
+    "abilities": [
+      { "abilityIndex": 90, "abilityName": "Shadow Dash" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 190,
+    "name": "Naganadel",
+
+    "nationalDexNumber": 804,
+    "galleryNumber": 191,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 256,
+      "attack": 259,
+      "defense": 151,
+      "speed": 247
+    },
+    "bst": 913,
+    "movementRange": 3,
+
+    "typeIds": ["poison", "dragon"],
+
+    "move": { "moveIndex": 65, "moveName": "Sludge Bomb" },
+
+    "abilities": [
+      { "abilityIndex": 71, "abilityName": "Moxie" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 191,
+    "name": "Regieleki",
+
+    "nationalDexNumber": 894,
+    "galleryNumber": 192,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 205,
+      "defense": 105,
+      "speed": 405
+    },
+    "bst": 985,
+    "movementRange": 3,
+
+    "typeIds": ["electric"],
+
+    "move": { "moveIndex": 31, "moveName": "Thunder Cage" },
+
+    "abilities": [
+      { "abilityIndex": 23, "abilityName": "Volt Absorb" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 192,
+    "name": "Spectrier",
+
+    "nationalDexNumber": 897,
+    "galleryNumber": 193,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 295,
+      "defense": 145,
+      "speed": 265
+    },
+    "bst": 1015,
+    "movementRange": 3,
+
+    "typeIds": ["ghost"],
+
+    "move": { "moveIndex": 100, "moveName": "Shadow Ball" },
+
+    "abilities": [
+      { "abilityIndex": 71, "abilityName": "Moxie" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 193,
+    "name": "Great Tusk",
+
+    "nationalDexNumber": 984,
+    "galleryNumber": 194,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 340,
+      "attack": 267,
+      "defense": 189,
+      "speed": 179
+    },
+    "bst": 975,
+    "movementRange": 3,
+
+    "typeIds": ["ground", "fighting"],
+
+    "move": { "moveIndex": 62, "moveName": "Headlong Rush" },
+
+    "abilities": [
+      { "abilityIndex": 4, "abilityName": "Thrust" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 194,
+    "name": "Chien-Pao",
+
+    "nationalDexNumber": 1002,
+    "galleryNumber": 195,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 270,
+      "attack": 245,
+      "defense": 150,
+      "speed": 275
+    },
+    "bst": 940,
+    "movementRange": 3,
+
+    "typeIds": ["dark", "ice"],
+
+    "move": { "moveIndex": 51, "moveName": "Icicle Crash" },
+
+    "abilities": [
+      { "abilityIndex": 19, "abilityName": "Clear Body" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 195,
+    "name": "Chi-Yu",
+
+    "nationalDexNumber": 1004,
+    "galleryNumber": 196,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 220,
+      "attack": 275,
+      "defense": 205,
+      "speed": 205
+    },
+    "bst": 905,
+    "movementRange": 3,
+
+    "typeIds": ["dark", "fire"],
+
+    "move": { "moveIndex": 23, "moveName": "Dark Pulse" },
+
+    "abilities": [
+      { "abilityIndex": 51, "abilityName": "Hot Blooded" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 196,
+    "name": "Reshiram",
+
+    "nationalDexNumber": 643,
+    "galleryNumber": 197,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 305,
+      "defense": 225,
+      "speed": 185
+    },
+    "bst": 1025,
+    "movementRange": 3,
+
+    "typeIds": ["dragon", "fire"],
+
+    "move": { "moveIndex": 22, "moveName": "Blue Flare" },
+
+    "abilities": [
+      { "abilityIndex": 6, "abilityName": "Turboblaze" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 197,
+    "name": "Dialga",
+
+    "nationalDexNumber": 384,
+    "galleryNumber": 198,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 305,
+      "defense": 225,
+      "speed": 185
+    },
+    "bst": 1025,
+    "movementRange": 3,
+
+    "typeIds": ["steel", "dragon"],
+
+    "move": { "moveIndex": 106, "moveName": "Roar of Time" },
+
+    "abilities": [
+      { "abilityIndex": 26, "abilityName": "Perception" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 198,
+    "name": "Arceus",
+
+    "nationalDexNumber": 493,
+    "galleryNumber": 199,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 350,
+      "attack": 245,
+      "defense": 245,
+      "speed": 245
+    },
+    "bst": 1085,
+    "movementRange": 3,
+
+    "typeIds": ["normal"],
+
+    "move": { "moveIndex": 12, "moveName": "Judgment" },
+
+    "abilities": [
+      { "abilityIndex": 53, "abilityName": "Life Force" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  },
+
+  {
+    "pokemonIndex": 199,
+    "name": "Zekrom",
+
+    "nationalDexNumber": 644,
+    "galleryNumber": 200,
+
+    "isLegendary": false,
+    "catchRate": 200,
+
+    "stats": {
+      "hp": 310,
+      "attack": 305,
+      "defense": 225,
+      "speed": 185
+    },
+    "bst": 1025,
+    "movementRange": 3,
+
+    "typeIds": ["dragon", "electric"],
+
+    "move": { "moveIndex": 39, "moveName": "Bolt Strike" },
+
+    "abilities": [
+      { "abilityIndex": 7, "abilityName": "Teravolt" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" },
+      { "abilityIndex": 128, "abilityName": "Unknown Ability (128)" }
+    ],
+
+    "evolutions": [],
+
+    "evolutionRequirements": {
+      "condition1": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      },
+      "condition2": {
+        "conditionId": "no-condition",
+        "quantity": 511
+      }
+    }
+  }
+]

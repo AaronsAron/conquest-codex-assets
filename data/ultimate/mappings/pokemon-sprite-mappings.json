@@ -1,0 +1,2221 @@
+{
+  "schemaVersion": 1,
+
+  "_documentation": {
+      "description": "Maps each game Pokemon record to its stable Conquest Codex website identity and Pokemon Sprite Repository identity.",
+      "mappingKey": "Each key under mappings is the game-local pokemonIndex from raw/pokemon.json. pokemonIndex is the authoritative connector between raw files within this game.",
+      "fields": {
+            "websiteId": "Stable website route ID for this Pokemon record. Equivalent records should use the same websiteId across games so users can switch games while viewing the same Pokemon or form.",
+            "displayName": "Name displayed by Conquest Codex. This may be more descriptive than the character-limited in-game name.",
+            "pokemonId": "pokemonId used by the Pokemon Sprite Repository manifest.",
+            "variantId": "variantId used under the selected pokemonId in the Pokemon Sprite Repository manifest.",
+            "alternateSprites": "Optional sprite overrides by website usage/context. Keys are website-defined sprite slots and values are alternate sprite IDs from the selected variant. For example, 'cropped-left': 'alternate-default' or 'animation': 'special' (use double quotes). Leave as an empty object when default variant sprites should be used.",
+            "notes": "Optional explanation for a non-obvious mapping, shortened in-game name, alternate form, or missing sprite match."
+          },
+      "maintenance": "This file is intended to be generated once per game and then manually reviewed. Do not regenerate with --force after manual edits unless the game's Pokemon roster has changed and overwriting the reviewed mappings is intentional."
+    },
+
+  "mappings": {
+    "0": {
+      "websiteId": "meloetta",
+      "displayName": "Meloetta",
+
+      "pokemonId": "meloetta",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "1": {
+      "websiteId": "vaporeon",
+      "displayName": "Vaporeon",
+
+      "pokemonId": "vaporeon",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "2": {
+      "websiteId": "jolteon",
+      "displayName": "Jolteon",
+
+      "pokemonId": "jolteon",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "3": {
+      "websiteId": "flareon",
+      "displayName": "Flareon",
+
+      "pokemonId": "flareon",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "4": {
+      "websiteId": "espeon",
+      "displayName": "Espeon",
+
+      "pokemonId": "espeon",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "5": {
+      "websiteId": "umbreon",
+      "displayName": "Umbreon",
+
+      "pokemonId": "umbreon",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "6": {
+      "websiteId": "leafeon",
+      "displayName": "Leafeon",
+
+      "pokemonId": "leafeon",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "7": {
+      "websiteId": "glaceon",
+      "displayName": "Glaceon",
+
+      "pokemonId": "glaceon",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "8": {
+      "websiteId": "charizard",
+      "displayName": "Charizard",
+
+      "pokemonId": "charizard",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "9": {
+      "websiteId": "beedrill",
+      "displayName": "Beedrill",
+
+      "pokemonId": "beedrill",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "10": {
+      "websiteId": "arbok",
+      "displayName": "Arbok",
+
+      "pokemonId": "arbok",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "11": {
+      "websiteId": "raichu-alola",
+      "displayName": "Raichu-Alola",
+
+      "pokemonId": "raichu",
+      "variantId": "alola",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "12": {
+      "websiteId": "sandslash-alola",
+      "displayName": "Sandslash-Alola",
+
+      "pokemonId": "sandslash",
+      "variantId": "alola",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "13": {
+      "websiteId": "nidoking",
+      "displayName": "Nidoking",
+
+      "pokemonId": "nidoking",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "14": {
+      "websiteId": "crobat",
+      "displayName": "Crobat",
+
+      "pokemonId": "crobat",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "15": {
+      "websiteId": "annihilape",
+      "displayName": "Annihilape",
+
+      "pokemonId": "annihilape",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "16": {
+      "websiteId": "arcanine-hisui",
+      "displayName": "Arcanine-Hisui",
+
+      "pokemonId": "arcanine",
+      "variantId": "hisui",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "17": {
+      "websiteId": "tentacruel",
+      "displayName": "Tentacruel",
+
+      "pokemonId": "tentacruel",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "18": {
+      "websiteId": "golem-alola",
+      "displayName": "Golem-Alola",
+
+      "pokemonId": "golem",
+      "variantId": "alola",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "19": {
+      "websiteId": "slowbro-galar",
+      "displayName": "Slowbro-Galar",
+
+      "pokemonId": "slowbro",
+      "variantId": "galar",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "20": {
+      "websiteId": "slowking-galar",
+      "displayName": "Slowking-Galar",
+
+      "pokemonId": "slowking",
+      "variantId": "galar",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "21": {
+      "websiteId": "magnezone",
+      "displayName": "Magnezone",
+
+      "pokemonId": "magnezone",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "22": {
+      "websiteId": "gengar",
+      "displayName": "Gengar",
+
+      "pokemonId": "gengar",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "23": {
+      "websiteId": "exeggutor",
+      "displayName": "Exeggutor",
+
+      "pokemonId": "exeggutor",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "24": {
+      "websiteId": "rhyperior",
+      "displayName": "Rhyperior",
+
+      "pokemonId": "rhyperior",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "25": {
+      "websiteId": "kingdra",
+      "displayName": "Kingdra",
+
+      "pokemonId": "kingdra",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "26": {
+      "websiteId": "starmie",
+      "displayName": "Starmie",
+
+      "pokemonId": "starmie",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "27": {
+      "websiteId": "mr-rime",
+      "displayName": "Mr. Rime",
+
+      "pokemonId": "mr-rime",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "28": {
+      "websiteId": "scyther",
+      "displayName": "Scyther",
+
+      "pokemonId": "scyther",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "29": {
+      "websiteId": "scizor",
+      "displayName": "Scizor",
+
+      "pokemonId": "scizor",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "30": {
+      "websiteId": "kleavor",
+      "displayName": "Kleavor",
+
+      "pokemonId": "kleavor",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "31": {
+      "websiteId": "gyarados",
+      "displayName": "Gyarados",
+
+      "pokemonId": "gyarados",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "32": {
+      "websiteId": "lapras",
+      "displayName": "Lapras",
+
+      "pokemonId": "lapras",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "33": {
+      "websiteId": "porygon-z",
+      "displayName": "Porygon-Z",
+
+      "pokemonId": "porygon-z",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "34": {
+      "websiteId": "kabutops",
+      "displayName": "Kabutops",
+
+      "pokemonId": "kabutops",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "35": {
+      "websiteId": "aerodactyl",
+      "displayName": "Aerodactyl",
+
+      "pokemonId": "aerodactyl",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "36": {
+      "websiteId": "typhlosion-hisui",
+      "displayName": "Typhlosion-Hisui",
+
+      "pokemonId": "typhlosion-hisui",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "37": {
+      "websiteId": "ariados",
+      "displayName": "Ariados",
+
+      "pokemonId": "ariados",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "38": {
+      "websiteId": "yanmega",
+      "displayName": "Yanmega",
+
+      "pokemonId": "yanmega",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "39": {
+      "websiteId": "honchkrow",
+      "displayName": "Honchkrow",
+
+      "pokemonId": "honchkrow",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "40": {
+      "websiteId": "farigiraf",
+      "displayName": "Farigiraf",
+
+      "pokemonId": "farigiraf",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "41": {
+      "websiteId": "gliscor",
+      "displayName": "Gliscor",
+
+      "pokemonId": "gliscor",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "42": {
+      "websiteId": "overqwil",
+      "displayName": "Overqwil",
+
+      "pokemonId": "overqwil",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "43": {
+      "websiteId": "heracross",
+      "displayName": "Heracross",
+
+      "pokemonId": "heracross",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "44": {
+      "websiteId": "weavile",
+      "displayName": "Weavile",
+
+      "pokemonId": "weavile",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "45": {
+      "websiteId": "sneasler",
+      "displayName": "Sneasler",
+
+      "pokemonId": "sneasler",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "46": {
+      "websiteId": "ursaluna",
+      "displayName": "Ursaluna",
+
+      "pokemonId": "ursaluna",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "47": {
+      "websiteId": "mamoswine",
+      "displayName": "Mamoswine",
+
+      "pokemonId": "mamoswine",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "48": {
+      "websiteId": "cursola",
+      "displayName": "Cursola",
+
+      "pokemonId": "cursola",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "49": {
+      "websiteId": "delibird",
+      "displayName": "Delibird",
+
+      "pokemonId": "delibird",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "50": {
+      "websiteId": "skarmory",
+      "displayName": "Skarmory",
+
+      "pokemonId": "skarmory",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "51": {
+      "websiteId": "tyranitar",
+      "displayName": "Tyranitar",
+
+      "pokemonId": "tyranitar",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "52": {
+      "websiteId": "blaziken",
+      "displayName": "Blaziken",
+
+      "pokemonId": "blaziken",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "53": {
+      "websiteId": "swampert",
+      "displayName": "Swampert",
+
+      "pokemonId": "swampert",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "54": {
+      "websiteId": "obstagoon",
+      "displayName": "Obstagoon",
+
+      "pokemonId": "obstagoon",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "55": {
+      "websiteId": "ludicolo",
+      "displayName": "Ludicolo",
+
+      "pokemonId": "ludicolo",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "56": {
+      "websiteId": "shiftry",
+      "displayName": "Shiftry",
+
+      "pokemonId": "shiftry",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "57": {
+      "websiteId": "gallade",
+      "displayName": "Gallade",
+
+      "pokemonId": "gallade",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "58": {
+      "websiteId": "breloom",
+      "displayName": "Breloom",
+
+      "pokemonId": "breloom",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "59": {
+      "websiteId": "slaking",
+      "displayName": "Slaking",
+
+      "pokemonId": "slaking",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "60": {
+      "websiteId": "shedinja",
+      "displayName": "Shedinja",
+
+      "pokemonId": "shedinja",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "61": {
+      "websiteId": "aggron",
+      "displayName": "Aggron",
+
+      "pokemonId": "aggron",
+      "variantId": "default",
+      "alternateSprites": {
+		"animation": "alternate-default"
+	},
+
+      "notes": ""
+    },
+
+    "62": {
+      "websiteId": "roserade",
+      "displayName": "Roserade",
+
+      "pokemonId": "roserade",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "63": {
+      "websiteId": "camerupt",
+      "displayName": "Camerupt",
+
+      "pokemonId": "camerupt",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "64": {
+      "websiteId": "flygon",
+      "displayName": "Flygon",
+
+      "pokemonId": "flygon",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "65": {
+      "websiteId": "lunatone",
+      "displayName": "Lunatone",
+
+      "pokemonId": "lunatone",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "66": {
+      "websiteId": "solrock",
+      "displayName": "Solrock",
+
+      "pokemonId": "solrock",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "67": {
+      "websiteId": "claydol",
+      "displayName": "Claydol",
+
+      "pokemonId": "claydol",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "68": {
+      "websiteId": "cradily",
+      "displayName": "Cradily",
+
+      "pokemonId": "cradily",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "69": {
+      "websiteId": "castform-snowy",
+      "displayName": "Castform-Snowy",
+
+      "pokemonId": "castform",
+      "variantId": "snowy",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "70": {
+      "websiteId": "dusknoir",
+      "displayName": "Dusknoir",
+
+      "pokemonId": "dusknoir",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "71": {
+      "websiteId": "tropius",
+      "displayName": "Tropius",
+
+      "pokemonId": "tropius",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "72": {
+      "websiteId": "froslass",
+      "displayName": "Froslass",
+
+      "pokemonId": "froslass",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "73": {
+      "websiteId": "walrein",
+      "displayName": "Walrein",
+
+      "pokemonId": "walrein",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "74": {
+      "websiteId": "salamence",
+      "displayName": "Salamence",
+
+      "pokemonId": "salamence",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "75": {
+      "websiteId": "metagross",
+      "displayName": "Metagross",
+
+      "pokemonId": "metagross",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "76": {
+      "websiteId": "torterra",
+      "displayName": "Torterra",
+
+      "pokemonId": "torterra",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "77": {
+      "websiteId": "infernape",
+      "displayName": "Infernape",
+
+      "pokemonId": "infernape",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "78": {
+      "websiteId": "empoleon",
+      "displayName": "Empoleon",
+
+      "pokemonId": "empoleon",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "79": {
+      "websiteId": "staraptor",
+      "displayName": "Staraptor",
+
+      "pokemonId": "staraptor",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "80": {
+      "websiteId": "bibarel",
+      "displayName": "Bibarel",
+
+      "pokemonId": "bibarel",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "81": {
+      "websiteId": "kricketune",
+      "displayName": "Kricketune",
+
+      "pokemonId": "kricketune",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "82": {
+      "websiteId": "rampardos",
+      "displayName": "Rampardos",
+
+      "pokemonId": "rampardos",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "83": {
+      "websiteId": "wormadam-sandy",
+      "displayName": "Wormadam-Sandy",
+
+      "pokemonId": "wormadam",
+      "variantId": "sandy",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "84": {
+      "websiteId": "gastrodon",
+      "displayName": "Gastrodon-East-Sea",
+
+      "pokemonId": "gastrodon",
+      "variantId": "east-sea",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "85": {
+      "websiteId": "drifblim",
+      "displayName": "Drifblim",
+
+      "pokemonId": "drifblim",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "86": {
+      "websiteId": "bronzong",
+      "displayName": "Bronzong",
+
+      "pokemonId": "bronzong",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "87": {
+      "websiteId": "spiritomb",
+      "displayName": "Spiritomb",
+
+      "pokemonId": "spiritomb",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "88": {
+      "websiteId": "garchomp",
+      "displayName": "Garchomp",
+
+      "pokemonId": "garchomp",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "89": {
+      "websiteId": "lucario",
+      "displayName": "Lucario",
+
+      "pokemonId": "lucario",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "90": {
+      "websiteId": "drapion",
+      "displayName": "Drapion",
+
+      "pokemonId": "drapion",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "91": {
+      "websiteId": "toxicroak",
+      "displayName": "Toxicroak",
+
+      "pokemonId": "toxicroak",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "92": {
+      "websiteId": "abomasnow",
+      "displayName": "Abomasnow",
+
+      "pokemonId": "abomasnow",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "93": {
+      "websiteId": "rotom",
+      "displayName": "Rotom",
+
+      "pokemonId": "rotom",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "94": {
+      "websiteId": "rotom-heat",
+      "displayName": "Rotom-Heat",
+
+      "pokemonId": "rotom",
+      "variantId": "heat",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "95": {
+      "websiteId": "lanturn",
+      "displayName": "Lanturn",
+
+      "pokemonId": "lanturn",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "96": {
+      "websiteId": "arctozolt",
+      "displayName": "Arctozolt",
+
+      "pokemonId": "arctozolt",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "97": {
+      "websiteId": "kilowattrel",
+      "displayName": "Kilowattrel",
+
+      "pokemonId": "kilowattrel",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "98": {
+      "websiteId": "electrode-hisui",
+      "displayName": "Electrode-Hisui",
+
+      "pokemonId": "electrode",
+      "variantId": "hisui",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "99": {
+      "websiteId": "samurott-hisui",
+      "displayName": "Samurott-Hisui",
+
+      "pokemonId": "samurott",
+      "variantId": "hisui",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "100": {
+      "websiteId": "excadrill",
+      "displayName": "Excadrill",
+
+      "pokemonId": "excadrill",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "101": {
+      "websiteId": "conkeldurr",
+      "displayName": "Conkeldurr",
+
+      "pokemonId": "conkeldurr",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "102": {
+      "websiteId": "leavanny",
+      "displayName": "Leavanny",
+
+      "pokemonId": "leavanny",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "103": {
+      "websiteId": "basculegion-male",
+      "displayName": "Basculegion-Male",
+
+      "pokemonId": "basculegion",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "104": {
+      "websiteId": "krookodile",
+      "displayName": "Krookodile",
+
+      "pokemonId": "krookodile",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "105": {
+      "websiteId": "darmanitan-galar-zen",
+      "displayName": "Darmanitan-Galar-Zen",
+
+      "pokemonId": "darmanitan",
+      "variantId": "galar-zen",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "106": {
+      "websiteId": "sigilyph",
+      "displayName": "Sigilyph",
+
+      "pokemonId": "sigilyph",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "107": {
+      "websiteId": "zoroark-hisui",
+      "displayName": "Zoroark-Hisui",
+
+      "pokemonId": "zoroark",
+      "variantId": "hisui",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "108": {
+      "websiteId": "sawsbuck",
+      "displayName": "Sawsbuck-Spring",
+
+      "pokemonId": "sawsbuck",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "109": {
+      "websiteId": "galvantula",
+      "displayName": "Galvantula",
+
+      "pokemonId": "galvantula",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "110": {
+      "websiteId": "ferrothorn",
+      "displayName": "Ferrothorn",
+
+      "pokemonId": "ferrothorn",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "111": {
+      "websiteId": "klinklang",
+      "displayName": "Klinklang",
+
+      "pokemonId": "klinklang",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "112": {
+      "websiteId": "haxorus",
+      "displayName": "Haxorus",
+
+      "pokemonId": "haxorus",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "113": {
+      "websiteId": "accelgor",
+      "displayName": "Accelgor",
+
+      "pokemonId": "accelgor",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "114": {
+      "websiteId": "stunfisk",
+      "displayName": "Stunfisk",
+
+      "pokemonId": "stunfisk",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "115": {
+      "websiteId": "golurk",
+      "displayName": "Golurk",
+
+      "pokemonId": "golurk",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "116": {
+      "websiteId": "hydreigon",
+      "displayName": "Hydreigon",
+
+      "pokemonId": "hydreigon",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "117": {
+      "websiteId": "greninja",
+      "displayName": "Greninja",
+
+      "pokemonId": "greninja",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "118": {
+      "websiteId": "pyroar",
+      "displayName": "Pyroar",
+
+      "pokemonId": "pyroar",
+      "variantId": "female",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "119": {
+      "websiteId": "pangoro",
+      "displayName": "Pangoro",
+
+      "pokemonId": "pangoro",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "120": {
+      "websiteId": "malamar",
+      "displayName": "Malamar",
+
+      "pokemonId": "malamar",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "121": {
+      "websiteId": "dragalge",
+      "displayName": "Dragalge",
+
+      "pokemonId": "dragalge",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "122": {
+      "websiteId": "heliolisk",
+      "displayName": "Heliolisk",
+
+      "pokemonId": "heliolisk",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "123": {
+      "websiteId": "tyrantrum",
+      "displayName": "Tyrantrum",
+
+      "pokemonId": "tyrantrum",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "124": {
+      "websiteId": "aurorus",
+      "displayName": "Aurorus",
+
+      "pokemonId": "aurorus",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "125": {
+      "websiteId": "hawlucha",
+      "displayName": "Hawlucha",
+
+      "pokemonId": "hawlucha",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "126": {
+      "websiteId": "goodra-hisui",
+      "displayName": "Goodra-Hisui",
+
+      "pokemonId": "goodra",
+      "variantId": "hisui",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "127": {
+      "websiteId": "trevenant",
+      "displayName": "Trevenant",
+
+      "pokemonId": "trevenant",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "128": {
+      "websiteId": "noivern",
+      "displayName": "Noivern",
+
+      "pokemonId": "noivern",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "129": {
+      "websiteId": "decidueye",
+      "displayName": "Decidueye",
+
+      "pokemonId": "decidueye",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "130": {
+      "websiteId": "incineroar",
+      "displayName": "Incineroar",
+
+      "pokemonId": "incineroar",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "131": {
+      "websiteId": "crabominable",
+      "displayName": "Crabominable",
+
+      "pokemonId": "crabominable",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "132": {
+      "websiteId": "lycanroc-midday",
+      "displayName": "Lycanroc-Midday",
+
+      "pokemonId": "lycanroc",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "133": {
+      "websiteId": "mudsdale",
+      "displayName": "Mudsdale",
+
+      "pokemonId": "mudsdale",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "134": {
+      "websiteId": "salazzle",
+      "displayName": "Salazzle",
+
+      "pokemonId": "salazzle",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "135": {
+      "websiteId": "bewear",
+      "displayName": "Bewear",
+
+      "pokemonId": "bewear",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "136": {
+      "websiteId": "golisopod",
+      "displayName": "Golisopod",
+
+      "pokemonId": "golisopod",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "137": {
+      "websiteId": "turtonator",
+      "displayName": "Turtonator",
+
+      "pokemonId": "turtonator",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "138": {
+      "websiteId": "togedemaru",
+      "displayName": "Togedemaru",
+
+      "pokemonId": "togedemaru",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "139": {
+      "websiteId": "kommo-o",
+      "displayName": "Kommo-o",
+
+      "pokemonId": "kommo-o",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "140": {
+      "websiteId": "orbeetle",
+      "displayName": "Orbeetle",
+
+      "pokemonId": "orbeetle",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "141": {
+      "websiteId": "dubwool",
+      "displayName": "Dubwool",
+
+      "pokemonId": "dubwool",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "142": {
+      "websiteId": "flapple",
+      "displayName": "Flapple",
+
+      "pokemonId": "flapple",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "143": {
+      "websiteId": "sandaconda",
+      "displayName": "Sandaconda",
+
+      "pokemonId": "sandaconda",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "144": {
+      "websiteId": "toxtricity",
+      "displayName": "Toxtricity-Amped",
+
+      "pokemonId": "toxtricity",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "145": {
+      "websiteId": "centiskorch",
+      "displayName": "Centiskorch",
+
+      "pokemonId": "centiskorch",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "146": {
+      "websiteId": "frosmoth",
+      "displayName": "Frosmoth",
+
+      "pokemonId": "frosmoth",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "147": {
+      "websiteId": "morpeko",
+      "displayName": "Morpeko-Full-Belly",
+
+      "pokemonId": "morpeko",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "148": {
+      "websiteId": "dracozolt",
+      "displayName": "Dracozolt",
+
+      "pokemonId": "dracozolt",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "149": {
+      "websiteId": "dragapult",
+      "displayName": "Dragapult",
+
+      "pokemonId": "dragapult",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "150": {
+      "websiteId": "meowscarada",
+      "displayName": "Meowscarada",
+
+      "pokemonId": "meowscarada",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "151": {
+      "websiteId": "quaquaval",
+      "displayName": "Quaquaval",
+
+      "pokemonId": "quaquaval",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "152": {
+      "websiteId": "lokix",
+      "displayName": "Lokix",
+
+      "pokemonId": "lokix",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "153": {
+      "websiteId": "darkrai",
+      "displayName": "Darkrai",
+
+      "pokemonId": "darkrai",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "154": {
+      "websiteId": "pawmot",
+      "displayName": "Pawmot",
+
+      "pokemonId": "pawmot",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "155": {
+      "websiteId": "garganacl",
+      "displayName": "Garganacl",
+
+      "pokemonId": "garganacl",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "156": {
+      "websiteId": "armarouge",
+      "displayName": "Armarouge",
+
+      "pokemonId": "armarouge",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "157": {
+      "websiteId": "ceruledge",
+      "displayName": "Ceruledge",
+
+      "pokemonId": "ceruledge",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "158": {
+      "websiteId": "grafaiai",
+      "displayName": "Grafaiai",
+
+      "pokemonId": "grafaiai",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "159": {
+      "websiteId": "scovillain",
+      "displayName": "Scovillain",
+
+      "pokemonId": "scovillain",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "160": {
+      "websiteId": "revavroom",
+      "displayName": "Revavroom",
+
+      "pokemonId": "revavroom",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "161": {
+      "websiteId": "cyclizar",
+      "displayName": "Cyclizar",
+
+      "pokemonId": "cyclizar",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "162": {
+      "websiteId": "glimmora",
+      "displayName": "Glimmora",
+
+      "pokemonId": "glimmora",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "163": {
+      "websiteId": "baxcalibur",
+      "displayName": "Baxcalibur",
+
+      "pokemonId": "baxcalibur",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "164": {
+      "websiteId": "gholdengo",
+      "displayName": "Gholdengo",
+
+      "pokemonId": "gholdengo",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "165": {
+      "websiteId": "articuno",
+      "displayName": "Articuno",
+
+      "pokemonId": "articuno",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "166": {
+      "websiteId": "zapdos-galar",
+      "displayName": "Zapdos-Galar",
+
+      "pokemonId": "zapdos",
+      "variantId": "galar",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "167": {
+      "websiteId": "dragonite",
+      "displayName": "Dragonite",
+
+      "pokemonId": "dragonite",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "168": {
+      "websiteId": "celebi",
+      "displayName": "Celebi",
+
+      "pokemonId": "celebi",
+      "variantId": "shiny",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "169": {
+      "websiteId": "latios",
+      "displayName": "Latios",
+
+      "pokemonId": "latios",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "170": {
+      "websiteId": "deoxys-normal",
+      "displayName": "Deoxys-Normal",
+
+      "pokemonId": "deoxys",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "171": {
+      "websiteId": "heatran",
+      "displayName": "Heatran",
+
+      "pokemonId": "heatran",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "172": {
+      "websiteId": "manaphy",
+      "displayName": "Manaphy",
+
+      "pokemonId": "manaphy",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "173": {
+      "websiteId": "shaymin-sky",
+      "displayName": "Shaymin-Sky",
+
+      "pokemonId": "shaymin",
+      "variantId": "sky",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "174": {
+      "websiteId": "victini",
+      "displayName": "Victini",
+
+      "pokemonId": "victini",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "175": {
+      "websiteId": "kingambit",
+      "displayName": "Kingambit",
+
+      "pokemonId": "kingambit",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "176": {
+      "websiteId": "volcarona",
+      "displayName": "Volcarona",
+
+      "pokemonId": "volcarona",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "177": {
+      "websiteId": "cobalion",
+      "displayName": "Cobalion",
+
+      "pokemonId": "cobalion",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "178": {
+      "websiteId": "terrakion",
+      "displayName": "Terrakion",
+
+      "pokemonId": "terrakion",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "179": {
+      "websiteId": "virizion",
+      "displayName": "Virizion",
+
+      "pokemonId": "virizion",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "180": {
+      "websiteId": "tornadus-therian",
+      "displayName": "Tornadus-Therian",
+
+      "pokemonId": "tornadus",
+      "variantId": "therian",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "181": {
+      "websiteId": "thundurus-therian",
+      "displayName": "Thundurus-Therian",
+
+      "pokemonId": "thundurus",
+      "variantId": "therian",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "182": {
+      "websiteId": "landorus-therian",
+      "displayName": "Landorus-Therian",
+
+      "pokemonId": "landorus",
+      "variantId": "therian",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "183": {
+      "websiteId": "keldeo",
+      "displayName": "Keldeo-Ordinary",
+
+      "pokemonId": "keldeo",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "184": {
+      "websiteId": "genesect",
+      "displayName": "Genesect",
+
+      "pokemonId": "genesect",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "185": {
+      "websiteId": "hoopa-confined",
+      "displayName": "Hoopa-Confined",
+
+      "pokemonId": "hoopa",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "186": {
+      "websiteId": "volcanion",
+      "displayName": "Volcanion",
+
+      "pokemonId": "volcanion",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "187": {
+      "websiteId": "buzzwole",
+      "displayName": "Buzzwole",
+
+      "pokemonId": "buzzwole",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "188": {
+      "websiteId": "kartana",
+      "displayName": "Kartana",
+
+      "pokemonId": "kartana",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "189": {
+      "websiteId": "marshadow",
+      "displayName": "Marshadow",
+
+      "pokemonId": "marshadow",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "190": {
+      "websiteId": "naganadel",
+      "displayName": "Naganadel",
+
+      "pokemonId": "naganadel",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "191": {
+      "websiteId": "regieleki",
+      "displayName": "Regieleki",
+
+      "pokemonId": "regieleki",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "192": {
+      "websiteId": "spectrier",
+      "displayName": "Spectrier",
+
+      "pokemonId": "spectrier",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "193": {
+      "websiteId": "great-tusk",
+      "displayName": "Great Tusk",
+
+      "pokemonId": "great-tusk",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "194": {
+      "websiteId": "chien-pao",
+      "displayName": "Chien-Pao",
+
+      "pokemonId": "chien-pao",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "195": {
+      "websiteId": "chi-yu",
+      "displayName": "Chi-Yu",
+
+      "pokemonId": "chi-yu",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "196": {
+      "websiteId": "reshiram",
+      "displayName": "Reshiram",
+
+      "pokemonId": "reshiram",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "197": {
+      "websiteId": "dialga",
+      "displayName": "Dialga",
+
+      "pokemonId": "dialga",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "198": {
+      "websiteId": "arceus",
+      "displayName": "Arceus",
+
+      "pokemonId": "arceus",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    },
+
+    "199": {
+      "websiteId": "zekrom",
+      "displayName": "Zekrom",
+
+      "pokemonId": "zekrom",
+      "variantId": "default",
+      "alternateSprites": {},
+
+      "notes": ""
+    }
+  }
+}

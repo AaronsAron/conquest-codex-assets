@@ -1,0 +1,6705 @@
+[
+  {
+    "warriorIndex": 0,
+    "name": "Player-Male-Rank-I",
+
+    "galleryNumber": "1.1",
+    "nameId": 209,
+    "speakerId": 0,
+    "spriteIndex": 0,
+    "genderId": "male",
+
+    "specialityTypeIds": ["normal"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 65,
+      "wisdom": 60,
+      "charisma": 65
+    },
+    "bst": 190,
+    "capacity": 7,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 1, "warriorName": "Player-Male-Rank-II" },
+      "requirements": {
+        "requiredLink": 100,
+
+        "pokemon1": { "pokemonIndex": 511, "pokemonName": null },
+        "pokemon2": { "pokemonIndex": 511, "pokemonName": null },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "no-condition"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 1,
+    "name": "Player-Male-Rank-II",
+
+    "galleryNumber": "1.2",
+    "nameId": 209,
+    "speakerId": 0,
+    "spriteIndex": 1,
+    "genderId": "male",
+
+    "specialityTypeIds": ["normal"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 23, "skillName": "Courage" },
+
+    "stats": {
+      "power": 75,
+      "wisdom": 70,
+      "charisma": 80
+    },
+    "bst": 225,
+    "capacity": 8,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 2, "warriorName": "Player-Male-Rank-III" },
+      "requirements": {
+        "requiredLink": 10,
+
+        "pokemon1": { "pokemonIndex": 511, "pokemonName": null },
+        "pokemon2": { "pokemonIndex": 511, "pokemonName": null },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "no-condition"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 2,
+    "name": "Player-Male-Rank-III",
+
+    "galleryNumber": "1.3",
+    "nameId": 209,
+    "speakerId": 0,
+    "spriteIndex": 2,
+    "genderId": "male",
+
+    "specialityTypeIds": ["normal"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 24, "skillName": "Motivate" },
+
+    "stats": {
+      "power": 80,
+      "wisdom": 85,
+      "charisma": 100
+    },
+    "bst": 265,
+    "capacity": 8
+  },
+
+  {
+    "warriorIndex": 3,
+    "name": "Player-Female-Rank-I",
+
+    "galleryNumber": "1.4",
+    "nameId": 209,
+    "speakerId": 1,
+    "spriteIndex": 3,
+    "genderId": "female",
+
+    "specialityTypeIds": ["normal"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 65,
+      "wisdom": 60,
+      "charisma": 65
+    },
+    "bst": 190,
+    "capacity": 7,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 4, "warriorName": "Player-Female-Rank-II" },
+      "requirements": {
+        "requiredLink": 100,
+
+        "pokemon1": { "pokemonIndex": 511, "pokemonName": null },
+        "pokemon2": { "pokemonIndex": 511, "pokemonName": null },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "no-condition"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 4,
+    "name": "Player-Female-Rank-II",
+
+    "galleryNumber": "1.5",
+    "nameId": 209,
+    "speakerId": 1,
+    "spriteIndex": 4,
+    "genderId": "female",
+
+    "specialityTypeIds": ["normal"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 23, "skillName": "Courage" },
+
+    "stats": {
+      "power": 75,
+      "wisdom": 70,
+      "charisma": 80
+    },
+    "bst": 225,
+    "capacity": 8,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 5, "warriorName": "Player-Female-Rank-III" },
+      "requirements": {
+        "requiredLink": 10,
+
+        "pokemon1": { "pokemonIndex": 511, "pokemonName": null },
+        "pokemon2": { "pokemonIndex": 511, "pokemonName": null },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "no-condition"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 5,
+    "name": "Player-Female-Rank-III",
+
+    "galleryNumber": "1.6",
+    "nameId": 209,
+    "speakerId": 1,
+    "spriteIndex": 5,
+    "genderId": "female",
+
+    "specialityTypeIds": ["normal"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 24, "skillName": "Motivate" },
+
+    "stats": {
+      "power": 80,
+      "wisdom": 85,
+      "charisma": 100
+    },
+    "bst": 265,
+    "capacity": 8
+  },
+
+  {
+    "warriorIndex": 6,
+    "name": "Nobunaga-Rank-I",
+
+    "galleryNumber": "2.1",
+    "nameId": 122,
+    "speakerId": 2,
+    "spriteIndex": 6,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dragon", "electric"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 25, "skillName": "Desire" },
+
+    "stats": {
+      "power": 89,
+      "wisdom": 94,
+      "charisma": 92
+    },
+    "bst": 275,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 7, "warriorName": "Nobunaga-Rank-II" },
+      "requirements": {
+        "requiredLink": 70,
+
+        "pokemon1": { "pokemonIndex": 88, "pokemonName": "Garchomp" },
+        "pokemon2": { "pokemonIndex": 199, "pokemonName": "Zekrom" },
+
+        "conditionId": "no-condition",
+        "quantity1": 1,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 7,
+    "name": "Nobunaga-Rank-II",
+
+    "galleryNumber": "2.2",
+    "nameId": 122,
+    "speakerId": 2,
+    "spriteIndex": 7,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dragon", "electric"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 26, "skillName": "Ambition" },
+
+    "stats": {
+      "power": 96,
+      "wisdom": 100,
+      "charisma": 100
+    },
+    "bst": 296,
+    "capacity": 8
+  },
+
+  {
+    "warriorIndex": 8,
+    "name": "Oichi-Rank-I",
+
+    "galleryNumber": "3.1",
+    "nameId": 125,
+    "speakerId": 3,
+    "spriteIndex": 8,
+    "genderId": "female",
+
+    "specialityTypeIds": ["normal", "dragon"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 48,
+      "wisdom": 73,
+      "charisma": 90
+    },
+    "bst": 211,
+    "capacity": 4,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 9, "warriorName": "Oichi-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 135, "pokemonName": "Bewear" },
+        "pokemon2": { "pokemonIndex": 0, "pokemonName": "Meloetta" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 9,
+    "name": "Oichi-Rank-II",
+
+    "galleryNumber": "3.2",
+    "nameId": 125,
+    "speakerId": 3,
+    "spriteIndex": 9,
+    "genderId": "female",
+
+    "specialityTypeIds": ["normal", "dragon"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 27, "skillName": "SoftLight" },
+
+    "stats": {
+      "power": 54,
+      "wisdom": 83,
+      "charisma": 98
+    },
+    "bst": 235,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 10,
+    "name": "Hideyoshi-Rank-I",
+
+    "galleryNumber": "4.1",
+    "nameId": 40,
+    "speakerId": 4,
+    "spriteIndex": 10,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fire", "dragon"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 66,
+      "wisdom": 65,
+      "charisma": 78
+    },
+    "bst": 209,
+    "capacity": 6,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 11, "warriorName": "Hideyoshi-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 77, "pokemonName": "Infernape" },
+        "pokemon2": { "pokemonIndex": 196, "pokemonName": "Reshiram" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 11,
+    "name": "Hideyoshi-Rank-II",
+
+    "galleryNumber": "4.2",
+    "nameId": 40,
+    "speakerId": 4,
+    "spriteIndex": 11,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fire", "dragon"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 28, "skillName": "GrandDream" },
+
+    "stats": {
+      "power": 76,
+      "wisdom": 88,
+      "charisma": 88
+    },
+    "bst": 252,
+    "capacity": 7,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 12, "warriorName": "Hideyoshi-Rank-III" },
+      "requirements": {
+        "requiredLink": 70,
+
+        "pokemon1": { "pokemonIndex": 77, "pokemonName": "Infernape" },
+        "pokemon2": { "pokemonIndex": 196, "pokemonName": "Reshiram" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 12,
+    "name": "Hideyoshi-Rank-III",
+
+    "galleryNumber": "4.3",
+    "nameId": 40,
+    "speakerId": 4,
+    "spriteIndex": 12,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fire", "dragon"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 29, "skillName": "GreatUniter" },
+
+    "stats": {
+      "power": 80,
+      "wisdom": 98,
+      "charisma": 98
+    },
+    "bst": 276,
+    "capacity": 8
+  },
+
+  {
+    "warriorIndex": 13,
+    "name": "Motochika-Rank-I",
+
+    "galleryNumber": "5.1",
+    "nameId": 101,
+    "speakerId": 5,
+    "spriteIndex": 13,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water", "fighting"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 82,
+      "wisdom": 81,
+      "charisma": 81
+    },
+    "bst": 244,
+    "capacity": 6,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 14, "warriorName": "Motochika-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 99, "pokemonName": "Samurott" },
+        "pokemon2": { "pokemonIndex": 183, "pokemonName": "Keldeo" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 14,
+    "name": "Motochika-Rank-II",
+
+    "galleryNumber": "5.2",
+    "nameId": 101,
+    "speakerId": 5,
+    "spriteIndex": 14,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water", "fighting"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 30, "skillName": "Rebellion" },
+
+    "stats": {
+      "power": 90,
+      "wisdom": 92,
+      "charisma": 91
+    },
+    "bst": 273,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 15,
+    "name": "Ginchiyo-Rank-I",
+
+    "galleryNumber": "6.1",
+    "nameId": 22,
+    "speakerId": 6,
+    "spriteIndex": 15,
+    "genderId": "female",
+
+    "specialityTypeIds": ["electric", "fighting"],
+    "weaknessTypeIds": ["ground"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 74,
+      "wisdom": 68,
+      "charisma": 72
+    },
+    "bst": 214,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 16, "warriorName": "Ginchiyo-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 154, "pokemonName": "Pawmot" },
+        "pokemon2": { "pokemonIndex": 181, "pokemonName": "Thundurus" },
+
+        "conditionId": "warrior-in-same-army-not-nearby",
+        "quantity1": 20,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 16,
+    "name": "Ginchiyo-Rank-II",
+
+    "galleryNumber": "6.2",
+    "nameId": 22,
+    "speakerId": 6,
+    "spriteIndex": 16,
+    "genderId": "female",
+
+    "specialityTypeIds": ["electric", "fighting"],
+    "weaknessTypeIds": ["ground"],
+
+    "skill": { "skillIndex": 31, "skillName": "Thunderclap" },
+
+    "stats": {
+      "power": 84,
+      "wisdom": 78,
+      "charisma": 82
+    },
+    "bst": 244,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 17,
+    "name": "Motonari-Rank-I",
+
+    "galleryNumber": "7.1",
+    "nameId": 103,
+    "speakerId": 7,
+    "spriteIndex": 17,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "psychic"],
+    "weaknessTypeIds": ["poison"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 69,
+      "wisdom": 90,
+      "charisma": 86
+    },
+    "bst": 245,
+    "capacity": 7,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 18, "warriorName": "Motonari-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 76, "pokemonName": "Torterra" },
+        "pokemon2": { "pokemonIndex": 188, "pokemonName": "Kartana" },
+
+        "conditionId": "at-least-ngallery-pokemon",
+        "quantity1": 75,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 18,
+    "name": "Motonari-Rank-II",
+
+    "galleryNumber": "7.2",
+    "nameId": 103,
+    "speakerId": 7,
+    "spriteIndex": 18,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "psychic"],
+    "weaknessTypeIds": ["poison"],
+
+    "skill": { "skillIndex": 32, "skillName": "Strategist" },
+
+    "stats": {
+      "power": 79,
+      "wisdom": 100,
+      "charisma": 96
+    },
+    "bst": 275,
+    "capacity": 8
+  },
+
+  {
+    "warriorIndex": 19,
+    "name": "Mitsuhide-Rank-I",
+
+    "galleryNumber": "8.1",
+    "nameId": 93,
+    "speakerId": 8,
+    "spriteIndex": 19,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ice", "dark"],
+    "weaknessTypeIds": ["steel", "rock"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 77,
+      "wisdom": 82,
+      "charisma": 82
+    },
+    "bst": 241,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 20, "warriorName": "Mitsuhide-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 163, "pokemonName": "Baxcalibur" },
+        "pokemon2": { "pokemonIndex": 194, "pokemonName": "Chien-Pao" },
+
+        "conditionId": "no-condition",
+        "quantity1": 7,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 20,
+    "name": "Mitsuhide-Rank-II",
+
+    "galleryNumber": "8.2",
+    "nameId": 93,
+    "speakerId": 8,
+    "spriteIndex": 20,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ice", "dark"],
+    "weaknessTypeIds": ["steel", "rock"],
+
+    "skill": { "skillIndex": 33, "skillName": "ColdEyes" },
+
+    "stats": {
+      "power": 88,
+      "wisdom": 92,
+      "charisma": 92
+    },
+    "bst": 272,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 21,
+    "name": "Yoshihiro-Rank-I",
+
+    "galleryNumber": "9.1",
+    "nameId": 198,
+    "speakerId": 9,
+    "spriteIndex": 21,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "normal"],
+    "weaknessTypeIds": ["flying"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 90,
+      "wisdom": 63,
+      "charisma": 62
+    },
+    "bst": 215,
+    "capacity": 6,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 22, "warriorName": "Yoshihiro-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 101, "pokemonName": "Conkeldurr" },
+        "pokemon2": { "pokemonIndex": 166, "pokemonName": "Zapdos" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 22,
+    "name": "Yoshihiro-Rank-II",
+
+    "galleryNumber": "9.2",
+    "nameId": 198,
+    "speakerId": 9,
+    "spriteIndex": 22,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "normal"],
+    "weaknessTypeIds": ["flying"],
+
+    "skill": { "skillIndex": 34, "skillName": "Chesto" },
+
+    "stats": {
+      "power": 98,
+      "wisdom": 73,
+      "charisma": 72
+    },
+    "bst": 243,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 23,
+    "name": "Nene-Rank-I",
+
+    "galleryNumber": "10.1",
+    "nameId": 118,
+    "speakerId": 10,
+    "spriteIndex": 23,
+    "genderId": "female",
+
+    "specialityTypeIds": ["poison", "flying"],
+    "weaknessTypeIds": ["psychic", "rock"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 65,
+      "wisdom": 78,
+      "charisma": 75
+    },
+    "bst": 218,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 24, "warriorName": "Nene-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 14, "pokemonName": "Crobat" },
+        "pokemon2": { "pokemonIndex": 190, "pokemonName": "Naganadel" },
+
+        "conditionId": "no-condition",
+        "quantity1": 7,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 24,
+    "name": "Nene-Rank-II",
+
+    "galleryNumber": "10.2",
+    "nameId": 118,
+    "speakerId": 10,
+    "spriteIndex": 24,
+    "genderId": "female",
+
+    "specialityTypeIds": ["poison", "flying"],
+    "weaknessTypeIds": ["psychic", "rock"],
+
+    "skill": { "skillIndex": 35, "skillName": "NeneNinpo" },
+
+    "stats": {
+      "power": 75,
+      "wisdom": 84,
+      "charisma": 85
+    },
+    "bst": 244,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 25,
+    "name": "Shingen-Rank-I",
+
+    "galleryNumber": "11.1",
+    "nameId": 146,
+    "speakerId": 11,
+    "spriteIndex": 25,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground", "rock"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 82,
+      "wisdom": 96,
+      "charisma": 86
+    },
+    "bst": 264,
+    "capacity": 7,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 26, "warriorName": "Shingen-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 24, "pokemonName": "Rhyperior" },
+        "pokemon2": { "pokemonIndex": 182, "pokemonName": "Landorus" },
+
+        "conditionId": "no-condition",
+        "quantity1": 5,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 26,
+    "name": "Shingen-Rank-II",
+
+    "galleryNumber": "11.2",
+    "nameId": 146,
+    "speakerId": 11,
+    "spriteIndex": 26,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground", "rock"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 36, "skillName": "FurinKazan" },
+
+    "stats": {
+      "power": 92,
+      "wisdom": 100,
+      "charisma": 96
+    },
+    "bst": 288,
+    "capacity": 8
+  },
+
+  {
+    "warriorIndex": 27,
+    "name": "Masamune-Rank-I",
+
+    "galleryNumber": "12.1",
+    "nameId": 83,
+    "speakerId": 12,
+    "spriteIndex": 27,
+    "genderId": "male",
+
+    "specialityTypeIds": ["flying", "dragon"],
+    "weaknessTypeIds": ["rock"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 86,
+      "wisdom": 82,
+      "charisma": 80
+    },
+    "bst": 248,
+    "capacity": 7,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 28, "warriorName": "Masamune-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 167, "pokemonName": "Dragonite" },
+        "pokemon2": { "pokemonIndex": 511, "pokemonName": null },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 28,
+    "name": "Masamune-Rank-II",
+
+    "galleryNumber": "12.2",
+    "nameId": 83,
+    "speakerId": 12,
+    "spriteIndex": 28,
+    "genderId": "male",
+
+    "specialityTypeIds": ["flying", "dragon"],
+    "weaknessTypeIds": ["rock"],
+
+    "skill": { "skillIndex": 37, "skillName": "OneEyedDragon" },
+
+    "stats": {
+      "power": 96,
+      "wisdom": 92,
+      "charisma": 90
+    },
+    "bst": 278,
+    "capacity": 8
+  },
+
+  {
+    "warriorIndex": 29,
+    "name": "Kenshin-Rank-I",
+
+    "galleryNumber": "13.1",
+    "nameId": 71,
+    "speakerId": 13,
+    "spriteIndex": 29,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "fighting"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 90,
+      "wisdom": 66,
+      "charisma": 81
+    },
+    "bst": 237,
+    "capacity": 7,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 30, "warriorName": "Kenshin-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 57, "pokemonName": "Gallade" },
+        "pokemon2": { "pokemonIndex": 170, "pokemonName": "Deoxys" },
+
+        "conditionId": "no-condition",
+        "quantity1": 14,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 30,
+    "name": "Kenshin-Rank-II",
+
+    "galleryNumber": "13.2",
+    "nameId": 71,
+    "speakerId": 13,
+    "spriteIndex": 30,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "fighting"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 38, "skillName": "Inspiration" },
+
+    "stats": {
+      "power": 99,
+      "wisdom": 76,
+      "charisma": 91
+    },
+    "bst": 266,
+    "capacity": 8
+  },
+
+  {
+    "warriorIndex": 31,
+    "name": "Yoshimoto-Rank-I",
+
+    "galleryNumber": "14.1",
+    "nameId": 200,
+    "speakerId": 14,
+    "spriteIndex": 31,
+    "genderId": "male",
+
+    "specialityTypeIds": ["bug", "ground"],
+    "weaknessTypeIds": ["ice", "ghost"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 64,
+      "wisdom": 72,
+      "charisma": 79
+    },
+    "bst": 215,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 32, "warriorName": "Yoshimoto-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 43, "pokemonName": "Heracross" },
+        "pokemon2": { "pokemonIndex": 187, "pokemonName": "Buzzwole" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 32,
+    "name": "Yoshimoto-Rank-II",
+
+    "galleryNumber": "14.2",
+    "nameId": 200,
+    "speakerId": 14,
+    "spriteIndex": 32,
+    "genderId": "male",
+
+    "specialityTypeIds": ["bug", "ground"],
+    "weaknessTypeIds": ["ice", "ghost"],
+
+    "skill": { "skillIndex": 39, "skillName": "Grace" },
+
+    "stats": {
+      "power": 75,
+      "wisdom": 82,
+      "charisma": 88
+    },
+    "bst": 245,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 33,
+    "name": "Ujiyasu-Rank-I",
+
+    "galleryNumber": "15.1",
+    "nameId": 186,
+    "speakerId": 15,
+    "spriteIndex": 33,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock", "bug"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 80,
+      "wisdom": 78,
+      "charisma": 84
+    },
+    "bst": 242,
+    "capacity": 7,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 34, "warriorName": "Ujiyasu-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 123, "pokemonName": "Tyrantrum" },
+        "pokemon2": { "pokemonIndex": 178, "pokemonName": "Terrakion" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 34,
+    "name": "Ujiyasu-Rank-II",
+
+    "galleryNumber": "15.2",
+    "nameId": 186,
+    "speakerId": 15,
+    "spriteIndex": 34,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock", "bug"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 40, "skillName": "FatherFigure" },
+
+    "stats": {
+      "power": 90,
+      "wisdom": 94,
+      "charisma": 94
+    },
+    "bst": 278,
+    "capacity": 8
+  },
+
+  {
+    "warriorIndex": 35,
+    "name": "No-Rank-I",
+
+    "galleryNumber": "16.1",
+    "nameId": 119,
+    "speakerId": 16,
+    "spriteIndex": 35,
+    "genderId": "female",
+
+    "specialityTypeIds": ["ghost", "dragon"],
+    "weaknessTypeIds": ["bug", "fighting"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 48,
+      "wisdom": 74,
+      "charisma": 90
+    },
+    "bst": 212,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 36, "warriorName": "No-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 149, "pokemonName": "Dragapult" },
+        "pokemon2": { "pokemonIndex": 189, "pokemonName": "Marshadow" },
+
+        "conditionId": "no-condition",
+        "quantity1": 13,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 36,
+    "name": "No-Rank-II",
+
+    "galleryNumber": "16.2",
+    "nameId": 119,
+    "speakerId": 16,
+    "spriteIndex": 36,
+    "genderId": "female",
+
+    "specialityTypeIds": ["ghost", "dragon"],
+    "weaknessTypeIds": ["bug", "fighting"],
+
+    "skill": { "skillIndex": 41, "skillName": "VipersBite" },
+
+    "stats": {
+      "power": 54,
+      "wisdom": 84,
+      "charisma": 97
+    },
+    "bst": 235,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 37,
+    "name": "Kotaro-Rank-I",
+
+    "galleryNumber": "17.1",
+    "nameId": 76,
+    "speakerId": 17,
+    "spriteIndex": 37,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dark", "rock"],
+    "weaknessTypeIds": ["bug"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 82,
+      "wisdom": 78,
+      "charisma": 52
+    },
+    "bst": 212,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 38, "warriorName": "Kotaro-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 116, "pokemonName": "Hydreigon" },
+        "pokemon2": { "pokemonIndex": 153, "pokemonName": "Darkrai" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 38,
+    "name": "Kotaro-Rank-II",
+
+    "galleryNumber": "17.2",
+    "nameId": 76,
+    "speakerId": 17,
+    "spriteIndex": 38,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dark", "rock"],
+    "weaknessTypeIds": ["bug"],
+
+    "skill": { "skillIndex": 42, "skillName": "Mayhem" },
+
+    "stats": {
+      "power": 92,
+      "wisdom": 89,
+      "charisma": 62
+    },
+    "bst": 243,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 39,
+    "name": "Ieyasu-Rank-I",
+
+    "galleryNumber": "18.1",
+    "nameId": 44,
+    "speakerId": 18,
+    "spriteIndex": 39,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel", "dragon"],
+    "weaknessTypeIds": ["fire", "grass"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 80,
+      "wisdom": 84,
+      "charisma": 87
+    },
+    "bst": 251,
+    "capacity": 8,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 40, "warriorName": "Ieyasu-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 126, "pokemonName": "Goodra" },
+        "pokemon2": { "pokemonIndex": 197, "pokemonName": "Dialga" },
+
+        "conditionId": "at-least-ngallery-warriors",
+        "quantity1": 50,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 40,
+    "name": "Ieyasu-Rank-II",
+
+    "galleryNumber": "18.2",
+    "nameId": 44,
+    "speakerId": 18,
+    "spriteIndex": 40,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel", "dragon"],
+    "weaknessTypeIds": ["fire", "grass"],
+
+    "skill": { "skillIndex": 43, "skillName": "Resolution" },
+
+    "stats": {
+      "power": 88,
+      "wisdom": 94,
+      "charisma": 97
+    },
+    "bst": 279,
+    "capacity": 8
+  },
+
+  {
+    "warriorIndex": 41,
+    "name": "Hanbei-Rank-I",
+
+    "galleryNumber": "19.1",
+    "nameId": 27,
+    "speakerId": 19,
+    "spriteIndex": 41,
+    "genderId": "male",
+
+    "specialityTypeIds": ["electric", "fire"],
+    "weaknessTypeIds": ["ground", "rock"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 36,
+      "wisdom": 90,
+      "charisma": 70
+    },
+    "bst": 196,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 42, "warriorName": "Hanbei-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 11, "pokemonName": "Raichu" },
+        "pokemon2": { "pokemonIndex": 191, "pokemonName": "Regieleki" },
+
+        "conditionId": "warrior-in-same-kingdom",
+        "quantity1": 19,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 42,
+    "name": "Hanbei-Rank-II",
+
+    "galleryNumber": "19.2",
+    "nameId": 27,
+    "speakerId": 19,
+    "spriteIndex": 42,
+    "genderId": "male",
+
+    "specialityTypeIds": ["electric", "fire"],
+    "weaknessTypeIds": ["ground", "rock"],
+
+    "skill": { "skillIndex": 44, "skillName": "Lazybones" },
+
+    "stats": {
+      "power": 42,
+      "wisdom": 99,
+      "charisma": 80
+    },
+    "bst": 221,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 43,
+    "name": "Kanbei-Rank-I",
+
+    "galleryNumber": "20.1",
+    "nameId": 60,
+    "speakerId": 20,
+    "spriteIndex": 43,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ghost", "fire"],
+    "weaknessTypeIds": ["ground", "water"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 60,
+      "wisdom": 90,
+      "charisma": 62
+    },
+    "bst": 212,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 44, "warriorName": "Kanbei-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 36, "pokemonName": "Typhlosion" },
+        "pokemon2": { "pokemonIndex": 192, "pokemonName": "Spectrier" },
+
+        "conditionId": "warrior-in-same-kingdom",
+        "quantity1": 18,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 44,
+    "name": "Kanbei-Rank-II",
+
+    "galleryNumber": "20.2",
+    "nameId": 60,
+    "speakerId": 20,
+    "spriteIndex": 44,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ghost", "fire"],
+    "weaknessTypeIds": ["ground", "water"],
+
+    "skill": { "skillIndex": 32, "skillName": "Strategist" },
+
+    "stats": {
+      "power": 70,
+      "wisdom": 98,
+      "charisma": 70
+    },
+    "bst": 238,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 45,
+    "name": "Muneshige-Rank-I",
+
+    "galleryNumber": "21.1",
+    "nameId": 106,
+    "speakerId": 21,
+    "spriteIndex": 45,
+    "genderId": "male",
+
+    "specialityTypeIds": ["flying", "electric"],
+    "weaknessTypeIds": ["rock", "fighting"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 84,
+      "wisdom": 68,
+      "charisma": 73
+    },
+    "bst": 225,
+    "capacity": 6,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 46, "warriorName": "Muneshige-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 79, "pokemonName": "Staraptor" },
+        "pokemon2": { "pokemonIndex": 180, "pokemonName": "Tornadus" },
+
+        "conditionId": "warrior-in-same-army-not-nearby",
+        "quantity1": 5,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 46,
+    "name": "Muneshige-Rank-II",
+
+    "galleryNumber": "21.2",
+    "nameId": 106,
+    "speakerId": 21,
+    "spriteIndex": 46,
+    "genderId": "male",
+
+    "specialityTypeIds": ["flying", "electric"],
+    "weaknessTypeIds": ["rock", "fighting"],
+
+    "skill": { "skillIndex": 46, "skillName": "Typhoon" },
+
+    "stats": {
+      "power": 94,
+      "wisdom": 78,
+      "charisma": 83
+    },
+    "bst": 255,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 47,
+    "name": "Gracia-Rank-I",
+
+    "galleryNumber": "22.1",
+    "nameId": 25,
+    "speakerId": 22,
+    "spriteIndex": 47,
+    "genderId": "female",
+
+    "specialityTypeIds": ["grass", "ice"],
+    "weaknessTypeIds": ["bug", "fire"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 42,
+      "wisdom": 63,
+      "charisma": 78
+    },
+    "bst": 183,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 48, "warriorName": "Gracia-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 150, "pokemonName": "Meowscrada" },
+        "pokemon2": { "pokemonIndex": 168, "pokemonName": "Celebi" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 48,
+    "name": "Gracia-Rank-II",
+
+    "galleryNumber": "22.2",
+    "nameId": 25,
+    "speakerId": 22,
+    "spriteIndex": 48,
+    "genderId": "female",
+
+    "specialityTypeIds": ["grass", "ice"],
+    "weaknessTypeIds": ["bug", "fire"],
+
+    "skill": { "skillIndex": 47, "skillName": "Bewilder" },
+
+    "stats": {
+      "power": 52,
+      "wisdom": 73,
+      "charisma": 87
+    },
+    "bst": 212,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 49,
+    "name": "Hanzo-Rank-I",
+
+    "galleryNumber": "23.1",
+    "nameId": 28,
+    "speakerId": 23,
+    "spriteIndex": 49,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ghost", "poison"],
+    "weaknessTypeIds": ["ground", "psychic"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 87,
+      "wisdom": 77,
+      "charisma": 62
+    },
+    "bst": 226,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 50, "warriorName": "Hanzo-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 22, "pokemonName": "Gengar" },
+        "pokemon2": { "pokemonIndex": 185, "pokemonName": "Hoopa" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 50,
+    "name": "Hanzo-Rank-II",
+
+    "galleryNumber": "23.2",
+    "nameId": 28,
+    "speakerId": 23,
+    "spriteIndex": 50,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ghost", "poison"],
+    "weaknessTypeIds": ["ground", "psychic"],
+
+    "skill": { "skillIndex": 48, "skillName": "Ninjutsu" },
+
+    "stats": {
+      "power": 94,
+      "wisdom": 88,
+      "charisma": 72
+    },
+    "bst": 254,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 51,
+    "name": "Kunoichi-Rank-I",
+
+    "galleryNumber": "24.1",
+    "nameId": 77,
+    "speakerId": 24,
+    "spriteIndex": 51,
+    "genderId": "female",
+
+    "specialityTypeIds": ["dark", "fire"],
+    "weaknessTypeIds": ["bug", "fire"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 60,
+      "wisdom": 63,
+      "charisma": 70
+    },
+    "bst": 193,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 52, "warriorName": "Kunoichi-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 130, "pokemonName": "Incineroar" },
+        "pokemon2": { "pokemonIndex": 195, "pokemonName": "Chi-Yu" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 52,
+    "name": "Kunoichi-Rank-II",
+
+    "galleryNumber": "24.2",
+    "nameId": 77,
+    "speakerId": 24,
+    "spriteIndex": 52,
+    "genderId": "female",
+
+    "specialityTypeIds": ["dark", "fire"],
+    "weaknessTypeIds": ["bug", "fire"],
+
+    "skill": { "skillIndex": 49, "skillName": "Trickster" },
+
+    "stats": {
+      "power": 70,
+      "wisdom": 73,
+      "charisma": 80
+    },
+    "bst": 223,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 53,
+    "name": "Yukimura-Rank-I",
+
+    "galleryNumber": "25.1",
+    "nameId": 206,
+    "speakerId": 25,
+    "spriteIndex": 53,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fire", "flying"],
+    "weaknessTypeIds": ["ground", "rock"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 87,
+      "wisdom": 78,
+      "charisma": 80
+    },
+    "bst": 245,
+    "capacity": 6,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 54, "warriorName": "Yukimura-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 8, "pokemonName": "Charizard" },
+        "pokemon2": { "pokemonIndex": 174, "pokemonName": "Victini" },
+
+        "conditionId": "warrior-in-same-kingdom",
+        "quantity1": 10,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 54,
+    "name": "Yukimura-Rank-II",
+
+    "galleryNumber": "25.2",
+    "nameId": 206,
+    "speakerId": 25,
+    "spriteIndex": 54,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fire", "flying"],
+    "weaknessTypeIds": ["ground", "rock"],
+
+    "skill": { "skillIndex": 50, "skillName": "Willpower" },
+
+    "stats": {
+      "power": 95,
+      "wisdom": 84,
+      "charisma": 90
+    },
+    "bst": 269,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 55,
+    "name": "Magoichi-Rank-I",
+
+    "galleryNumber": "26.1",
+    "nameId": 80,
+    "speakerId": 26,
+    "spriteIndex": 55,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "flying"],
+    "weaknessTypeIds": ["rock", "fighting"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 89,
+      "wisdom": 79,
+      "charisma": 74
+    },
+    "bst": 242,
+    "capacity": 6,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 56, "warriorName": "Magoichi-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 62, "pokemonName": "Roserade" },
+        "pokemon2": { "pokemonIndex": 173, "pokemonName": "Shaymin" },
+
+        "conditionId": "at-least-nfemale-warlords-in-same-kingdom",
+        "quantity1": 3,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 56,
+    "name": "Magoichi-Rank-II",
+
+    "galleryNumber": "26.2",
+    "nameId": 80,
+    "speakerId": 26,
+    "spriteIndex": 56,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "flying"],
+    "weaknessTypeIds": ["rock", "fighting"],
+
+    "skill": { "skillIndex": 51, "skillName": "Cupid" },
+
+    "stats": {
+      "power": 95,
+      "wisdom": 88,
+      "charisma": 84
+    },
+    "bst": 267,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 57,
+    "name": "Kanetsugu-Rank-I",
+
+    "galleryNumber": "27.1",
+    "nameId": 62,
+    "speakerId": 27,
+    "spriteIndex": 57,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "water"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 65,
+      "wisdom": 88,
+      "charisma": 79
+    },
+    "bst": 232,
+    "capacity": 7,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 58, "warriorName": "Kanetsugu-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 26, "pokemonName": "Starmie" },
+        "pokemon2": { "pokemonIndex": 169, "pokemonName": "Latios" },
+
+        "conditionId": "warrior-in-same-kingdom",
+        "quantity1": 12,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 58,
+    "name": "Kanetsugu-Rank-II",
+
+    "galleryNumber": "27.2",
+    "nameId": 62,
+    "speakerId": 27,
+    "spriteIndex": 58,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "water"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 52, "skillName": "LoveAndHonor" },
+
+    "stats": {
+      "power": 75,
+      "wisdom": 97,
+      "charisma": 89
+    },
+    "bst": 261,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 59,
+    "name": "Aya-Rank-I",
+
+    "galleryNumber": "28.1",
+    "nameId": 3,
+    "speakerId": 28,
+    "spriteIndex": 59,
+    "genderId": "female",
+
+    "specialityTypeIds": ["psychic", "ice"],
+    "weaknessTypeIds": ["fighting", "rock"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 39,
+      "wisdom": 71,
+      "charisma": 75
+    },
+    "bst": 185,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 60, "warriorName": "Aya-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 72, "pokemonName": "Froslass" },
+        "pokemon2": { "pokemonIndex": 165, "pokemonName": "Articuno" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 60,
+    "name": "Aya-Rank-II",
+
+    "galleryNumber": "28.2",
+    "nameId": 3,
+    "speakerId": 28,
+    "spriteIndex": 60,
+    "genderId": "female",
+
+    "specialityTypeIds": ["psychic", "ice"],
+    "weaknessTypeIds": ["fighting", "rock"],
+
+    "skill": { "skillIndex": 53, "skillName": "Compassion" },
+
+    "stats": {
+      "power": 49,
+      "wisdom": 81,
+      "charisma": 86
+    },
+    "bst": 216,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 61,
+    "name": "Kai-Rank-I",
+
+    "galleryNumber": "29.1",
+    "nameId": 57,
+    "speakerId": 29,
+    "spriteIndex": 61,
+    "genderId": "female",
+
+    "specialityTypeIds": ["fire", "water"],
+    "weaknessTypeIds": ["ground", "grass"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 73,
+      "wisdom": 62,
+      "charisma": 70
+    },
+    "bst": 205,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 62, "warriorName": "Kai-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 16, "pokemonName": "Arcanine" },
+        "pokemon2": { "pokemonIndex": 186, "pokemonName": "Volcanion" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 62,
+    "name": "Kai-Rank-II",
+
+    "galleryNumber": "29.2",
+    "nameId": 57,
+    "speakerId": 29,
+    "spriteIndex": 62,
+    "genderId": "female",
+
+    "specialityTypeIds": ["fire", "water"],
+    "weaknessTypeIds": ["ground", "grass"],
+
+    "skill": { "skillIndex": 54, "skillName": "WarriorWoman" },
+
+    "stats": {
+      "power": 83,
+      "wisdom": 72,
+      "charisma": 80
+    },
+    "bst": 235,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 63,
+    "name": "Okuni-Rank-I",
+
+    "galleryNumber": "30.1",
+    "nameId": 126,
+    "speakerId": 30,
+    "spriteIndex": 63,
+    "genderId": "female",
+
+    "specialityTypeIds": ["bug", "fire"],
+    "weaknessTypeIds": ["water", "ground"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 65,
+      "wisdom": 63,
+      "charisma": 79
+    },
+    "bst": 207,
+    "capacity": 3,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 64, "warriorName": "Okuni-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 176, "pokemonName": "Volcarona" },
+        "pokemon2": { "pokemonIndex": 511, "pokemonName": null },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 64,
+    "name": "Okuni-Rank-II",
+
+    "galleryNumber": "30.2",
+    "nameId": 126,
+    "speakerId": 30,
+    "spriteIndex": 64,
+    "genderId": "female",
+
+    "specialityTypeIds": ["bug", "fire"],
+    "weaknessTypeIds": ["water", "ground"],
+
+    "skill": { "skillIndex": 55, "skillName": "KabukiDance" },
+
+    "stats": {
+      "power": 75,
+      "wisdom": 73,
+      "charisma": 88
+    },
+    "bst": 236,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 65,
+    "name": "Ranmaru-Rank-I",
+
+    "galleryNumber": "31.1",
+    "nameId": 129,
+    "speakerId": 31,
+    "spriteIndex": 65,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "steel"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 69,
+      "wisdom": 72,
+      "charisma": 66
+    },
+    "bst": 207,
+    "capacity": 4,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 66, "warriorName": "Ranmaru-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 89, "pokemonName": "Lucario" },
+        "pokemon2": { "pokemonIndex": 177, "pokemonName": "Cobalion" },
+
+        "conditionId": "warrior-in-same-kingdom",
+        "quantity1": 1,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 66,
+    "name": "Ranmaru-Rank-II",
+
+    "galleryNumber": "31.2",
+    "nameId": 129,
+    "speakerId": 31,
+    "spriteIndex": 66,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "steel"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 56, "skillName": "Faith" },
+
+    "stats": {
+      "power": 79,
+      "wisdom": 82,
+      "charisma": 76
+    },
+    "bst": 237,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 67,
+    "name": "Tadakatsu-Rank-I",
+
+    "galleryNumber": "32.1",
+    "nameId": 151,
+    "speakerId": 32,
+    "spriteIndex": 67,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel", "bug"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 92,
+      "wisdom": 68,
+      "charisma": 81
+    },
+    "bst": 241,
+    "capacity": 6,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 68, "warriorName": "Tadakatsu-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 75, "pokemonName": "Metagross" },
+        "pokemon2": { "pokemonIndex": 184, "pokemonName": "Genesect" },
+
+        "conditionId": "warrior-in-same-kingdom",
+        "quantity1": 17,
+        "quantity2": 32,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 68,
+    "name": "Tadakatsu-Rank-II",
+
+    "galleryNumber": "32.2",
+    "nameId": 151,
+    "speakerId": 32,
+    "spriteIndex": 68,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel", "bug"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 57, "skillName": "Unrivaled" },
+
+    "stats": {
+      "power": 100,
+      "wisdom": 77,
+      "charisma": 89
+    },
+    "bst": 266,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 69,
+    "name": "Ina-Rank-I",
+
+    "galleryNumber": "33.1",
+    "nameId": 45,
+    "speakerId": 33,
+    "spriteIndex": 69,
+    "genderId": "female",
+
+    "specialityTypeIds": ["water", "steel"],
+    "weaknessTypeIds": ["grass", "fire"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 78,
+      "wisdom": 56,
+      "charisma": 68
+    },
+    "bst": 202,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 70, "warriorName": "Ina-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 78, "pokemonName": "Empoleon" },
+        "pokemon2": { "pokemonIndex": 172, "pokemonName": "Manaphy" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 70,
+    "name": "Ina-Rank-II",
+
+    "galleryNumber": "33.2",
+    "nameId": 45,
+    "speakerId": 33,
+    "spriteIndex": 70,
+    "genderId": "female",
+
+    "specialityTypeIds": ["water", "steel"],
+    "weaknessTypeIds": ["grass", "fire"],
+
+    "skill": { "skillIndex": 58, "skillName": "Elegance" },
+
+    "stats": {
+      "power": 88,
+      "wisdom": 63,
+      "charisma": 79
+    },
+    "bst": 230,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 71,
+    "name": "Keiji-Rank-I",
+
+    "galleryNumber": "34.1",
+    "nameId": 70,
+    "speakerId": 34,
+    "spriteIndex": 71,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock", "fighting"],
+    "weaknessTypeIds": ["grass", "flying"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 92,
+      "wisdom": 40,
+      "charisma": 73
+    },
+    "bst": 205,
+    "capacity": 6,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 72, "warriorName": "Keiji-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 51, "pokemonName": "Tyranitar" },
+        "pokemon2": { "pokemonIndex": 193, "pokemonName": "Great Tusk" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 72,
+    "name": "Keiji-Rank-II",
+
+    "galleryNumber": "34.2",
+    "nameId": 70,
+    "speakerId": 34,
+    "spriteIndex": 72,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock", "fighting"],
+    "weaknessTypeIds": ["grass", "flying"],
+
+    "skill": { "skillIndex": 59, "skillName": "Carefree" },
+
+    "stats": {
+      "power": 100,
+      "wisdom": 50,
+      "charisma": 86
+    },
+    "bst": 236,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 73,
+    "name": "Mitsunari-Rank-I",
+
+    "galleryNumber": "35.1",
+    "nameId": 94,
+    "speakerId": 35,
+    "spriteIndex": 73,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel", "dark"],
+    "weaknessTypeIds": ["fire", "electric"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 46,
+      "wisdom": 85,
+      "charisma": 72
+    },
+    "bst": 203,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 74, "warriorName": "Mitsunari-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 175, "pokemonName": "Kingambit" },
+        "pokemon2": { "pokemonIndex": 511, "pokemonName": null },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 74,
+    "name": "Mitsunari-Rank-II",
+
+    "galleryNumber": "35.2",
+    "nameId": 94,
+    "speakerId": 35,
+    "spriteIndex": 74,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel", "dark"],
+    "weaknessTypeIds": ["fire", "electric"],
+
+    "skill": { "skillIndex": 60, "skillName": "Cunning" },
+
+    "stats": {
+      "power": 55,
+      "wisdom": 96,
+      "charisma": 84
+    },
+    "bst": 235,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 75,
+    "name": "Kiyomasa-Rank-I",
+
+    "galleryNumber": "36.1",
+    "nameId": 74,
+    "speakerId": 36,
+    "spriteIndex": 75,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground", "grass"],
+    "weaknessTypeIds": ["ice", "flying"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 82,
+      "wisdom": 64,
+      "charisma": 67
+    },
+    "bst": 213,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 76, "warriorName": "Kiyomasa-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 56, "pokemonName": "Shiftry" },
+        "pokemon2": { "pokemonIndex": 179, "pokemonName": "Virizion" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 76,
+    "name": "Kiyomasa-Rank-II",
+
+    "galleryNumber": "36.2",
+    "nameId": 74,
+    "speakerId": 36,
+    "spriteIndex": 76,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground", "grass"],
+    "weaknessTypeIds": ["ice", "flying"],
+
+    "skill": { "skillIndex": 61, "skillName": "Belief" },
+
+    "stats": {
+      "power": 92,
+      "wisdom": 74,
+      "charisma": 77
+    },
+    "bst": 243,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 77,
+    "name": "Masanori-Rank-I",
+
+    "galleryNumber": "37.1",
+    "nameId": 85,
+    "speakerId": 37,
+    "spriteIndex": 77,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground", "fire"],
+    "weaknessTypeIds": ["grass", "psychic"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 88,
+      "wisdom": 37,
+      "charisma": 63
+    },
+    "bst": 188,
+    "capacity": 5,
+
+    "rankUp": {
+      "nextRank": { "warriorIndex": 78, "warriorName": "Masanori-Rank-II" },
+      "requirements": {
+        "requiredLink": 60,
+
+        "pokemon1": { "pokemonIndex": 104, "pokemonName": "Krookodile" },
+        "pokemon2": { "pokemonIndex": 171, "pokemonName": "Heatran" },
+
+        "conditionId": "no-condition",
+        "quantity1": 511,
+        "quantity2": 511,
+
+        "altConditionId": "unknown"
+      }
+    }
+  },
+
+  {
+    "warriorIndex": 78,
+    "name": "Masanori-Rank-II",
+
+    "galleryNumber": "37.2",
+    "nameId": 85,
+    "speakerId": 37,
+    "spriteIndex": 78,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground", "fire"],
+    "weaknessTypeIds": ["grass", "psychic"],
+
+    "skill": { "skillIndex": 62, "skillName": "Sacrifice" },
+
+    "stats": {
+      "power": 97,
+      "wisdom": 50,
+      "charisma": 73
+    },
+    "bst": 220,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 79,
+    "name": "Tsunehisa",
+
+    "galleryNumber": "38",
+    "nameId": 176,
+    "speakerId": 112,
+    "spriteIndex": 112,
+    "genderId": "male",
+
+    "specialityTypeIds": ["normal", "bug"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 52,
+      "wisdom": 95,
+      "charisma": 90
+    },
+    "bst": 237,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 80,
+    "name": "Naoie",
+
+    "galleryNumber": "39",
+    "nameId": 114,
+    "speakerId": 108,
+    "spriteIndex": 108,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dark", "normal"],
+    "weaknessTypeIds": ["bug"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 70,
+      "wisdom": 95,
+      "charisma": 79
+    },
+    "bst": 244,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 81,
+    "name": "Harutaka",
+
+    "galleryNumber": "40",
+    "nameId": 30,
+    "speakerId": 103,
+    "spriteIndex": 103,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground", "normal"],
+    "weaknessTypeIds": ["ice", "fighting"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 82,
+      "wisdom": 70,
+      "charisma": 66
+    },
+    "bst": 218,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 82,
+    "name": "Takanobu",
+
+    "galleryNumber": "41",
+    "nameId": 161,
+    "speakerId": 102,
+    "spriteIndex": 102,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "normal"],
+    "weaknessTypeIds": ["dragon", "bug"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 88,
+      "wisdom": 59,
+      "charisma": 82
+    },
+    "bst": 229,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 83,
+    "name": "Naoshige",
+
+    "galleryNumber": "42",
+    "nameId": 116,
+    "speakerId": 101,
+    "spriteIndex": 101,
+    "genderId": "male",
+
+    "specialityTypeIds": ["normal", "flying"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 84,
+      "wisdom": 84,
+      "charisma": 81
+    },
+    "bst": 249,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 84,
+    "name": "Ujisato",
+
+    "galleryNumber": "43",
+    "nameId": 184,
+    "speakerId": 118,
+    "spriteIndex": 118,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "normal"],
+    "weaknessTypeIds": ["poison", "fighting"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 73,
+      "wisdom": 81,
+      "charisma": 82
+    },
+    "bst": 236,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 85,
+    "name": "Chacha",
+
+    "galleryNumber": "44",
+    "nameId": 7,
+    "speakerId": 114,
+    "spriteIndex": 114,
+    "genderId": "female",
+
+    "specialityTypeIds": ["normal", "rock"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 34,
+      "wisdom": 69,
+      "charisma": 78
+    },
+    "bst": 181,
+    "capacity": 2
+  },
+
+  {
+    "warriorIndex": 86,
+    "name": "Go",
+
+    "galleryNumber": "45",
+    "nameId": 23,
+    "speakerId": 113,
+    "spriteIndex": 113,
+    "genderId": "female",
+
+    "specialityTypeIds": ["water", "normal"],
+    "weaknessTypeIds": ["grass", "fighting"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 33,
+      "wisdom": 55,
+      "charisma": 75
+    },
+    "bst": 163,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 87,
+    "name": "Hatsu",
+
+    "galleryNumber": "46",
+    "nameId": 32,
+    "speakerId": 114,
+    "spriteIndex": 114,
+    "genderId": "female",
+
+    "specialityTypeIds": ["normal", "psychic"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 32,
+      "wisdom": 55,
+      "charisma": 74
+    },
+    "bst": 161,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 88,
+    "name": "Kazumasu",
+
+    "galleryNumber": "47",
+    "nameId": 67,
+    "speakerId": 122,
+    "spriteIndex": 122,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison", "dragon"],
+    "weaknessTypeIds": ["ground", "psychic"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 79,
+      "wisdom": 80,
+      "charisma": 65
+    },
+    "bst": 224,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 89,
+    "name": "Nagahide",
+
+    "galleryNumber": "48",
+    "nameId": 110,
+    "speakerId": 101,
+    "spriteIndex": 101,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dragon", "rock"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 75,
+      "wisdom": 73,
+      "charisma": 68
+    },
+    "bst": 216,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 90,
+    "name": "Yoshitaka",
+
+    "galleryNumber": "49",
+    "nameId": 201,
+    "speakerId": 116,
+    "spriteIndex": 116,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water", "dragon"],
+    "weaknessTypeIds": ["grass", "psychic"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 74,
+      "wisdom": 55,
+      "charisma": 61
+    },
+    "bst": 190,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 91,
+    "name": "Urakusai",
+
+    "galleryNumber": "50",
+    "nameId": 190,
+    "speakerId": 118,
+    "spriteIndex": 118,
+    "genderId": "male",
+
+    "specialityTypeIds": ["normal", "dragon"],
+    "weaknessTypeIds": ["poison", "ice"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 7,
+      "wisdom": 5,
+      "charisma": 71
+    },
+    "bst": 83,
+    "capacity": 2
+  },
+
+  {
+    "warriorIndex": 92,
+    "name": "Narimasa",
+
+    "galleryNumber": "51",
+    "nameId": 117,
+    "speakerId": 102,
+    "spriteIndex": 102,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dragon", "ground"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 79,
+      "wisdom": 33,
+      "charisma": 66
+    },
+    "bst": 178,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 93,
+    "name": "Tomonori",
+
+    "galleryNumber": "52",
+    "nameId": 172,
+    "speakerId": 129,
+    "spriteIndex": 129,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel", "dragon"],
+    "weaknessTypeIds": ["ice", "normal"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 96,
+      "wisdom": 21,
+      "charisma": 83
+    },
+    "bst": 200,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 94,
+    "name": "Murashige",
+
+    "galleryNumber": "53",
+    "nameId": 109,
+    "speakerId": 118,
+    "spriteIndex": 118,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "dragon"],
+    "weaknessTypeIds": ["poison", "ice"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 70,
+      "wisdom": 42,
+      "charisma": 73
+    },
+    "bst": 185,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 95,
+    "name": "Masahide",
+
+    "galleryNumber": "54",
+    "nameId": 81,
+    "speakerId": 108,
+    "spriteIndex": 108,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dragon", "ghost"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 26,
+      "wisdom": 79,
+      "charisma": 67
+    },
+    "bst": 172,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 96,
+    "name": "Nagayoshi",
+
+    "galleryNumber": "55",
+    "nameId": 112,
+    "speakerId": 105,
+    "spriteIndex": 105,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "dragon"],
+    "weaknessTypeIds": ["ice", "normal"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 79,
+      "wisdom": 31,
+      "charisma": 75
+    },
+    "bst": 185,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 97,
+    "name": "Kitsuno",
+
+    "galleryNumber": "56",
+    "nameId": 72,
+    "speakerId": 113,
+    "spriteIndex": 113,
+    "genderId": "female",
+
+    "specialityTypeIds": ["dragon"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 54,
+      "wisdom": 72,
+      "charisma": 79
+    },
+    "bst": 205,
+    "capacity": 2
+  },
+
+  {
+    "warriorIndex": 98,
+    "name": "Gotoku",
+
+    "galleryNumber": "57",
+    "nameId": 24,
+    "speakerId": 113,
+    "spriteIndex": 113,
+    "genderId": "female",
+
+    "specialityTypeIds": ["dragon", "dark"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 48,
+      "wisdom": 61,
+      "charisma": 72
+    },
+    "bst": 181,
+    "capacity": 2
+  },
+
+  {
+    "warriorIndex": 99,
+    "name": "Hidenaga",
+
+    "galleryNumber": "58",
+    "nameId": 37,
+    "speakerId": 104,
+    "spriteIndex": 104,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fire", "dragon"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 68,
+      "wisdom": 78,
+      "charisma": 77
+    },
+    "bst": 223,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 100,
+    "name": "Koroku",
+
+    "galleryNumber": "59",
+    "nameId": 75,
+    "speakerId": 117,
+    "spriteIndex": 117,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic"],
+    "weaknessTypeIds": ["dark"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 75,
+      "wisdom": 74,
+      "charisma": 69
+    },
+    "bst": 218,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 101,
+    "name": "Takatora",
+
+    "galleryNumber": "60",
+    "nameId": 163,
+    "speakerId": 110,
+    "spriteIndex": 110,
+    "genderId": "male",
+
+    "specialityTypeIds": ["flying", "fire"],
+    "weaknessTypeIds": ["rock", "ground"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 70,
+      "wisdom": 87,
+      "charisma": 72
+    },
+    "bst": 229,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 102,
+    "name": "Yoshitsugu",
+
+    "galleryNumber": "61",
+    "nameId": 204,
+    "speakerId": 108,
+    "spriteIndex": 108,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "fire"],
+    "weaknessTypeIds": ["dark", "water"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 72,
+      "wisdom": 86,
+      "charisma": 64
+    },
+    "bst": 222,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 103,
+    "name": "Yukinaga",
+
+    "galleryNumber": "62",
+    "nameId": 207,
+    "speakerId": 119,
+    "spriteIndex": 119,
+    "genderId": "male",
+
+    "specialityTypeIds": ["normal", "fire"],
+    "weaknessTypeIds": ["ground", "rock"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 31,
+      "wisdom": 72,
+      "charisma": 70
+    },
+    "bst": 173,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 104,
+    "name": "Rikyu",
+
+    "galleryNumber": "63",
+    "nameId": 130,
+    "speakerId": 118,
+    "spriteIndex": 118,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "fire"],
+    "weaknessTypeIds": ["poison", "water"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 68,
+      "wisdom": 66,
+      "charisma": 75
+    },
+    "bst": 209,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 105,
+    "name": "Hideyori",
+
+    "galleryNumber": "64",
+    "nameId": 39,
+    "speakerId": 105,
+    "spriteIndex": 105,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fire", "fighting"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 20,
+      "wisdom": 26,
+      "charisma": 68
+    },
+    "bst": 114,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 106,
+    "name": "Asahi",
+
+    "galleryNumber": "65",
+    "nameId": 2,
+    "speakerId": 114,
+    "spriteIndex": 114,
+    "genderId": "female",
+
+    "specialityTypeIds": ["ground", "fire"],
+    "weaknessTypeIds": ["ice", "grass"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 34,
+      "wisdom": 47,
+      "charisma": 70
+    },
+    "bst": 151,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 107,
+    "name": "Kazutoyo",
+
+    "galleryNumber": "66",
+    "nameId": 68,
+    "speakerId": 110,
+    "spriteIndex": 110,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fire", "dark"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 48,
+      "wisdom": 51,
+      "charisma": 62
+    },
+    "bst": 161,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 108,
+    "name": "Nagayasu",
+
+    "galleryNumber": "67",
+    "nameId": 111,
+    "speakerId": 106,
+    "spriteIndex": 106,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fire", "ice"],
+    "weaknessTypeIds": ["rock"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 68,
+      "wisdom": 61,
+      "charisma": 63
+    },
+    "bst": 192,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 109,
+    "name": "Harunaga",
+
+    "galleryNumber": "68",
+    "nameId": 29,
+    "speakerId": 109,
+    "spriteIndex": 109,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fire"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 14,
+      "wisdom": 42,
+      "charisma": 57
+    },
+    "bst": 113,
+    "capacity": 2
+  },
+
+  {
+    "warriorIndex": 110,
+    "name": "Hideaki",
+
+    "galleryNumber": "69",
+    "nameId": 35,
+    "speakerId": 111,
+    "spriteIndex": 111,
+    "genderId": "male",
+
+    "specialityTypeIds": ["bug", "fire"],
+    "weaknessTypeIds": ["water", "ground"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 23,
+      "wisdom": 23,
+      "charisma": 23
+    },
+    "bst": 69,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 111,
+    "name": "Naka",
+
+    "galleryNumber": "70",
+    "nameId": 113,
+    "speakerId": 128,
+    "spriteIndex": 128,
+    "genderId": "female",
+
+    "specialityTypeIds": ["poison", "fire"],
+    "weaknessTypeIds": ["ice", "grass"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 62,
+      "wisdom": 54,
+      "charisma": 60
+    },
+    "bst": 176,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 112,
+    "name": "Tatsuko",
+
+    "galleryNumber": "71",
+    "nameId": 166,
+    "speakerId": 113,
+    "spriteIndex": 113,
+    "genderId": "female",
+
+    "specialityTypeIds": ["ice", "electric"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 50,
+      "wisdom": 55,
+      "charisma": 50
+    },
+    "bst": 155,
+    "capacity": 2
+  },
+
+  {
+    "warriorIndex": 113,
+    "name": "Maa",
+
+    "galleryNumber": "72",
+    "nameId": 78,
+    "speakerId": 114,
+    "spriteIndex": 114,
+    "genderId": "female",
+
+    "specialityTypeIds": ["ghost", "fire"],
+    "weaknessTypeIds": ["ground", "water"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 57,
+      "wisdom": 73,
+      "charisma": 50
+    },
+    "bst": 180,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 114,
+    "name": "Chiyo",
+
+    "galleryNumber": "73",
+    "nameId": 11,
+    "speakerId": 113,
+    "spriteIndex": 113,
+    "genderId": "female",
+
+    "specialityTypeIds": ["normal"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 30,
+      "wisdom": 67,
+      "charisma": 67
+    },
+    "bst": 164,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 115,
+    "name": "Hatsume",
+
+    "galleryNumber": "74",
+    "nameId": 33,
+    "speakerId": 126,
+    "spriteIndex": 126,
+    "genderId": "female",
+
+    "specialityTypeIds": ["normal"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 62,
+      "wisdom": 55,
+      "charisma": 73
+    },
+    "bst": 190,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 116,
+    "name": "Nobuchika",
+
+    "galleryNumber": "75",
+    "nameId": 120,
+    "speakerId": 110,
+    "spriteIndex": 110,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water", "flying"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 79,
+      "wisdom": 66,
+      "charisma": 70
+    },
+    "bst": 215,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 117,
+    "name": "Chikayasu",
+
+    "galleryNumber": "76",
+    "nameId": 10,
+    "speakerId": 103,
+    "spriteIndex": 103,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water", "rock"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 73,
+      "wisdom": 78,
+      "charisma": 72
+    },
+    "bst": 223,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 118,
+    "name": "Morichika",
+
+    "galleryNumber": "77",
+    "nameId": 98,
+    "speakerId": 105,
+    "spriteIndex": 105,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water", "steel"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 77,
+      "wisdom": 35,
+      "charisma": 83
+    },
+    "bst": 195,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 119,
+    "name": "Chikamasa",
+
+    "galleryNumber": "78",
+    "nameId": 9,
+    "speakerId": 106,
+    "spriteIndex": 106,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water", "ground"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 87,
+      "wisdom": 21,
+      "charisma": 63
+    },
+    "bst": 171,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 120,
+    "name": "Norishige",
+
+    "galleryNumber": "79",
+    "nameId": 124,
+    "speakerId": 103,
+    "spriteIndex": 103,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "water"],
+    "weaknessTypeIds": ["grass", "dark"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 78,
+      "wisdom": 45,
+      "charisma": 52
+    },
+    "bst": 175,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 121,
+    "name": "Takayori",
+
+    "galleryNumber": "80",
+    "nameId": 164,
+    "speakerId": 110,
+    "spriteIndex": 110,
+    "genderId": "male",
+
+    "specialityTypeIds": ["electric", "water"],
+    "weaknessTypeIds": ["grass", "dark"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 49,
+      "wisdom": 80,
+      "charisma": 62
+    },
+    "bst": 191,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 122,
+    "name": "Tadasumi",
+
+    "galleryNumber": "81",
+    "nameId": 154,
+    "speakerId": 111,
+    "spriteIndex": 111,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison", "water"],
+    "weaknessTypeIds": ["grass", "dark"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 16,
+      "wisdom": 76,
+      "charisma": 28
+    },
+    "bst": 120,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 123,
+    "name": "Dosetsu",
+
+    "galleryNumber": "82",
+    "nameId": 17,
+    "speakerId": 100,
+    "spriteIndex": 100,
+    "genderId": "male",
+
+    "specialityTypeIds": ["electric", "fire"],
+    "weaknessTypeIds": ["ground"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 85,
+      "wisdom": 86,
+      "charisma": 76
+    },
+    "bst": 247,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 124,
+    "name": "Shoun",
+
+    "galleryNumber": "83",
+    "nameId": 148,
+    "speakerId": 102,
+    "spriteIndex": 102,
+    "genderId": "male",
+
+    "specialityTypeIds": ["electric", "ghost"],
+    "weaknessTypeIds": ["ground"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 90,
+      "wisdom": 70,
+      "charisma": 66
+    },
+    "bst": 226,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 125,
+    "name": "Sorin",
+
+    "galleryNumber": "84",
+    "nameId": 149,
+    "speakerId": 108,
+    "spriteIndex": 108,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dark", "electric"],
+    "weaknessTypeIds": ["psychic", "normal"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 69,
+      "wisdom": 78,
+      "charisma": 83
+    },
+    "bst": 230,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 126,
+    "name": "Sekiso",
+
+    "galleryNumber": "85",
+    "nameId": 139,
+    "speakerId": 121,
+    "spriteIndex": 121,
+    "genderId": "male",
+
+    "specialityTypeIds": ["electric", "bug"],
+    "weaknessTypeIds": ["ground"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 38,
+      "wisdom": 88,
+      "charisma": 80
+    },
+    "bst": 206,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 127,
+    "name": "Akizane",
+
+    "galleryNumber": "86",
+    "nameId": 0,
+    "speakerId": 118,
+    "spriteIndex": 118,
+    "genderId": "male",
+
+    "specialityTypeIds": ["electric", "steel"],
+    "weaknessTypeIds": ["ground"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 58,
+      "wisdom": 40,
+      "charisma": 61
+    },
+    "bst": 159,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 128,
+    "name": "Takatane",
+
+    "galleryNumber": "87",
+    "nameId": 162,
+    "speakerId": 111,
+    "spriteIndex": 111,
+    "genderId": "male",
+
+    "specialityTypeIds": ["electric", "dragon"],
+    "weaknessTypeIds": ["ground"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 56,
+      "wisdom": 43,
+      "charisma": 45
+    },
+    "bst": 144,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 129,
+    "name": "Kiyo",
+
+    "galleryNumber": "88",
+    "nameId": 73,
+    "speakerId": 114,
+    "spriteIndex": 114,
+    "genderId": "female",
+
+    "specialityTypeIds": ["electric", "normal"],
+    "weaknessTypeIds": ["ground"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 15,
+      "wisdom": 13,
+      "charisma": 78
+    },
+    "bst": 106,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 130,
+    "name": "Motoharu",
+
+    "galleryNumber": "89",
+    "nameId": 102,
+    "speakerId": 104,
+    "spriteIndex": 104,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground", "grass"],
+    "weaknessTypeIds": ["ice", "poison"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 92,
+      "wisdom": 71,
+      "charisma": 80
+    },
+    "bst": 243,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 131,
+    "name": "Takakage",
+
+    "galleryNumber": "90",
+    "nameId": 159,
+    "speakerId": 107,
+    "spriteIndex": 107,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "dark"],
+    "weaknessTypeIds": ["poison"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 69,
+      "wisdom": 90,
+      "charisma": 84
+    },
+    "bst": 243,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 132,
+    "name": "Terumoto",
+
+    "galleryNumber": "91",
+    "nameId": 168,
+    "speakerId": 104,
+    "spriteIndex": 104,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "fighting"],
+    "weaknessTypeIds": ["poison", "flying"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 41,
+      "wisdom": 26,
+      "charisma": 82
+    },
+    "bst": 149,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 133,
+    "name": "Takeyoshi",
+
+    "galleryNumber": "92",
+    "nameId": 165,
+    "speakerId": 116,
+    "spriteIndex": 116,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water", "grass"],
+    "weaknessTypeIds": ["electric", "poison"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 80,
+      "wisdom": 66,
+      "charisma": 62
+    },
+    "bst": 208,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 134,
+    "name": "Ekei",
+
+    "galleryNumber": "93",
+    "nameId": 18,
+    "speakerId": 121,
+    "spriteIndex": 121,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "flying"],
+    "weaknessTypeIds": ["poison", "ice"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 6,
+      "wisdom": 80,
+      "charisma": 68
+    },
+    "bst": 154,
+    "capacity": 2
+  },
+
+  {
+    "warriorIndex": 135,
+    "name": "Takamoto",
+
+    "galleryNumber": "94",
+    "nameId": 160,
+    "speakerId": 111,
+    "spriteIndex": 111,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "poison"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 71,
+      "wisdom": 72,
+      "charisma": 82
+    },
+    "bst": 225,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 136,
+    "name": "Sadatoshi",
+
+    "galleryNumber": "95",
+    "nameId": 132,
+    "speakerId": 109,
+    "spriteIndex": 109,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "bug"],
+    "weaknessTypeIds": ["poison"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 48,
+      "wisdom": 80,
+      "charisma": 68
+    },
+    "bst": 196,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 137,
+    "name": "Hidemitsu",
+
+    "galleryNumber": "96",
+    "nameId": 36,
+    "speakerId": 104,
+    "spriteIndex": 104,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ice", "water"],
+    "weaknessTypeIds": ["normal"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 78,
+      "wisdom": 44,
+      "charisma": 72
+    },
+    "bst": 194,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 138,
+    "name": "Toshimitsu",
+
+    "galleryNumber": "97",
+    "nameId": 173,
+    "speakerId": 101,
+    "spriteIndex": 101,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ice", "dark"],
+    "weaknessTypeIds": ["normal", "fighting"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 68,
+      "wisdom": 68,
+      "charisma": 68
+    },
+    "bst": 204,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 139,
+    "name": "Shigemoto",
+
+    "galleryNumber": "98",
+    "nameId": 143,
+    "speakerId": 103,
+    "spriteIndex": 103,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ice", "poison"],
+    "weaknessTypeIds": ["normal"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 60,
+      "wisdom": 36,
+      "charisma": 64
+    },
+    "bst": 160,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 140,
+    "name": "Mitsutada",
+
+    "galleryNumber": "99",
+    "nameId": 95,
+    "speakerId": 106,
+    "spriteIndex": 106,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ice", "grass"],
+    "weaknessTypeIds": ["normal"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 65,
+      "wisdom": 40,
+      "charisma": 58
+    },
+    "bst": 163,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 141,
+    "name": "Yukimasa",
+
+    "galleryNumber": "100",
+    "nameId": 205,
+    "speakerId": 109,
+    "spriteIndex": 109,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ice", "water"],
+    "weaknessTypeIds": ["normal"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 52,
+      "wisdom": 55,
+      "charisma": 55
+    },
+    "bst": 162,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 142,
+    "name": "Tadaoki",
+
+    "galleryNumber": "101",
+    "nameId": 153,
+    "speakerId": 105,
+    "spriteIndex": 105,
+    "genderId": "male",
+
+    "specialityTypeIds": ["normal", "ice"],
+    "weaknessTypeIds": ["bug", "normal"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 76,
+      "wisdom": 72,
+      "charisma": 78
+    },
+    "bst": 226,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 143,
+    "name": "Fujitaka",
+
+    "galleryNumber": "102",
+    "nameId": 19,
+    "speakerId": 129,
+    "spriteIndex": 129,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "ice"],
+    "weaknessTypeIds": ["bug", "normal"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 70,
+      "wisdom": 85,
+      "charisma": 80
+    },
+    "bst": 235,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 144,
+    "name": "Hiroko",
+
+    "galleryNumber": "103",
+    "nameId": 41,
+    "speakerId": 114,
+    "spriteIndex": 114,
+    "genderId": "female",
+
+    "specialityTypeIds": ["ice", "ghost"],
+    "weaknessTypeIds": ["normal"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 38,
+      "wisdom": 63,
+      "charisma": 66
+    },
+    "bst": 167,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 145,
+    "name": "Tadamoto",
+
+    "galleryNumber": "104",
+    "nameId": 152,
+    "speakerId": 101,
+    "spriteIndex": 101,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "ghost"],
+    "weaknessTypeIds": ["flying"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 78,
+      "wisdom": 56,
+      "charisma": 60
+    },
+    "bst": 194,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 146,
+    "name": "Tadatsune",
+
+    "galleryNumber": "105",
+    "nameId": 156,
+    "speakerId": 106,
+    "spriteIndex": 106,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "electric"],
+    "weaknessTypeIds": ["flying"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 73,
+      "wisdom": 56,
+      "charisma": 70
+    },
+    "bst": 199,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 147,
+    "name": "Takahisa",
+
+    "galleryNumber": "106",
+    "nameId": 158,
+    "speakerId": 100,
+    "spriteIndex": 100,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting"],
+    "weaknessTypeIds": ["psychic"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 66,
+      "wisdom": 87,
+      "charisma": 85
+    },
+    "bst": 238,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 148,
+    "name": "Hisaaki",
+
+    "galleryNumber": "107",
+    "nameId": 42,
+    "speakerId": 107,
+    "spriteIndex": 107,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison"],
+    "weaknessTypeIds": ["psychic"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 71,
+      "wisdom": 69,
+      "charisma": 60
+    },
+    "bst": 200,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 149,
+    "name": "Masatoshi",
+
+    "galleryNumber": "108",
+    "nameId": 86,
+    "speakerId": 106,
+    "spriteIndex": 106,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "bug"],
+    "weaknessTypeIds": ["flying"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 70,
+      "wisdom": 48,
+      "charisma": 58
+    },
+    "bst": 176,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 150,
+    "name": "Kanemori",
+
+    "galleryNumber": "109",
+    "nameId": 61,
+    "speakerId": 107,
+    "spriteIndex": 107,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "water"],
+    "weaknessTypeIds": ["flying"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 30,
+      "wisdom": 55,
+      "charisma": 57
+    },
+    "bst": 142,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 151,
+    "name": "Tokitaka",
+
+    "galleryNumber": "110",
+    "nameId": 169,
+    "speakerId": 112,
+    "spriteIndex": 112,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fire", "fighting"],
+    "weaknessTypeIds": ["water", "ground"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 56,
+      "wisdom": 65,
+      "charisma": 61
+    },
+    "bst": 182,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 152,
+    "name": "Sandayu",
+
+    "galleryNumber": "111",
+    "nameId": 134,
+    "speakerId": 122,
+    "spriteIndex": 122,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison", "flying"],
+    "weaknessTypeIds": ["psychic"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 87,
+      "wisdom": 89,
+      "charisma": 34
+    },
+    "bst": 210,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 153,
+    "name": "Morikiyo",
+
+    "galleryNumber": "112",
+    "nameId": 99,
+    "speakerId": 122,
+    "spriteIndex": 122,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison", "fighting"],
+    "weaknessTypeIds": ["psychic"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 68,
+      "wisdom": 47,
+      "charisma": 61
+    },
+    "bst": 176,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 154,
+    "name": "Kashinkoji",
+
+    "galleryNumber": "113",
+    "nameId": 63,
+    "speakerId": 112,
+    "spriteIndex": 112,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison", "ground"],
+    "weaknessTypeIds": ["psychic"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 42,
+      "wisdom": 69,
+      "charisma": 53
+    },
+    "bst": 164,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 155,
+    "name": "Yasunaga",
+
+    "galleryNumber": "114",
+    "nameId": 192,
+    "speakerId": 123,
+    "spriteIndex": 123,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison", "bug"],
+    "weaknessTypeIds": ["psychic"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 80,
+      "wisdom": 62,
+      "charisma": 66
+    },
+    "bst": 208,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 156,
+    "name": "Seikuro",
+
+    "galleryNumber": "115",
+    "nameId": 138,
+    "speakerId": 124,
+    "spriteIndex": 124,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison", "dark"],
+    "weaknessTypeIds": ["psychic"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 60,
+      "wisdom": 40,
+      "charisma": 43
+    },
+    "bst": 143,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 157,
+    "name": "Katsuyori",
+
+    "galleryNumber": "116",
+    "nameId": 65,
+    "speakerId": 104,
+    "spriteIndex": 104,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock", "ground"],
+    "weaknessTypeIds": ["grass", "ice"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 82,
+      "wisdom": 56,
+      "charisma": 79
+    },
+    "bst": 217,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 158,
+    "name": "Haruyuki",
+
+    "galleryNumber": "117",
+    "nameId": 31,
+    "speakerId": 108,
+    "spriteIndex": 108,
+    "genderId": "male",
+
+    "specialityTypeIds": ["flying", "ground"],
+    "weaknessTypeIds": ["grass", "psychic"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 41,
+      "wisdom": 92,
+      "charisma": 69
+    },
+    "bst": 202,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 159,
+    "name": "Masakage",
+
+    "galleryNumber": "118",
+    "nameId": 82,
+    "speakerId": 102,
+    "spriteIndex": 102,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ghost", "ground"],
+    "weaknessTypeIds": ["grass", "ice"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 88,
+      "wisdom": 66,
+      "charisma": 70
+    },
+    "bst": 224,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 160,
+    "name": "Masatoyo",
+
+    "galleryNumber": "119",
+    "nameId": 87,
+    "speakerId": 100,
+    "spriteIndex": 100,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground", "ice"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 70,
+      "wisdom": 76,
+      "charisma": 70
+    },
+    "bst": 216,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 161,
+    "name": "Nobufusa",
+
+    "galleryNumber": "120",
+    "nameId": 121,
+    "speakerId": 103,
+    "spriteIndex": 103,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground", "water"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 80,
+      "wisdom": 50,
+      "charisma": 70
+    },
+    "bst": 200,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 162,
+    "name": "Masayuki",
+
+    "galleryNumber": "121",
+    "nameId": 89,
+    "speakerId": 101,
+    "spriteIndex": 101,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "ground"],
+    "weaknessTypeIds": ["grass", "ice"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 74,
+      "wisdom": 93,
+      "charisma": 74
+    },
+    "bst": 241,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 163,
+    "name": "Yukitaka",
+
+    "galleryNumber": "122",
+    "nameId": 208,
+    "speakerId": 100,
+    "spriteIndex": 100,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "ground"],
+    "weaknessTypeIds": ["grass", "ice"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 58,
+      "wisdom": 94,
+      "charisma": 70
+    },
+    "bst": 222,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 164,
+    "name": "Ume",
+
+    "galleryNumber": "123",
+    "nameId": 188,
+    "speakerId": 114,
+    "spriteIndex": 114,
+    "genderId": "female",
+
+    "specialityTypeIds": ["ground", "electric"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 32,
+      "wisdom": 50,
+      "charisma": 50
+    },
+    "bst": 132,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 165,
+    "name": "Chiyome",
+
+    "galleryNumber": "124",
+    "nameId": 12,
+    "speakerId": 125,
+    "spriteIndex": 125,
+    "genderId": "female",
+
+    "specialityTypeIds": ["dark", "ground"],
+    "weaknessTypeIds": ["bug", "grass"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 60,
+      "wisdom": 67,
+      "charisma": 68
+    },
+    "bst": 195,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 166,
+    "name": "Kei",
+
+    "galleryNumber": "125",
+    "nameId": 69,
+    "speakerId": 113,
+    "spriteIndex": 113,
+    "genderId": "female",
+
+    "specialityTypeIds": ["steel", "ground"],
+    "weaknessTypeIds": ["grass", "ice"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 65,
+      "wisdom": 48,
+      "charisma": 69
+    },
+    "bst": 182,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 167,
+    "name": "Kagetsuna",
+
+    "galleryNumber": "126",
+    "nameId": 56,
+    "speakerId": 108,
+    "spriteIndex": 108,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dragon", "flying"],
+    "weaknessTypeIds": ["rock", "psychic"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 70,
+      "wisdom": 90,
+      "charisma": 72
+    },
+    "bst": 232,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 168,
+    "name": "Shigezane",
+
+    "galleryNumber": "127",
+    "nameId": 144,
+    "speakerId": 102,
+    "spriteIndex": 102,
+    "genderId": "male",
+
+    "specialityTypeIds": ["bug", "flying"],
+    "weaknessTypeIds": ["dark", "psychic"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 85,
+      "wisdom": 53,
+      "charisma": 66
+    },
+    "bst": 204,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 169,
+    "name": "Tsunamoto",
+
+    "galleryNumber": "128",
+    "nameId": 174,
+    "speakerId": 100,
+    "spriteIndex": 100,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ice", "flying"],
+    "weaknessTypeIds": ["fighting", "rock"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 66,
+      "wisdom": 69,
+      "charisma": 60
+    },
+    "bst": 195,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 170,
+    "name": "Tsunenaga",
+
+    "galleryNumber": "129",
+    "nameId": 177,
+    "speakerId": 116,
+    "spriteIndex": 116,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 48,
+      "wisdom": 44,
+      "charisma": 56
+    },
+    "bst": 148,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 171,
+    "name": "Munetoki",
+
+    "galleryNumber": "130",
+    "nameId": 107,
+    "speakerId": 106,
+    "spriteIndex": 106,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dragon", "flying"],
+    "weaknessTypeIds": ["rock", "psychic"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 76,
+      "wisdom": 53,
+      "charisma": 60
+    },
+    "bst": 189,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 172,
+    "name": "Munezane",
+
+    "galleryNumber": "131",
+    "nameId": 108,
+    "speakerId": 107,
+    "spriteIndex": 107,
+    "genderId": "male",
+
+    "specialityTypeIds": ["flying", "steel"],
+    "weaknessTypeIds": ["rock"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 71,
+      "wisdom": 56,
+      "charisma": 63
+    },
+    "bst": 190,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 173,
+    "name": "Yoshi",
+
+    "galleryNumber": "132",
+    "nameId": 196,
+    "speakerId": 125,
+    "spriteIndex": 125,
+    "genderId": "female",
+
+    "specialityTypeIds": ["flying", "rock"],
+    "weaknessTypeIds": ["electric"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 38,
+      "wisdom": 76,
+      "charisma": 50
+    },
+    "bst": 164,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 174,
+    "name": "Iroha",
+
+    "galleryNumber": "133",
+    "nameId": 46,
+    "speakerId": 113,
+    "spriteIndex": 113,
+    "genderId": "female",
+
+    "specialityTypeIds": ["flying", "electric"],
+    "weaknessTypeIds": ["rock"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 58,
+      "wisdom": 59,
+      "charisma": 50
+    },
+    "bst": 167,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 175,
+    "name": "Kagekatsu",
+
+    "galleryNumber": "134",
+    "nameId": 55,
+    "speakerId": 102,
+    "spriteIndex": 102,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "fighting"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 82,
+      "wisdom": 71,
+      "charisma": 64
+    },
+    "bst": 217,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 176,
+    "name": "Yoshikiyo",
+
+    "galleryNumber": "135",
+    "nameId": 199,
+    "speakerId": 101,
+    "spriteIndex": 101,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ice"],
+    "weaknessTypeIds": ["normal"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 81,
+      "wisdom": 65,
+      "charisma": 73
+    },
+    "bst": 219,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 177,
+    "name": "Tomonobu",
+
+    "galleryNumber": "136",
+    "nameId": 171,
+    "speakerId": 104,
+    "spriteIndex": 104,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "bug"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 74,
+      "wisdom": 76,
+      "charisma": 68
+    },
+    "bst": 218,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 178,
+    "name": "Kageie",
+
+    "galleryNumber": "137",
+    "nameId": 54,
+    "speakerId": 102,
+    "spriteIndex": 102,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock", "psychic"],
+    "weaknessTypeIds": ["grass", "ghost"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 90,
+      "wisdom": 12,
+      "charisma": 59
+    },
+    "bst": 161,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 179,
+    "name": "Takahiro",
+
+    "galleryNumber": "138",
+    "nameId": 157,
+    "speakerId": 105,
+    "spriteIndex": 105,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dark", "psychic"],
+    "weaknessTypeIds": ["bug", "electric"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 79,
+      "wisdom": 44,
+      "charisma": 61
+    },
+    "bst": 184,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 180,
+    "name": "Sadamitsu",
+
+    "galleryNumber": "139",
+    "nameId": 131,
+    "speakerId": 112,
+    "spriteIndex": 112,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "poison"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 55,
+      "wisdom": 92,
+      "charisma": 74
+    },
+    "bst": 221,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 181,
+    "name": "Yataro",
+
+    "galleryNumber": "140",
+    "nameId": 194,
+    "speakerId": 106,
+    "spriteIndex": 106,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "psychic"],
+    "weaknessTypeIds": ["ice", "ghost"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 92,
+      "wisdom": 2,
+      "charisma": 55
+    },
+    "bst": 149,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 182,
+    "name": "Saneyori",
+
+    "galleryNumber": "141",
+    "nameId": 135,
+    "speakerId": 112,
+    "spriteIndex": 112,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "poison"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 37,
+      "wisdom": 77,
+      "charisma": 61
+    },
+    "bst": 175,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 183,
+    "name": "Hana",
+
+    "galleryNumber": "142",
+    "nameId": 26,
+    "speakerId": 113,
+    "spriteIndex": 113,
+    "genderId": "female",
+
+    "specialityTypeIds": ["psychic", "electric"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 70,
+      "wisdom": 57,
+      "charisma": 50
+    },
+    "bst": 177,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 184,
+    "name": "Sen",
+
+    "galleryNumber": "143",
+    "nameId": 140,
+    "speakerId": 114,
+    "spriteIndex": 114,
+    "genderId": "female",
+
+    "specialityTypeIds": ["psychic", "steel"],
+    "weaknessTypeIds": ["ghost"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 27,
+      "wisdom": 61,
+      "charisma": 48
+    },
+    "bst": 136,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 185,
+    "name": "Ujichika",
+
+    "galleryNumber": "144",
+    "nameId": 179,
+    "speakerId": 129,
+    "spriteIndex": 129,
+    "genderId": "male",
+
+    "specialityTypeIds": ["bug", "ground"],
+    "weaknessTypeIds": ["dark"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 73,
+      "wisdom": 89,
+      "charisma": 71
+    },
+    "bst": 233,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 186,
+    "name": "Ujizane",
+
+    "galleryNumber": "145",
+    "nameId": 187,
+    "speakerId": 129,
+    "spriteIndex": 129,
+    "genderId": "male",
+
+    "specialityTypeIds": ["bug", "rock"],
+    "weaknessTypeIds": ["dark"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 6,
+      "wisdom": 8,
+      "charisma": 62
+    },
+    "bst": 76,
+    "capacity": 1
+  },
+
+  {
+    "warriorIndex": 187,
+    "name": "Sessai",
+
+    "galleryNumber": "146",
+    "nameId": 142,
+    "speakerId": 121,
+    "spriteIndex": 121,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ice", "bug"],
+    "weaknessTypeIds": ["normal", "psychic"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 50,
+      "wisdom": 92,
+      "charisma": 77
+    },
+    "bst": 219,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 188,
+    "name": "Masatsuna",
+
+    "galleryNumber": "147",
+    "nameId": 88,
+    "speakerId": 103,
+    "spriteIndex": 103,
+    "genderId": "male",
+
+    "specialityTypeIds": ["bug", "dark"],
+    "weaknessTypeIds": ["fire"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 44,
+      "wisdom": 52,
+      "charisma": 62
+    },
+    "bst": 158,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 189,
+    "name": "Yasutomo",
+
+    "galleryNumber": "148",
+    "nameId": 193,
+    "speakerId": 104,
+    "spriteIndex": 104,
+    "genderId": "male",
+
+    "specialityTypeIds": ["bug", "flying"],
+    "weaknessTypeIds": ["dark"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 71,
+      "wisdom": 58,
+      "charisma": 59
+    },
+    "bst": 188,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 190,
+    "name": "Ujihiro",
+
+    "galleryNumber": "149",
+    "nameId": 180,
+    "speakerId": 109,
+    "spriteIndex": 109,
+    "genderId": "male",
+
+    "specialityTypeIds": ["bug", "ghost"],
+    "weaknessTypeIds": ["dark"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 18,
+      "wisdom": 60,
+      "charisma": 55
+    },
+    "bst": 133,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 191,
+    "name": "Motozane",
+
+    "galleryNumber": "150",
+    "nameId": 104,
+    "speakerId": 109,
+    "spriteIndex": 109,
+    "genderId": "male",
+
+    "specialityTypeIds": ["bug"],
+    "weaknessTypeIds": ["dark"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 50,
+      "wisdom": 58,
+      "charisma": 63
+    },
+    "bst": 171,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 192,
+    "name": "Sena",
+
+    "galleryNumber": "151",
+    "nameId": 141,
+    "speakerId": 125,
+    "spriteIndex": 125,
+    "genderId": "female",
+
+    "specialityTypeIds": ["bug", "poison"],
+    "weaknessTypeIds": ["dark"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 48,
+      "wisdom": 74,
+      "charisma": 50
+    },
+    "bst": 172,
+    "capacity": 2
+  },
+
+  {
+    "warriorIndex": 193,
+    "name": "Soun",
+
+    "galleryNumber": "152",
+    "nameId": 150,
+    "speakerId": 100,
+    "spriteIndex": 100,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock", "dark"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 69,
+      "wisdom": 93,
+      "charisma": 85
+    },
+    "bst": 247,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 194,
+    "name": "Tsunashige",
+
+    "galleryNumber": "153",
+    "nameId": 175,
+    "speakerId": 101,
+    "spriteIndex": 101,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 90,
+      "wisdom": 79,
+      "charisma": 76
+    },
+    "bst": 245,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 195,
+    "name": "Gen-An",
+
+    "galleryNumber": "154",
+    "nameId": 20,
+    "speakerId": 121,
+    "spriteIndex": 121,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 2,
+      "wisdom": 83,
+      "charisma": 80
+    },
+    "bst": 165,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 196,
+    "name": "Ujimasa",
+
+    "galleryNumber": "155",
+    "nameId": 182,
+    "speakerId": 103,
+    "spriteIndex": 103,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock", "electric"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 63,
+      "wisdom": 78,
+      "charisma": 79
+    },
+    "bst": 220,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 197,
+    "name": "Ujiteru",
+
+    "galleryNumber": "156",
+    "nameId": 185,
+    "speakerId": 105,
+    "spriteIndex": 105,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock", "ice"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 74,
+      "wisdom": 70,
+      "charisma": 78
+    },
+    "bst": 222,
+    "capacity": 7
+  },
+
+  {
+    "warriorIndex": 198,
+    "name": "Ujikuni",
+
+    "galleryNumber": "157",
+    "nameId": 181,
+    "speakerId": 104,
+    "spriteIndex": 104,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock", "fire"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 77,
+      "wisdom": 62,
+      "charisma": 73
+    },
+    "bst": 212,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 199,
+    "name": "Ujinao",
+
+    "galleryNumber": "158",
+    "nameId": 183,
+    "speakerId": 107,
+    "spriteIndex": 107,
+    "genderId": "male",
+
+    "specialityTypeIds": ["rock", "grass"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 42,
+      "wisdom": 35,
+      "charisma": 79
+    },
+    "bst": 156,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 200,
+    "name": "Shizuka",
+
+    "galleryNumber": "159",
+    "nameId": 147,
+    "speakerId": 113,
+    "spriteIndex": 113,
+    "genderId": "female",
+
+    "specialityTypeIds": ["rock", "poison"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 62,
+      "wisdom": 41,
+      "charisma": 62
+    },
+    "bst": 165,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 201,
+    "name": "Madoka",
+
+    "galleryNumber": "160",
+    "nameId": 79,
+    "speakerId": 113,
+    "spriteIndex": 113,
+    "genderId": "female",
+
+    "specialityTypeIds": ["rock", "psychic"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 58,
+      "wisdom": 50,
+      "charisma": 62
+    },
+    "bst": 170,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 202,
+    "name": "Dosan",
+
+    "galleryNumber": "161",
+    "nameId": 16,
+    "speakerId": 119,
+    "spriteIndex": 119,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dark", "ghost"],
+    "weaknessTypeIds": ["bug", "ground"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 73,
+      "wisdom": 93,
+      "charisma": 82
+    },
+    "bst": 248,
+    "capacity": 8
+  },
+
+  {
+    "warriorIndex": 203,
+    "name": "Yoshitatsu",
+
+    "galleryNumber": "162",
+    "nameId": 202,
+    "speakerId": 102,
+    "spriteIndex": 102,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison", "ghost"],
+    "weaknessTypeIds": ["psychic", "ground"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 87,
+      "wisdom": 75,
+      "charisma": 63
+    },
+    "bst": 225,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 204,
+    "name": "Ittetsu",
+
+    "galleryNumber": "163",
+    "nameId": 50,
+    "speakerId": 104,
+    "spriteIndex": 104,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel", "ghost"],
+    "weaknessTypeIds": ["normal", "grass"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 70,
+      "wisdom": 72,
+      "charisma": 70
+    },
+    "bst": 212,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 205,
+    "name": "Bokuzen",
+
+    "galleryNumber": "164",
+    "nameId": 5,
+    "speakerId": 107,
+    "spriteIndex": 107,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ghost", "water"],
+    "weaknessTypeIds": ["bug"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 62,
+      "wisdom": 52,
+      "charisma": 68
+    },
+    "bst": 182,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 206,
+    "name": "Morinari",
+
+    "galleryNumber": "165",
+    "nameId": 100,
+    "speakerId": 111,
+    "spriteIndex": 111,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ghost"],
+    "weaknessTypeIds": ["bug"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 46,
+      "wisdom": 70,
+      "charisma": 66
+    },
+    "bst": 182,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 207,
+    "name": "Omi",
+
+    "galleryNumber": "166",
+    "nameId": 127,
+    "speakerId": 114,
+    "spriteIndex": 114,
+    "genderId": "female",
+
+    "specialityTypeIds": ["rock", "ghost"],
+    "weaknessTypeIds": ["psychic", "ground"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 20,
+      "wisdom": 60,
+      "charisma": 62
+    },
+    "bst": 142,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 208,
+    "name": "Asa",
+
+    "galleryNumber": "167",
+    "nameId": 1,
+    "speakerId": 114,
+    "spriteIndex": 114,
+    "genderId": "female",
+
+    "specialityTypeIds": ["grass", "ghost"],
+    "weaknessTypeIds": ["psychic", "ground"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 57,
+      "wisdom": 68,
+      "charisma": 50
+    },
+    "bst": 175,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 209,
+    "name": "Shimoyama",
+
+    "galleryNumber": "168",
+    "nameId": 145,
+    "speakerId": 124,
+    "spriteIndex": 124,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dark", "fighting"],
+    "weaknessTypeIds": ["bug"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 79,
+      "wisdom": 81,
+      "charisma": 43
+    },
+    "bst": 203,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 210,
+    "name": "Genba",
+
+    "galleryNumber": "169",
+    "nameId": 21,
+    "speakerId": 123,
+    "spriteIndex": 123,
+    "genderId": "male",
+
+    "specialityTypeIds": ["flying", "dark"],
+    "weaknessTypeIds": ["psychic", "grass"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 79,
+      "wisdom": 75,
+      "charisma": 48
+    },
+    "bst": 202,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 211,
+    "name": "Danzo",
+
+    "galleryNumber": "170",
+    "nameId": 15,
+    "speakerId": 124,
+    "spriteIndex": 124,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dark"],
+    "weaknessTypeIds": ["normal"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 79,
+      "wisdom": 89,
+      "charisma": 48
+    },
+    "bst": 216,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 212,
+    "name": "Yazaemon",
+
+    "galleryNumber": "171",
+    "nameId": 195,
+    "speakerId": 123,
+    "spriteIndex": 123,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison", "dark"],
+    "weaknessTypeIds": ["psychic", "normal"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 80,
+      "wisdom": 77,
+      "charisma": 57
+    },
+    "bst": 214,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 213,
+    "name": "Isuke",
+
+    "galleryNumber": "172",
+    "nameId": 49,
+    "speakerId": 123,
+    "spriteIndex": 123,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dark", "water"],
+    "weaknessTypeIds": ["bug"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 72,
+      "wisdom": 68,
+      "charisma": 63
+    },
+    "bst": 203,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 214,
+    "name": "Tadatsugu",
+
+    "galleryNumber": "173",
+    "nameId": 155,
+    "speakerId": 100,
+    "spriteIndex": 100,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel", "ice"],
+    "weaknessTypeIds": ["fire", "fighting"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 72,
+      "wisdom": 74,
+      "charisma": 71
+    },
+    "bst": 217,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 215,
+    "name": "Naomasa",
+
+    "galleryNumber": "174",
+    "nameId": 115,
+    "speakerId": 102,
+    "spriteIndex": 102,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison", "steel"],
+    "weaknessTypeIds": ["normal", "ground"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 87,
+      "wisdom": 72,
+      "charisma": 68
+    },
+    "bst": 227,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 216,
+    "name": "Yasumasa",
+
+    "galleryNumber": "175",
+    "nameId": 191,
+    "speakerId": 102,
+    "spriteIndex": 102,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dragon", "bug"],
+    "weaknessTypeIds": ["ice", "ghost"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 83,
+      "wisdom": 51,
+      "charisma": 70
+    },
+    "bst": 204,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 217,
+    "name": "Masanobu",
+
+    "galleryNumber": "176",
+    "nameId": 84,
+    "speakerId": 108,
+    "spriteIndex": 108,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ghost", "fire"],
+    "weaknessTypeIds": ["ground", "water"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 6,
+      "wisdom": 95,
+      "charisma": 53
+    },
+    "bst": 154,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 218,
+    "name": "Hidetada",
+
+    "galleryNumber": "177",
+    "nameId": 38,
+    "speakerId": 105,
+    "spriteIndex": 105,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel", "fighting"],
+    "weaknessTypeIds": ["fire"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 18,
+      "wisdom": 73,
+      "charisma": 75
+    },
+    "bst": 166,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 219,
+    "name": "Kazumasa",
+
+    "galleryNumber": "178",
+    "nameId": 66,
+    "speakerId": 108,
+    "spriteIndex": 108,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel", "electric"],
+    "weaknessTypeIds": ["fire"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 51,
+      "wisdom": 78,
+      "charisma": 72
+    },
+    "bst": 201,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 220,
+    "name": "Choan",
+
+    "galleryNumber": "179",
+    "nameId": 13,
+    "speakerId": 119,
+    "spriteIndex": 119,
+    "genderId": "male",
+
+    "specialityTypeIds": ["normal", "steel"],
+    "weaknessTypeIds": ["fire", "electric"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 2,
+      "wisdom": 62,
+      "charisma": 71
+    },
+    "bst": 135,
+    "capacity": 2
+  },
+
+  {
+    "warriorIndex": 221,
+    "name": "Tenkai",
+
+    "galleryNumber": "180",
+    "nameId": 167,
+    "speakerId": 121,
+    "spriteIndex": 121,
+    "genderId": "male",
+
+    "specialityTypeIds": ["steel"],
+    "weaknessTypeIds": ["normal"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 1,
+      "wisdom": 91,
+      "charisma": 72
+    },
+    "bst": 164,
+    "capacity": 2
+  },
+
+  {
+    "warriorIndex": 222,
+    "name": "Munenori",
+
+    "galleryNumber": "181",
+    "nameId": 105,
+    "speakerId": 103,
+    "spriteIndex": 103,
+    "genderId": "male",
+
+    "specialityTypeIds": ["bug", "steel"],
+    "weaknessTypeIds": ["normal", "ghost"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 90,
+      "wisdom": 80,
+      "charisma": 66
+    },
+    "bst": 236,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 223,
+    "name": "Kame",
+
+    "galleryNumber": "182",
+    "nameId": 59,
+    "speakerId": 126,
+    "spriteIndex": 126,
+    "genderId": "female",
+
+    "specialityTypeIds": ["bug", "water"],
+    "weaknessTypeIds": ["normal", "ghost"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 62,
+      "wisdom": 73,
+      "charisma": 55
+    },
+    "bst": 190,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 224,
+    "name": "Toku",
+
+    "galleryNumber": "183",
+    "nameId": 170,
+    "speakerId": 114,
+    "spriteIndex": 114,
+    "genderId": "female",
+
+    "specialityTypeIds": ["steel", "rock"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 44,
+      "wisdom": 68,
+      "charisma": 50
+    },
+    "bst": 162,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 225,
+    "name": "Saizo",
+
+    "galleryNumber": "184",
+    "nameId": 133,
+    "speakerId": 122,
+    "spriteIndex": 122,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ghost", "grass"],
+    "weaknessTypeIds": ["flying", "ice"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 80,
+      "wisdom": 76,
+      "charisma": 68
+    },
+    "bst": 224,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 226,
+    "name": "Sasuke",
+
+    "galleryNumber": "185",
+    "nameId": 136,
+    "speakerId": 124,
+    "spriteIndex": 124,
+    "genderId": "male",
+
+    "specialityTypeIds": ["flying", "psychic"],
+    "weaknessTypeIds": ["rock", "ground"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 81,
+      "wisdom": 72,
+      "charisma": 70
+    },
+    "bst": 223,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 227,
+    "name": "Katsu",
+
+    "galleryNumber": "186",
+    "nameId": 64,
+    "speakerId": 126,
+    "spriteIndex": 126,
+    "genderId": "female",
+
+    "specialityTypeIds": ["steel", "grass"],
+    "weaknessTypeIds": ["fire"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 53,
+      "wisdom": 48,
+      "charisma": 72
+    },
+    "bst": 173,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 228,
+    "name": "Juzo",
+
+    "galleryNumber": "187",
+    "nameId": 53,
+    "speakerId": 123,
+    "spriteIndex": 123,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground"],
+    "weaknessTypeIds": ["water"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 81,
+      "wisdom": 80,
+      "charisma": 62
+    },
+    "bst": 223,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 229,
+    "name": "Tsuru",
+
+    "galleryNumber": "188",
+    "nameId": 178,
+    "speakerId": 113,
+    "spriteIndex": 113,
+    "genderId": "female",
+
+    "specialityTypeIds": ["ghost", "normal"],
+    "weaknessTypeIds": ["bug"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 75,
+      "wisdom": 43,
+      "charisma": 72
+    },
+    "bst": 190,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 230,
+    "name": "Ise",
+
+    "galleryNumber": "189",
+    "nameId": 48,
+    "speakerId": 126,
+    "spriteIndex": 126,
+    "genderId": "female",
+
+    "specialityTypeIds": ["normal", "poison"],
+    "weaknessTypeIds": ["psychic"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 66,
+      "wisdom": 52,
+      "charisma": 61
+    },
+    "bst": 179,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 231,
+    "name": "Jinpachi",
+
+    "galleryNumber": "190",
+    "nameId": 51,
+    "speakerId": 116,
+    "spriteIndex": 116,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dragon", "ice"],
+    "weaknessTypeIds": ["ground", "rock"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 76,
+      "wisdom": 48,
+      "charisma": 80
+    },
+    "bst": 204,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 232,
+    "name": "Kamanosuke",
+
+    "galleryNumber": "191",
+    "nameId": 58,
+    "speakerId": 117,
+    "spriteIndex": 117,
+    "genderId": "male",
+
+    "specialityTypeIds": ["electric"],
+    "weaknessTypeIds": ["ground"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 84,
+      "wisdom": 57,
+      "charisma": 79
+    },
+    "bst": 220,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 233,
+    "name": "Seikai",
+
+    "galleryNumber": "192",
+    "nameId": 137,
+    "speakerId": 117,
+    "spriteIndex": 117,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "flying"],
+    "weaknessTypeIds": ["electric", "water"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 82,
+      "wisdom": 53,
+      "charisma": 65
+    },
+    "bst": 200,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 234,
+    "name": "Isa",
+
+    "galleryNumber": "193",
+    "nameId": 47,
+    "speakerId": 117,
+    "spriteIndex": 117,
+    "genderId": "male",
+
+    "specialityTypeIds": ["fighting", "ice"],
+    "weaknessTypeIds": ["flying"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 80,
+      "wisdom": 43,
+      "charisma": 65
+    },
+    "bst": 188,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 235,
+    "name": "Yoshiteru",
+
+    "galleryNumber": "194",
+    "nameId": 203,
+    "speakerId": 129,
+    "spriteIndex": 129,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 20, "skillName": "Shout" },
+
+    "stats": {
+      "power": 92,
+      "wisdom": 45,
+      "charisma": 92
+    },
+    "bst": 229,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 236,
+    "name": "Yoshiaki",
+
+    "galleryNumber": "195",
+    "nameId": 197,
+    "speakerId": 129,
+    "spriteIndex": 129,
+    "genderId": "male",
+
+    "specialityTypeIds": ["grass", "electric"],
+    "weaknessTypeIds": ["poison", "ice"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 14,
+      "wisdom": 86,
+      "charisma": 80
+    },
+    "bst": 180,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 237,
+    "name": "Hisahide",
+
+    "galleryNumber": "196",
+    "nameId": 43,
+    "speakerId": 101,
+    "spriteIndex": 101,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dark", "water"],
+    "weaknessTypeIds": ["bug"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 62,
+      "wisdom": 92,
+      "charisma": 65
+    },
+    "bst": 219,
+    "capacity": 6
+  },
+
+  {
+    "warriorIndex": 238,
+    "name": "Jubei",
+
+    "galleryNumber": "197",
+    "nameId": 52,
+    "speakerId": 103,
+    "spriteIndex": 103,
+    "genderId": "male",
+
+    "specialityTypeIds": ["psychic", "steel"],
+    "weaknessTypeIds": ["ghost", "fire"],
+
+    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+
+    "stats": {
+      "power": 91,
+      "wisdom": 32,
+      "charisma": 50
+    },
+    "bst": 173,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 239,
+    "name": "Nobutsuna",
+
+    "galleryNumber": "198",
+    "nameId": 123,
+    "speakerId": 101,
+    "spriteIndex": 101,
+    "genderId": "male",
+
+    "specialityTypeIds": ["poison", "electric"],
+    "weaknessTypeIds": ["ground"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 95,
+      "wisdom": 42,
+      "charisma": 70
+    },
+    "bst": 207,
+    "capacity": 5
+  },
+
+  {
+    "warriorIndex": 240,
+    "name": "Bokuden",
+
+    "galleryNumber": "199",
+    "nameId": 4,
+    "speakerId": 101,
+    "spriteIndex": 101,
+    "genderId": "male",
+
+    "specialityTypeIds": ["dark", "grass"],
+    "weaknessTypeIds": ["fire", "bug"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 95,
+      "wisdom": 30,
+      "charisma": 50
+    },
+    "bst": 175,
+    "capacity": 4
+  },
+
+  {
+    "warriorIndex": 241,
+    "name": "Otsu",
+
+    "galleryNumber": "200",
+    "nameId": 128,
+    "speakerId": 126,
+    "spriteIndex": 126,
+    "genderId": "female",
+
+    "specialityTypeIds": ["flying", "ghost"],
+    "weaknessTypeIds": ["rock"],
+
+    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+
+    "stats": {
+      "power": 67,
+      "wisdom": 51,
+      "charisma": 50
+    },
+    "bst": 168,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 242,
+    "name": "Merchant-Male",
+
+    "galleryNumber": "201",
+    "nameId": 90,
+    "speakerId": 119,
+    "spriteIndex": 119,
+    "genderId": "male",
+
+    "specialityTypeIds": ["normal"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 52,
+      "wisdom": 77,
+      "charisma": 50
+    },
+    "bst": 179,
+    "capacity": 3
+  },
+
+  {
+    "warriorIndex": 243,
+    "name": "Merchant-Female",
+
+    "galleryNumber": "202",
+    "nameId": 91,
+    "speakerId": 120,
+    "spriteIndex": 120,
+    "genderId": "female",
+
+    "specialityTypeIds": ["normal"],
+    "weaknessTypeIds": ["fighting"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 45,
+      "wisdom": 57,
+      "charisma": 74
+    },
+    "bst": 176,
+    "capacity": 1
+  },
+
+  {
+    "warriorIndex": 244,
+    "name": "Captain",
+
+    "galleryNumber": "203",
+    "nameId": 6,
+    "speakerId": 116,
+    "spriteIndex": 116,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+
+    "stats": {
+      "power": 83,
+      "wisdom": 58,
+      "charisma": 40
+    },
+    "bst": 181,
+    "capacity": 1
+  },
+
+  {
+    "warriorIndex": 245,
+    "name": "Chief",
+
+    "galleryNumber": "204",
+    "nameId": 8,
+    "speakerId": 117,
+    "spriteIndex": 117,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 77,
+      "wisdom": 44,
+      "charisma": 30
+    },
+    "bst": 151,
+    "capacity": 1
+  },
+
+  {
+    "warriorIndex": 246,
+    "name": "Counselor",
+
+    "galleryNumber": "205",
+    "nameId": 14,
+    "speakerId": 111,
+    "spriteIndex": 111,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+
+    "stats": {
+      "power": 77,
+      "wisdom": 44,
+      "charisma": 30
+    },
+    "bst": 151,
+    "capacity": 1
+  },
+
+  {
+    "warriorIndex": 247,
+    "name": "Underling",
+
+    "galleryNumber": "206",
+    "nameId": 189,
+    "speakerId": 117,
+    "spriteIndex": 117,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+
+    "stats": {
+      "power": 69,
+      "wisdom": 10,
+      "charisma": 25
+    },
+    "bst": 104,
+    "capacity": 1
+  },
+
+  {
+    "warriorIndex": 248,
+    "name": "Henchman",
+
+    "galleryNumber": "207",
+    "nameId": 34,
+    "speakerId": 116,
+    "spriteIndex": 116,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 22, "skillName": "Greed" },
+
+    "stats": {
+      "power": 69,
+      "wisdom": 10,
+      "charisma": 25
+    },
+    "bst": 104,
+    "capacity": 1
+  },
+
+  {
+    "warriorIndex": 249,
+    "name": "Minion",
+
+    "galleryNumber": "208",
+    "nameId": 92,
+    "speakerId": 106,
+    "spriteIndex": 106,
+    "genderId": "male",
+
+    "specialityTypeIds": ["ground"],
+    "weaknessTypeIds": ["ice"],
+
+    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+
+    "stats": {
+      "power": 69,
+      "wisdom": 10,
+      "charisma": 25
+    },
+    "bst": 104,
+    "capacity": 1
+  },
+
+  {
+    "warriorIndex": 250,
+    "name": "Mob-A",
+
+    "galleryNumber": "209",
+    "nameId": 96,
+    "speakerId": 129,
+    "spriteIndex": 129,
+    "genderId": "male",
+
+    "specialityTypeIds": ["water"],
+    "weaknessTypeIds": ["grass"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 50,
+      "wisdom": 50,
+      "charisma": 50
+    },
+    "bst": 150,
+    "capacity": 1
+  },
+
+  {
+    "warriorIndex": 251,
+    "name": "Mob-B",
+
+    "galleryNumber": "210",
+    "nameId": 97,
+    "speakerId": 129,
+    "spriteIndex": 129,
+    "genderId": "male",
+
+    "specialityTypeIds": ["electric"],
+    "weaknessTypeIds": ["ground"],
+
+    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+
+    "stats": {
+      "power": 50,
+      "wisdom": 50,
+      "charisma": 50
+    },
+    "bst": 150,
+    "capacity": 1
+  }
+]

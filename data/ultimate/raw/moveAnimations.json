@@ -1,0 +1,1531 @@
+[
+  {
+    "animationIndex": 0,
+    "animationName": "Water Droplet Splash",
+    "soundIndex": 17
+  },
+
+  {
+    "animationIndex": 1,
+    "animationName": "Orange Orb Burst",
+    "soundIndex": 18
+  },
+
+  {
+    "animationIndex": 2,
+    "animationName": "Double Orange Orb Burst",
+    "soundIndex": 101
+  },
+
+  {
+    "animationIndex": 3,
+    "animationName": "Orange Orb Scratch",
+    "soundIndex": 102
+  },
+
+  {
+    "animationIndex": 4,
+    "animationName": "Yellow Star Burst",
+    "soundIndex": 19
+  },
+
+  {
+    "animationIndex": 5,
+    "animationName": "Orange Orb Parabola Burst",
+    "soundIndex": 21
+  },
+
+  {
+    "animationIndex": 6,
+    "animationName": "Orange Bite",
+    "soundIndex": 19
+  },
+
+  {
+    "animationIndex": 7,
+    "animationName": "Orb Black Hole",
+    "soundIndex": 60
+  },
+
+  {
+    "animationIndex": 8,
+    "animationName": "Tsar Bomba",
+    "soundIndex": 49
+  },
+
+  {
+    "animationIndex": 9,
+    "animationName": "Orange Ripple",
+    "soundIndex": 67
+  },
+
+  {
+    "animationIndex": 10,
+    "animationName": "Orange Triple Ripple",
+    "soundIndex": 68
+  },
+
+  {
+    "animationIndex": 11,
+    "animationName": "White Flaming Jaws",
+    "soundIndex": 112
+  },
+
+  {
+    "animationIndex": 12,
+    "animationName": "Neat Fire Spiral",
+    "soundIndex": 50
+  },
+
+  {
+    "animationIndex": 13,
+    "animationName": "Small Fire Burst",
+    "soundIndex": 19
+  },
+
+  {
+    "animationIndex": 14,
+    "animationName": "Red Bullet",
+    "soundIndex": 33
+  },
+
+  {
+    "animationIndex": 15,
+    "animationName": "Expanding Sun",
+    "soundIndex": 46
+  },
+
+  {
+    "animationIndex": 16,
+    "animationName": "Flaming Rubble Burst",
+    "soundIndex": 21
+  },
+
+  {
+    "animationIndex": 17,
+    "animationName": "Giant Flame",
+    "soundIndex": 50
+  },
+
+  {
+    "animationIndex": 18,
+    "animationName": "Long Flamethrower",
+    "soundIndex": 50
+  },
+
+  {
+    "animationIndex": 19,
+    "animationName": "Short Flamethrower",
+    "soundIndex": 7
+  },
+
+  {
+    "animationIndex": 20,
+    "animationName": "Fire Orb Nebula",
+    "soundIndex": 50
+  },
+
+  {
+    "animationIndex": 21,
+    "animationName": "Messy Fire Spiral",
+    "soundIndex": 50
+  },
+
+  {
+    "animationIndex": 22,
+    "animationName": "Yellow Impact Flamethrower",
+    "soundIndex": 47
+  },
+
+  {
+    "animationIndex": 23,
+    "animationName": "Blue Fire Supernova",
+    "soundIndex": 48
+  },
+
+  {
+    "animationIndex": 24,
+    "animationName": "Fire Black Smoke",
+    "soundIndex": 50
+  },
+
+  {
+    "animationIndex": 25,
+    "animationName": "Small Water Beam",
+    "soundIndex": 51
+  },
+
+  {
+    "animationIndex": 26,
+    "animationName": "Blue Cloud Explosion",
+    "soundIndex": 53
+  },
+
+  {
+    "animationIndex": 27,
+    "animationName": "Blue Bubble Beam",
+    "soundIndex": 6
+  },
+
+  {
+    "animationIndex": 28,
+    "animationName": "Popping Blue Bubbles",
+    "soundIndex": 109
+  },
+
+  {
+    "animationIndex": 29,
+    "animationName": "Small Gray Flame",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 30,
+    "animationName": "Small Blue Bubbles",
+    "soundIndex": 6
+  },
+
+  {
+    "animationIndex": 31,
+    "animationName": "Blue Circle Beam",
+    "soundIndex": 39
+  },
+
+  {
+    "animationIndex": 32,
+    "animationName": "Blue Bubbling Ripple",
+    "soundIndex": 6
+  },
+
+  {
+    "animationIndex": 33,
+    "animationName": "Blue Crescent Cloud",
+    "soundIndex": 28
+  },
+
+  {
+    "animationIndex": 34,
+    "animationName": "Large Water Beam",
+    "soundIndex": 52
+  },
+
+  {
+    "animationIndex": 35,
+    "animationName": "White Cloud Explosion",
+    "soundIndex": 20
+  },
+
+  {
+    "animationIndex": 36,
+    "animationName": "Slow Sparse Bubbles",
+    "soundIndex": 6
+  },
+
+  {
+    "animationIndex": 37,
+    "animationName": "Small Popping Bubbles",
+    "soundIndex": 109
+  },
+
+  {
+    "animationIndex": 38,
+    "animationName": "Pale Blue Waterfall",
+    "soundIndex": 51
+  },
+
+  {
+    "animationIndex": 39,
+    "animationName": "Lightning Spark",
+    "soundIndex": 4
+  },
+
+  {
+    "animationIndex": 40,
+    "animationName": "Hover Spark Ball",
+    "soundIndex": 55
+  },
+
+  {
+    "animationIndex": 41,
+    "animationName": "Fast Spark Ball",
+    "soundIndex": 35
+  },
+
+  {
+    "animationIndex": 42,
+    "animationName": "Spark Ball Green Fade",
+    "soundIndex": 4
+  },
+
+  {
+    "animationIndex": 43,
+    "animationName": "Small Expanding Spark Ball",
+    "soundIndex": 55
+  },
+
+  {
+    "animationIndex": 44,
+    "animationName": "Blue Yellow Electricity",
+    "soundIndex": 56
+  },
+
+  {
+    "animationIndex": 45,
+    "animationName": "Triple Lightning",
+    "soundIndex": 54
+  },
+
+  {
+    "animationIndex": 46,
+    "animationName": "Lightning Yellow Orbs",
+    "soundIndex": 57
+  },
+
+  {
+    "animationIndex": 47,
+    "animationName": "Large Expanding Spark Ball",
+    "soundIndex": 56
+  },
+
+  {
+    "animationIndex": 48,
+    "animationName": "Flash Spark Ball",
+    "soundIndex": 57
+  },
+
+  {
+    "animationIndex": 49,
+    "animationName": "Yellow Green Electricity",
+    "soundIndex": 56
+  },
+
+  {
+    "animationIndex": 50,
+    "animationName": "Giant Electricity Blast",
+    "soundIndex": 57
+  },
+
+  {
+    "animationIndex": 51,
+    "animationName": "Green Orb Drain",
+    "soundIndex": 43
+  },
+
+  {
+    "animationIndex": 52,
+    "animationName": "Green Crescent Slash",
+    "soundIndex": 27
+  },
+
+  {
+    "animationIndex": 53,
+    "animationName": "Many Green Orb Drain",
+    "soundIndex": 44
+  },
+
+  {
+    "animationIndex": 54,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 55,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 56,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 57,
+    "animationName": "Green Slash Leaves",
+    "soundIndex": 103
+  },
+
+  {
+    "animationIndex": 58,
+    "animationName": "Leaf Orb Vortex",
+    "soundIndex": 45
+  },
+
+  {
+    "animationIndex": 59,
+    "animationName": "Green Impact Leaves",
+    "soundIndex": 103
+  },
+
+  {
+    "animationIndex": 60,
+    "animationName": "Leaf Parabola",
+    "soundIndex": 65
+  },
+
+  {
+    "animationIndex": 61,
+    "animationName": "Fast Leaves",
+    "soundIndex": 66
+  },
+
+  {
+    "animationIndex": 62,
+    "animationName": "Many Yellow Crescents",
+    "soundIndex": 31
+  },
+
+  {
+    "animationIndex": 63,
+    "animationName": "Pink Petal Whirlwind",
+    "soundIndex": 45
+  },
+
+  {
+    "animationIndex": 64,
+    "animationName": "Whit Orb Blue Sparkle",
+    "soundIndex": 58
+  },
+
+  {
+    "animationIndex": 65,
+    "animationName": "Snow Whirlwind Ice",
+    "soundIndex": 45
+  },
+
+  {
+    "animationIndex": 66,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 67,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 68,
+    "animationName": "White Blue Barred Beam",
+    "soundIndex": 36
+  },
+
+  {
+    "animationIndex": 69,
+    "animationName": "Ice Scratch Cross",
+    "soundIndex": 8
+  },
+
+  {
+    "animationIndex": 70,
+    "animationName": "Snow Whirlwind Ice Burst",
+    "soundIndex": 59
+  },
+
+  {
+    "animationIndex": 71,
+    "animationName": "Ice Impact Burst",
+    "soundIndex": 19
+  },
+
+  {
+    "animationIndex": 72,
+    "animationName": "Falling Icicles",
+    "soundIndex": 71
+  },
+
+  {
+    "animationIndex": 73,
+    "animationName": "Default",
+    "soundIndex": 25
+  },
+
+  {
+    "animationIndex": 74,
+    "animationName": "Pink Orb Impact",
+    "soundIndex": 18
+  },
+
+  {
+    "animationIndex": 75,
+    "animationName": "Cyan Impact Purple Stars",
+    "soundIndex": 19
+  },
+
+  {
+    "animationIndex": 76,
+    "animationName": "Blue Vortex Ripple",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 77,
+    "animationName": "Blue White Projectile",
+    "soundIndex": 35
+  },
+
+  {
+    "animationIndex": 78,
+    "animationName": "Blue Orb Ripple Slash",
+    "soundIndex": 19
+  },
+
+  {
+    "animationIndex": 79,
+    "animationName": "Yellow Impact Orange Orbs",
+    "soundIndex": 20
+  },
+
+  {
+    "animationIndex": 80,
+    "animationName": "Red Speed Lines",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 81,
+    "animationName": "Orange Impact Burst",
+    "soundIndex": 21
+  },
+
+  {
+    "animationIndex": 82,
+    "animationName": "Blue Crescent Slash",
+    "soundIndex": 30
+  },
+
+  {
+    "animationIndex": 83,
+    "animationName": "Purple Line",
+    "soundIndex": 38
+  },
+
+  {
+    "animationIndex": 84,
+    "animationName": "Purple Impact Bubble",
+    "soundIndex": 26
+  },
+
+  {
+    "animationIndex": 85,
+    "animationName": "Purple Crescent Bubble",
+    "soundIndex": 29
+  },
+
+  {
+    "animationIndex": 86,
+    "animationName": "Purple Bite Bubble",
+    "soundIndex": 26
+  },
+
+  {
+    "animationIndex": 87,
+    "animationName": "White Impact Bubble",
+    "soundIndex": 32
+  },
+
+  {
+    "animationIndex": 88,
+    "animationName": "Purple Orb Line",
+    "soundIndex": 33
+  },
+
+  {
+    "animationIndex": 89,
+    "animationName": "Purple Bubble Explosion",
+    "soundIndex": 26
+  },
+
+  {
+    "animationIndex": 90,
+    "animationName": "Purple Meteors",
+    "soundIndex": 23
+  },
+
+  {
+    "animationIndex": 91,
+    "animationName": "Purple Galaxy Orbs",
+    "soundIndex": 75
+  },
+
+  {
+    "animationIndex": 92,
+    "animationName": "Muddy Orb Line",
+    "soundIndex": 34
+  },
+
+  {
+    "animationIndex": 93,
+    "animationName": "Brown Splatter Shot",
+    "soundIndex": 22
+  },
+
+  {
+    "animationIndex": 94,
+    "animationName": "Mud Ball Rising",
+    "soundIndex": 33
+  },
+
+  {
+    "animationIndex": 95,
+    "animationName": "Big Smoke Rubble",
+    "soundIndex": 21
+  },
+
+  {
+    "animationIndex": 96,
+    "animationName": "Triple Smoke Rubble",
+    "soundIndex": 62
+  },
+
+  {
+    "animationIndex": 97,
+    "animationName": "C 4 Rubble",
+    "soundIndex": 25
+  },
+
+  {
+    "animationIndex": 98,
+    "animationName": "Spinning Impact Burst",
+    "soundIndex": 78
+  },
+
+  {
+    "animationIndex": 99,
+    "animationName": "Volcanic Fire Burst",
+    "soundIndex": 47
+  },
+
+  {
+    "animationIndex": 100,
+    "animationName": "Yellow Impact",
+    "soundIndex": 19
+  },
+
+  {
+    "animationIndex": 101,
+    "animationName": "Yellow Impact White Splatter",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 102,
+    "animationName": "Starry Red Glow",
+    "soundIndex": 21
+  },
+
+  {
+    "animationIndex": 103,
+    "animationName": "Blue Stars",
+    "soundIndex": 76
+  },
+
+  {
+    "animationIndex": 104,
+    "animationName": "Purple Ring Warp",
+    "soundIndex": 39
+  },
+
+  {
+    "animationIndex": 105,
+    "animationName": "Colorful Rings",
+    "soundIndex": 36
+  },
+
+  {
+    "animationIndex": 106,
+    "animationName": "Ring Impact",
+    "soundIndex": 68
+  },
+
+  {
+    "animationIndex": 107,
+    "animationName": "Pink Rings",
+    "soundIndex": 41
+  },
+
+  {
+    "animationIndex": 108,
+    "animationName": "Sleepy Rings",
+    "soundIndex": 40
+  },
+
+  {
+    "animationIndex": 109,
+    "animationName": "Purple Yellow Orbs",
+    "soundIndex": 44
+  },
+
+  {
+    "animationIndex": 110,
+    "animationName": "Purple Stars",
+    "soundIndex": 2
+  },
+
+  {
+    "animationIndex": 111,
+    "animationName": "White Splatter Blue Orbs",
+    "soundIndex": 74
+  },
+
+  {
+    "animationIndex": 112,
+    "animationName": "Purple Vortex",
+    "soundIndex": 64
+  },
+
+  {
+    "animationIndex": 113,
+    "animationName": "Purple Crescent Cut",
+    "soundIndex": 69
+  },
+
+  {
+    "animationIndex": 114,
+    "animationName": "Purple Orb Burst",
+    "soundIndex": 30
+  },
+
+  {
+    "animationIndex": 115,
+    "animationName": "Purple Pink Spaghetti",
+    "soundIndex": 42
+  },
+
+  {
+    "animationIndex": 116,
+    "animationName": "Purple Galaxy",
+    "soundIndex": 64
+  },
+
+  {
+    "animationIndex": 117,
+    "animationName": "Purple Bloom",
+    "soundIndex": 74
+  },
+
+  {
+    "animationIndex": 118,
+    "animationName": "Green Splatter Rubble",
+    "soundIndex": 22
+  },
+
+  {
+    "animationIndex": 119,
+    "animationName": "Yellow Slash Pink Orbs",
+    "soundIndex": 30
+  },
+
+  {
+    "animationIndex": 120,
+    "animationName": "White Slashes",
+    "soundIndex": 30
+  },
+
+  {
+    "animationIndex": 121,
+    "animationName": "Double Purple Lines",
+    "soundIndex": 104
+  },
+
+  {
+    "animationIndex": 122,
+    "animationName": "Purple Splatter",
+    "soundIndex": 101
+  },
+
+  {
+    "animationIndex": 123,
+    "animationName": "Rock Projectile",
+    "soundIndex": 33
+  },
+
+  {
+    "animationIndex": 124,
+    "animationName": "Rock Rubble",
+    "soundIndex": 25
+  },
+
+  {
+    "animationIndex": 125,
+    "animationName": "Falling Rocks",
+    "soundIndex": 71
+  },
+
+  {
+    "animationIndex": 126,
+    "animationName": "Falling Rubble",
+    "soundIndex": 25
+  },
+
+  {
+    "animationIndex": 127,
+    "animationName": "Rising Rocks",
+    "soundIndex": 45
+  },
+
+  {
+    "animationIndex": 128,
+    "animationName": "Rising Boulder",
+    "soundIndex": 72
+  },
+
+  {
+    "animationIndex": 129,
+    "animationName": "Falling Boulder",
+    "soundIndex": 47
+  },
+
+  {
+    "animationIndex": 130,
+    "animationName": "Tongue",
+    "soundIndex": 70
+  },
+
+  {
+    "animationIndex": 131,
+    "animationName": "Yellow Impact Bubbles",
+    "soundIndex": 19
+  },
+
+  {
+    "animationIndex": 132,
+    "animationName": "Purple Fog",
+    "soundIndex": 68
+  },
+
+  {
+    "animationIndex": 133,
+    "animationName": "Black Ball Smudge",
+    "soundIndex": 64
+  },
+
+  {
+    "animationIndex": 134,
+    "animationName": "Black Splatter",
+    "soundIndex": 31
+  },
+
+  {
+    "animationIndex": 135,
+    "animationName": "Purple Ball Vortex",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 136,
+    "animationName": "Purple Ball",
+    "soundIndex": 33
+  },
+
+  {
+    "animationIndex": 137,
+    "animationName": "Purple Ball Explosion",
+    "soundIndex": 46
+  },
+
+  {
+    "animationIndex": 138,
+    "animationName": "Dark Blue Yellow Beam",
+    "soundIndex": 50
+  },
+
+  {
+    "animationIndex": 139,
+    "animationName": "Purple Fog Ball",
+    "soundIndex": 7
+  },
+
+  {
+    "animationIndex": 140,
+    "animationName": "Pink Speed Lines",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 141,
+    "animationName": "Black Claw Marks",
+    "soundIndex": 30
+  },
+
+  {
+    "animationIndex": 142,
+    "animationName": "Purple Crescent Rubble",
+    "soundIndex": 25
+  },
+
+  {
+    "animationIndex": 143,
+    "animationName": "Purple Ringed Energy Orb",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 144,
+    "animationName": "Purple Ringed Energy Beam",
+    "soundIndex": 37
+  },
+
+  {
+    "animationIndex": 145,
+    "animationName": "Purple Circle Explosions",
+    "soundIndex": 21
+  },
+
+  {
+    "animationIndex": 146,
+    "animationName": "Expanding Atoms",
+    "soundIndex": 79
+  },
+
+  {
+    "animationIndex": 147,
+    "animationName": "Blue Time Gear",
+    "soundIndex": 81
+  },
+
+  {
+    "animationIndex": 148,
+    "animationName": "Purple Gas Bursts",
+    "soundIndex": 49
+  },
+
+  {
+    "animationIndex": 149,
+    "animationName": "Purple Orb Ring",
+    "soundIndex": 18
+  },
+
+  {
+    "animationIndex": 150,
+    "animationName": "Purple Ring Chomp",
+    "soundIndex": 112
+  },
+
+  {
+    "animationIndex": 151,
+    "animationName": "Purple Ring Rubble Chomp",
+    "soundIndex": 112
+  },
+
+  {
+    "animationIndex": 152,
+    "animationName": "Purple White Slashes",
+    "soundIndex": 77
+  },
+
+  {
+    "animationIndex": 153,
+    "animationName": "Purple Orb Rings Vortex",
+    "soundIndex": 64
+  },
+
+  {
+    "animationIndex": 154,
+    "animationName": "Purple Orb Splatter",
+    "soundIndex": 31
+  },
+
+  {
+    "animationIndex": 155,
+    "animationName": "Silver Rubble Burst",
+    "soundIndex": 25
+  },
+
+  {
+    "animationIndex": 156,
+    "animationName": "Silver Star Shimmer",
+    "soundIndex": 69
+  },
+
+  {
+    "animationIndex": 157,
+    "animationName": "Silver Crescent Rubble",
+    "soundIndex": 28
+  },
+
+  {
+    "animationIndex": 158,
+    "animationName": "Silver Loading Ring",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 159,
+    "animationName": "Silver Ring Warp",
+    "soundIndex": 21
+  },
+
+  {
+    "animationIndex": 160,
+    "animationName": "Orange Yellow Multi Bursts",
+    "soundIndex": 23
+  },
+
+  {
+    "animationIndex": 161,
+    "animationName": "Yellow Star Shower",
+    "soundIndex": 73
+  },
+
+  {
+    "animationIndex": 162,
+    "animationName": "Sparkly Expanding Atom",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 163,
+    "animationName": "Red Aura Blue Ball",
+    "soundIndex": 33
+  },
+
+  {
+    "animationIndex": 164,
+    "animationName": "Red Aura Blue Ball Explosion",
+    "soundIndex": 80
+  },
+
+  {
+    "animationIndex": 165,
+    "animationName": "Shadow Spirit Blobs",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 166,
+    "animationName": "Small Fire Bursts",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 167,
+    "animationName": "Skinny Flamethrower",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 168,
+    "animationName": "Quick Yellow Beam",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 169,
+    "animationName": "Quick Purple Beam",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 170,
+    "animationName": "Purple Gas Line",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 171,
+    "animationName": "Quick Pink Beam",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 172,
+    "animationName": "Fire Smudge",
+    "soundIndex": 33
+  },
+
+  {
+    "animationIndex": 173,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 174,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 175,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 176,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 177,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 178,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 179,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 180,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 181,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 182,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 183,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 184,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 185,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 186,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 187,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 188,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 189,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 190,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 191,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 192,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 193,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 194,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 195,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 196,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 197,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 198,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 199,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 200,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 201,
+    "animationName": "Yellow Blue Shine",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 202,
+    "animationName": "Grey Smoke Yellow Stars",
+    "soundIndex": 1
+  },
+
+  {
+    "animationIndex": 203,
+    "animationName": "Blue Yellow Stars",
+    "soundIndex": 2
+  },
+
+  {
+    "animationIndex": 204,
+    "animationName": "Healing Rings",
+    "soundIndex": 3
+  },
+
+  {
+    "animationIndex": 205,
+    "animationName": "Quick Lightning Surges",
+    "soundIndex": 4
+  },
+
+  {
+    "animationIndex": 206,
+    "animationName": "Sleepy Zs",
+    "soundIndex": 5
+  },
+
+  {
+    "animationIndex": 207,
+    "animationName": "Purple Poison Bubbles",
+    "soundIndex": 6
+  },
+
+  {
+    "animationIndex": 208,
+    "animationName": "Longer Purple Poison Bubbles",
+    "soundIndex": 6
+  },
+
+  {
+    "animationIndex": 209,
+    "animationName": "Small Flames",
+    "soundIndex": 7
+  },
+
+  {
+    "animationIndex": 210,
+    "animationName": "Ice Rock Burst",
+    "soundIndex": 8
+  },
+
+  {
+    "animationIndex": 211,
+    "animationName": "Spinning Stars",
+    "soundIndex": 9
+  },
+
+  {
+    "animationIndex": 212,
+    "animationName": "Quick White Rings",
+    "soundIndex": 10
+  },
+
+  {
+    "animationIndex": 213,
+    "animationName": "Blue Rising Blobs",
+    "soundIndex": 11
+  },
+
+  {
+    "animationIndex": 214,
+    "animationName": "Red Falling Blobs",
+    "soundIndex": 12
+  },
+
+  {
+    "animationIndex": 215,
+    "animationName": "Healing Stars",
+    "soundIndex": 11
+  },
+
+  {
+    "animationIndex": 216,
+    "animationName": "Star Fountain",
+    "soundIndex": 13
+  },
+
+  {
+    "animationIndex": 217,
+    "animationName": "Falling Sakura Petals",
+    "soundIndex": 65
+  },
+
+  {
+    "animationIndex": 218,
+    "animationName": "Flinch Bubbles",
+    "soundIndex": 12
+  },
+
+  {
+    "animationIndex": 219,
+    "animationName": "White Pulse",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 220,
+    "animationName": "Causes A Softlock Dont Use",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 221,
+    "animationName": "Linking 1",
+    "soundIndex": 120
+  },
+
+  {
+    "animationIndex": 222,
+    "animationName": "Linking 2",
+    "soundIndex": 121
+  },
+
+  {
+    "animationIndex": 223,
+    "animationName": "Small White Pulse",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 224,
+    "animationName": "Unmoving Smoke",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 225,
+    "animationName": "Blank 34",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 226,
+    "animationName": "Confusion SFX",
+    "soundIndex": 41
+  },
+
+  {
+    "animationIndex": 227,
+    "animationName": "Brown Circle Explosion",
+    "soundIndex": 46
+  },
+
+  {
+    "animationIndex": 228,
+    "animationName": "Pink Quick Pulses",
+    "soundIndex": 101
+  },
+
+  {
+    "animationIndex": 229,
+    "animationName": "Yellow Rising Blobs",
+    "soundIndex": 60
+  },
+
+  {
+    "animationIndex": 230,
+    "animationName": "Yellow Falling Blobs",
+    "soundIndex": 80
+  },
+
+  {
+    "animationIndex": 231,
+    "animationName": "Future Sight Shadow Sneak SFX",
+    "soundIndex": 64
+  },
+
+  {
+    "animationIndex": 232,
+    "animationName": "Heavy White Pulse",
+    "soundIndex": 74
+  },
+
+  {
+    "animationIndex": 233,
+    "animationName": "Terrera Wind 1",
+    "soundIndex": 45
+  },
+
+  {
+    "animationIndex": 234,
+    "animationName": "Terrera Wind 2",
+    "soundIndex": 45
+  },
+
+  {
+    "animationIndex": 235,
+    "animationName": "Quick Smokescreen",
+    "soundIndex": 70
+  },
+
+  {
+    "animationIndex": 236,
+    "animationName": "Dragnor Node White Light",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 237,
+    "animationName": "Dragnor Node Red Light",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 238,
+    "animationName": "Dragnor Node Blue Light",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 239,
+    "animationName": "Dragnor Node Green Light",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 240,
+    "animationName": "Dragnor Node Yellow Light",
+    "soundIndex": 63
+  },
+
+  {
+    "animationIndex": 241,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 242,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 243,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 244,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 245,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 246,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 247,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 248,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 249,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 250,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 251,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 252,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 253,
+    "animationName": "Default",
+    "soundIndex": 255
+  },
+
+  {
+    "animationIndex": 254,
+    "animationName": "Default",
+    "soundIndex": 255
+  }
+]

@@ -1,0 +1,781 @@
+[
+  {
+    "effectIndex": 0,
+    "effectName": "Inflicts Fixed Hp Damage",
+
+    "usesValue": true,
+
+    "shortDescription": "Deals fixed {value} damage.",
+    "guaranteedShortDescription": "Deals fixed {value} damage.",
+
+    "longDescription": "This move always inflicts exactly {value} damage to any target hit and ignores weaknesses and resistances, but not immunities.",
+    "guaranteedLongDescription": "This move always inflicts exactly {value} damage to any target hit and ignores weaknesses and resistances, but not immunities."
+  },
+
+  {
+    "effectIndex": 1,
+    "effectName": "Double Power If Target Sleep",
+
+    "usesValue": false,
+
+    "shortDescription": "Double damage if target asleep.",
+    "guaranteedShortDescription": "Double damage if target asleep.",
+
+    "longDescription": "This move inflicts double the damage against sleeping targets.",
+    "guaranteedLongDescription": "This move inflicts double the damage against sleeping targets."
+  },
+
+  {
+    "effectIndex": 2,
+    "effectName": "Double Power If Target Statused",
+
+    "usesValue": false,
+
+    "shortDescription": "Double damage if target statused.",
+    "guaranteedShortDescription": "Double damage if target statused.",
+
+    "longDescription": "This move inflicts double the damage against targets with a non-volatile status condition (burn, freeze, paralysis, poison, badly poison, or sleep).",
+    "guaranteedLongDescription": "This move inflicts double the damage against targets with a non-volatile status condition (burn, freeze, paralysis, poison, badly poison, or sleep)."
+  },
+
+  {
+    "effectIndex": 3,
+    "effectName": "Double Power With Consecutive Uses",
+
+    "usesValue": false,
+
+    "shortDescription": "Doubles damage each hit (resets after five).",
+    "guaranteedShortDescription": "Doubles damage each hit (resets after five).",
+
+    "longDescription": "This move inflicts double the damage the following turn after successfully hitting at least one target and stacks each turn. Damage resets after the fifth consecutive hit (a x16 multiplier) or no target is hit in a turn. However, damage is not reset if the turn is spent linking with a wild Pokemon.",
+    "guaranteedLongDescription": "This move inflicts double the damage the following turn after successfully hitting at least one target and stacks each turn. Damage resets after the fifth consecutive hit (a x16 multiplier) or no target is hit in a turn. However, damage is not reset if the turn is spent linking with a wild Pokemon."
+  },
+
+  {
+    "effectIndex": 4,
+    "effectName": "Ignore Target Stat Modifiers",
+
+    "usesValue": false,
+
+    "shortDescription": "Ignores target's stat changes.",
+    "guaranteedShortDescription": "Ignores target's stat changes.",
+
+    "longDescription": "This move ignores any changes to the target's Defense stat.",
+    "guaranteedLongDescription": "This move ignores any changes to the target's Defense stat."
+  },
+
+  {
+    "effectIndex": 5,
+    "effectName": "Stronger The Faster User Is Than Target",
+
+    "usesValue": false,
+
+    "shortDescription": "Damage increases the faster the user than the target.",
+    "guaranteedShortDescription": "Damage increases the faster the user than the target.",
+
+    "longDescription": "This move inflicts more damage the faster the user is compared to the target. Multiply the damage by a multiplier based on the quotient of the user's Speed divided by the target's Speed (rounded down). If the quotient is 4 or more, multiply the damage by 3.75. If the quotient is 3, multiply the damage by 3. If the quotient is 2, multiply the damage by 2. If the quotient is 1, multiply the damage by 1.5. If the If the user is slower than the target (the quotient is 0), no multiplier is applied.",
+    "guaranteedLongDescription": "This move inflicts more damage the faster the user is compared to the target. Multiply the damage by a multiplier based on the quotient of the user's Speed divided by the target's Speed (rounded down). If the quotient is 4 or more, multiply the damage by 3.75. If the quotient is 3, multiply the damage by 3. If the quotient is 2, multiply the damage by 2. If the quotient is 1, multiply the damage by 1.5. If the If the user is slower than the target (the quotient is 0), no multiplier is applied."
+  },
+
+  {
+    "effectIndex": 6,
+    "effectName": "Stronger The Slower User Is Than Target",
+
+    "usesValue": false,
+
+    "shortDescription": "Damage increases the slower the user than the target.",
+    "guaranteedShortDescription": "Damage increases the slower the user than the target.",
+
+    "longDescription": "This move inflicts more damage the slower the user is compared to the target. Multiply the damage by the quotient of the target's Speed divided by the user's Speed (rounded down and no more than 6). If the user is faster than the target, this becomes a 0x multiplier, resulting in this move always inflicting exactly one damage.",
+    "guaranteedLongDescription": "This move inflicts more damage the slower the user is compared to the target. Multiply the damage by the quotient of the target's Speed divided by the user's Speed (rounded down and no more than 6). If the user is faster than the target, this becomes a 0x multiplier, resulting in this move always inflicting exactly one damage."
+  },
+
+  {
+    "effectIndex": 7,
+    "effectName": "Double Power If Target Damaged This Turn",
+
+    "usesValue": false,
+
+    "shortDescription": "Double damage if target already damaged this turn.",
+    "guaranteedShortDescription": "Double damage if target already damaged this turn.",
+
+    "longDescription": "This move inflicts double the damage against targets that have already taken damage this turn.",
+    "guaranteedLongDescription": "This move inflicts double the damage against targets that have already taken damage this turn."
+  },
+
+  {
+    "effectIndex": 8,
+    "effectName": "Uses Targets Attack Stat",
+
+    "usesValue": false,
+
+    "shortDescription": "Uses target's Attack stat instead of user's.",
+    "guaranteedShortDescription": "Uses target's Attack stat instead of user's.",
+
+    "longDescription": "The target's Attack stat is used instead of the user's during damage calculation. Attack stat stage-modifiers applied to the target are used instead of those applied to the user, but other modifers such as held items, abilties, and burn are applied based on the user, not the target.",
+    "guaranteedLongDescription": "The target's Attack stat is used instead of the user's during damage calculation. Attack stat stage-modifiers applied to the target are used instead of those applied to the user, but other modifers such as held items, abilties, and burn are applied based on the user, not the target."
+  },
+
+  {
+    "effectIndex": 9,
+    "effectName": "High Critical Hit Chance",
+
+    "usesValue": false,
+
+    "shortDescription": "High critical hit ratio.",
+    "guaranteedShortDescription": "High critical hit ratio.",
+
+    "longDescription": "This move's chance of landing a critical hit is increased by one stage.",
+    "guaranteedLongDescription": "This move's chance of landing a critical hit is increased by one stage."
+  },
+
+  {
+    "effectIndex": 10,
+    "effectName": "Unused 1",
+
+    "usesValue": false,
+
+    "shortDescription": "",
+    "guaranteedShortDescription": "",
+
+    "longDescription": "",
+    "guaranteedLongDescription": ""
+  },
+
+  {
+    "effectIndex": 11,
+    "effectName": "Hits 2 Times",
+
+    "usesValue": false,
+
+    "shortDescription": "Hits twice.",
+    "guaranteedShortDescription": "Hits twice.",
+
+    "longDescription": "This move hits twice. However, if the first hit fails against any of the targets for any reason (unless it is due to an allied Pokemon hitting a teammate and (abilities) triggering, the second hit will not activate and the move will end. If the first hit successfully damages all targets, the second hit will not have an accuracy check. Each hit triggers critical hits, abilities, held items, move effects, user movement, and target knockback independently.",
+    "guaranteedLongDescription": "This move hits twice. However, if the first hit fails against any of the targets for any reason, the second hit will not activate and the move will end. If the first hit successfully damages all targets, the second hit will not have an accuracy check. Each hit triggers critical hits, abilities, held items, move effects, user movement, and target knockback independently."
+  },
+
+  {
+    "effectIndex": 12,
+    "effectName": "Hits 5 Times",
+
+    "usesValue": false,
+
+    "shortDescription": "Hits 5 times.",
+    "guaranteedShortDescription": "Hits 5 times.",
+
+    "longDescription": "This move hits five times. However, if the first hit fails against any of the targets for any reason, additional hits will not activate and the move will end. If the first hit successfully damages all targets, additional hits will not have an accuracy check. Each hit triggers critical hits, abilities, held items, move effects, user movement, and target knockback independently.",
+    "guaranteedLongDescription": "This move hits five times. However, if the first hit fails against any of the targets for any reason, additional hits will not activate and the move will end. If the first hit successfully damages all targets, additional hits will not have an accuracy check. Each hit triggers critical hits, abilities, held items, move effects, user movement, and target knockback independently."
+  },
+
+  {
+    "effectIndex": 13,
+    "effectName": "Hits 2 To 3 Times",
+
+    "usesValue": false,
+
+    "shortDescription": "Hits 2-3 times.",
+    "guaranteedShortDescription": "Hits 2-3 times.",
+
+    "longDescription": "This move hits two to three times. However, if the first hit fails against any of the targets for any reason, additional hits will not activate and the move will end. If the first hit successfully damages all targets, additional hits will not have an accuracy check. Each hit triggers critical hits, abilities, held items, move effects, user movement, and target knockback independently.",
+    "guaranteedLongDescription": "This move hits two to three times. However, if the first hit fails against any of the targets for any reason, additional hits will not activate and the move will end. If the first hit successfully damages all targets, additional hits will not have an accuracy check. Each hit triggers critical hits, abilities, held items, move effects, user movement, and target knockback independently."
+  },
+
+  {
+    "effectIndex": 14,
+    "effectName": "Hits 2 To 5 Times",
+
+    "usesValue": false,
+
+    "shortDescription": "Hits 2-5 times.",
+    "guaranteedShortDescription": "Hits 2-5 times.",
+
+    "longDescription": "This move hits two to five times. However, if the first hit fails against any of the targets for any reason, additional hits will not activate and the move will end. If the first hit successfully damages all targets, additional hits will not have an accuracy check. Each hit triggers critical hits, abilities, held items, move effects, user movement, and target knockback independently.",
+    "guaranteedLongDescription": "This move hits two to five times. However, if the first hit fails against any of the targets for any reason, additional hits will not activate and the move will end. If the first hit successfully damages all targets, additional hits will not have an accuracy check. Each hit triggers critical hits, abilities, held items, move effects, user movement, and target knockback independently."
+  },
+
+  {
+    "effectIndex": 15,
+    "effectName": "Hits 4 To 5 Times",
+
+    "usesValue": false,
+
+    "shortDescription": "Hits 4-5 times.",
+    "guaranteedShortDescription": "Hits 4-5 times.",
+
+    "longDescription": "This move hits four to five times. However, if the first hit fails against any of the targets for any reason, additional hits will not activate and the move will end. If the first hit successfully damages all targets, additional hits will not have an accuracy check. Each hit triggers critical hits, abilities, held items, move effects, user movement, and target knockback independently.",
+    "guaranteedLongDescription": "This move hits four to five times. However, if the first hit fails against any of the targets for any reason, additional hits will not activate and the move will end. If the first hit successfully damages all targets, additional hits will not have an accuracy check. Each hit triggers critical hits, abilities, held items, move effects, user movement, and target knockback independently."
+  },
+
+  {
+    "effectIndex": 16,
+    "effectName": "Vanishes And Hits Start Of Next Turn",
+
+    "usesValue": false,
+
+    "shortDescription": "User disappears turn 1, hits turn 2.",
+    "guaranteedShortDescription": "User disappears turn 1, hits turn 2",
+
+    "longDescription": "When this move is used, the user disappears until the start of its next turn, at which point the attack is executed. When the user disappears, they remain on the tile they are occupying and no longer interact with anything (such as allies, enemies, or battlefield features). The attack is automatically executed at the start of the user's next turn, with no input from the player, after which the user's turn is finished. When executed, the attack will still hit targets even if they moved to a new tile.",
+    "guaranteedLongDescription": "When this move is used, the user disappears until the start of its next turn, at which point the attack is executed. When the user disappears, they remain on the tile they are occupying and no longer interact with anything (such as allies, enemies, or battlefield features). The attack is automatically executed at the start of the user's next turn, with no input from the player, after which the user's turn is finished. When executed, the attack will still hit targets even if they moved to a new tile."
+  },
+
+  {
+    "effectIndex": 17,
+    "effectName": "Vanishes With Target And Hits Start Of Next Turn",
+
+    "usesValue": false,
+
+    "shortDescription": "User and targets disappear turn 1, hits turn 2.",
+    "guaranteedShortDescription": "User and targets disappear turn 1, hits turn 2.",
+
+    "longDescription": "When this move is used, the user and targets disappear until the start of the user's next turn, at which point the attack is executed. When the user and targets disappear, they remain on the tile they are occupying and no longer interact with anything (such as allies, enemies, or battlefield features). The attack is automatically executed at the start of the user's next turn, with no input from the player, after which the user's turn is finished. Targets that have disappeared due to this effect cannot act on its turn, effectively skipping its turn.",
+    "guaranteedLongDescription": "When this move is used, the user and targets disappear until the start of the user's next turn, at which point the attack is executed. When the user and targets disappear, they remain on the tile they are occupying and no longer interact with anything (such as allies, enemies, or battlefield features). The attack is automatically executed at the start of the user's next turn, with no input from the player, after which the user's turn is finished. Targets that have disappeared due to this effect cannot act on its turn, effectively skipping its turn."
+  },
+
+  {
+    "effectIndex": 18,
+    "effectName": "Hits Start Of Turn After Next",
+
+    "usesValue": false,
+
+    "shortDescription": "Hits start of opponent's second turn after use.",
+    "guaranteedShortDescription": "Hits start of opponent's second turn after use.",
+
+    "longDescription": "This move inflicts damage at the start of the opponent's second turn after this attack is used. The user uses the attack on its turn; nothing happens on the opponent's turn; nothing happens on the user's turn; damage is automatically inflicted, with no input from the player, at the start of the opponent's turn. The damage is still inflicted even if the user faints or the targets move to a new tile before execution of the attack. The user can only have one attack in progress at a time, but is free to move around and take other actions while waiting for the attack to execute.",
+    "guaranteedLongDescription": "This move inflicts damage at the start of the opponent's second turn after this attack is used. The user uses the attack on its turn; nothing happens on the opponent's turn; nothing happens on the user's turn; damage is automatically inflicted, with no input from the player, at the start of the opponent's turn. The damage is still inflicted even if the user faints or the targets move to a new tile before execution of the attack. The user can only have one attack in progress at a time, but is free to move around and take other actions while waiting for the attack to execute."
+  },
+
+  {
+    "effectIndex": 19,
+    "effectName": "Switch With Target If Its At Destination",
+
+    "usesValue": false,
+
+    "shortDescription": "User switches place with Pokemon behind.",
+    "guaranteedShortDescription": "User switches place with Pokemon behind.",
+
+    "longDescription": "The user will switch places with the Pokemon directly behind it if this move succesfully hits a target.",
+    "guaranteedLongDescription": "The user will switch places with the Pokemon directly behind it if this move succesfully hits a target."
+  },
+
+  {
+    "effectIndex": 20,
+    "effectName": "Switch Target With Pokemon Behind It",
+
+    "usesValue": false,
+
+    "shortDescription": "Target switches place with Pokemon behind.",
+    "guaranteedShortDescription": "Target switches place with Pokemon behind.",
+
+    "longDescription": "Any target successfully hit by this move will switch places with the Pokemon directly behind it.",
+    "guaranteedLongDescription": "Any target successfully hit by this move will switch places with the Pokemon directly behind it."
+  },
+
+  {
+    "effectIndex": 21,
+    "effectName": "Heals User By Percentage Of Damage Dealt",
+
+    "usesValue": true,
+
+    "shortDescription": "Heals user by {value}% of damage dealt.",
+    "guaranteedShortDescription": "Heals user by {value}% of damage dealt.",
+
+    "longDescription": "The user's HP is restored by {value}% of the damage dealt by the attack (minimum of 1 HP restored).",
+    "guaranteedLongDescription": "The user's HP is restored by {value}% of the damage dealt by the attack (minimum of 1 HP restored)."
+  },
+
+  {
+    "effectIndex": 22,
+    "effectName": "User Teleports Randomly",
+
+    "usesValue": false,
+
+    "shortDescription": "Moves user to random open tile.",
+    "guaranteedShortDescription": "Moves user to random open tile.",
+
+    "longDescription": "The user is moved to a random open tile at the start of the attack and then damage is dealt based on the new location.",
+    "guaranteedLongDescription": "The user is moved to a random open tile at the start of the attack and then damage is dealt based on the new location."
+  },
+
+  {
+    "effectIndex": 23,
+    "effectName": "Cannot Be Used Turn After Hitting",
+
+    "usesValue": false,
+
+    "shortDescription": "Cannot be used turn after succesful hit.",
+    "guaranteedShortDescription": "Cannot be used turn after succesful hit.",
+
+    "longDescription": "This move must recharge and cannot be used again the turn after succesfully hitting at least one target. The user is free to move around and take other actions while waiting for the attack to recharge.",
+    "guaranteedLongDescription": "This move must recharge and cannot be used again the turn after succesfully hitting at least one target. The user is free to move around and take other actions while waiting for the attack to recharge."
+  },
+
+  {
+    "effectIndex": 24,
+    "effectName": "User Has Zero Range For One Turn",
+
+    "usesValue": false,
+
+    "shortDescription": "User Range to 0 next turn.",
+    "guaranteedShortDescription": "User Range to 0 next turn.",
+
+    "longDescription": "The user's Range is lowered to zero until the end of its next turn.",
+    "guaranteedLongDescription": "The user's Range is lowered to zero until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 25,
+    "effectName": "Lower User Range And Defence For One Turn",
+
+    "usesValue": false,
+
+    "shortDescription": "User Range to 1, Defense -1 stage next turn.",
+    "guaranteedShortDescription": "User Range to 1, Defense -1 stage next turn.",
+
+    "longDescription": "The user's Range is lowered to one and its Defense is lowered by one stage until the end of its next turn.",
+    "guaranteedLongDescription": "The user's Range is lowered to one and its Defense is lowered by one stage until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 26,
+    "effectName": "Damages User If Misses",
+
+    "usesValue": false,
+
+    "shortDescription": "User hurt by 50% of its max HP if miss.",
+    "guaranteedShortDescription": "User hurt by 50% of its max HP if miss.",
+
+    "longDescription": "The user takes damage equal to 50% of its max HP (rounded down) if the attack misses any of the targets.",
+    "guaranteedLongDescription": "The user takes damage equal to 50% of its max HP (rounded down) if the attack misses any of the targets."
+  },
+
+  {
+    "effectIndex": 27,
+    "effectName": "Chance To Lower Target Attack",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to lower target's Attack.",
+    "guaranteedShortDescription": "Lowers target's Attack.",
+
+    "longDescription": "This move has a {value}% chance to lower the target's Attack stat by one stage until the end of its next turn.",
+    "guaranteedLongDescription": "This move lowers the target's Attack stat by one stage until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 28,
+    "effectName": "Chance To Raise User Attack",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to raise user's Attack.",
+    "guaranteedShortDescription": "Raises user's Attack.",
+
+    "longDescription": "This move has a {value}% chance to raise the user's Attack stat by one stage until the end of its next turn.",
+    "guaranteedLongDescription": "This move raises the user's Attack stat by one stage until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 29,
+    "effectName": "Chance To Lower User Attack",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to lower user's Attack.",
+    "guaranteedShortDescription": "Lowers user's Attack.",
+
+    "longDescription": "This move has a {value}% chance to lower the user's Attack stat by one stage until the end of its next turn.",
+    "guaranteedLongDescription": "This move lowers the user's Attack stat by one stage until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 30,
+    "effectName": "Chance To Lower Target Defence",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to lower target's Defense.",
+    "guaranteedShortDescription": "Lowers target's Defense.",
+
+    "longDescription": "This move has a {value}% chance to lower the target's Defense stat by one stage until the end of its next turn.",
+    "guaranteedLongDescription": "This move lowers the target's Defense stat by one stage until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 31,
+    "effectName": "Chance To Raise User Defence",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to raise user's Defense.",
+    "guaranteedShortDescription": "Raises user's Defense.",
+
+    "longDescription": "This move has a {value}% chance to raise the user's Defense stat by one stage until the end of its next turn.",
+    "guaranteedLongDescription": "This move raises the user's Defense stat by one stage until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 32,
+    "effectName": "Chance To Lower User Defence",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to lower user's Defense.",
+    "guaranteedShortDescription": "Lowers user's Defense.",
+
+    "longDescription": "This move has a {value}% chance to lower the user's Defense stat by one stage until the end of its next turn.",
+    "guaranteedLongDescription": "This move lowers the user's Defense stat by one stage until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 33,
+    "effectName": "Chance To Lower Target Speed",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to lower target's Speed.",
+    "guaranteedShortDescription": "Lowers target's Speed.",
+
+    "longDescription": "This move has a {value}% chance to lower the target's Speed stat by one stage until the end of its next turn.",
+    "guaranteedLongDescription": "This move lowers the target's Speed stat by one stage until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 34,
+    "effectName": "Chance To Raise User Speed",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to raise user's Speed.",
+    "guaranteedShortDescription": "Raises user's Speed.",
+
+    "longDescription": "This move has a {value}% chance to raise the user's Speed stat by one stage until the end of its next turn.",
+    "guaranteedLongDescription": "This move raises the user's Speed stat by one stage until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 35,
+    "effectName": "Chance To Lower User Speed",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to lower user's Speed.",
+    "guaranteedShortDescription": "Lowers user's Speed.",
+
+    "longDescription": "This move has a {value}% chance to lower the user's Speed stat by one stage until the end of its next turn.",
+    "guaranteedLongDescription": "This move lowers the user's Speed stat by one stage until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 36,
+    "effectName": "Chance Lower Target Accuracy",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to lower target's Accuracy.",
+    "guaranteedShortDescription": "Lowers target's Accuracy.",
+
+    "longDescription": "This move has a {value}% chance to lower the target's Accuracy stat by one stage until the end of its next turn.",
+    "guaranteedLongDescription": "This move lowers the target's Accuracy stat by one stage until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 37,
+    "effectName": "Chance To Paralyze Target",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to paralyze target.",
+    "guaranteedShortDescription": "Paralyzes target.",
+
+    "longDescription": "This move has a {value}% chance to paralyze the target.",
+    "guaranteedLongDescription": "This move paralyzes the target."
+  },
+
+  {
+    "effectIndex": 38,
+    "effectName": "Chance To Sleep Target",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to sleep target.",
+    "guaranteedShortDescription": "Puts target to sleep.",
+
+    "longDescription": "This move has a {value}% chance to put the target to sleep.",
+    "guaranteedLongDescription": "This move puts the target to sleep."
+  },
+
+  {
+    "effectIndex": 39,
+    "effectName": "Chance To Poison Target",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to poison target.",
+    "guaranteedShortDescription": "Poisons target.",
+
+    "longDescription": "This move has a {value}% chance to poison the target.",
+    "guaranteedLongDescription": "This move poisons the target."
+  },
+
+  {
+    "effectIndex": 40,
+    "effectName": "Chance To Badly Poison Target",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to badly poison target.",
+    "guaranteedShortDescription": "Badly poisons target.",
+
+    "longDescription": "This move has a {value}% chance to badly poison the target.",
+    "guaranteedLongDescription": "This move badly poisons the target."
+  },
+
+  {
+    "effectIndex": 41,
+    "effectName": "Chance To Burn Target",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to burn target.",
+    "guaranteedShortDescription": "Burns target.",
+
+    "longDescription": "This move has a {value}% chance to burn the target.",
+    "guaranteedLongDescription": "This move burns the target."
+  },
+
+  {
+    "effectIndex": 42,
+    "effectName": "Chance To Freeze Target",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to freeze target.",
+    "guaranteedShortDescription": "Freezes target.",
+
+    "longDescription": "This move has a {value}% chance to freeze the target.",
+    "guaranteedLongDescription": "This move freezes the target."
+  },
+
+  {
+    "effectIndex": 43,
+    "effectName": "Chance To Confuse Target",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to confuse target.",
+    "guaranteedShortDescription": "Confuses target.",
+
+    "longDescription": "This move has a {value}% chance to confuse the target.",
+    "guaranteedLongDescription": "This move confuses the target."
+  },
+
+  {
+    "effectIndex": 44,
+    "effectName": "Chance To Flinch Target",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to flinch target.",
+    "guaranteedShortDescription": "Makes target flinch.",
+
+    "longDescription": "This move has a {value}% chance to make the target flinch.",
+    "guaranteedLongDescription": "This move makes the target flinch."
+  },
+
+  {
+    "effectIndex": 45,
+    "effectName": "Thaws User If Frozen",
+
+    "usesValue": false,
+
+    "shortDescription": "Thaws user if frozen.",
+    "guaranteedShortDescription": "Thaws user if frozen.",
+
+    "longDescription": "This move thaws the user out if they are frozen and then inflicts damage on the target.",
+    "guaranteedLongDescription": "This move thaws the user out if they are frozen and then inflicts damage on the target."
+  },
+
+  {
+    "effectIndex": 46,
+    "effectName": "Wakes Target If Sleep",
+
+    "usesValue": false,
+
+    "shortDescription": "Wakes target.",
+    "guaranteedShortDescription": "Wakes target.",
+
+    "longDescription": "This move wakes up the target after inflicting damage.",
+    "guaranteedLongDescription": "This move wakes up the target after inflicting damage."
+  },
+
+  {
+    "effectIndex": 47,
+    "effectName": "Destroys Targets Consumable Item",
+
+    "usesValue": false,
+
+    "shortDescription": "Destroys target's consumable item.",
+    "guaranteedShortDescription": "Destroys target's consumable item.",
+
+    "longDescription": "This move destroys any consumable item held by the target.",
+    "guaranteedLongDescription": "This move destroys any consumable item held by the target."
+  },
+
+  {
+    "effectIndex": 48,
+    "effectName": "Double Power If Target Under Half Hp",
+
+    "usesValue": false,
+
+    "shortDescription": "Double damage if target's HP is 50% or less.",
+    "guaranteedShortDescription": "Double damage if target's HP is 50% or less",
+
+    "longDescription": "This move inflicts double the damage against targets at or below 50% HP.",
+    "guaranteedLongDescription": "This move inflicts double the damage against targets at or below 50% HP."
+  },
+
+  {
+    "effectIndex": 49,
+    "effectName": "Double Power If Target Poisoned",
+
+    "usesValue": false,
+
+    "shortDescription": "Double damage if target poisoned.",
+    "guaranteedShortDescription": "Double damage if target poisoned.",
+
+    "longDescription": "This move inflicts double the damage against poisoned or badly poisoned targets.",
+    "guaranteedLongDescription": "This move inflicts double the damage against poisoned or badly poisoned targets."
+  },
+
+  {
+    "effectIndex": 50,
+    "effectName": "Fails If Target Not Asleep",
+
+    "usesValue": false,
+
+    "shortDescription": "Fails if target not asleep.",
+    "guaranteedShortDescription": "Fails if target not asleep.",
+
+    "longDescription": "This move fails against any target that is not asleep.",
+    "guaranteedLongDescription": "This move fails against any target that is not asleep."
+  },
+
+  {
+    "effectIndex": 51,
+    "effectName": "Uses Targets Consumable Item",
+
+    "usesValue": false,
+
+    "shortDescription": "Steals and uses target's consumable item.",
+    "guaranteedShortDescription": "Steals and uses target's consumable item.",
+
+    "longDescription": "This move steals and uses any consumable item held by the target.",
+    "guaranteedLongDescription": "This move steals and uses any consumable item held by the target."
+  },
+
+  {
+    "effectIndex": 52,
+    "effectName": "Never Misses",
+
+    "usesValue": false,
+
+    "shortDescription": "Bypasses accuracy check.",
+    "guaranteedShortDescription": "Bypasses accuracy check.",
+
+    "longDescription": "This move does not check for accuracy and bypasses dodge-granting abilities during damage calculation.",
+    "guaranteedLongDescription": "This move does not check for accuracy and bypasses dodge-granting abilities during damage calculation."
+  },
+
+  {
+    "effectIndex": 53,
+    "effectName": "Target Invincible For One Turn",
+
+    "usesValue": false,
+
+    "shortDescription": "Target invincible for one turn.",
+    "guaranteedShortDescription": "Target invincible for one turn.",
+
+    "longDescription": "This move causes the target to become invincible for one turn.",
+    "guaranteedLongDescription": "This move causes the target to become invincible for one turn."
+  },
+
+  {
+    "effectIndex": 54,
+    "effectName": "Unused 16",
+
+    "usesValue": false,
+
+    "shortDescription": "",
+    "guaranteedShortDescription": "",
+
+    "longDescription": "",
+    "guaranteedLongDescription": ""
+  },
+
+  {
+    "effectIndex": 55,
+    "effectName": "HotSpring WaterBucket RevivalNode",
+
+    "usesValue": false,
+
+    "shortDescription": "",
+    "guaranteedShortDescription": "",
+
+    "longDescription": "",
+    "guaranteedLongDescription": ""
+  },
+
+  {
+    "effectIndex": 56,
+    "effectName": "Unused 18",
+
+    "usesValue": false,
+
+    "shortDescription": "",
+    "guaranteedShortDescription": "",
+
+    "longDescription": "",
+    "guaranteedLongDescription": ""
+  },
+
+  {
+    "effectIndex": 57,
+    "effectName": "Unused 19",
+
+    "usesValue": false,
+
+    "shortDescription": "",
+    "guaranteedShortDescription": "",
+
+    "longDescription": "",
+    "guaranteedLongDescription": ""
+  },
+
+  {
+    "effectIndex": 58,
+    "effectName": "Chance To Lower Target Range",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to lower target's Range.",
+    "guaranteedShortDescription": "Lowers target's Range.",
+
+    "longDescription": "This move has a {value}% chance to lower the target's Range by one until the end of its next turn.",
+    "guaranteedLongDescription": "This move lowers the target's Range by one until the end of its next turn."
+  },
+
+  {
+    "effectIndex": 59,
+    "effectName": "Chance To Lower User Attack And Defence",
+
+    "usesValue": true,
+
+    "shortDescription": "{value}% chance to lower user's Attack and Defense.",
+    "guaranteedShortDescription": "Lowers user's Attack and Defense.",
+
+    "longDescription": "This move has a {value}% chance to lower the user's Attack and Defense stats by one stage each until the end of its next turn.",
+    "guaranteedLongDescription": "This move lowers the user's Attack and Defense stats by one stage each until the end of its next turn."
+  }
+]

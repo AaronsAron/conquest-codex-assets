@@ -1,0 +1,127 @@
+[
+  {
+    "scenarioIndex": 0,
+    "name": "The Legend Of Ransei",
+
+    "stories": [
+      { "storyIndex": 0, "storyOrder": 0 }
+    ]
+  },
+
+  {
+    "scenarioIndex": 1,
+    "name": "Ninja",
+
+    "stories": [
+      { "storyIndex": 10, "storyOrder": 9 },
+      { "storyIndex": 8, "storyOrder": 16 },
+      { "storyIndex": 13, "storyOrder": 22 },
+      { "storyIndex": 15, "storyOrder": 23 }
+    ]
+  },
+
+  {
+    "scenarioIndex": 2,
+    "name": "Unite Ransei",
+
+    "stories": [
+      { "storyIndex": 1, "storyOrder": 1 },
+      { "storyIndex": 2, "storyOrder": 3 },
+      { "storyIndex": 18, "storyOrder": 8 },
+      { "storyIndex": 29, "storyOrder": 11 }
+    ]
+  },
+
+  {
+    "scenarioIndex": 3,
+    "name": "Collect100 Pokemon",
+
+    "stories": [
+      { "storyIndex": 30, "storyOrder": 6 },
+      { "storyIndex": 3, "storyOrder": 17 },
+      { "storyIndex": 26, "storyOrder": 19 },
+      { "storyIndex": 36, "storyOrder": 33 }
+    ]
+  },
+
+  {
+    "scenarioIndex": 4,
+    "name": "Junior Warlord",
+
+    "stories": [
+      { "storyIndex": 11, "storyOrder": 18 },
+      { "storyIndex": 19, "storyOrder": 20 },
+      { "storyIndex": 21, "storyOrder": 21 },
+      { "storyIndex": 4, "storyOrder": 24 },
+      { "storyIndex": 32, "storyOrder": 25 },
+      { "storyIndex": 16, "storyOrder": 26 },
+      { "storyIndex": 31, "storyOrder": 29 },
+      { "storyIndex": 12, "storyOrder": 31 }
+    ]
+  },
+
+  {
+    "scenarioIndex": 5,
+    "name": "Shingen Vs Kenshin",
+
+    "stories": [
+      { "storyIndex": 14, "storyOrder": 10 },
+      { "storyIndex": 5, "storyOrder": 12 }
+    ]
+  },
+
+  {
+    "scenarioIndex": 6,
+    "name": "Not Worth Fighting Over",
+
+    "stories": [
+      { "storyIndex": 9, "storyOrder": 34 },
+      { "storyIndex": 24, "storyOrder": 35 },
+      { "storyIndex": 34, "storyOrder": 36 }
+    ]
+  },
+
+  {
+    "scenarioIndex": 7,
+    "name": "Ranseis Greatest Beauty",
+
+    "stories": [
+      { "storyIndex": 25, "storyOrder": 2 },
+      { "storyIndex": 6, "storyOrder": 5 },
+      { "storyIndex": 20, "storyOrder": 15 },
+      { "storyIndex": 17, "storyOrder": 27 },
+      { "storyIndex": 33, "storyOrder": 28 },
+      { "storyIndex": 35, "storyOrder": 30 },
+      { "storyIndex": 27, "storyOrder": 32 }
+    ]
+  },
+
+  {
+    "scenarioIndex": 8,
+    "name": "Defeat Nobunaga",
+
+    "stories": [
+      { "storyIndex": 22, "storyOrder": 4 },
+      { "storyIndex": 7, "storyOrder": 7 }
+    ]
+  },
+
+  {
+    "scenarioIndex": 9,
+    "name": "Recruit40 Warriors",
+
+    "stories": [
+      { "storyIndex": 28, "storyOrder": 13 },
+      { "storyIndex": 23, "storyOrder": 14 }
+    ]
+  },
+
+  {
+    "scenarioIndex": 10,
+    "name": "Two Heroes",
+
+    "stories": [
+      { "storyIndex": 37, "storyOrder": 0 }
+    ]
+  }
+]

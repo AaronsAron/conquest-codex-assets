@@ -1,0 +1,1886 @@
+[
+  {
+    "battleConfigIndex": 0,
+    "name": "Aurora",
+
+    "map": { "mapIndex": 0, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 2, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 26, "blue": 31 },
+      "middle": { "red": 20, "green": 26, "blue": 28 },
+      "lower": { "red": 28, "green": 26, "blue": 23 }
+    },
+
+    "numberOfTurns": 20,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 1, "conditionName": "Unknown 1 (Dragnor/Aurora)" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 1,
+    "name": "Ignis",
+
+    "map": { "mapIndex": 1, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 4, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 23, "green": 8, "blue": 3 },
+      "middle": { "red": 13, "green": 2, "blue": 0 },
+      "lower": { "red": 7, "green": 3, "blue": 1 }
+    },
+
+    "numberOfTurns": 20,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 7, "itemName": "CrimsonGrace: 7" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 14, "itemName": "BurnHeal: 14" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 14, "itemName": "BurnHeal: 14" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 2,
+    "name": "Fontaine",
+
+    "map": { "mapIndex": 2, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 3, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 30, "blue": 31 },
+      "middle": { "red": 22, "green": 30, "blue": 30 },
+      "lower": { "red": 31, "green": 30, "blue": 28 }
+    },
+
+    "numberOfTurns": 20,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 5, "itemName": "EmeraldGrace: 5" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 3,
+    "name": "Violight",
+
+    "map": { "mapIndex": 3, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 3, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 2, "green": 2, "blue": 3 },
+      "middle": { "red": 7, "green": 6, "blue": 10 },
+      "lower": { "red": 11, "green": 11, "blue": 13 }
+    },
+
+    "numberOfTurns": 20,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 11, "itemName": "ParlyzHeal: 11" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 17, "itemName": "ParlyzBlock: 17" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 53, "itemName": "Generator: 53" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 4,
+    "name": "Greenleaf",
+
+    "map": { "mapIndex": 4, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 4, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 11, "green": 22, "blue": 31 },
+      "middle": { "red": 12, "green": 26, "blue": 31 },
+      "lower": { "red": 28, "green": 31, "blue": 31 }
+    },
+
+    "numberOfTurns": 15,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 4, "conditionName": "Unknown 3 (Greenleaf)" },
+      { "conditionIndex": 16, "conditionName": "Claim All Banners" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 16, "conditionName": "Claim All Banners" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 5, "itemName": "EmeraldGrace: 5" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 5,
+    "name": "Nixtorm",
+
+    "map": { "mapIndex": 5, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 5, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 26, "green": 29, "blue": 31 },
+      "middle": { "red": 22, "green": 26, "blue": 31 },
+      "lower": { "red": 16, "green": 22, "blue": 31 }
+    },
+
+    "numberOfTurns": 25,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 10, "itemName": "IvoryGrace: 10" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 15, "itemName": "IceHeal: 15" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 21, "itemName": "FreezeBlock: 21" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 6,
+    "name": "Pugilis",
+
+    "map": { "mapIndex": 6, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 8, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 16, "green": 26, "blue": 31 },
+      "middle": { "red": 23, "green": 26, "blue": 28 },
+      "lower": { "red": 28, "green": 26, "blue": 22 }
+    },
+
+    "numberOfTurns": 30,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 8, "conditionName": "Hold All Banners For 5 Turns" },
+      { "conditionIndex": 16, "conditionName": "Claim All Banners" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 8, "conditionName": "Hold All Banners For 5 Turns" },
+      { "conditionIndex": 16, "conditionName": "Claim All Banners" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 7,
+    "name": "Viperia",
+
+    "map": { "mapIndex": 7, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 7, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 19, "green": 13, "blue": 14 },
+      "middle": { "red": 11, "green": 6, "blue": 10 },
+      "lower": { "red": 4, "green": 2, "blue": 3 }
+    },
+
+    "numberOfTurns": 15,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 2, "conditionName": "Unknown 2 (Dragnor/Viperia)" },
+      { "conditionIndex": 16, "conditionName": "Claim All Banners" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 16, "conditionName": "Claim All Banners" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 8, "itemName": "IndigoGrace: 8" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 13, "itemName": "Antidote: 13" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 19, "itemName": "PoisonBlock: 19" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 8,
+    "name": "Terrera",
+
+    "map": { "mapIndex": 8, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 4, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 26, "blue": 31 },
+      "middle": { "red": 20, "green": 26, "blue": 28 },
+      "lower": { "red": 28, "green": 26, "blue": 23 }
+    },
+
+    "numberOfTurns": 20,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 16, "conditionName": "Claim All Banners" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 16, "conditionName": "Claim All Banners" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 9,
+    "name": "Avia",
+
+    "map": { "mapIndex": 9, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 9, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 26, "green": 30, "blue": 26 },
+      "middle": { "red": 20, "green": 28, "blue": 31 },
+      "lower": { "red": 18, "green": 28, "blue": 31 }
+    },
+
+    "numberOfTurns": 20,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 5, "itemName": "EmeraldGrace: 5" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 10,
+    "name": "Illusio",
+
+    "map": { "mapIndex": 10, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 10, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 18, "green": 25, "blue": 31 },
+      "middle": { "red": 27, "green": 30, "blue": 31 },
+      "lower": { "red": 25, "green": 20, "blue": 31 }
+    },
+
+    "numberOfTurns": 20,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 16, "conditionName": "Claim All Banners" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 16, "conditionName": "Claim All Banners" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 11,
+    "name": "Chrysalia",
+
+    "map": { "mapIndex": 11, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 11, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 26, "blue": 31 },
+      "middle": { "red": 20, "green": 26, "blue": 28 },
+      "lower": { "red": 28, "green": 26, "blue": 23 }
+    },
+
+    "numberOfTurns": 20,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 5, "itemName": "EmeraldGrace: 5" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 12,
+    "name": "Cragspur",
+
+    "map": { "mapIndex": 12, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 12, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 17, "green": 24, "blue": 31 },
+      "middle": { "red": 23, "green": 25, "blue": 28 },
+      "lower": { "red": 15, "green": 15, "blue": 15 }
+    },
+
+    "numberOfTurns": 20,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 9, "itemName": "AshenGrace: 9" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 13,
+    "name": "Spectra",
+
+    "map": { "mapIndex": 13, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 7, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 22, "green": 12, "blue": 15 },
+      "middle": { "red": 13, "green": 7, "blue": 9 },
+      "lower": { "red": 2, "green": 1, "blue": 2 }
+    },
+
+    "numberOfTurns": 15,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 11, "itemName": "ParlyzHeal: 11" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 12, "itemName": "Awakening: 12" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 13, "itemName": "Antidote: 13" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 14,
+    "name": "Dragnor",
+
+    "map": { "mapIndex": 14, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 13, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 23, "green": 24, "blue": 23 },
+      "middle": { "red": 13, "green": 12, "blue": 11 },
+      "lower": { "red": 4, "green": 4, "blue": 5 }
+    },
+
+    "numberOfTurns": 15,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 1, "conditionName": "Unknown 1 (Dragnor/Aurora)" },
+      { "conditionIndex": 2, "conditionName": "Unknown 2 (Dragnor/Viperia)" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 14, "itemName": "BurnHeal: 14" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 15,
+    "name": "Yakasha",
+
+    "map": { "mapIndex": 15, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 14, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 4, "green": 4, "blue": 5 },
+      "middle": { "red": 7, "green": 8, "blue": 11 },
+      "lower": { "red": 12, "green": 15, "blue": 17 }
+    },
+
+    "numberOfTurns": 20,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 16,
+    "name": "Valora",
+
+    "map": { "mapIndex": 16, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 15, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 4, "green": 12, "blue": 8 },
+      "middle": { "red": 15, "green": 29, "blue": 19 },
+      "lower": { "red": 10, "green": 29, "blue": 26 }
+    },
+
+    "numberOfTurns": 25,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 17,
+    "name": "InfiniteTower",
+
+    "map": { "mapIndex": 30, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 16, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 7, "green": 7, "blue": 5 },
+      "middle": { "red": 3, "green": 5, "blue": 6 },
+      "lower": { "red": 0, "green": 0, "blue": 0 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 14,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 18,
+    "name": "TestMap_1",
+
+    "map": { "mapIndex": 30, "mapVariant": 1 },
+    "minimap": { "minimapIndex": 16, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 0, "green": 0, "blue": 0 },
+      "middle": { "red": 0, "green": 0, "blue": 0 },
+      "lower": { "red": 0, "green": 0, "blue": 0 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 19,
+    "name": "TestMap_2",
+
+    "map": { "mapIndex": 30, "mapVariant": 2 },
+    "minimap": { "minimapIndex": 16, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 0, "green": 0, "blue": 0 },
+      "middle": { "red": 0, "green": 0, "blue": 0 },
+      "lower": { "red": 0, "green": 0, "blue": 0 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 20,
+    "name": "SacredRuins",
+
+    "map": { "mapIndex": 31, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 2, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 25, "green": 23, "blue": 17 },
+      "middle": { "red": 15, "green": 13, "blue": 9 },
+      "lower": { "red": 7, "green": 6, "blue": 3 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 14,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 21,
+    "name": "TestMap_3",
+
+    "map": { "mapIndex": 31, "mapVariant": 1 },
+    "minimap": { "minimapIndex": 2, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 0, "green": 0, "blue": 0 },
+      "middle": { "red": 0, "green": 0, "blue": 0 },
+      "lower": { "red": 0, "green": 0, "blue": 0 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 22,
+    "name": "TestMap_4",
+
+    "map": { "mapIndex": 31, "mapVariant": 2 },
+    "minimap": { "minimapIndex": 2, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 0, "green": 0, "blue": 0 },
+      "middle": { "red": 0, "green": 0, "blue": 0 },
+      "lower": { "red": 0, "green": 0, "blue": 0 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 20,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 23,
+    "name": "Ravine_3",
+
+    "map": { "mapIndex": 32, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 2, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 30, "blue": 31 },
+      "middle": { "red": 22, "green": 30, "blue": 30 },
+      "lower": { "red": 31, "green": 30, "blue": 28 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 5,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 5, "itemName": "EmeraldGrace: 5" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 24,
+    "name": "Ravine_2",
+
+    "map": { "mapIndex": 32, "mapVariant": 1 },
+    "minimap": { "minimapIndex": 1, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 30, "blue": 31 },
+      "middle": { "red": 22, "green": 30, "blue": 30 },
+      "lower": { "red": 31, "green": 30, "blue": 28 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 5,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 5, "itemName": "EmeraldGrace: 5" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 25,
+    "name": "Ravine_1",
+
+    "map": { "mapIndex": 32, "mapVariant": 2 },
+    "minimap": { "minimapIndex": 0, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 30, "blue": 31 },
+      "middle": { "red": 22, "green": 30, "blue": 30 },
+      "lower": { "red": 31, "green": 30, "blue": 28 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 5,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 5, "itemName": "EmeraldGrace: 5" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 26,
+    "name": "Cave_3",
+
+    "map": { "mapIndex": 33, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 2, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 14, "blue": 9 },
+      "middle": { "red": 9, "green": 8, "blue": 6 },
+      "lower": { "red": 3, "green": 3, "blue": 2 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 5,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 7, "itemName": "CrimsonGrace: 7" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 8, "itemName": "IndigoGrace: 8" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 9, "itemName": "AshenGrace: 9" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 27,
+    "name": "Cave_2",
+
+    "map": { "mapIndex": 33, "mapVariant": 1 },
+    "minimap": { "minimapIndex": 1, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 14, "blue": 9 },
+      "middle": { "red": 9, "green": 8, "blue": 6 },
+      "lower": { "red": 3, "green": 3, "blue": 2 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 5,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 7, "itemName": "CrimsonGrace: 7" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 8, "itemName": "IndigoGrace: 8" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 9, "itemName": "AshenGrace: 9" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 28,
+    "name": "Cave_1",
+
+    "map": { "mapIndex": 33, "mapVariant": 2 },
+    "minimap": { "minimapIndex": 0, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 14, "blue": 9 },
+      "middle": { "red": 9, "green": 8, "blue": 6 },
+      "lower": { "red": 3, "green": 3, "blue": 2 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 5,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 7, "itemName": "CrimsonGrace: 7" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 9, "itemName": "AshenGrace: 9" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 29,
+    "name": "FloatingRock_3",
+
+    "map": { "mapIndex": 34, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 17, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 16, "blue": 21 },
+      "middle": { "red": 22, "green": 25, "blue": 26 },
+      "lower": { "red": 17, "green": 10, "blue": 21 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 4,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 30,
+    "name": "FloatingRock_2",
+
+    "map": { "mapIndex": 34, "mapVariant": 1 },
+    "minimap": { "minimapIndex": 18, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 15, "green": 21, "blue": 27 },
+      "middle": { "red": 22, "green": 25, "blue": 26 },
+      "lower": { "red": 19, "green": 13, "blue": 24 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 4,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 31,
+    "name": "FloatingRock_1",
+
+    "map": { "mapIndex": 34, "mapVariant": 2 },
+    "minimap": { "minimapIndex": 19, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 18, "green": 25, "blue": 31 },
+      "middle": { "red": 27, "green": 30, "blue": 31 },
+      "lower": { "red": 25, "green": 20, "blue": 31 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 4,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 32,
+    "name": "Farm_3",
+
+    "map": { "mapIndex": 35, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 2, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 26, "blue": 31 },
+      "middle": { "red": 20, "green": 26, "blue": 28 },
+      "lower": { "red": 28, "green": 26, "blue": 23 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 3,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 33,
+    "name": "Farm_2",
+
+    "map": { "mapIndex": 35, "mapVariant": 1 },
+    "minimap": { "minimapIndex": 1, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 26, "blue": 31 },
+      "middle": { "red": 20, "green": 26, "blue": 28 },
+      "lower": { "red": 28, "green": 26, "blue": 23 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 3,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 34,
+    "name": "Farm_1",
+
+    "map": { "mapIndex": 35, "mapVariant": 2 },
+    "minimap": { "minimapIndex": 0, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 26, "blue": 31 },
+      "middle": { "red": 20, "green": 26, "blue": 28 },
+      "lower": { "red": 28, "green": 26, "blue": 23 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 3,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 35,
+    "name": "SkyGarden_3",
+
+    "map": { "mapIndex": 36, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 20, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 26, "green": 30, "blue": 26 },
+      "middle": { "red": 20, "green": 28, "blue": 31 },
+      "lower": { "red": 18, "green": 28, "blue": 31 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 4,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 36,
+    "name": "SkyGarden_2",
+
+    "map": { "mapIndex": 36, "mapVariant": 1 },
+    "minimap": { "minimapIndex": 21, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 26, "green": 30, "blue": 26 },
+      "middle": { "red": 20, "green": 28, "blue": 31 },
+      "lower": { "red": 18, "green": 28, "blue": 31 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 4,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 50, "itemName": "IronWristband: 50" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 37,
+    "name": "SkyGarden_1",
+
+    "map": { "mapIndex": 36, "mapVariant": 2 },
+    "minimap": { "minimapIndex": 22, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 26, "green": 30, "blue": 26 },
+      "middle": { "red": 20, "green": 28, "blue": 31 },
+      "lower": { "red": 18, "green": 28, "blue": 31 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 4,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 38,
+    "name": "SnowyMountain_3",
+
+    "map": { "mapIndex": 37, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 2, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 26, "green": 29, "blue": 31 },
+      "middle": { "red": 22, "green": 26, "blue": 31 },
+      "lower": { "red": 16, "green": 22, "blue": 31 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 4,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 10, "itemName": "IvoryGrace: 10" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 39,
+    "name": "SnowyMountain_2",
+
+    "map": { "mapIndex": 37, "mapVariant": 1 },
+    "minimap": { "minimapIndex": 1, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 26, "green": 29, "blue": 31 },
+      "middle": { "red": 22, "green": 26, "blue": 31 },
+      "lower": { "red": 16, "green": 22, "blue": 31 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 4,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 10, "itemName": "IvoryGrace: 10" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 40,
+    "name": "SnowyMountain_1",
+
+    "map": { "mapIndex": 37, "mapVariant": 2 },
+    "minimap": { "minimapIndex": 0, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 26, "green": 29, "blue": 31 },
+      "middle": { "red": 22, "green": 26, "blue": 31 },
+      "lower": { "red": 16, "green": 22, "blue": 31 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 4,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 10, "itemName": "IvoryGrace: 10" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 41,
+    "name": "Park_3",
+
+    "map": { "mapIndex": 38, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 2, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 26, "blue": 31 },
+      "middle": { "red": 20, "green": 26, "blue": 28 },
+      "lower": { "red": 28, "green": 26, "blue": 23 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 3,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 5, "itemName": "EmeraldGrace: 5" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 42,
+    "name": "Park_2",
+
+    "map": { "mapIndex": 38, "mapVariant": 1 },
+    "minimap": { "minimapIndex": 1, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 26, "blue": 31 },
+      "middle": { "red": 20, "green": 26, "blue": 28 },
+      "lower": { "red": 28, "green": 26, "blue": 23 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 3,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 6, "itemName": "CeruleanGrace: 6" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 43,
+    "name": "Park_1",
+
+    "map": { "mapIndex": 38, "mapVariant": 2 },
+    "minimap": { "minimapIndex": 0, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 12, "green": 26, "blue": 31 },
+      "middle": { "red": 20, "green": 26, "blue": 28 },
+      "lower": { "red": 28, "green": 26, "blue": 23 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 3,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 5, "itemName": "EmeraldGrace: 5" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 27, "itemName": "Couplink: 27" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 55, "itemName": "HarmonyFlute: 55" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 47, "itemName": "PowerWristband: 47" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 44,
+    "name": "TestMap_5",
+
+    "map": { "mapIndex": 39, "mapVariant": 0 },
+    "minimap": { "minimapIndex": 2, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 0, "green": 0, "blue": 0 },
+      "middle": { "red": 0, "green": 0, "blue": 0 },
+      "lower": { "red": 0, "green": 0, "blue": 0 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 3,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 45,
+    "name": "TestMap_6",
+
+    "map": { "mapIndex": 39, "mapVariant": 1 },
+    "minimap": { "minimapIndex": 1, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 0, "green": 0, "blue": 0 },
+      "middle": { "red": 0, "green": 0, "blue": 0 },
+      "lower": { "red": 0, "green": 0, "blue": 0 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 3,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  },
+
+  {
+    "battleConfigIndex": 46,
+    "name": "TestMap_7",
+
+    "map": { "mapIndex": 39, "mapVariant": 2 },
+    "minimap": { "minimapIndex": 0, "minimapVariant": 0 },
+
+    "atmosphereColors": {
+      "upper": { "red": 0, "green": 0, "blue": 0 },
+      "middle": { "red": 0, "green": 0, "blue": 0 },
+      "lower": { "red": 0, "green": 0, "blue": 0 }
+    },
+
+    "numberOfTurns": 10,
+    "unknown": 3,
+
+    "victoryConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "defeatConditions": [
+      { "conditionIndex": 0, "conditionName": "Defeat All Enemies" }
+    ],
+
+    "treasures": [
+      { "slot": 1, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 2, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 3, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 4, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 5, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 6, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 7, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 8, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 9, "itemIndex": 134, "itemName": "Default: 134" },
+      { "slot": 10, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 11, "itemIndex": 0, "itemName": "Potion: 0" },
+      { "slot": 12, "itemIndex": 0, "itemName": "Potion: 0" }
+    ]
+  }
+]

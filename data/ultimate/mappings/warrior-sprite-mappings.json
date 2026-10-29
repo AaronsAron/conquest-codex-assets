@@ -1,0 +1,2539 @@
+{
+  "schemaVersion": 1,
+
+  "_documentation": {
+    "description": "Maps each game Warrior rank record to its stable Conquest Codex website identity and Warrior Sprite Repository identity.",
+    "mappingKey": "Each key under mappings is the game-local warriorIndex from raw/warriors.json. warriorIndex is the authoritative connector between raw files within this game.",
+    "fields": {
+      "websiteId": "Stable website route ID for this exact Warrior or Warrior rank. Equivalent records should use the same websiteId across games so users can switch games while viewing the same record.",
+      "displayName": "Name displayed by Conquest Codex. The starter value comes from the human-readable name in raw/warriors.json and can be manually adjusted when required.",
+      "warriorId": "Parent warriorId used by the Warrior Sprite Repository detail manifest, such as hideyoshi.",
+      "variantId": "Variant or rank ID used under the selected warriorId in the Warrior Sprite Repository manifest, such as rank-ii or default.",
+      "alternateSprites": "Optional sprite overrides by website usage/context. Keys are website-defined sprite slots and values are alternate sprite IDs from the selected variant. For example, 'cropped': 'alternate-default' or 'battle': 'special' (use double quotes). Leave as an empty object when default variant sprites should be used.",
+      "notes": "Optional explanation for a non-obvious mapping, shortened in-game name, alternate rank, or missing sprite match."
+    },
+    "maintenance": "This file is intended to be generated once per game and then manually reviewed. Do not regenerate with --force after manual edits unless the game's Warrior roster has changed and overwriting the reviewed mappings is intentional."
+  },
+
+  "mappings": {
+    "0": {
+      "websiteId": "player-male-rank-i",
+      "displayName": "Player-Male-Rank-I",
+
+      "warriorId": "player-male",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "1": {
+      "websiteId": "player-male-rank-ii",
+      "displayName": "Player-Male-Rank-II",
+
+      "warriorId": "player-male",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "2": {
+      "websiteId": "player-male-rank-iii",
+      "displayName": "Player-Male-Rank-III",
+
+      "warriorId": "player-male",
+      "variantId": "rank-iii",
+
+      "notes": ""
+    },
+
+    "3": {
+      "websiteId": "player-female-rank-i",
+      "displayName": "Player-Female-Rank-I",
+
+      "warriorId": "player-female",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "4": {
+      "websiteId": "player-female-rank-ii",
+      "displayName": "Player-Female-Rank-II",
+
+      "warriorId": "player-female",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "5": {
+      "websiteId": "player-female-rank-iii",
+      "displayName": "Player-Female-Rank-III",
+
+      "warriorId": "player-female",
+      "variantId": "rank-iii",
+
+      "notes": ""
+    },
+
+    "6": {
+      "websiteId": "nobunaga-rank-i",
+      "displayName": "Nobunaga-Rank-I",
+
+      "warriorId": "nobunaga",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "7": {
+      "websiteId": "nobunaga-rank-ii",
+      "displayName": "Nobunaga-Rank-II",
+
+      "warriorId": "nobunaga",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "8": {
+      "websiteId": "oichi-rank-i",
+      "displayName": "Oichi-Rank-I",
+
+      "warriorId": "oichi",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "9": {
+      "websiteId": "oichi-rank-ii",
+      "displayName": "Oichi-Rank-II",
+
+      "warriorId": "oichi",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "10": {
+      "websiteId": "hideyoshi-rank-i",
+      "displayName": "Hideyoshi-Rank-I",
+
+      "warriorId": "hideyoshi",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "11": {
+      "websiteId": "hideyoshi-rank-ii",
+      "displayName": "Hideyoshi-Rank-II",
+
+      "warriorId": "hideyoshi",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "12": {
+      "websiteId": "hideyoshi-rank-iii",
+      "displayName": "Hideyoshi-Rank-III",
+
+      "warriorId": "hideyoshi",
+      "variantId": "rank-iii",
+
+      "notes": ""
+    },
+
+    "13": {
+      "websiteId": "motochika-rank-i",
+      "displayName": "Motochika-Rank-I",
+
+      "warriorId": "motochika",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "14": {
+      "websiteId": "motochika-rank-ii",
+      "displayName": "Motochika-Rank-II",
+
+      "warriorId": "motochika",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "15": {
+      "websiteId": "ginchiyo-rank-i",
+      "displayName": "Ginchiyo-Rank-I",
+
+      "warriorId": "ginchiyo",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "16": {
+      "websiteId": "ginchiyo-rank-ii",
+      "displayName": "Ginchiyo-Rank-II",
+
+      "warriorId": "ginchiyo",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "17": {
+      "websiteId": "motonari-rank-i",
+      "displayName": "Motonari-Rank-I",
+
+      "warriorId": "motonari",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "18": {
+      "websiteId": "motonari-rank-ii",
+      "displayName": "Motonari-Rank-II",
+
+      "warriorId": "motonari",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "19": {
+      "websiteId": "mitsuhide-rank-i",
+      "displayName": "Mitsuhide-Rank-I",
+
+      "warriorId": "mitsuhide",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "20": {
+      "websiteId": "mitsuhide-rank-ii",
+      "displayName": "Mitsuhide-Rank-II",
+
+      "warriorId": "mitsuhide",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "21": {
+      "websiteId": "yoshihiro-rank-i",
+      "displayName": "Yoshihiro-Rank-I",
+
+      "warriorId": "yoshihiro",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "22": {
+      "websiteId": "yoshihiro-rank-ii",
+      "displayName": "Yoshihiro-Rank-II",
+
+      "warriorId": "yoshihiro",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "23": {
+      "websiteId": "nene-rank-i",
+      "displayName": "Nene-Rank-I",
+
+      "warriorId": "nene",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "24": {
+      "websiteId": "nene-rank-ii",
+      "displayName": "Nene-Rank-II",
+
+      "warriorId": "nene",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "25": {
+      "websiteId": "shingen-rank-i",
+      "displayName": "Shingen-Rank-I",
+
+      "warriorId": "shingen",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "26": {
+      "websiteId": "shingen-rank-ii",
+      "displayName": "Shingen-Rank-II",
+
+      "warriorId": "shingen",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "27": {
+      "websiteId": "masamune-rank-i",
+      "displayName": "Masamune-Rank-I",
+
+      "warriorId": "masamune",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "28": {
+      "websiteId": "masamune-rank-ii",
+      "displayName": "Masamune-Rank-II",
+
+      "warriorId": "masamune",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "29": {
+      "websiteId": "kenshin-rank-i",
+      "displayName": "Kenshin-Rank-I",
+
+      "warriorId": "kenshin",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "30": {
+      "websiteId": "kenshin-rank-ii",
+      "displayName": "Kenshin-Rank-II",
+
+      "warriorId": "kenshin",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "31": {
+      "websiteId": "yoshimoto-rank-i",
+      "displayName": "Yoshimoto-Rank-I",
+
+      "warriorId": "yoshimoto",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "32": {
+      "websiteId": "yoshimoto-rank-ii",
+      "displayName": "Yoshimoto-Rank-II",
+
+      "warriorId": "yoshimoto",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "33": {
+      "websiteId": "ujiyasu-rank-i",
+      "displayName": "Ujiyasu-Rank-I",
+
+      "warriorId": "ujiyasu",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "34": {
+      "websiteId": "ujiyasu-rank-ii",
+      "displayName": "Ujiyasu-Rank-II",
+
+      "warriorId": "ujiyasu",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "35": {
+      "websiteId": "no-rank-i",
+      "displayName": "No-Rank-I",
+
+      "warriorId": "no",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "36": {
+      "websiteId": "no-rank-ii",
+      "displayName": "No-Rank-II",
+
+      "warriorId": "no",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "37": {
+      "websiteId": "kotaro-rank-i",
+      "displayName": "Kotaro-Rank-I",
+
+      "warriorId": "kotaro",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "38": {
+      "websiteId": "kotaro-rank-ii",
+      "displayName": "Kotaro-Rank-II",
+
+      "warriorId": "kotaro",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "39": {
+      "websiteId": "ieyasu-rank-i",
+      "displayName": "Ieyasu-Rank-I",
+
+      "warriorId": "ieyasu",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "40": {
+      "websiteId": "ieyasu-rank-ii",
+      "displayName": "Ieyasu-Rank-II",
+
+      "warriorId": "ieyasu",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "41": {
+      "websiteId": "hanbei-rank-i",
+      "displayName": "Hanbei-Rank-I",
+
+      "warriorId": "hanbei",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "42": {
+      "websiteId": "hanbei-rank-ii",
+      "displayName": "Hanbei-Rank-II",
+
+      "warriorId": "hanbei",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "43": {
+      "websiteId": "kanbei-rank-i",
+      "displayName": "Kanbei-Rank-I",
+
+      "warriorId": "kanbei",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "44": {
+      "websiteId": "kanbei-rank-ii",
+      "displayName": "Kanbei-Rank-II",
+
+      "warriorId": "kanbei",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "45": {
+      "websiteId": "muneshige-rank-i",
+      "displayName": "Muneshige-Rank-I",
+
+      "warriorId": "muneshige",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "46": {
+      "websiteId": "muneshige-rank-ii",
+      "displayName": "Muneshige-Rank-II",
+
+      "warriorId": "muneshige",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "47": {
+      "websiteId": "gracia-rank-i",
+      "displayName": "Gracia-Rank-I",
+
+      "warriorId": "gracia",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "48": {
+      "websiteId": "gracia-rank-ii",
+      "displayName": "Gracia-Rank-II",
+
+      "warriorId": "gracia",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "49": {
+      "websiteId": "hanzo-rank-i",
+      "displayName": "Hanzo-Rank-I",
+
+      "warriorId": "hanzo",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "50": {
+      "websiteId": "hanzo-rank-ii",
+      "displayName": "Hanzo-Rank-II",
+
+      "warriorId": "hanzo",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "51": {
+      "websiteId": "kunoichi-rank-i",
+      "displayName": "Kunoichi-Rank-I",
+
+      "warriorId": "kunoichi",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "52": {
+      "websiteId": "kunoichi-rank-ii",
+      "displayName": "Kunoichi-Rank-II",
+
+      "warriorId": "kunoichi",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "53": {
+      "websiteId": "yukimura-rank-i",
+      "displayName": "Yukimura-Rank-I",
+
+      "warriorId": "yukimura",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "54": {
+      "websiteId": "yukimura-rank-ii",
+      "displayName": "Yukimura-Rank-II",
+
+      "warriorId": "yukimura",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "55": {
+      "websiteId": "magoichi-rank-i",
+      "displayName": "Magoichi-Rank-I",
+
+      "warriorId": "magoichi",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "56": {
+      "websiteId": "magoichi-rank-ii",
+      "displayName": "Magoichi-Rank-II",
+
+      "warriorId": "magoichi",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "57": {
+      "websiteId": "kanetsugu-rank-i",
+      "displayName": "Kanetsugu-Rank-I",
+
+      "warriorId": "kanetsugu",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "58": {
+      "websiteId": "kanetsugu-rank-ii",
+      "displayName": "Kanetsugu-Rank-II",
+
+      "warriorId": "kanetsugu",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "59": {
+      "websiteId": "aya-rank-i",
+      "displayName": "Aya-Rank-I",
+
+      "warriorId": "aya",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "60": {
+      "websiteId": "aya-rank-ii",
+      "displayName": "Aya-Rank-II",
+
+      "warriorId": "aya",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "61": {
+      "websiteId": "kai-rank-i",
+      "displayName": "Kai-Rank-I",
+
+      "warriorId": "kai",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "62": {
+      "websiteId": "kai-rank-ii",
+      "displayName": "Kai-Rank-II",
+
+      "warriorId": "kai",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "63": {
+      "websiteId": "okuni-rank-i",
+      "displayName": "Okuni-Rank-I",
+
+      "warriorId": "okuni",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "64": {
+      "websiteId": "okuni-rank-ii",
+      "displayName": "Okuni-Rank-II",
+
+      "warriorId": "okuni",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "65": {
+      "websiteId": "ranmaru-rank-i",
+      "displayName": "Ranmaru-Rank-I",
+
+      "warriorId": "ranmaru",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "66": {
+      "websiteId": "ranmaru-rank-ii",
+      "displayName": "Ranmaru-Rank-II",
+
+      "warriorId": "ranmaru",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "67": {
+      "websiteId": "tadakatsu-rank-i",
+      "displayName": "Tadakatsu-Rank-I",
+
+      "warriorId": "tadakatsu",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "68": {
+      "websiteId": "tadakatsu-rank-ii",
+      "displayName": "Tadakatsu-Rank-II",
+
+      "warriorId": "tadakatsu",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "69": {
+      "websiteId": "ina-rank-i",
+      "displayName": "Ina-Rank-I",
+
+      "warriorId": "ina",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "70": {
+      "websiteId": "ina-rank-ii",
+      "displayName": "Ina-Rank-II",
+
+      "warriorId": "ina",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "71": {
+      "websiteId": "keiji-rank-i",
+      "displayName": "Keiji-Rank-I",
+
+      "warriorId": "keiji",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "72": {
+      "websiteId": "keiji-rank-ii",
+      "displayName": "Keiji-Rank-II",
+
+      "warriorId": "keiji",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "73": {
+      "websiteId": "mitsunari-rank-i",
+      "displayName": "Mitsunari-Rank-I",
+
+      "warriorId": "mitsunari",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "74": {
+      "websiteId": "mitsunari-rank-ii",
+      "displayName": "Mitsunari-Rank-II",
+
+      "warriorId": "mitsunari",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "75": {
+      "websiteId": "kiyomasa-rank-i",
+      "displayName": "Kiyomasa-Rank-I",
+
+      "warriorId": "kiyomasa",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "76": {
+      "websiteId": "kiyomasa-rank-ii",
+      "displayName": "Kiyomasa-Rank-II",
+
+      "warriorId": "kiyomasa",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "77": {
+      "websiteId": "masanori-rank-i",
+      "displayName": "Masanori-Rank-I",
+
+      "warriorId": "masanori",
+      "variantId": "rank-i",
+
+      "notes": ""
+    },
+
+    "78": {
+      "websiteId": "masanori-rank-ii",
+      "displayName": "Masanori-Rank-II",
+
+      "warriorId": "masanori",
+      "variantId": "rank-ii",
+
+      "notes": ""
+    },
+
+    "79": {
+      "websiteId": "tsunehisa",
+      "displayName": "Tsunehisa",
+
+      "warriorId": "tsunehisa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "80": {
+      "websiteId": "naoie",
+      "displayName": "Naoie",
+
+      "warriorId": "naoie",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "81": {
+      "websiteId": "harutaka",
+      "displayName": "Harutaka",
+
+      "warriorId": "harutaka",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "82": {
+      "websiteId": "takanobu",
+      "displayName": "Takanobu",
+
+      "warriorId": "takanobu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "83": {
+      "websiteId": "naoshige",
+      "displayName": "Naoshige",
+
+      "warriorId": "naoshige",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "84": {
+      "websiteId": "ujisato",
+      "displayName": "Ujisato",
+
+      "warriorId": "ujisato",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "85": {
+      "websiteId": "chacha",
+      "displayName": "Chacha",
+
+      "warriorId": "chacha",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "86": {
+      "websiteId": "go",
+      "displayName": "Go",
+
+      "warriorId": "go",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "87": {
+      "websiteId": "hatsu",
+      "displayName": "Hatsu",
+
+      "warriorId": "hatsu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "88": {
+      "websiteId": "kazumasu",
+      "displayName": "Kazumasu",
+
+      "warriorId": "kazumasu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "89": {
+      "websiteId": "nagahide",
+      "displayName": "Nagahide",
+
+      "warriorId": "nagahide",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "90": {
+      "websiteId": "yoshitaka",
+      "displayName": "Yoshitaka",
+
+      "warriorId": "yoshitaka",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "91": {
+      "websiteId": "urakusai",
+      "displayName": "Urakusai",
+
+      "warriorId": "urakusai",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "92": {
+      "websiteId": "narimasa",
+      "displayName": "Narimasa",
+
+      "warriorId": "narimasa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "93": {
+      "websiteId": "tomonori",
+      "displayName": "Tomonori",
+
+      "warriorId": "tomonori",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "94": {
+      "websiteId": "murashige",
+      "displayName": "Murashige",
+
+      "warriorId": "murashige",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "95": {
+      "websiteId": "masahide",
+      "displayName": "Masahide",
+
+      "warriorId": "masahide",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "96": {
+      "websiteId": "nagayoshi",
+      "displayName": "Nagayoshi",
+
+      "warriorId": "nagayoshi",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "97": {
+      "websiteId": "kitsuno",
+      "displayName": "Kitsuno",
+
+      "warriorId": "kitsuno",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "98": {
+      "websiteId": "gotoku",
+      "displayName": "Gotoku",
+
+      "warriorId": "gotoku",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "99": {
+      "websiteId": "hidenaga",
+      "displayName": "Hidenaga",
+
+      "warriorId": "hidenaga",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "100": {
+      "websiteId": "koroku",
+      "displayName": "Koroku",
+
+      "warriorId": "koroku",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "101": {
+      "websiteId": "takatora",
+      "displayName": "Takatora",
+
+      "warriorId": "takatora",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "102": {
+      "websiteId": "yoshitsugu",
+      "displayName": "Yoshitsugu",
+
+      "warriorId": "yoshitsugu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "103": {
+      "websiteId": "yukinaga",
+      "displayName": "Yukinaga",
+
+      "warriorId": "yukinaga",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "104": {
+      "websiteId": "rikyu",
+      "displayName": "Rikyu",
+
+      "warriorId": "rikyu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "105": {
+      "websiteId": "hideyori",
+      "displayName": "Hideyori",
+
+      "warriorId": "hideyori",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "106": {
+      "websiteId": "asahi",
+      "displayName": "Asahi",
+
+      "warriorId": "asahi",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "107": {
+      "websiteId": "kazutoyo",
+      "displayName": "Kazutoyo",
+
+      "warriorId": "kazutoyo",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "108": {
+      "websiteId": "nagayasu",
+      "displayName": "Nagayasu",
+
+      "warriorId": "nagayasu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "109": {
+      "websiteId": "harunaga",
+      "displayName": "Harunaga",
+
+      "warriorId": "harunaga",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "110": {
+      "websiteId": "hideaki",
+      "displayName": "Hideaki",
+
+      "warriorId": "hideaki",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "111": {
+      "websiteId": "naka",
+      "displayName": "Naka",
+
+      "warriorId": "naka",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "112": {
+      "websiteId": "tatsuko",
+      "displayName": "Tatsuko",
+
+      "warriorId": "tatsuko",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "113": {
+      "websiteId": "maa",
+      "displayName": "Maa",
+
+      "warriorId": "maa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "114": {
+      "websiteId": "chiyo",
+      "displayName": "Chiyo",
+
+      "warriorId": "chiyo",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "115": {
+      "websiteId": "hatsume",
+      "displayName": "Hatsume",
+
+      "warriorId": "hatsume",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "116": {
+      "websiteId": "nobuchika",
+      "displayName": "Nobuchika",
+
+      "warriorId": "nobuchika",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "117": {
+      "websiteId": "chikayasu",
+      "displayName": "Chikayasu",
+
+      "warriorId": "chikayasu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "118": {
+      "websiteId": "morichika",
+      "displayName": "Morichika",
+
+      "warriorId": "morichika",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "119": {
+      "websiteId": "chikamasa",
+      "displayName": "Chikamasa",
+
+      "warriorId": "chikamasa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "120": {
+      "websiteId": "norishige",
+      "displayName": "Norishige",
+
+      "warriorId": "norishige",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "121": {
+      "websiteId": "takayori",
+      "displayName": "Takayori",
+
+      "warriorId": "takayori",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "122": {
+      "websiteId": "tadasumi",
+      "displayName": "Tadasumi",
+
+      "warriorId": "tadasumi",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "123": {
+      "websiteId": "dosetsu",
+      "displayName": "Dosetsu",
+
+      "warriorId": "dosetsu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "124": {
+      "websiteId": "shoun",
+      "displayName": "Shoun",
+
+      "warriorId": "shoun",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "125": {
+      "websiteId": "sorin",
+      "displayName": "Sorin",
+
+      "warriorId": "sorin",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "126": {
+      "websiteId": "sekiso",
+      "displayName": "Sekiso",
+
+      "warriorId": "sekiso",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "127": {
+      "websiteId": "akizane",
+      "displayName": "Akizane",
+
+      "warriorId": "akizane",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "128": {
+      "websiteId": "takatane",
+      "displayName": "Takatane",
+
+      "warriorId": "takatane",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "129": {
+      "websiteId": "kiyo",
+      "displayName": "Kiyo",
+
+      "warriorId": "kiyo",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "130": {
+      "websiteId": "motoharu",
+      "displayName": "Motoharu",
+
+      "warriorId": "motoharu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "131": {
+      "websiteId": "takakage",
+      "displayName": "Takakage",
+
+      "warriorId": "takakage",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "132": {
+      "websiteId": "terumoto",
+      "displayName": "Terumoto",
+
+      "warriorId": "terumoto",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "133": {
+      "websiteId": "takeyoshi",
+      "displayName": "Takeyoshi",
+
+      "warriorId": "takeyoshi",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "134": {
+      "websiteId": "ekei",
+      "displayName": "Ekei",
+
+      "warriorId": "ekei",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "135": {
+      "websiteId": "takamoto",
+      "displayName": "Takamoto",
+
+      "warriorId": "takamoto",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "136": {
+      "websiteId": "sadatoshi",
+      "displayName": "Sadatoshi",
+
+      "warriorId": "sadatoshi",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "137": {
+      "websiteId": "hidemitsu",
+      "displayName": "Hidemitsu",
+
+      "warriorId": "hidemitsu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "138": {
+      "websiteId": "toshimitsu",
+      "displayName": "Toshimitsu",
+
+      "warriorId": "toshimitsu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "139": {
+      "websiteId": "shigemoto",
+      "displayName": "Shigemoto",
+
+      "warriorId": "shigemoto",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "140": {
+      "websiteId": "mitsutada",
+      "displayName": "Mitsutada",
+
+      "warriorId": "mitsutada",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "141": {
+      "websiteId": "yukimasa",
+      "displayName": "Yukimasa",
+
+      "warriorId": "yukimasa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "142": {
+      "websiteId": "tadaoki",
+      "displayName": "Tadaoki",
+
+      "warriorId": "tadaoki",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "143": {
+      "websiteId": "fujitaka",
+      "displayName": "Fujitaka",
+
+      "warriorId": "fujitaka",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "144": {
+      "websiteId": "hiroko",
+      "displayName": "Hiroko",
+
+      "warriorId": "hiroko",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "145": {
+      "websiteId": "tadamoto",
+      "displayName": "Tadamoto",
+
+      "warriorId": "tadamoto",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "146": {
+      "websiteId": "tadatsune",
+      "displayName": "Tadatsune",
+
+      "warriorId": "tadatsune",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "147": {
+      "websiteId": "takahisa",
+      "displayName": "Takahisa",
+
+      "warriorId": "takahisa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "148": {
+      "websiteId": "hisaaki",
+      "displayName": "Hisaaki",
+
+      "warriorId": "hisaaki",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "149": {
+      "websiteId": "masatoshi",
+      "displayName": "Masatoshi",
+
+      "warriorId": "masatoshi",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "150": {
+      "websiteId": "kanemori",
+      "displayName": "Kanemori",
+
+      "warriorId": "kanemori",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "151": {
+      "websiteId": "tokitaka",
+      "displayName": "Tokitaka",
+
+      "warriorId": "tokitaka",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "152": {
+      "websiteId": "sandayu",
+      "displayName": "Sandayu",
+
+      "warriorId": "sandayu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "153": {
+      "websiteId": "morikiyo",
+      "displayName": "Morikiyo",
+
+      "warriorId": "morikiyo",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "154": {
+      "websiteId": "kashinkoji",
+      "displayName": "Kashinkoji",
+
+      "warriorId": "kashinkoji",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "155": {
+      "websiteId": "yasunaga",
+      "displayName": "Yasunaga",
+
+      "warriorId": "yasunaga",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "156": {
+      "websiteId": "seikuro",
+      "displayName": "Seikuro",
+
+      "warriorId": "seikuro",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "157": {
+      "websiteId": "katsuyori",
+      "displayName": "Katsuyori",
+
+      "warriorId": "katsuyori",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "158": {
+      "websiteId": "haruyuki",
+      "displayName": "Haruyuki",
+
+      "warriorId": "haruyuki",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "159": {
+      "websiteId": "masakage",
+      "displayName": "Masakage",
+
+      "warriorId": "masakage",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "160": {
+      "websiteId": "masatoyo",
+      "displayName": "Masatoyo",
+
+      "warriorId": "masatoyo",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "161": {
+      "websiteId": "nobufusa",
+      "displayName": "Nobufusa",
+
+      "warriorId": "nobufusa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "162": {
+      "websiteId": "masayuki",
+      "displayName": "Masayuki",
+
+      "warriorId": "masayuki",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "163": {
+      "websiteId": "yukitaka",
+      "displayName": "Yukitaka",
+
+      "warriorId": "yukitaka",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "164": {
+      "websiteId": "ume",
+      "displayName": "Ume",
+
+      "warriorId": "ume",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "165": {
+      "websiteId": "chiyome",
+      "displayName": "Chiyome",
+
+      "warriorId": "chiyome",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "166": {
+      "websiteId": "kei",
+      "displayName": "Kei",
+
+      "warriorId": "kei",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "167": {
+      "websiteId": "kagetsuna",
+      "displayName": "Kagetsuna",
+
+      "warriorId": "kagetsuna",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "168": {
+      "websiteId": "shigezane",
+      "displayName": "Shigezane",
+
+      "warriorId": "shigezane",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "169": {
+      "websiteId": "tsunamoto",
+      "displayName": "Tsunamoto",
+
+      "warriorId": "tsunamoto",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "170": {
+      "websiteId": "tsunenaga",
+      "displayName": "Tsunenaga",
+
+      "warriorId": "tsunenaga",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "171": {
+      "websiteId": "munetoki",
+      "displayName": "Munetoki",
+
+      "warriorId": "munetoki",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "172": {
+      "websiteId": "munezane",
+      "displayName": "Munezane",
+
+      "warriorId": "munezane",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "173": {
+      "websiteId": "yoshi",
+      "displayName": "Yoshi",
+
+      "warriorId": "yoshi",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "174": {
+      "websiteId": "iroha",
+      "displayName": "Iroha",
+
+      "warriorId": "iroha",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "175": {
+      "websiteId": "kagekatsu",
+      "displayName": "Kagekatsu",
+
+      "warriorId": "kagekatsu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "176": {
+      "websiteId": "yoshikiyo",
+      "displayName": "Yoshikiyo",
+
+      "warriorId": "yoshikiyo",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "177": {
+      "websiteId": "tomonobu",
+      "displayName": "Tomonobu",
+
+      "warriorId": "tomonobu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "178": {
+      "websiteId": "kageie",
+      "displayName": "Kageie",
+
+      "warriorId": "kageie",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "179": {
+      "websiteId": "takahiro",
+      "displayName": "Takahiro",
+
+      "warriorId": "takahiro",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "180": {
+      "websiteId": "sadamitsu",
+      "displayName": "Sadamitsu",
+
+      "warriorId": "sadamitsu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "181": {
+      "websiteId": "yataro",
+      "displayName": "Yataro",
+
+      "warriorId": "yataro",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "182": {
+      "websiteId": "saneyori",
+      "displayName": "Saneyori",
+
+      "warriorId": "saneyori",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "183": {
+      "websiteId": "hana",
+      "displayName": "Hana",
+
+      "warriorId": "hana",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "184": {
+      "websiteId": "sen",
+      "displayName": "Sen",
+
+      "warriorId": "sen",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "185": {
+      "websiteId": "ujichika",
+      "displayName": "Ujichika",
+
+      "warriorId": "ujichika",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "186": {
+      "websiteId": "ujizane",
+      "displayName": "Ujizane",
+
+      "warriorId": "ujizane",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "187": {
+      "websiteId": "sessai",
+      "displayName": "Sessai",
+
+      "warriorId": "sessai",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "188": {
+      "websiteId": "masatsuna",
+      "displayName": "Masatsuna",
+
+      "warriorId": "masatsuna",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "189": {
+      "websiteId": "yasutomo",
+      "displayName": "Yasutomo",
+
+      "warriorId": "yasutomo",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "190": {
+      "websiteId": "ujihiro",
+      "displayName": "Ujihiro",
+
+      "warriorId": "ujihiro",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "191": {
+      "websiteId": "motozane",
+      "displayName": "Motozane",
+
+      "warriorId": "motozane",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "192": {
+      "websiteId": "sena",
+      "displayName": "Sena",
+
+      "warriorId": "sena",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "193": {
+      "websiteId": "soun",
+      "displayName": "Soun",
+
+      "warriorId": "soun",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "194": {
+      "websiteId": "tsunashige",
+      "displayName": "Tsunashige",
+
+      "warriorId": "tsunashige",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "195": {
+      "websiteId": "gen-an",
+      "displayName": "Gen-An",
+
+      "warriorId": "gen-an",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "196": {
+      "websiteId": "ujimasa",
+      "displayName": "Ujimasa",
+
+      "warriorId": "ujimasa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "197": {
+      "websiteId": "ujiteru",
+      "displayName": "Ujiteru",
+
+      "warriorId": "ujiteru",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "198": {
+      "websiteId": "ujikuni",
+      "displayName": "Ujikuni",
+
+      "warriorId": "ujikuni",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "199": {
+      "websiteId": "ujinao",
+      "displayName": "Ujinao",
+
+      "warriorId": "ujinao",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "200": {
+      "websiteId": "shizuka",
+      "displayName": "Shizuka",
+
+      "warriorId": "shizuka",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "201": {
+      "websiteId": "madoka",
+      "displayName": "Madoka",
+
+      "warriorId": "madoka",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "202": {
+      "websiteId": "dosan",
+      "displayName": "Dosan",
+
+      "warriorId": "dosan",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "203": {
+      "websiteId": "yoshitatsu",
+      "displayName": "Yoshitatsu",
+
+      "warriorId": "yoshitatsu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "204": {
+      "websiteId": "ittetsu",
+      "displayName": "Ittetsu",
+
+      "warriorId": "ittetsu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "205": {
+      "websiteId": "bokuzen",
+      "displayName": "Bokuzen",
+
+      "warriorId": "bokuzen",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "206": {
+      "websiteId": "morinari",
+      "displayName": "Morinari",
+
+      "warriorId": "morinari",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "207": {
+      "websiteId": "omi",
+      "displayName": "Omi",
+
+      "warriorId": "omi",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "208": {
+      "websiteId": "asa",
+      "displayName": "Asa",
+
+      "warriorId": "asa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "209": {
+      "websiteId": "shimoyama",
+      "displayName": "Shimoyama",
+
+      "warriorId": "shimoyama",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "210": {
+      "websiteId": "genba",
+      "displayName": "Genba",
+
+      "warriorId": "genba",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "211": {
+      "websiteId": "danzo",
+      "displayName": "Danzo",
+
+      "warriorId": "danzo",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "212": {
+      "websiteId": "yazaemon",
+      "displayName": "Yazaemon",
+
+      "warriorId": "yazaemon",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "213": {
+      "websiteId": "isuke",
+      "displayName": "Isuke",
+
+      "warriorId": "isuke",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "214": {
+      "websiteId": "tadatsugu",
+      "displayName": "Tadatsugu",
+
+      "warriorId": "tadatsugu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "215": {
+      "websiteId": "naomasa",
+      "displayName": "Naomasa",
+
+      "warriorId": "naomasa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "216": {
+      "websiteId": "yasumasa",
+      "displayName": "Yasumasa",
+
+      "warriorId": "yasumasa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "217": {
+      "websiteId": "masanobu",
+      "displayName": "Masanobu",
+
+      "warriorId": "masanobu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "218": {
+      "websiteId": "hidetada",
+      "displayName": "Hidetada",
+
+      "warriorId": "hidetada",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "219": {
+      "websiteId": "kazumasa",
+      "displayName": "Kazumasa",
+
+      "warriorId": "kazumasa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "220": {
+      "websiteId": "choan",
+      "displayName": "Choan",
+
+      "warriorId": "choan",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "221": {
+      "websiteId": "tenkai",
+      "displayName": "Tenkai",
+
+      "warriorId": "tenkai",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "222": {
+      "websiteId": "munenori",
+      "displayName": "Munenori",
+
+      "warriorId": "munenori",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "223": {
+      "websiteId": "kame",
+      "displayName": "Kame",
+
+      "warriorId": "kame",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "224": {
+      "websiteId": "toku",
+      "displayName": "Toku",
+
+      "warriorId": "toku",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "225": {
+      "websiteId": "saizo",
+      "displayName": "Saizo",
+
+      "warriorId": "saizo",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "226": {
+      "websiteId": "sasuke",
+      "displayName": "Sasuke",
+
+      "warriorId": "sasuke",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "227": {
+      "websiteId": "katsu",
+      "displayName": "Katsu",
+
+      "warriorId": "katsu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "228": {
+      "websiteId": "juzo",
+      "displayName": "Juzo",
+
+      "warriorId": "juzo",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "229": {
+      "websiteId": "tsuru",
+      "displayName": "Tsuru",
+
+      "warriorId": "tsuru",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "230": {
+      "websiteId": "ise",
+      "displayName": "Ise",
+
+      "warriorId": "ise",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "231": {
+      "websiteId": "jinpachi",
+      "displayName": "Jinpachi",
+
+      "warriorId": "jinpachi",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "232": {
+      "websiteId": "kamanosuke",
+      "displayName": "Kamanosuke",
+
+      "warriorId": "kamanosuke",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "233": {
+      "websiteId": "seikai",
+      "displayName": "Seikai",
+
+      "warriorId": "seikai",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "234": {
+      "websiteId": "isa",
+      "displayName": "Isa",
+
+      "warriorId": "isa",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "235": {
+      "websiteId": "yoshiteru",
+      "displayName": "Yoshiteru",
+
+      "warriorId": "yoshiteru",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "236": {
+      "websiteId": "yoshiaki",
+      "displayName": "Yoshiaki",
+
+      "warriorId": "yoshiaki",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "237": {
+      "websiteId": "hisahide",
+      "displayName": "Hisahide",
+
+      "warriorId": "hisahide",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "238": {
+      "websiteId": "jubei",
+      "displayName": "Jubei",
+
+      "warriorId": "jubei",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "239": {
+      "websiteId": "nobutsuna",
+      "displayName": "Nobutsuna",
+
+      "warriorId": "nobutsuna",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "240": {
+      "websiteId": "bokuden",
+      "displayName": "Bokuden",
+
+      "warriorId": "bokuden",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "241": {
+      "websiteId": "otsu",
+      "displayName": "Otsu",
+
+      "warriorId": "otsu",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "242": {
+      "websiteId": "merchant-male",
+      "displayName": "Merchant-Male",
+
+      "warriorId": "merchant-male",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "243": {
+      "websiteId": "merchant-female",
+      "displayName": "Merchant-Female",
+
+      "warriorId": "merchant-female",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "244": {
+      "websiteId": "captain",
+      "displayName": "Captain",
+
+      "warriorId": "captain",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "245": {
+      "websiteId": "chief",
+      "displayName": "Chief",
+
+      "warriorId": "chief",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "246": {
+      "websiteId": "counselor",
+      "displayName": "Counselor",
+
+      "warriorId": "counselor",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "247": {
+      "websiteId": "underling",
+      "displayName": "Underling",
+
+      "warriorId": "underling",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "248": {
+      "websiteId": "henchman",
+      "displayName": "Henchman",
+
+      "warriorId": "henchman",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "249": {
+      "websiteId": "minion",
+      "displayName": "Minion",
+
+      "warriorId": "minion",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "250": {
+      "websiteId": "mob-a",
+      "displayName": "Mob-A",
+
+      "warriorId": "mob-a",
+      "variantId": "default",
+
+      "notes": ""
+    },
+
+    "251": {
+      "websiteId": "mob-b",
+      "displayName": "Mob-B",
+
+      "warriorId": "mob-b",
+      "variantId": "default",
+
+      "notes": ""
+    }
+  }
+}

@@ -1,0 +1,1190 @@
+[
+  {
+    "story": { "storyIndex": 0, "storyOrder": 0 },
+    "scenario": { "scenarioIndex": 0, "scenarioName": "The Legend Of Ransei" },
+
+    "unlockCondition": { "conditionIndex": 38, "conditionName": "38" },
+    "clearCondition": { "conditionIndex": 0, "conditionName": "Main Campaign" },
+
+    "difficulty": 1,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 1, "storyOrder": 1 },
+    "scenario": { "scenarioIndex": 2, "scenarioName": "Unite Ransei" },
+
+    "unlockCondition": { "conditionIndex": 50, "conditionName": "50" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 2, "storyOrder": 3 },
+    "scenario": { "scenarioIndex": 2, "scenarioName": "Unite Ransei" },
+
+    "unlockCondition": { "conditionIndex": 0, "conditionName": "The Legend Of Ransei" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 3, "storyOrder": 17 },
+    "scenario": { "scenarioIndex": 3, "scenarioName": "Collect100Pokemon" },
+
+    "unlockCondition": { "conditionIndex": 0, "conditionName": "The Legend Of Ransei" },
+    "clearCondition": { "conditionIndex": 2, "conditionName": "Befriend100Pokemon" },
+
+    "difficulty": 2,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 4, "storyOrder": 24 },
+    "scenario": { "scenarioIndex": 4, "scenarioName": "Junior Warlord" },
+
+    "unlockCondition": { "conditionIndex": 0, "conditionName": "The Legend Of Ransei" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 4,
+
+    "startKingdoms": [
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 5, "storyOrder": 12 },
+    "scenario": { "scenarioIndex": 5, "scenarioName": "Shingen Vs Kenshin" },
+
+    "unlockCondition": { "conditionIndex": 0, "conditionName": "The Legend Of Ransei" },
+    "clearCondition": { "conditionIndex": 4, "conditionName": "Win5Battles" },
+
+    "difficulty": 2,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 6, "storyOrder": 5 },
+    "scenario": { "scenarioIndex": 7, "scenarioName": "Ranseis Greatest Beauty" },
+
+    "unlockCondition": { "conditionIndex": 0, "conditionName": "The Legend Of Ransei" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 2,
+
+    "startKingdoms": [
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 7, "storyOrder": 7 },
+    "scenario": { "scenarioIndex": 8, "scenarioName": "Defeat Nobunaga" },
+
+    "unlockCondition": { "conditionIndex": 0, "conditionName": "The Legend Of Ransei" },
+    "clearCondition": { "conditionIndex": 5, "conditionName": "Defeat Nobunaga Before Jan4" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 8, "storyOrder": 16 },
+    "scenario": { "scenarioIndex": 1, "scenarioName": "Ninja" },
+
+    "unlockCondition": { "conditionIndex": 0, "conditionName": "The Legend Of Ransei" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 2,
+
+    "startKingdoms": [
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 9, "storyOrder": 34 },
+    "scenario": { "scenarioIndex": 6, "scenarioName": "Not Worth Fighting Over" },
+
+    "unlockCondition": { "conditionIndex": 0, "conditionName": "The Legend Of Ransei" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 1,
+
+    "startKingdoms": [
+      { "kingdomIndex": 1, "kingdomName": "Ignis" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 10, "storyOrder": 9 },
+    "scenario": { "scenarioIndex": 1, "scenarioName": "Ninja" },
+
+    "unlockCondition": { "conditionIndex": 2, "conditionName": "Happily Ever After" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 11, "storyOrder": 18 },
+    "scenario": { "scenarioIndex": 4, "scenarioName": "Junior Warlord" },
+
+    "unlockCondition": { "conditionIndex": 2, "conditionName": "Happily Ever After" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 12, "storyOrder": 31 },
+    "scenario": { "scenarioIndex": 4, "scenarioName": "Junior Warlord" },
+
+    "unlockCondition": { "conditionIndex": 3, "conditionName": "The Burden Of Peace" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 13, "storyOrder": 22 },
+    "scenario": { "scenarioIndex": 1, "scenarioName": "Ninja" },
+
+    "unlockCondition": { "conditionIndex": 3, "conditionName": "The Burden Of Peace" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 14, "storyOrder": 10 },
+    "scenario": { "scenarioIndex": 5, "scenarioName": "Shingen Vs Kenshin" },
+
+    "unlockCondition": { "conditionIndex": 4, "conditionName": "The Way Of The Warrior" },
+    "clearCondition": { "conditionIndex": 4, "conditionName": "Win5Battles" },
+
+    "difficulty": 2,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 15, "storyOrder": 23 },
+    "scenario": { "scenarioIndex": 1, "scenarioName": "Ninja" },
+
+    "unlockCondition": { "conditionIndex": 4, "conditionName": "The Way Of The Warrior" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 16, "storyOrder": 26 },
+    "scenario": { "scenarioIndex": 4, "scenarioName": "Junior Warlord" },
+
+    "unlockCondition": { "conditionIndex": 5, "conditionName": "The Joy Of Battle" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 17, "storyOrder": 27 },
+    "scenario": { "scenarioIndex": 7, "scenarioName": "Ranseis Greatest Beauty" },
+
+    "unlockCondition": { "conditionIndex": 5, "conditionName": "The Joy Of Battle" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 2,
+
+    "startKingdoms": [
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 18, "storyOrder": 8 },
+    "scenario": { "scenarioIndex": 2, "scenarioName": "Unite Ransei" },
+
+    "unlockCondition": { "conditionIndex": 6, "conditionName": "Pride And Precociousness" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 19, "storyOrder": 20 },
+    "scenario": { "scenarioIndex": 4, "scenarioName": "Junior Warlord" },
+
+    "unlockCondition": { "conditionIndex": 6, "conditionName": "Pride And Precociousness" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 20, "storyOrder": 15 },
+    "scenario": { "scenarioIndex": 7, "scenarioName": "Ranseis Greatest Beauty" },
+
+    "unlockCondition": { "conditionIndex": 7, "conditionName": "Tragic Determination" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 2,
+
+    "startKingdoms": [
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 21, "storyOrder": 21 },
+    "scenario": { "scenarioIndex": 4, "scenarioName": "Junior Warlord" },
+
+    "unlockCondition": { "conditionIndex": 7, "conditionName": "Tragic Determination" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 4,
+
+    "startKingdoms": [
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 22, "storyOrder": 4 },
+    "scenario": { "scenarioIndex": 8, "scenarioName": "Defeat Nobunaga" },
+
+    "unlockCondition": { "conditionIndex": 8, "conditionName": "AShround Of Darkness" },
+    "clearCondition": { "conditionIndex": 5, "conditionName": "Defeat Nobunaga Before Jan4" },
+
+    "difficulty": 4,
+
+    "startKingdoms": [
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 23, "storyOrder": 14 },
+    "scenario": { "scenarioIndex": 9, "scenarioName": "Recruit40Warriors" },
+
+    "unlockCondition": { "conditionIndex": 8, "conditionName": "AShround Of Darkness" },
+    "clearCondition": { "conditionIndex": 3, "conditionName": "Befriend40Warriors" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 24, "storyOrder": 35 },
+    "scenario": { "scenarioIndex": 6, "scenarioName": "Not Worth Fighting Over" },
+
+    "unlockCondition": { "conditionIndex": 9, "conditionName": "Not Worth Fighting Over1" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 1,
+
+    "startKingdoms": [
+      { "kingdomIndex": 1, "kingdomName": "Ignis" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 25, "storyOrder": 2 },
+    "scenario": { "scenarioIndex": 7, "scenarioName": "Ranseis Greatest Beauty" },
+
+    "unlockCondition": { "conditionIndex": 9, "conditionName": "Not Worth Fighting Over1" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 26, "storyOrder": 19 },
+    "scenario": { "scenarioIndex": 3, "scenarioName": "Collect100Pokemon" },
+
+    "unlockCondition": { "conditionIndex": 11, "conditionName": "The Reluctant Genius" },
+    "clearCondition": { "conditionIndex": 2, "conditionName": "Befriend100Pokemon" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 27, "storyOrder": 32 },
+    "scenario": { "scenarioIndex": 7, "scenarioName": "Ranseis Greatest Beauty" },
+
+    "unlockCondition": { "conditionIndex": 12, "conditionName": "The Unparalleled Warrior" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 2,
+
+    "startKingdoms": [
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 28, "storyOrder": 13 },
+    "scenario": { "scenarioIndex": 9, "scenarioName": "Recruit40Warriors" },
+
+    "unlockCondition": { "conditionIndex": 14, "conditionName": "Archenemies" },
+    "clearCondition": { "conditionIndex": 3, "conditionName": "Befriend40Warriors" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 29, "storyOrder": 11 },
+    "scenario": { "scenarioIndex": 2, "scenarioName": "Unite Ransei" },
+
+    "unlockCondition": { "conditionIndex": 16, "conditionName": "Land Of Love And Righteousness" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 4,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 30, "storyOrder": 6 },
+    "scenario": { "scenarioIndex": 3, "scenarioName": "Collect100Pokemon" },
+
+    "unlockCondition": { "conditionIndex": 19, "conditionName": "Blowing In The Wind" },
+    "clearCondition": { "conditionIndex": 2, "conditionName": "Befriend100Pokemon" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 31, "storyOrder": 29 },
+    "scenario": { "scenarioIndex": 4, "scenarioName": "Junior Warlord" },
+
+    "unlockCondition": { "conditionIndex": 0, "conditionName": "The Legend Of Ransei" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 4,
+
+    "startKingdoms": [
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 32, "storyOrder": 25 },
+    "scenario": { "scenarioIndex": 4, "scenarioName": "Junior Warlord" },
+
+    "unlockCondition": { "conditionIndex": 21, "conditionName": "All Grown Up" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 4,
+
+    "startKingdoms": [
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 33, "storyOrder": 28 },
+    "scenario": { "scenarioIndex": 7, "scenarioName": "Ranseis Greatest Beauty" },
+
+    "unlockCondition": { "conditionIndex": 23, "conditionName": "That Which He Holds Dear" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 3,
+
+    "startKingdoms": [
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 34, "storyOrder": 36 },
+    "scenario": { "scenarioIndex": 6, "scenarioName": "Not Worth Fighting Over" },
+
+    "unlockCondition": { "conditionIndex": 24, "conditionName": "Not Worth Fighting Over2" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 2,
+
+    "startKingdoms": [
+      { "kingdomIndex": 1, "kingdomName": "Ignis" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 35, "storyOrder": 30 },
+    "scenario": { "scenarioIndex": 7, "scenarioName": "Ranseis Greatest Beauty" },
+
+    "unlockCondition": { "conditionIndex": 0, "conditionName": "The Legend Of Ransei" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 2,
+
+    "startKingdoms": [
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 36, "storyOrder": 33 },
+    "scenario": { "scenarioIndex": 3, "scenarioName": "Collect100Pokemon" },
+
+    "unlockCondition": { "conditionIndex": 0, "conditionName": "The Legend Of Ransei" },
+    "clearCondition": { "conditionIndex": 2, "conditionName": "Befriend100Pokemon" },
+
+    "difficulty": 2,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  },
+
+  {
+    "story": { "storyIndex": 37, "storyOrder": 0 },
+    "scenario": { "scenarioIndex": 10, "scenarioName": "Two Heroes" },
+
+    "unlockCondition": { "conditionIndex": 50, "conditionName": "50" },
+    "clearCondition": { "conditionIndex": 1, "conditionName": "Unify Nations" },
+
+    "difficulty": 5,
+
+    "startKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" }
+    ],
+
+    "unlockedKingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora" },
+      { "kingdomIndex": 1, "kingdomName": "Ignis" },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine" },
+      { "kingdomIndex": 3, "kingdomName": "Violight" },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf" },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm" },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis" },
+      { "kingdomIndex": 7, "kingdomName": "Viperia" },
+      { "kingdomIndex": 8, "kingdomName": "Terrera" },
+      { "kingdomIndex": 9, "kingdomName": "Avia" },
+      { "kingdomIndex": 10, "kingdomName": "Illusio" },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia" },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur" },
+      { "kingdomIndex": 13, "kingdomName": "Spectra" },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor" },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha" },
+      { "kingdomIndex": 16, "kingdomName": "Valora" }
+    ]
+  }
+]

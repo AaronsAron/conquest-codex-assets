@@ -1,0 +1,4200 @@
+[
+  {
+    "moveIndex": 0,
+    "name": "Splash",
+
+    "types": ["normal"],
+    "power": 0,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 0, "rangeName": "No Range" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 0, "animationName": "Splash" },
+      "movementTiming": { "timingIndex": 1, "timingName": "Same Time As Startup" },
+      "startupAnimation": { "animationIndex": 0, "animationName": "Water Droplet Splash" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 1,
+    "name": "Pound",
+
+    "types": ["normal"],
+    "power": 26,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 1, "animationName": "Orange Orb Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 2,
+    "name": "Tackle",
+
+    "types": ["normal"],
+    "power": 31,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 2, "animationName": "Tackle" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 1, "animationName": "Orange Orb Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 3,
+    "name": "DoubleSlap",
+
+    "types": ["normal"],
+    "power": 10,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 14, "effectName": "Hits 2 To 5 Times", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 12, "effectName": "Hits 5 Times", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 2, "animationName": "Double Orange Orb Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 4,
+    "name": "Fury Swipes",
+
+    "types": ["normal"],
+    "power": 10,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 14, "effectName": "Hits 2 To 5 Times", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 12, "effectName": "Hits 5 Times", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 3, "animationName": "Orange Orb Scratch" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 5,
+    "name": "Quick Attack",
+
+    "types": ["normal"],
+    "power": 31,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 2, "animationName": "Tackle" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 1, "animationName": "Orange Orb Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 6,
+    "name": "Headbutt",
+
+    "types": ["normal"],
+    "power": 39,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 2, "animationName": "Tackle" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 4, "animationName": "Yellow Star Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 7,
+    "name": "Tail Slap",
+
+    "types": ["normal"],
+    "power": 23,
+    "accuracy": 85,
+
+    "range": { "rangeIndex": 6, "rangeName": "Row" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 14, "effectName": "Hits 2 To 5 Times", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 12, "effectName": "Hits 5 Times", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 1, "animationName": "Orange Orb Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 8,
+    "name": "Body Slam",
+
+    "types": ["normal"],
+    "power": 45,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 9, "animationName": "Dig" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 5, "animationName": "Orange Orb Parabola Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 9,
+    "name": "Hyper Fang",
+
+    "types": ["normal"],
+    "power": 43,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 6, "animationName": "Orange Bite" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 10,
+    "name": "Slash",
+
+    "types": ["normal"],
+    "power": 41,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 119, "animationName": "Yellow Slash Pink Orbs" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 11,
+    "name": "Hyper Voice",
+
+    "types": ["normal"],
+    "power": 44,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 5, "rangeName": "Ring Adjacent" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 9, "animationName": "Orange Ripple" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 10, "animationName": "Orange Triple Ripple" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 12,
+    "name": "Judgment",
+
+    "types": ["normal"],
+    "power": 55,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 5, "rangeName": "Ring Adjacent" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 229, "animationName": "Yellow Rising Blobs" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 230, "animationName": "Yellow Falling Blobs" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 13,
+    "name": "Ember",
+
+    "types": ["fire"],
+    "power": 26,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 225, "animationName": "Blank 34" },
+      "impactAnimation": { "animationIndex": 209, "animationName": "Small Flames" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 1
+  },
+
+  {
+    "moveIndex": 14,
+    "name": "Fire Fang",
+
+    "types": ["fire"],
+    "power": 39,
+    "accuracy": 95,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 10 },
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 10 },
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 11, "animationName": "White Flaming Jaws" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 15,
+    "name": "Flame Wheel",
+
+    "types": ["fire"],
+    "power": 32,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 10 },
+        { "effectIndex": 45, "effectName": "Thaws User If Frozen", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 10 },
+        { "effectIndex": 45, "effectName": "Thaws User If Frozen", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 3, "animationName": "Flame Wheel" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 12, "animationName": "Neat Fire Spiral" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 13, "animationName": "Small Fire Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 16,
+    "name": "Flame Burst",
+
+    "types": ["fire"],
+    "power": 38,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 18, "rangeName": "Cross 2 Ahead" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 14, "animationName": "Red Bullet" },
+      "impactAnimation": { "animationIndex": 15, "animationName": "Expanding Sun" },
+      "additionalAnimation": { "animationIndex": 166, "animationName": "Small Fire Bursts" },
+      "enableAdditional": true
+    },
+
+    "unknownOptionIndex": 10
+  },
+
+  {
+    "moveIndex": 17,
+    "name": "Heat Crash",
+
+    "types": ["fire"],
+    "power": 43,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 4, "animationName": "Body Slam" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 16, "animationName": "Flaming Rubble Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 18,
+    "name": "Fire Spin",
+
+    "types": ["fire"],
+    "power": 12,
+    "accuracy": 85,
+
+    "range": { "rangeIndex": 14, "rangeName": "Ring 2 Ahead" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 15, "effectName": "Hits 4 To 5 Times", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 12, "effectName": "Hits 5 Times", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 17, "animationName": "Giant Flame" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 19,
+    "name": "Flamethrower",
+
+    "types": ["fire"],
+    "power": 45,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 3, "rangeName": "Column 3 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 18, "animationName": "Long Flamethrower" },
+      "impactAnimation": { "animationIndex": 19, "animationName": "Short Flamethrower" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 2
+  },
+
+  {
+    "moveIndex": 20,
+    "name": "Fiery Dance",
+
+    "types": ["fire"],
+    "power": 41,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 13, "rangeName": "Diamond 2 Ahead" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Movement Or Knockback", "Double Movement Distance"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 28, "effectName": "Chance To Raise User Attack", "chance": 50 }
+      ],
+      "maxLink": [
+        { "effectIndex": 28, "effectName": "Chance To Raise User Attack", "chance": 50 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 5, "animationName": "Fiery Dance" },
+      "movementTiming": { "timingIndex": 0, "timingName": "Before Startup" },
+      "startupAnimation": { "animationIndex": 20, "animationName": "Fire Orb Nebula" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 19, "animationName": "Short Flamethrower" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 21,
+    "name": "Fire Blast",
+
+    "types": ["fire"],
+    "power": 51,
+    "accuracy": 85,
+
+    "range": { "rangeIndex": 19, "rangeName": "Dai" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 21, "animationName": "Messy Fire Spiral" },
+      "projectileAnimation": { "animationIndex": 172, "animationName": "Fire Smudge" },
+      "impactAnimation": { "animationIndex": 22, "animationName": "Yellow Impact Flamethrower" },
+      "additionalAnimation": { "animationIndex": 167, "animationName": "Skinny Flamethrower" },
+      "enableAdditional": true
+    },
+
+    "unknownOptionIndex": 11
+  },
+
+  {
+    "moveIndex": 22,
+    "name": "Blue Flare",
+
+    "types": ["fire"],
+    "power": 55,
+    "accuracy": 85,
+
+    "range": { "rangeIndex": 9, "rangeName": "Plus" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 20 }
+      ],
+      "maxLink": [
+        { "effectIndex": 41, "effectName": "Chance To Burn Target", "chance": 20 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 23, "animationName": "Blue Fire Supernova" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": true
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 23,
+    "name": "Incinerate",
+
+    "types": ["fire"],
+    "power": 28,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 3, "rangeName": "Column 3 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 47, "effectName": "Destroys Targets Consumable Item", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 47, "effectName": "Destroys Targets Consumable Item", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 18, "animationName": "Long Flamethrower" },
+      "impactAnimation": { "animationIndex": 24, "animationName": "Fire Black Smoke" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 2
+  },
+
+  {
+    "moveIndex": 24,
+    "name": "Bubble",
+
+    "types": ["water"],
+    "power": 20,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 33, "effectName": "Chance To Lower Target Speed", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 33, "effectName": "Chance To Lower Target Speed", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 36, "animationName": "Slow Sparse Bubbles" },
+      "impactAnimation": { "animationIndex": 37, "animationName": "Small Popping Bubbles" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 2
+  },
+
+  {
+    "moveIndex": 25,
+    "name": "Water Gun",
+
+    "types": ["water"],
+    "power": 24,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 25, "animationName": "Small Water Beam" },
+      "impactAnimation": { "animationIndex": 26, "animationName": "Blue Cloud Explosion" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 2
+  },
+
+  {
+    "moveIndex": 26,
+    "name": "BubbleBeam",
+
+    "types": ["water"],
+    "power": 38,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 17, "rangeName": "Column 2 Tiles 2 Ahead" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 33, "effectName": "Chance To Lower Target Speed", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 33, "effectName": "Chance To Lower Target Speed", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 27, "animationName": "Blue Bubble Beam" },
+      "impactAnimation": { "animationIndex": 28, "animationName": "Popping Blue Bubbles" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 2
+  },
+
+  {
+    "moveIndex": 27,
+    "name": "Brine",
+
+    "types": ["water"],
+    "power": 35,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 48, "effectName": "Double Power If Target Under Half Hp", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 48, "effectName": "Double Power If Target Under Half Hp", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 38, "animationName": "Pale Blue Waterfall" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 28,
+    "name": "Water Pulse",
+
+    "types": ["water"],
+    "power": 36,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 43, "effectName": "Chance To Confuse Target", "chance": 20 }
+      ],
+      "maxLink": [
+        { "effectIndex": 43, "effectName": "Chance To Confuse Target", "chance": 20 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 30, "animationName": "Small Blue Bubbles" },
+      "projectileAnimation": { "animationIndex": 31, "animationName": "Blue Circle Beam" },
+      "impactAnimation": { "animationIndex": 32, "animationName": "Blue Bubbling Ripple" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 5
+  },
+
+  {
+    "moveIndex": 29,
+    "name": "Aqua Tail",
+
+    "types": ["water"],
+    "power": 44,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 6, "rangeName": "Row" },
+    "movement": { "movementIndex": 2, "movementName": "Knockback Target" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 30, "animationName": "Small Blue Bubbles" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 33, "animationName": "Blue Crescent Cloud" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 30,
+    "name": "Hydro Pump",
+
+    "types": ["water"],
+    "power": 51,
+    "accuracy": 80,
+
+    "range": { "rangeIndex": 3, "rangeName": "Column 3 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 34, "animationName": "Large Water Beam" },
+      "impactAnimation": { "animationIndex": 35, "animationName": "White Cloud Explosion" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 2
+  },
+
+  {
+    "moveIndex": 31,
+    "name": "ThunderShock",
+
+    "types": ["electric"],
+    "power": 24,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 39, "animationName": "Lightning Spark" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 32,
+    "name": "Electro Ball",
+
+    "types": ["electric"],
+    "power": 26,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 5, "effectName": "Stronger The Faster User Is Than Target", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 5, "effectName": "Stronger The Faster User Is Than Target", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 40, "animationName": "Hover Spark Ball" },
+      "projectileAnimation": { "animationIndex": 41, "animationName": "Fast Spark Ball" },
+      "impactAnimation": { "animationIndex": 42, "animationName": "Spark Ball Green Fade" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 4
+  },
+
+  {
+    "moveIndex": 33,
+    "name": "Spark",
+
+    "types": ["electric"],
+    "power": 39,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 2, "animationName": "Tackle" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 43, "animationName": "Small Expanding Spark Ball" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 42, "animationName": "Spark Ball Green Fade" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 34,
+    "name": "Discharge",
+
+    "types": ["electric"],
+    "power": 41,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 5, "rangeName": "Ring Adjacent" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 44, "animationName": "Blue Yellow Electricity" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 42, "animationName": "Spark Ball Green Fade" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 35,
+    "name": "Thunderbolt",
+
+    "types": ["electric"],
+    "power": 45,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 15, "rangeName": "Row 2 Ahead" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 45, "animationName": "Triple Lightning" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 36,
+    "name": "Volt Switch",
+
+    "types": ["electric"],
+    "power": 41,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 19, "effectName": "Switch With Target If Its At Destination", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 19, "effectName": "Switch With Target If Its At Destination", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 7, "animationName": "Volt Switch" },
+      "movementTiming": { "timingIndex": 4, "timingName": "After Impact" },
+      "startupAnimation": { "animationIndex": 43, "animationName": "Small Expanding Spark Ball" },
+      "projectileAnimation": { "animationIndex": 41, "animationName": "Fast Spark Ball" },
+      "impactAnimation": { "animationIndex": 42, "animationName": "Spark Ball Green Fade" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 4
+  },
+
+  {
+    "moveIndex": 37,
+    "name": "Thunder",
+
+    "types": ["electric"],
+    "power": 51,
+    "accuracy": 70,
+
+    "range": { "rangeIndex": 12, "rangeName": "Ahead 3 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 46, "animationName": "Lightning Yellow Orbs" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 38,
+    "name": "Volt Tackle",
+
+    "types": ["electric"],
+    "power": 58,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 15, "rangeName": "Row 2 Ahead" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 10 },
+        { "effectIndex": 25, "effectName": "Lower User Range And Defence For One Turn", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 4, "animationName": "Body Slam" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 47, "animationName": "Large Expanding Spark Ball" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 48, "animationName": "Flash Spark Ball" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 39,
+    "name": "Bolt Strike",
+
+    "types": ["electric"],
+    "power": 57,
+    "accuracy": 85,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 2, "movementName": "Knockback Target" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 20 }
+      ],
+      "maxLink": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 20 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 2, "animationName": "Tackle" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 49, "animationName": "Yellow Green Electricity" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 50, "animationName": "Giant Electricity Blast" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 40,
+    "name": "Absorb",
+
+    "types": ["grass"],
+    "power": 20,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 21, "effectName": "Heals User By Percentage Of Damage Dealt", "chance": 50 }
+      ],
+      "maxLink": [
+        { "effectIndex": 21, "effectName": "Heals User By Percentage Of Damage Dealt", "chance": 75 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 51, "animationName": "Green Orb Drain" },
+      "impactAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 8
+  },
+
+  {
+    "moveIndex": 41,
+    "name": "Vine Whip",
+
+    "types": ["grass"],
+    "power": 24,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 6, "rangeName": "Row" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 52, "animationName": "Green Crescent Slash" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 42,
+    "name": "Mega Drain",
+
+    "types": ["grass"],
+    "power": 26,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 21, "effectName": "Heals User By Percentage Of Damage Dealt", "chance": 50 }
+      ],
+      "maxLink": [
+        { "effectIndex": 21, "effectName": "Heals User By Percentage Of Damage Dealt", "chance": 75 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 53, "animationName": "Many Green Orb Drain" },
+      "impactAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 8
+  },
+
+  {
+    "moveIndex": 43,
+    "name": "Leaf Blade",
+
+    "types": ["grass"],
+    "power": 45,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 57, "animationName": "Green Slash Leaves" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 44,
+    "name": "Razor Leaf",
+
+    "types": ["grass"],
+    "power": 31,
+    "accuracy": 95,
+
+    "range": { "rangeIndex": 3, "rangeName": "Column 3 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 60, "animationName": "Leaf Parabola" },
+      "projectileAnimation": { "animationIndex": 61, "animationName": "Fast Leaves" },
+      "impactAnimation": { "animationIndex": 62, "animationName": "Many Yellow Crescents" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 4
+  },
+
+  {
+    "moveIndex": 45,
+    "name": "Petal Dance",
+
+    "types": ["grass"],
+    "power": 41,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 4, "rangeName": "Diamond Adjacent" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 13, "effectName": "Hits 2 To 3 Times", "chance": 0 },
+        { "effectIndex": 24, "effectName": "User Has Zero Range For One Turn", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 13, "effectName": "Hits 2 To 3 Times", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 63, "animationName": "Pink Petal Whirlwind" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 62, "animationName": "Many Yellow Crescents" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 46,
+    "name": "Leaf Storm",
+
+    "types": ["grass"],
+    "power": 52,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 5, "rangeName": "Ring Adjacent" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 29, "effectName": "Chance To Lower User Attack", "chance": 100 }
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 58, "animationName": "Leaf Orb Vortex" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 59, "animationName": "Green Impact Leaves" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 47,
+    "name": "Powder Snow",
+
+    "types": ["ice"],
+    "power": 24,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 42, "effectName": "Chance To Freeze Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 42, "effectName": "Chance To Freeze Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 64, "animationName": "Whit Orb Blue Sparkle" },
+      "impactAnimation": { "animationIndex": 210, "animationName": "Ice Rock Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 2
+  },
+
+  {
+    "moveIndex": 48,
+    "name": "Icy Wind",
+
+    "types": ["ice"],
+    "power": 34,
+    "accuracy": 95,
+
+    "range": { "rangeIndex": 6, "rangeName": "Row" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 58, "effectName": "Chance To Lower Target Range", "chance": 100 }
+      ],
+      "maxLink": [
+        { "effectIndex": 58, "effectName": "Chance To Lower Target Range", "chance": 100 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 65, "animationName": "Snow Whirlwind Ice" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 49,
+    "name": "Ice Beam",
+
+    "types": ["ice"],
+    "power": 45,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 3, "rangeName": "Column 3 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 42, "effectName": "Chance To Freeze Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 42, "effectName": "Chance To Freeze Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 68, "animationName": "White Blue Barred Beam" },
+      "impactAnimation": { "animationIndex": 69, "animationName": "Ice Scratch Cross" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 2
+  },
+
+  {
+    "moveIndex": 50,
+    "name": "Ice Ball",
+
+    "types": ["ice"],
+    "power": 18,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 3, "effectName": "Double Power With Consecutive Uses", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 3, "effectName": "Double Power With Consecutive Uses", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 3, "animationName": "Flame Wheel" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 71, "animationName": "Ice Impact Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 51,
+    "name": "Icicle Crash",
+
+    "types": ["ice"],
+    "power": 45,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 72, "animationName": "Falling Icicles" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 52,
+    "name": "Blizzard",
+
+    "types": ["ice"],
+    "power": 51,
+    "accuracy": 70,
+
+    "range": { "rangeIndex": 16, "rangeName": "Two Rows 2 Ahead" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 42, "effectName": "Chance To Freeze Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 42, "effectName": "Chance To Freeze Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 70, "animationName": "Snow Whirlwind Ice Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 53,
+    "name": "Karate Chop",
+
+    "types": ["fighting"],
+    "power": 31,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 1, "animationName": "Orange Orb Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 54,
+    "name": "Force Palm",
+
+    "types": ["fighting"],
+    "power": 31,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 2, "movementName": "Knockback Target" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 74, "animationName": "Pink Orb Impact" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 55,
+    "name": "Wake-Up Slap",
+
+    "types": ["fighting"],
+    "power": 36,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 1, "effectName": "Double Power If Target Sleep", "chance": 0 },
+        { "effectIndex": 46, "effectName": "Wakes Target If Sleep", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 1, "effectName": "Double Power If Target Sleep", "chance": 0 },
+        { "effectIndex": 46, "effectName": "Wakes Target If Sleep", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 75, "animationName": "Cyan Impact Purple Stars" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 56,
+    "name": "Hi Jump Kick",
+
+    "types": ["fighting"],
+    "power": 65,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 26, "effectName": "Damages User If Misses", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 26, "effectName": "Damages User If Misses", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 4, "animationName": "Body Slam" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 4, "animationName": "Yellow Star Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 57,
+    "name": "Aura Sphere",
+
+    "types": ["fighting"],
+    "power": 45,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 2, "movementName": "Knockback Target" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 52, "effectName": "Never Misses", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 52, "effectName": "Never Misses", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 76, "animationName": "Blue Vortex Ripple" },
+      "projectileAnimation": { "animationIndex": 77, "animationName": "Blue White Projectile" },
+      "impactAnimation": { "animationIndex": 78, "animationName": "Blue Orb Ripple Slash" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 4
+  },
+
+  {
+    "moveIndex": 58,
+    "name": "Cross Chop",
+
+    "types": ["fighting"],
+    "power": 45,
+    "accuracy": 80,
+
+    "range": { "rangeIndex": 10, "rangeName": "Cross" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 79, "animationName": "Yellow Impact Orange Orbs" },
+      "additionalAnimation": { "animationIndex": 168, "animationName": "Quick Yellow Beam" },
+      "enableAdditional": true
+    },
+
+    "unknownOptionIndex": 12
+  },
+
+  {
+    "moveIndex": 59,
+    "name": "Superpower",
+
+    "types": ["fighting"],
+    "power": 55,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 2, "movementName": "Knockback Target" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 59, "effectName": "Chance To Lower User Attack And Defence", "chance": 100 }
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 2, "animationName": "Tackle" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 80, "animationName": "Red Speed Lines" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 81, "animationName": "Orange Impact Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 60,
+    "name": "Sacred Sword",
+
+    "types": ["fighting"],
+    "power": 45,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 4, "effectName": "Ignore Target Stat Modifiers", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 4, "effectName": "Ignore Target Stat Modifiers", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 82, "animationName": "Blue Crescent Slash" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 61,
+    "name": "Poison Sting",
+
+    "types": ["poison"],
+    "power": 12,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 83, "animationName": "Purple Line" },
+      "impactAnimation": { "animationIndex": 84, "animationName": "Purple Impact Bubble" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 1
+  },
+
+  {
+    "moveIndex": 62,
+    "name": "Poison Tail",
+
+    "types": ["poison"],
+    "power": 29,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 6, "rangeName": "Row" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 10 },
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 10 },
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 85, "animationName": "Purple Crescent Bubble" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 63,
+    "name": "Poison Fang",
+
+    "types": ["poison"],
+    "power": 31,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 40, "effectName": "Chance To Badly Poison Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 40, "effectName": "Chance To Badly Poison Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 86, "animationName": "Purple Bite Bubble" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 64,
+    "name": "Cross Poison",
+
+    "types": ["poison"],
+    "power": 38,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 10, "rangeName": "Cross" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 10 },
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 10 },
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 87, "animationName": "White Impact Bubble" },
+      "additionalAnimation": { "animationIndex": 169, "animationName": "Quick Purple Beam" },
+      "enableAdditional": true
+    },
+
+    "unknownOptionIndex": 12
+  },
+
+  {
+    "moveIndex": 65,
+    "name": "Sludge Bomb",
+
+    "types": ["poison"],
+    "power": 44,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 18, "rangeName": "Cross 2 Ahead" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 88, "animationName": "Purple Orb Line" },
+      "impactAnimation": { "animationIndex": 89, "animationName": "Purple Bubble Explosion" },
+      "additionalAnimation": { "animationIndex": 170, "animationName": "Purple Gas Line" },
+      "enableAdditional": true
+    },
+
+    "unknownOptionIndex": 10
+  },
+
+  {
+    "moveIndex": 66,
+    "name": "Poison Jab",
+
+    "types": ["poison"],
+    "power": 43,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 90, "animationName": "Purple Meteors" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 67,
+    "name": "Venoshock",
+
+    "types": ["poison"],
+    "power": 35,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 15, "rangeName": "Row 2 Ahead" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 49, "effectName": "Double Power If Target Poisoned", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 49, "effectName": "Double Power If Target Poisoned", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 91, "animationName": "Purple Galaxy Orbs" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 68,
+    "name": "Mud-Slap",
+
+    "types": ["ground"],
+    "power": 17,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 36, "effectName": "Chance Lower Target Accuracy", "chance": 100 }
+      ],
+      "maxLink": [
+        { "effectIndex": 36, "effectName": "Chance Lower Target Accuracy", "chance": 100 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 92, "animationName": "Muddy Orb Line" },
+      "impactAnimation": { "animationIndex": 93, "animationName": "Brown Splatter Shot" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 1
+  },
+
+  {
+    "moveIndex": 69,
+    "name": "Bulldoze",
+
+    "types": ["ground"],
+    "power": 33,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 4, "rangeName": "Diamond Adjacent" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 58, "effectName": "Chance To Lower Target Range", "chance": 100 }
+      ],
+      "maxLink": [
+        { "effectIndex": 58, "effectName": "Chance To Lower Target Range", "chance": 100 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 95, "animationName": "Big Smoke Rubble" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 1, "animationName": "Orange Orb Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 70,
+    "name": "Mud Bomb",
+
+    "types": ["ground"],
+    "power": 39,
+    "accuracy": 85,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 36, "effectName": "Chance Lower Target Accuracy", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 36, "effectName": "Chance Lower Target Accuracy", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 94, "animationName": "Mud Ball Rising" },
+      "impactAnimation": { "animationIndex": 227, "animationName": "Brown Circle Explosion" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 1
+  },
+
+  {
+    "moveIndex": 71,
+    "name": "Dig",
+
+    "types": ["ground"],
+    "power": 41,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 16, "effectName": "Vanishes And Hits Start Of Next Turn", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 16, "effectName": "Vanishes And Hits Start Of Next Turn", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 9, "animationName": "Dig" },
+      "movementTiming": { "timingIndex": 1, "timingName": "Same Time As Startup" },
+      "startupAnimation": { "animationIndex": 96, "animationName": "Triple Smoke Rubble" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 97, "animationName": "C 4 Rubble" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 72,
+    "name": "Drill Run",
+
+    "types": ["ground"],
+    "power": 41,
+    "accuracy": 95,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 3, "animationName": "Flame Wheel" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 98, "animationName": "Spinning Impact Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 73,
+    "name": "Earth Power",
+
+    "types": ["ground"],
+    "power": 44,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 9, "rangeName": "Plus" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 99, "animationName": "Volcanic Fire Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 74,
+    "name": "Wing Attack",
+
+    "types": ["flying"],
+    "power": 31,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 100, "animationName": "Yellow Impact" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 75,
+    "name": "Sky Drop",
+
+    "types": ["flying"],
+    "power": 36,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 17, "effectName": "Vanishes With Target And Hits Start Of Next Turn", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 17, "effectName": "Vanishes With Target And Hits Start Of Next Turn", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 10, "animationName": "Sky Drop" },
+      "movementTiming": { "timingIndex": 1, "timingName": "Same Time As Startup" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 5, "animationName": "Orange Orb Parabola Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 76,
+    "name": "Brave Bird",
+
+    "types": ["flying"],
+    "power": 58,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 8, "rangeName": "Chevron" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 25, "effectName": "Lower User Range And Defence For One Turn", "chance": 0 }
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 3, "animationName": "Flame Wheel" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 101, "animationName": "Yellow Impact White Splatter" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 102, "animationName": "Starry Red Glow" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 77,
+    "name": "Confusion",
+
+    "types": ["psychic"],
+    "power": 29,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 12, "rangeName": "Ahead 3 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 43, "effectName": "Chance To Confuse Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 43, "effectName": "Chance To Confuse Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 226, "animationName": "Confusion SFX" },
+      "impactAnimation": { "animationIndex": 104, "animationName": "Purple Ring Warp" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 78,
+    "name": "Teleport",
+
+    "types": ["psychic"],
+    "power": 0,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 0, "rangeName": "No Range" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 22, "effectName": "User Teleports Randomly", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 22, "effectName": "User Teleports Randomly", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 8, "animationName": "Teleport" },
+      "movementTiming": { "timingIndex": 1, "timingName": "Same Time As Startup" },
+      "startupAnimation": { "animationIndex": 103, "animationName": "Blue Stars" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 103, "animationName": "Blue Stars" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 79,
+    "name": "Psybeam",
+
+    "types": ["psychic"],
+    "power": 35,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 3, "rangeName": "Column 3 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 43, "effectName": "Chance To Confuse Target", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 43, "effectName": "Chance To Confuse Target", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 105, "animationName": "Colorful Rings" },
+      "impactAnimation": { "animationIndex": 106, "animationName": "Ring Impact" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 2
+  },
+
+  {
+    "moveIndex": 80,
+    "name": "Hypnosis",
+
+    "types": ["psychic"],
+    "power": 0,
+    "accuracy": 60,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 38, "effectName": "Chance To Sleep Target", "chance": 100 }
+      ],
+      "maxLink": [
+        { "effectIndex": 38, "effectName": "Chance To Sleep Target", "chance": 100 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 107, "animationName": "Pink Rings" },
+      "impactAnimation": { "animationIndex": 108, "animationName": "Sleepy Rings" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 2
+  },
+
+  {
+    "moveIndex": 81,
+    "name": "Dream Eater",
+
+    "types": ["psychic"],
+    "power": 48,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 50, "effectName": "Fails If Target Not Asleep", "chance": 0 },
+        { "effectIndex": 21, "effectName": "Heals User By Percentage Of Damage Dealt", "chance": 50 }
+      ],
+      "maxLink": [
+        { "effectIndex": 50, "effectName": "Fails If Target Not Asleep", "chance": 0 },
+        { "effectIndex": 21, "effectName": "Heals User By Percentage Of Damage Dealt", "chance": 75 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 109, "animationName": "Purple Yellow Orbs" },
+      "impactAnimation": { "animationIndex": 110, "animationName": "Purple Stars" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 8
+  },
+
+  {
+    "moveIndex": 82,
+    "name": "Psyshock",
+
+    "types": ["psychic"],
+    "power": 43,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 111, "animationName": "White Splatter Blue Orbs" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 83,
+    "name": "Psycho Cut",
+
+    "types": ["psychic"],
+    "power": 38,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 112, "animationName": "Purple Vortex" },
+      "projectileAnimation": { "animationIndex": 113, "animationName": "Purple Crescent Cut" },
+      "impactAnimation": { "animationIndex": 114, "animationName": "Purple Orb Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 4
+  },
+
+  {
+    "moveIndex": 84,
+    "name": "Psychic",
+
+    "types": ["psychic"],
+    "power": 44,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 13, "rangeName": "Diamond 2 Ahead" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 115, "animationName": "Purple Pink Spaghetti" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 85,
+    "name": "Future Sight",
+
+    "types": ["psychic"],
+    "power": 45,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 16, "rangeName": "Two Rows 2 Ahead" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 18, "effectName": "Hits Start Of Turn After Next", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 18, "effectName": "Hits Start Of Turn After Next", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 231, "animationName": "Future Sight Shadow Sneak SFX" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 232, "animationName": "Heavy White Pulse" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 86,
+    "name": "Psystrike",
+
+    "types": ["psychic"],
+    "power": 45,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 20, "rangeName": "T Shape" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 116, "animationName": "Purple Galaxy" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 117, "animationName": "Purple Bloom" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 87,
+    "name": "Bug Bite",
+
+    "types": ["bug"],
+    "power": 36,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 51, "effectName": "Uses Targets Consumable Item", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 51, "effectName": "Uses Targets Consumable Item", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 118, "animationName": "Green Splatter Rubble" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 88,
+    "name": "Fury Cutter",
+
+    "types": ["bug"],
+    "power": 12,
+    "accuracy": 95,
+
+    "range": { "rangeIndex": 6, "rangeName": "Row" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 3, "effectName": "Double Power With Consecutive Uses", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 3, "effectName": "Double Power With Consecutive Uses", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 119, "animationName": "Yellow Slash Pink Orbs" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 89,
+    "name": "X-Scissor",
+
+    "types": ["bug"],
+    "power": 41,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 10, "rangeName": "Cross" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 120, "animationName": "White Slashes" },
+      "additionalAnimation": { "animationIndex": 171, "animationName": "Quick Pink Beam" },
+      "enableAdditional": true
+    },
+
+    "unknownOptionIndex": 13
+  },
+
+  {
+    "moveIndex": 90,
+    "name": "Twineedle",
+
+    "types": ["bug"],
+    "power": 26,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 11, "effectName": "Hits 2 Times", "chance": 0 },
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 20 }
+      ],
+      "maxLink": [
+        { "effectIndex": 11, "effectName": "Hits 2 Times", "chance": 0 },
+        { "effectIndex": 39, "effectName": "Chance To Poison Target", "chance": 20 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 121, "animationName": "Double Purple Lines" },
+      "impactAnimation": { "animationIndex": 122, "animationName": "Purple Splatter" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 1
+  },
+
+  {
+    "moveIndex": 91,
+    "name": "Rock Blast",
+
+    "types": ["rock"],
+    "power": 10,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 14, "effectName": "Hits 2 To 5 Times", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 12, "effectName": "Hits 5 Times", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 123, "animationName": "Rock Projectile" },
+      "impactAnimation": { "animationIndex": 124, "animationName": "Rock Rubble" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 1
+  },
+
+  {
+    "moveIndex": 92,
+    "name": "Rock Tomb",
+
+    "types": ["rock"],
+    "power": 31,
+    "accuracy": 80,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 58, "effectName": "Chance To Lower Target Range", "chance": 100 }
+      ],
+      "maxLink": [
+        { "effectIndex": 58, "effectName": "Chance To Lower Target Range", "chance": 100 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 125, "animationName": "Falling Rocks" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 93,
+    "name": "Rock Slide",
+
+    "types": ["rock"],
+    "power": 41,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 3, "rangeName": "Column 3 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 126, "animationName": "Falling Rubble" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 94,
+    "name": "Stone Edge",
+
+    "types": ["rock"],
+    "power": 45,
+    "accuracy": 80,
+
+    "range": { "rangeIndex": 9, "rangeName": "Plus" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 127, "animationName": "Rising Rocks" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 95,
+    "name": "Rock Wrecker",
+
+    "types": ["rock"],
+    "power": 58,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 12, "rangeName": "Ahead 3 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 23, "effectName": "Cannot Be Used Turn After Hitting", "chance": 0 }
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 128, "animationName": "Rising Boulder" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 129, "animationName": "Falling Boulder" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 96,
+    "name": "Lick",
+
+    "types": ["ghost"],
+    "power": 14,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 37, "effectName": "Chance To Paralyze Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 130, "animationName": "Tongue" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 97,
+    "name": "Astonish",
+
+    "types": ["ghost"],
+    "power": 20,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 2, "movementName": "Knockback Target" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 225, "animationName": "Blank 34" },
+      "impactAnimation": { "animationIndex": 131, "animationName": "Yellow Impact Bubbles" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 98,
+    "name": "Hex",
+
+    "types": ["ghost"],
+    "power": 31,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 2, "effectName": "Double Power If Target Statused", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 2, "effectName": "Double Power If Target Statused", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 132, "animationName": "Purple Fog" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 0
+  },
+
+  {
+    "moveIndex": 99,
+    "name": "Shadow Sneak",
+
+    "types": ["ghost"],
+    "power": 26,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 231, "animationName": "Future Sight Shadow Sneak SFX" },
+      "impactAnimation": { "animationIndex": 134, "animationName": "Black Splatter" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 100,
+    "name": "Shadow Ball",
+
+    "types": ["ghost"],
+    "power": 43,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 20 }
+      ],
+      "maxLink": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 20 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 135, "animationName": "Purple Ball Vortex" },
+      "projectileAnimation": { "animationIndex": 136, "animationName": "Purple Ball" },
+      "impactAnimation": { "animationIndex": 137, "animationName": "Purple Ball Explosion" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 4
+  },
+
+  {
+    "moveIndex": 101,
+    "name": "Dragon Rage",
+
+    "types": ["dragon"],
+    "power": 40,
+    "accuracy": 75,
+
+    "range": { "rangeIndex": 2, "rangeName": "Column 2 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 0, "effectName": "Inflicts Fixed Hp Damage", "chance": 40 }
+      ],
+      "maxLink": [
+        { "effectIndex": 0, "effectName": "Inflicts Fixed Hp Damage", "chance": 40 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 138, "animationName": "Dark Blue Yellow Beam" },
+      "impactAnimation": { "animationIndex": 139, "animationName": "Purple Fog Ball" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 2
+  },
+
+  {
+    "moveIndex": 102,
+    "name": "Dragon Claw",
+
+    "types": ["dragon"],
+    "power": 43,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 140, "animationName": "Pink Speed Lines" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 141, "animationName": "Black Claw Marks" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 103,
+    "name": "Dragon Tail",
+
+    "types": ["dragon"],
+    "power": 33,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 6, "rangeName": "Row" },
+    "movement": { "movementIndex": 2, "movementName": "Knockback Target" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 20, "effectName": "Switch Target With Pokemon Behind It", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 20, "effectName": "Switch Target With Pokemon Behind It", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 142, "animationName": "Purple Crescent Rubble" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 104,
+    "name": "Dragon Pulse",
+
+    "types": ["dragon"],
+    "power": 44,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 3, "rangeName": "Column 3 Tiles" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 143, "animationName": "Purple Ringed Energy Orb" },
+      "projectileAnimation": { "animationIndex": 144, "animationName": "Purple Ringed Energy Beam" },
+      "impactAnimation": { "animationIndex": 145, "animationName": "Purple Circle Explosions" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 5
+  },
+
+  {
+    "moveIndex": 105,
+    "name": "Dragon Rush",
+
+    "types": ["dragon"],
+    "power": 45,
+    "accuracy": 75,
+
+    "range": { "rangeIndex": 13, "rangeName": "Diamond 2 Ahead" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Movement Or Knockback", "Double Movement Distance"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 20 }
+      ],
+      "maxLink": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 20 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 5, "animationName": "Fiery Dance" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 142, "animationName": "Purple Crescent Rubble" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 106,
+    "name": "Roar of Time",
+
+    "types": ["dragon"],
+    "power": 58,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 21, "rangeName": "Two Rows" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 23, "effectName": "Cannot Be Used Turn After Hitting", "chance": 0 }
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 147, "animationName": "Blue Time Gear" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 148, "animationName": "Purple Gas Bursts" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 107,
+    "name": "Outrage",
+
+    "types": ["dragon"],
+    "power": 41,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 4, "rangeName": "Diamond Adjacent" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 13, "effectName": "Hits 2 To 3 Times", "chance": 0 },
+        { "effectIndex": 24, "effectName": "User Has Zero Range For One Turn", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 13, "effectName": "Hits 2 To 3 Times", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 146, "animationName": "Expanding Atoms" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 81, "animationName": "Orange Impact Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 108,
+    "name": "Faint Attack",
+
+    "types": ["dark"],
+    "power": 36,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 52, "effectName": "Never Misses", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 52, "effectName": "Never Misses", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 149, "animationName": "Purple Orb Ring" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 109,
+    "name": "Assurance",
+
+    "types": ["dark"],
+    "power": 31,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 7, "effectName": "Double Power If Target Damaged This Turn", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 7, "effectName": "Double Power If Target Damaged This Turn", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 228, "animationName": "Pink Quick Pulses" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 110,
+    "name": "Bite",
+
+    "types": ["dark"],
+    "power": 36,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 150, "animationName": "Purple Ring Chomp" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 111,
+    "name": "Foul Play",
+
+    "types": ["dark"],
+    "power": 47,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 8, "effectName": "Uses Targets Attack Stat", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 8, "effectName": "Uses Targets Attack Stat", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 4, "animationName": "Yellow Star Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 112,
+    "name": "Night Slash",
+
+    "types": ["dark"],
+    "power": 38,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 6, "rangeName": "Row" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 9, "effectName": "High Critical Hit Chance", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 152, "animationName": "Purple White Slashes" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 113,
+    "name": "Crunch",
+
+    "types": ["dark"],
+    "power": 43,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 20 }
+      ],
+      "maxLink": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 20 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 151, "animationName": "Purple Ring Rubble Chomp" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 114,
+    "name": "Night Daze",
+
+    "types": ["dark"],
+    "power": 42,
+    "accuracy": 95,
+
+    "range": { "rangeIndex": 4, "rangeName": "Diamond Adjacent" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 36, "effectName": "Chance Lower Target Accuracy", "chance": 40 }
+      ],
+      "maxLink": [
+        { "effectIndex": 36, "effectName": "Chance Lower Target Accuracy", "chance": 40 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 153, "animationName": "Purple Orb Rings Vortex" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 154, "animationName": "Purple Orb Splatter" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 3
+  },
+
+  {
+    "moveIndex": 115,
+    "name": "Metal Claw",
+
+    "types": ["steel"],
+    "power": 31,
+    "accuracy": 95,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 28, "effectName": "Chance To Raise User Attack", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 28, "effectName": "Chance To Raise User Attack", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 141, "animationName": "Black Claw Marks" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 116,
+    "name": "Iron Head",
+
+    "types": ["steel"],
+    "power": 43,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 2, "movementName": "Knockback Target" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 44, "effectName": "Chance To Flinch Target", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 2, "animationName": "Tackle" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 155, "animationName": "Silver Rubble Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 117,
+    "name": "Iron Tail",
+
+    "types": ["steel"],
+    "power": 45,
+    "accuracy": 75,
+
+    "range": { "rangeIndex": 6, "rangeName": "Row" },
+    "movement": { "movementIndex": 2, "movementName": "Knockback Target" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 30 }
+      ],
+      "maxLink": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 30 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 156, "animationName": "Silver Star Shimmer" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 157, "animationName": "Silver Crescent Rubble" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 118,
+    "name": "Meteor Mash",
+
+    "types": ["steel"],
+    "power": 48,
+    "accuracy": 85,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 2, "movementName": "Knockback Target" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 28, "effectName": "Chance To Raise User Attack", "chance": 20 }
+      ],
+      "maxLink": [
+        { "effectIndex": 28, "effectName": "Chance To Raise User Attack", "chance": 20 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 161, "animationName": "Yellow Star Shower" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 119,
+    "name": "Gyro Ball",
+
+    "types": ["steel"],
+    "power": 18,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
+    "movement": { "movementIndex": 0, "movementName": "Move User" },
+    "movementFlags": ["Movement Or Knockback"],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 6, "effectName": "Stronger The Slower User Is Than Target", "chance": 0 }
+      ],
+      "maxLink": [
+        { "effectIndex": 6, "effectName": "Stronger The Slower User Is Than Target", "chance": 0 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 3, "animationName": "Flame Wheel" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 158, "animationName": "Silver Loading Ring" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 159, "animationName": "Silver Ring Warp" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 7
+  },
+
+  {
+    "moveIndex": 120,
+    "name": "Bullet Punch",
+
+    "types": ["steel"],
+    "power": 26,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 2, "animationName": "Tackle" },
+      "movementTiming": { "timingIndex": 2, "timingName": "Same Time As Projectile" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 160, "animationName": "Orange Yellow Multi Bursts" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  },
+
+  {
+    "moveIndex": 121,
+    "name": "Flash Cannon",
+
+    "types": ["steel"],
+    "power": 41,
+    "accuracy": 100,
+
+    "range": { "rangeIndex": 9, "rangeName": "Plus" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 10 }
+      ],
+      "maxLink": [
+        { "effectIndex": 30, "effectName": "Chance To Lower Target Defence", "chance": 10 }
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 162, "animationName": "Sparkly Expanding Atom" },
+      "projectileAnimation": { "animationIndex": 163, "animationName": "Red Aura Blue Ball" },
+      "impactAnimation": { "animationIndex": 164, "animationName": "Red Aura Blue Ball Explosion" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 4
+  },
+
+  {
+    "moveIndex": 122,
+    "name": "Low Kick",
+
+    "types": ["fighting"],
+    "power": 31,
+    "accuracy": 90,
+
+    "range": { "rangeIndex": 1, "rangeName": "Ahead 1 Tile" },
+    "movement": { "movementIndex": 3, "movementName": "Default" },
+    "movementFlags": [],
+
+    "effects": {
+      "normal": [
+
+      ],
+      "maxLink": [
+
+      ]
+    },
+
+    "animations": {
+      "movementAnimation": { "animationIndex": 16, "animationName": "Default" },
+      "movementTiming": { "timingIndex": 8, "timingName": "Default" },
+      "startupAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "projectileAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "impactAnimation": { "animationIndex": 4, "animationName": "Yellow Star Burst" },
+      "additionalAnimation": { "animationIndex": 255, "animationName": "Default" },
+      "enableAdditional": false
+    },
+
+    "unknownOptionIndex": 6
+  }
+]

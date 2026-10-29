@@ -1,0 +1,265 @@
+[
+  {
+    "scenario": { "scenarioIndex": 0, "scenarioName": "The Legend Of Ransei" },
+
+    "kingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora", "armyIndex": 0 },
+      { "kingdomIndex": 1, "kingdomName": "Ignis", "armyIndex": 1 },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine", "armyIndex": 2 },
+      { "kingdomIndex": 3, "kingdomName": "Violight", "armyIndex": 3 },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf", "armyIndex": 4 },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm", "armyIndex": 14 },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis", "armyIndex": 6 },
+      { "kingdomIndex": 7, "kingdomName": "Viperia", "armyIndex": 14 },
+      { "kingdomIndex": 8, "kingdomName": "Terrera", "armyIndex": 8 },
+      { "kingdomIndex": 9, "kingdomName": "Avia", "armyIndex": 14 },
+      { "kingdomIndex": 10, "kingdomName": "Illusio", "armyIndex": 10 },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia", "armyIndex": 11 },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur", "armyIndex": 14 },
+      { "kingdomIndex": 13, "kingdomName": "Spectra", "armyIndex": 14 },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor", "armyIndex": 14 },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha", "armyIndex": 14 },
+      { "kingdomIndex": 16, "kingdomName": "Valora", "armyIndex": 14 }
+    ]
+  },
+
+  {
+    "scenario": { "scenarioIndex": 1, "scenarioName": "Ninja" },
+
+    "kingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora", "armyIndex": 7 },
+      { "kingdomIndex": 1, "kingdomName": "Ignis", "armyIndex": 4 },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine", "armyIndex": 6 },
+      { "kingdomIndex": 3, "kingdomName": "Violight", "armyIndex": null },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf", "armyIndex": 5 },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm", "armyIndex": 2 },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis", "armyIndex": null },
+      { "kingdomIndex": 7, "kingdomName": "Viperia", "armyIndex": 0 },
+      { "kingdomIndex": 8, "kingdomName": "Terrera", "armyIndex": null },
+      { "kingdomIndex": 9, "kingdomName": "Avia", "armyIndex": 0 },
+      { "kingdomIndex": 10, "kingdomName": "Illusio", "armyIndex": null },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia", "armyIndex": null },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur", "armyIndex": 1 },
+      { "kingdomIndex": 13, "kingdomName": "Spectra", "armyIndex": 2 },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor", "armyIndex": 3 },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha", "armyIndex": 1 },
+      { "kingdomIndex": 16, "kingdomName": "Valora", "armyIndex": 3 }
+    ]
+  },
+
+  {
+    "scenario": { "scenarioIndex": 2, "scenarioName": "Unite Ransei" },
+
+    "kingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora", "armyIndex": 0 },
+      { "kingdomIndex": 1, "kingdomName": "Ignis", "armyIndex": 2 },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine", "armyIndex": 3 },
+      { "kingdomIndex": 3, "kingdomName": "Violight", "armyIndex": 4 },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf", "armyIndex": 5 },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm", "armyIndex": 6 },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis", "armyIndex": 7 },
+      { "kingdomIndex": 7, "kingdomName": "Viperia", "armyIndex": 8 },
+      { "kingdomIndex": 8, "kingdomName": "Terrera", "armyIndex": 9 },
+      { "kingdomIndex": 9, "kingdomName": "Avia", "armyIndex": 10 },
+      { "kingdomIndex": 10, "kingdomName": "Illusio", "armyIndex": 11 },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia", "armyIndex": 12 },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur", "armyIndex": 13 },
+      { "kingdomIndex": 13, "kingdomName": "Spectra", "armyIndex": 14 },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor", "armyIndex": 1 },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha", "armyIndex": 15 },
+      { "kingdomIndex": 16, "kingdomName": "Valora", "armyIndex": 16 }
+    ]
+  },
+
+  {
+    "scenario": { "scenarioIndex": 3, "scenarioName": "Collect 100 Pokemon" },
+
+    "kingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora", "armyIndex": 0 },
+      { "kingdomIndex": 1, "kingdomName": "Ignis", "armyIndex": 2 },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine", "armyIndex": 3 },
+      { "kingdomIndex": 3, "kingdomName": "Violight", "armyIndex": 4 },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf", "armyIndex": 5 },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm", "armyIndex": 6 },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis", "armyIndex": 7 },
+      { "kingdomIndex": 7, "kingdomName": "Viperia", "armyIndex": 8 },
+      { "kingdomIndex": 8, "kingdomName": "Terrera", "armyIndex": 9 },
+      { "kingdomIndex": 9, "kingdomName": "Avia", "armyIndex": 10 },
+      { "kingdomIndex": 10, "kingdomName": "Illusio", "armyIndex": 11 },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia", "armyIndex": 12 },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur", "armyIndex": 13 },
+      { "kingdomIndex": 13, "kingdomName": "Spectra", "armyIndex": 14 },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor", "armyIndex": 1 },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha", "armyIndex": 15 },
+      { "kingdomIndex": 16, "kingdomName": "Valora", "armyIndex": 16 }
+    ]
+  },
+
+  {
+    "scenario": { "scenarioIndex": 4, "scenarioName": "Junior Warlord" },
+
+    "kingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora", "armyIndex": 8 },
+      { "kingdomIndex": 1, "kingdomName": "Ignis", "armyIndex": 0 },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine", "armyIndex": 8 },
+      { "kingdomIndex": 3, "kingdomName": "Violight", "armyIndex": 1 },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf", "armyIndex": 0 },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm", "armyIndex": 2 },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis", "armyIndex": 1 },
+      { "kingdomIndex": 7, "kingdomName": "Viperia", "armyIndex": 9 },
+      { "kingdomIndex": 8, "kingdomName": "Terrera", "armyIndex": 3 },
+      { "kingdomIndex": 9, "kingdomName": "Avia", "armyIndex": 4 },
+      { "kingdomIndex": 10, "kingdomName": "Illusio", "armyIndex": 5 },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia", "armyIndex": 1 },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur", "armyIndex": 10 },
+      { "kingdomIndex": 13, "kingdomName": "Spectra", "armyIndex": 6 },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor", "armyIndex": 11 },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha", "armyIndex": 10 },
+      { "kingdomIndex": 16, "kingdomName": "Valora", "armyIndex": 7 }
+    ]
+  },
+
+  {
+    "scenario": { "scenarioIndex": 5, "scenarioName": "Shingen Vs Kenshin" },
+
+    "kingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora", "armyIndex": 0 },
+      { "kingdomIndex": 1, "kingdomName": "Ignis", "armyIndex": 0 },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine", "armyIndex": 0 },
+      { "kingdomIndex": 3, "kingdomName": "Violight", "armyIndex": 0 },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf", "armyIndex": 0 },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm", "armyIndex": 1 },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis", "armyIndex": 0 },
+      { "kingdomIndex": 7, "kingdomName": "Viperia", "armyIndex": 1 },
+      { "kingdomIndex": 8, "kingdomName": "Terrera", "armyIndex": 0 },
+      { "kingdomIndex": 9, "kingdomName": "Avia", "armyIndex": 1 },
+      { "kingdomIndex": 10, "kingdomName": "Illusio", "armyIndex": 1 },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia", "armyIndex": 0 },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur", "armyIndex": 1 },
+      { "kingdomIndex": 13, "kingdomName": "Spectra", "armyIndex": 1 },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor", "armyIndex": 1 },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha", "armyIndex": 1 },
+      { "kingdomIndex": 16, "kingdomName": "Valora", "armyIndex": 1 }
+    ]
+  },
+
+  {
+    "scenario": { "scenarioIndex": 6, "scenarioName": "Not Worth Fighting Over" },
+
+    "kingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora", "armyIndex": 3 },
+      { "kingdomIndex": 1, "kingdomName": "Ignis", "armyIndex": 0 },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine", "armyIndex": 2 },
+      { "kingdomIndex": 3, "kingdomName": "Violight", "armyIndex": null },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf", "armyIndex": 1 },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm", "armyIndex": null },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis", "armyIndex": null },
+      { "kingdomIndex": 7, "kingdomName": "Viperia", "armyIndex": null },
+      { "kingdomIndex": 8, "kingdomName": "Terrera", "armyIndex": null },
+      { "kingdomIndex": 9, "kingdomName": "Avia", "armyIndex": null },
+      { "kingdomIndex": 10, "kingdomName": "Illusio", "armyIndex": null },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia", "armyIndex": null },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur", "armyIndex": null },
+      { "kingdomIndex": 13, "kingdomName": "Spectra", "armyIndex": null },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor", "armyIndex": null },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha", "armyIndex": null },
+      { "kingdomIndex": 16, "kingdomName": "Valora", "armyIndex": null }
+    ]
+  },
+
+  {
+    "scenario": { "scenarioIndex": 7, "scenarioName": "Ranseis Greatest Beauty" },
+
+    "kingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora", "armyIndex": null },
+      { "kingdomIndex": 1, "kingdomName": "Ignis", "armyIndex": null },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine", "armyIndex": null },
+      { "kingdomIndex": 3, "kingdomName": "Violight", "armyIndex": 1 },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf", "armyIndex": null },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm", "armyIndex": null },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis", "armyIndex": 0 },
+      { "kingdomIndex": 7, "kingdomName": "Viperia", "armyIndex": null },
+      { "kingdomIndex": 8, "kingdomName": "Terrera", "armyIndex": 2 },
+      { "kingdomIndex": 9, "kingdomName": "Avia", "armyIndex": 6 },
+      { "kingdomIndex": 10, "kingdomName": "Illusio", "armyIndex": 3 },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia", "armyIndex": 5 },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur", "armyIndex": 4 },
+      { "kingdomIndex": 13, "kingdomName": "Spectra", "armyIndex": null },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor", "armyIndex": null },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha", "armyIndex": null },
+      { "kingdomIndex": 16, "kingdomName": "Valora", "armyIndex": null }
+    ]
+  },
+
+  {
+    "scenario": { "scenarioIndex": 8, "scenarioName": "Defeat Nobunaga" },
+
+    "kingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora", "armyIndex": 3 },
+      { "kingdomIndex": 1, "kingdomName": "Ignis", "armyIndex": 4 },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine", "armyIndex": 0 },
+      { "kingdomIndex": 3, "kingdomName": "Violight", "armyIndex": 5 },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf", "armyIndex": 6 },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm", "armyIndex": 1 },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis", "armyIndex": 2 },
+      { "kingdomIndex": 7, "kingdomName": "Viperia", "armyIndex": 2 },
+      { "kingdomIndex": 8, "kingdomName": "Terrera", "armyIndex": 2 },
+      { "kingdomIndex": 9, "kingdomName": "Avia", "armyIndex": 2 },
+      { "kingdomIndex": 10, "kingdomName": "Illusio", "armyIndex": 2 },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia", "armyIndex": 7 },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur", "armyIndex": 2 },
+      { "kingdomIndex": 13, "kingdomName": "Spectra", "armyIndex": 2 },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor", "armyIndex": 2 },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha", "armyIndex": 2 },
+      { "kingdomIndex": 16, "kingdomName": "Valora", "armyIndex": 2 }
+    ]
+  },
+
+  {
+    "scenario": { "scenarioIndex": 9, "scenarioName": "Recruit 40 Warriors" },
+
+    "kingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora", "armyIndex": 4 },
+      { "kingdomIndex": 1, "kingdomName": "Ignis", "armyIndex": 2 },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine", "armyIndex": 5 },
+      { "kingdomIndex": 3, "kingdomName": "Violight", "armyIndex": 6 },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf", "armyIndex": 7 },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm", "armyIndex": 8 },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis", "armyIndex": 2 },
+      { "kingdomIndex": 7, "kingdomName": "Viperia", "armyIndex": 9 },
+      { "kingdomIndex": 8, "kingdomName": "Terrera", "armyIndex": 2 },
+      { "kingdomIndex": 9, "kingdomName": "Avia", "armyIndex": 3 },
+      { "kingdomIndex": 10, "kingdomName": "Illusio", "armyIndex": 3 },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia", "armyIndex": 0 },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur", "armyIndex": 1 },
+      { "kingdomIndex": 13, "kingdomName": "Spectra", "armyIndex": 10 },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor", "armyIndex": 11 },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha", "armyIndex": 12 },
+      { "kingdomIndex": 16, "kingdomName": "Valora", "armyIndex": 3 }
+    ]
+  },
+
+  {
+    "scenario": { "scenarioIndex": 10, "scenarioName": "Two Heroes" },
+
+    "kingdoms": [
+      { "kingdomIndex": 0, "kingdomName": "Aurora", "armyIndex": 0 },
+      { "kingdomIndex": 1, "kingdomName": "Ignis", "armyIndex": 2 },
+      { "kingdomIndex": 2, "kingdomName": "Fontaine", "armyIndex": 3 },
+      { "kingdomIndex": 3, "kingdomName": "Violight", "armyIndex": 4 },
+      { "kingdomIndex": 4, "kingdomName": "Greenleaf", "armyIndex": 5 },
+      { "kingdomIndex": 5, "kingdomName": "Nixtorm", "armyIndex": 6 },
+      { "kingdomIndex": 6, "kingdomName": "Pugilis", "armyIndex": 7 },
+      { "kingdomIndex": 7, "kingdomName": "Viperia", "armyIndex": 8 },
+      { "kingdomIndex": 8, "kingdomName": "Terrera", "armyIndex": 9 },
+      { "kingdomIndex": 9, "kingdomName": "Avia", "armyIndex": 10 },
+      { "kingdomIndex": 10, "kingdomName": "Illusio", "armyIndex": 11 },
+      { "kingdomIndex": 11, "kingdomName": "Chrysalia", "armyIndex": 12 },
+      { "kingdomIndex": 12, "kingdomName": "Cragspur", "armyIndex": 13 },
+      { "kingdomIndex": 13, "kingdomName": "Spectra", "armyIndex": 14 },
+      { "kingdomIndex": 14, "kingdomName": "Dragnor", "armyIndex": 1 },
+      { "kingdomIndex": 15, "kingdomName": "Yaksha", "armyIndex": 15 },
+      { "kingdomIndex": 16, "kingdomName": "Valora", "armyIndex": 16 }
+    ]
+  }
+]

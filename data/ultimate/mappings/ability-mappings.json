@@ -1,0 +1,660 @@
+{
+  "schemaVersion": 1,
+
+  "_documentation": {
+      "description": "Maps each game ability record to a stable Conquest Codex website identity. This allows ability names and URLs to remain consistent across games, romhacks, and future naming changes.",
+      "mappingKey": "Each key under mappings is the game-local abilityIndex from raw/abilities.json. abilityIndex is the authoritative connector between ability-related files within this game.",
+      "fields": {
+            "websiteId": "Stable website route ID for this ability. Equivalent abilities should use the same websiteId across games and romhacks whenever they represent the same ability.",
+            "displayName": "Name displayed by Conquest Codex. This may be more descriptive than the source game name when abbreviations were used.",
+            "notes": "Optional explanation for renamed abilities, shortened names, romhack-specific variants, or other mapping decisions."
+          },
+      "maintenance": "This file is intended to be generated once per game and then manually reviewed. Do not regenerate with --force after manual review unless replacing existing mappings is intentional."
+    },
+
+  "mappings": {
+    "0": {
+      "websiteId": "levitate",
+      "displayName": "Levitate",
+
+      "notes": ""
+    },
+
+    "1": {
+      "websiteId": "mountaineer",
+      "displayName": "Mountaineer",
+
+      "notes": ""
+    },
+
+    "2": {
+      "websiteId": "wave-rider",
+      "displayName": "Wave Rider",
+
+      "notes": ""
+    },
+
+    "3": {
+      "websiteId": "skater",
+      "displayName": "Skater",
+
+      "notes": ""
+    },
+
+    "4": {
+      "websiteId": "thrust",
+      "displayName": "Thrust",
+
+      "notes": ""
+    },
+
+    "5": {
+      "websiteId": "mold-breaker",
+      "displayName": "Mold Breaker",
+
+      "notes": ""
+    },
+
+    "6": {
+      "websiteId": "turboblaze",
+      "displayName": "Turboblaze",
+
+      "notes": ""
+    },
+
+    "7": {
+      "websiteId": "teravolt",
+      "displayName": "Teravolt",
+
+      "notes": ""
+    },
+
+    "8": {
+      "websiteId": "sniper",
+      "displayName": "Sniper",
+
+      "notes": ""
+    },
+
+    "9": {
+      "websiteId": "solid-rock",
+      "displayName": "Solid Rock",
+
+      "notes": ""
+    },
+
+    "10": {
+      "websiteId": "battle-armor",
+      "displayName": "Battle Armor",
+
+      "notes": ""
+    },
+
+    "11": {
+      "websiteId": "shell-armor",
+      "displayName": "Shell Armor",
+
+      "notes": ""
+    },
+
+    "12": {
+      "websiteId": "sturdy",
+      "displayName": "Sturdy",
+
+      "notes": ""
+    },
+
+    "13": {
+      "websiteId": "unaware",
+      "displayName": "Unaware",
+
+      "notes": ""
+    },
+
+    "14": {
+      "websiteId": "thick-fat",
+      "displayName": "Thick Fat",
+
+      "notes": ""
+    },
+
+    "15": {
+      "websiteId": "limber",
+      "displayName": "Limber",
+
+      "notes": ""
+    },
+
+    "16": {
+      "websiteId": "immunity",
+      "displayName": "Immunity",
+
+      "notes": ""
+    },
+
+    "17": {
+      "websiteId": "own-tempo",
+      "displayName": "Own Tempo",
+
+      "notes": ""
+    },
+
+    "18": {
+      "websiteId": "inner-focus",
+      "displayName": "Inner Focus",
+
+      "notes": ""
+    },
+
+    "19": {
+      "websiteId": "clear-body",
+      "displayName": "Clear Body",
+
+      "notes": ""
+    },
+
+    "20": {
+      "websiteId": "keen-eye",
+      "displayName": "Keen Eye",
+
+      "notes": ""
+    },
+
+    "21": {
+      "websiteId": "flash-fire",
+      "displayName": "Flash Fire",
+
+      "notes": ""
+    },
+
+    "22": {
+      "websiteId": "water-absorb",
+      "displayName": "Water Absorb",
+
+      "notes": ""
+    },
+
+    "23": {
+      "websiteId": "volt-absorb",
+      "displayName": "Volt Absorb",
+
+      "notes": ""
+    },
+
+    "24": {
+      "websiteId": "motor-drive",
+      "displayName": "Motor Drive",
+
+      "notes": ""
+    },
+
+    "25": {
+      "websiteId": "lightning-rod",
+      "displayName": "Lightning Rod",
+
+      "notes": ""
+    },
+
+    "26": {
+      "websiteId": "perception",
+      "displayName": "Perception",
+
+      "notes": ""
+    },
+
+    "27": {
+      "websiteId": "parry",
+      "displayName": "Parry",
+
+      "notes": ""
+    },
+
+    "28": {
+      "websiteId": "instinct",
+      "displayName": "Instinct",
+
+      "notes": ""
+    },
+
+    "29": {
+      "websiteId": "dodge",
+      "displayName": "Dodge",
+
+      "notes": ""
+    },
+
+    "30": {
+      "websiteId": "jagged-edge",
+      "displayName": "Jagged Edge",
+
+      "notes": ""
+    },
+
+    "31": {
+      "websiteId": "poison-point",
+      "displayName": "Poison Point",
+
+      "notes": ""
+    },
+
+    "32": {
+      "websiteId": "static",
+      "displayName": "Static",
+
+      "notes": ""
+    },
+
+    "33": {
+      "websiteId": "flame-body",
+      "displayName": "Flame Body",
+
+      "notes": ""
+    },
+
+    "34": {
+      "websiteId": "frostbite",
+      "displayName": "Frostbite",
+
+      "notes": ""
+    },
+
+    "35": {
+      "websiteId": "tenacity",
+      "displayName": "Tenacity",
+
+      "notes": ""
+    },
+
+    "36": {
+      "websiteId": "blaze",
+      "displayName": "Blaze",
+
+      "notes": ""
+    },
+
+    "37": {
+      "websiteId": "torrent",
+      "displayName": "Torrent",
+
+      "notes": ""
+    },
+
+    "38": {
+      "websiteId": "overgrow",
+      "displayName": "Overgrow",
+
+      "notes": ""
+    },
+
+    "39": {
+      "websiteId": "swarm",
+      "displayName": "Swarm",
+
+      "notes": ""
+    },
+
+    "40": {
+      "websiteId": "guts",
+      "displayName": "Guts",
+
+      "notes": ""
+    },
+
+    "41": {
+      "websiteId": "pride",
+      "displayName": "Pride",
+
+      "notes": ""
+    },
+
+    "43": {
+      "websiteId": "justified",
+      "displayName": "Justified",
+
+      "notes": ""
+    },
+
+    "45": {
+      "websiteId": "power-nap",
+      "displayName": "Power Nap",
+
+      "notes": ""
+    },
+
+    "46": {
+      "websiteId": "spirit",
+      "displayName": "Spirit",
+
+      "notes": ""
+    },
+
+    "47": {
+      "websiteId": "warm-blanket",
+      "displayName": "Warm Blanket",
+
+      "notes": ""
+    },
+
+    "48": {
+      "websiteId": "gulp",
+      "displayName": "Gulp",
+
+      "notes": ""
+    },
+
+    "49": {
+      "websiteId": "herbivore",
+      "displayName": "Herbivore",
+
+      "notes": ""
+    },
+
+    "50": {
+      "websiteId": "sandpit",
+      "displayName": "Sandpit",
+
+      "notes": ""
+    },
+
+    "51": {
+      "websiteId": "hot-blooded",
+      "displayName": "Hot Blooded",
+
+      "notes": ""
+    },
+
+    "53": {
+      "websiteId": "life-force",
+      "displayName": "Life Force",
+
+      "notes": ""
+    },
+
+    "54": {
+      "websiteId": "lunch-box",
+      "displayName": "Lunch Box",
+
+      "notes": ""
+    },
+
+    "55": {
+      "websiteId": "natural-cure",
+      "displayName": "Natural Cure",
+
+      "notes": ""
+    },
+
+    "57": {
+      "websiteId": "nurse",
+      "displayName": "Nurse",
+
+      "notes": ""
+    },
+
+    "58": {
+      "websiteId": "melee",
+      "displayName": "Melee",
+
+      "notes": ""
+    },
+
+    "59": {
+      "websiteId": "sponge",
+      "displayName": "Sponge",
+
+      "notes": ""
+    },
+
+    "60": {
+      "websiteId": "bodyguard",
+      "displayName": "Bodyguard",
+
+      "notes": ""
+    },
+
+    "61": {
+      "websiteId": "hero",
+      "displayName": "Hero",
+
+      "notes": ""
+    },
+
+    "62": {
+      "websiteId": "last-bastion",
+      "displayName": "Last Bastion",
+
+      "notes": ""
+    },
+
+    "64": {
+      "websiteId": "stealth",
+      "displayName": "Stealth",
+
+      "notes": ""
+    },
+
+    "65": {
+      "websiteId": "vanguard",
+      "displayName": "Vanguard",
+
+      "notes": ""
+    },
+
+    "66": {
+      "websiteId": "nomad",
+      "displayName": "Nomad",
+
+      "notes": ""
+    },
+
+    "67": {
+      "websiteId": "sequence",
+      "displayName": "Sequence",
+
+      "notes": ""
+    },
+
+    "68": {
+      "websiteId": "grass-cloak",
+      "displayName": "Grass Cloak",
+
+      "notes": ""
+    },
+
+    "69": {
+      "websiteId": "compound-eyes",
+      "displayName": "Compound Eyes",
+
+      "notes": ""
+    },
+
+    "70": {
+      "websiteId": "simple",
+      "displayName": "Simple",
+
+      "notes": ""
+    },
+
+    "71": {
+      "websiteId": "moxie",
+      "displayName": "Moxie",
+
+      "notes": ""
+    },
+
+    "72": {
+      "websiteId": "celebrate",
+      "displayName": "Celebrate",
+
+      "notes": ""
+    },
+
+    "73": {
+      "websiteId": "lullaby",
+      "displayName": "Lullaby",
+
+      "notes": ""
+    },
+
+    "74": {
+      "websiteId": "effect-spore",
+      "displayName": "Effect Spore",
+
+      "notes": ""
+    },
+
+    "75": {
+      "websiteId": "daze",
+      "displayName": "Daze",
+
+      "notes": ""
+    },
+
+    "76": {
+      "websiteId": "intimidate",
+      "displayName": "Intimidate",
+
+      "notes": ""
+    },
+
+    "77": {
+      "websiteId": "frighten",
+      "displayName": "Frighten",
+
+      "notes": ""
+    },
+
+    "78": {
+      "websiteId": "interference",
+      "displayName": "Interference",
+
+      "notes": ""
+    },
+
+    "79": {
+      "websiteId": "mood-maker",
+      "displayName": "Mood Maker",
+
+      "notes": ""
+    },
+
+    "80": {
+      "websiteId": "victory-star",
+      "displayName": "Victory Star",
+
+      "notes": ""
+    },
+
+    "81": {
+      "websiteId": "fortune",
+      "displayName": "Fortune",
+
+      "notes": ""
+    },
+
+    "83": {
+      "websiteId": "explode",
+      "displayName": "Explode",
+
+      "notes": ""
+    },
+
+    "86": {
+      "websiteId": "share",
+      "displayName": "Share",
+
+      "notes": ""
+    },
+
+    "87": {
+      "websiteId": "magnet-pull",
+      "displayName": "Magnet Pull",
+
+      "notes": ""
+    },
+
+    "88": {
+      "websiteId": "quick-draw",
+      "displayName": "Quick Draw",
+
+      "notes": ""
+    },
+
+    "89": {
+      "websiteId": "truant",
+      "displayName": "Truant",
+
+      "notes": ""
+    },
+
+    "90": {
+      "websiteId": "shadow-dash",
+      "displayName": "Shadow Dash",
+
+      "notes": ""
+    },
+
+    "91": {
+      "websiteId": "sprint",
+      "displayName": "Sprint",
+
+      "notes": ""
+    },
+
+    "92": {
+      "websiteId": "disgust",
+      "displayName": "Disgust",
+
+      "notes": ""
+    },
+
+    "93": {
+      "websiteId": "high-rise",
+      "displayName": "High-rise",
+
+      "notes": ""
+    },
+
+    "94": {
+      "websiteId": "climber",
+      "displayName": "Climber",
+
+      "notes": ""
+    },
+
+    "95": {
+      "websiteId": "flame-boost",
+      "displayName": "Flame Boost",
+
+      "notes": ""
+    },
+
+    "97": {
+      "websiteId": "run-up",
+      "displayName": "Run Up",
+
+      "notes": ""
+    },
+
+    "98": {
+      "websiteId": "conqueror",
+      "displayName": "Conqueror",
+
+      "notes": ""
+    },
+
+    "99": {
+      "websiteId": "shackle",
+      "displayName": "Shackle",
+
+      "notes": ""
+    },
+
+    "102": {
+      "websiteId": "zen-mode",
+      "displayName": "Zen Mode",
+
+      "notes": ""
+    }
+  }
+}

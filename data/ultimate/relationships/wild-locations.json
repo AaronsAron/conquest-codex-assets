@@ -1,0 +1,1311 @@
+{
+  "schemaVersion": 1,
+
+  "_documentation": {
+      "description": "Manually maintained wild Pokemon encounter pools by location and minimum building level. The template is generated from battle-type buildings in raw/buildings.json.",
+      "locationKey": "Each key under locations is the game-local buildingIndex from raw/buildings.json. The buildingIndex is the authoritative connector for the location within this game.",
+      "pokemonValues": "Values in level1, level2, and level3 are objects containing the game-local pokemonIndex and the corresponding displayName from mappings/pokemon-sprite-mappings.json. pokemonIndex is the authoritative connector within this game; pokemonName is included for readability and auditing.",
+      "levelMeaning": {
+            "level1": "Pokemon available when the location is at building level 1.",
+            "level2": "Pokemon first added when the location reaches building level 2.",
+            "level3": "Pokemon first added when the location reaches building level 3."
+          },
+      "inheritance": "Encounter levels are cumulative. A level 2 location includes the Pokemon listed under level1 and level2. A level 3 location includes the Pokemon listed under level1, level2, and level3. List each Pokemon only at the minimum level where it first becomes available.",
+      "specialLocations": "Dedicated legendary encounter locations should list their Pokemon under level1, with level2 and level3 left empty, because those locations do not use normal building-level encounter progression. Any event, story, or unlock requirements are stored elsewhere.",
+      "placeholder": "Every generated level initially contains an example Pokemon object to make manual editing and formatting clear. Replace every placeholder with the correct pokemonIndex and pokemonName. Use an empty array when a level adds no Pokemon.",
+      "maintenance": "This file is intended to be generated once per game and then manually reviewed. Do not regenerate with --force after manual edits unless the game's building roster has changed and replacing the reviewed encounter data is intentional."
+    },
+
+  "locations": {
+    "4": {
+      "buildingId": "farm",
+      "displayName": "Farm",
+
+      "kingdomIndex": 0,
+      "kingdomName": "Aurora",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 1, "pokemonName": "Vaporeon" },
+                { "pokemonIndex": 2, "pokemonName": "Jolteon" },
+                { "pokemonIndex": 3, "pokemonName": "Flareon" },
+                { "pokemonIndex": 4, "pokemonName": "Espeon" },
+                { "pokemonIndex": 5, "pokemonName": "Umbreon" },
+                { "pokemonIndex": 6, "pokemonName": "Leafeon" },
+                { "pokemonIndex": 7, "pokemonName": "Glaceon" },
+                { "pokemonIndex": 54, "pokemonName": "Obstagoon" },
+                { "pokemonIndex": 79, "pokemonName": "Staraptor" },
+                { "pokemonIndex": 80, "pokemonName": "Bibarel" },
+                { "pokemonIndex": 81, "pokemonName": "Kricketune" },
+                { "pokemonIndex": 108, "pokemonName": "Sawsbuck-Spring" },
+                { "pokemonIndex": 118, "pokemonName": "Pyroar" },
+                { "pokemonIndex": 132, "pokemonName": "Lycanroc-Midday" },
+                { "pokemonIndex": 141, "pokemonName": "Dubwool" },
+                { "pokemonIndex": 161, "pokemonName": "Cyclizar" },
+                { "pokemonIndex": 175, "pokemonName": "Kingambit" },
+                { "pokemonIndex": 198, "pokemonName": "Arceus" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "5": {
+      "buildingId": "ravine",
+      "displayName": "Ravine",
+
+      "kingdomIndex": 0,
+      "kingdomName": "Aurora",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 1, "pokemonName": "Vaporeon" },
+                { "pokemonIndex": 2, "pokemonName": "Jolteon" },
+                { "pokemonIndex": 3, "pokemonName": "Flareon" },
+                { "pokemonIndex": 4, "pokemonName": "Espeon" },
+                { "pokemonIndex": 5, "pokemonName": "Umbreon" },
+                { "pokemonIndex": 6, "pokemonName": "Leafeon" },
+                { "pokemonIndex": 7, "pokemonName": "Glaceon" },
+                { "pokemonIndex": 54, "pokemonName": "Obstagoon" },
+                { "pokemonIndex": 79, "pokemonName": "Staraptor" },
+                { "pokemonIndex": 80, "pokemonName": "Bibarel" },
+                { "pokemonIndex": 81, "pokemonName": "Kricketune" },
+                { "pokemonIndex": 108, "pokemonName": "Sawsbuck-Spring" },
+                { "pokemonIndex": 118, "pokemonName": "Pyroar" },
+                { "pokemonIndex": 132, "pokemonName": "Lycanroc-Midday" },
+                { "pokemonIndex": 141, "pokemonName": "Dubwool" },
+                { "pokemonIndex": 161, "pokemonName": "Cyclizar" },
+                { "pokemonIndex": 175, "pokemonName": "Kingambit" },
+                { "pokemonIndex": 198, "pokemonName": "Arceus" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "6": {
+      "buildingId": "sacred-ruins",
+      "displayName": "Sacred Ruins",
+
+      "kingdomIndex": 0,
+      "kingdomName": "Aurora",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 198, "pokemonName": "Arceus" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "11": {
+      "buildingId": "cave",
+      "displayName": "Cave",
+
+      "kingdomIndex": 1,
+      "kingdomName": "Ignis",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 8, "pokemonName": "Charizard" },
+                { "pokemonIndex": 14, "pokemonName": "Crobat" },
+                { "pokemonIndex": 16, "pokemonName": "Arcanine-Hisui" },
+                { "pokemonIndex": 18, "pokemonName": "Golem-Alola" },
+                { "pokemonIndex": 50, "pokemonName": "Skarmory" },
+                { "pokemonIndex": 63, "pokemonName": "Camerupt" },
+                { "pokemonIndex": 77, "pokemonName": "Infernape" },
+                { "pokemonIndex": 118, "pokemonName": "Pyroar" },
+                { "pokemonIndex": 134, "pokemonName": "Salazzle" },
+                { "pokemonIndex": 137, "pokemonName": "Turtonator" },
+                { "pokemonIndex": 145, "pokemonName": "Centiskorch" },
+                { "pokemonIndex": 156, "pokemonName": "Armarouge" },
+                { "pokemonIndex": 157, "pokemonName": "Ceruledge" },
+                { "pokemonIndex": 171, "pokemonName": "Heatran" },
+                { "pokemonIndex": 196, "pokemonName": "Reshiram" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "12": {
+      "buildingId": "floating-rock",
+      "displayName": "Floating Rock",
+
+      "kingdomIndex": 1,
+      "kingdomName": "Ignis",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 8, "pokemonName": "Charizard" },
+                { "pokemonIndex": 14, "pokemonName": "Crobat" },
+                { "pokemonIndex": 16, "pokemonName": "Arcanine-Hisui" },
+                { "pokemonIndex": 18, "pokemonName": "Golem-Alola" },
+                { "pokemonIndex": 50, "pokemonName": "Skarmory" },
+                { "pokemonIndex": 63, "pokemonName": "Camerupt" },
+                { "pokemonIndex": 77, "pokemonName": "Infernape" },
+                { "pokemonIndex": 118, "pokemonName": "Pyroar" },
+                { "pokemonIndex": 134, "pokemonName": "Salazzle" },
+                { "pokemonIndex": 137, "pokemonName": "Turtonator" },
+                { "pokemonIndex": 145, "pokemonName": "Centiskorch" },
+                { "pokemonIndex": 156, "pokemonName": "Armarouge" },
+                { "pokemonIndex": 157, "pokemonName": "Ceruledge" },
+                { "pokemonIndex": 171, "pokemonName": "Heatran" },
+                { "pokemonIndex": 196, "pokemonName": "Reshiram" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "13": {
+      "buildingId": "shrine-of-truth",
+      "displayName": "Shrine of Truth",
+
+      "kingdomIndex": 1,
+      "kingdomName": "Ignis",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 196, "pokemonName": "Reshiram" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "18": {
+      "buildingId": "ravine",
+      "displayName": "Ravine",
+
+      "kingdomIndex": 2,
+      "kingdomName": "Fontaine",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 17, "pokemonName": "Tentacruel" },
+                { "pokemonIndex": 19, "pokemonName": "Slowbro-Galar" },
+                { "pokemonIndex": 20, "pokemonName": "Slowking-Galar" },
+                { "pokemonIndex": 25, "pokemonName": "Kingdra" },
+                { "pokemonIndex": 26, "pokemonName": "Starmie" },
+                { "pokemonIndex": 31, "pokemonName": "Gyarados" },
+                { "pokemonIndex": 32, "pokemonName": "Lapras" },
+                { "pokemonIndex": 34, "pokemonName": "Kabutops" },
+                { "pokemonIndex": 42, "pokemonName": "Overqwil" },
+                { "pokemonIndex": 48, "pokemonName": "Cursola" },
+                { "pokemonIndex": 53, "pokemonName": "Swampert" },
+                { "pokemonIndex": 55, "pokemonName": "Ludicolo" },
+                { "pokemonIndex": 68, "pokemonName": "Cradily" },
+                { "pokemonIndex": 80, "pokemonName": "Bibarel" },
+                { "pokemonIndex": 95, "pokemonName": "Lanturn" },
+                { "pokemonIndex": 121, "pokemonName": "Dragalge" },
+                { "pokemonIndex": 136, "pokemonName": "Golisopod" },
+                { "pokemonIndex": 149, "pokemonName": "Dragapult" },
+                { "pokemonIndex": 183, "pokemonName": "Keldeo-Ordinary" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "19": {
+      "buildingId": "farm",
+      "displayName": "Farm",
+
+      "kingdomIndex": 2,
+      "kingdomName": "Fontaine",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 17, "pokemonName": "Tentacruel" },
+                { "pokemonIndex": 19, "pokemonName": "Slowbro-Galar" },
+                { "pokemonIndex": 20, "pokemonName": "Slowking-Galar" },
+                { "pokemonIndex": 25, "pokemonName": "Kingdra" },
+                { "pokemonIndex": 26, "pokemonName": "Starmie" },
+                { "pokemonIndex": 31, "pokemonName": "Gyarados" },
+                { "pokemonIndex": 32, "pokemonName": "Lapras" },
+                { "pokemonIndex": 34, "pokemonName": "Kabutops" },
+                { "pokemonIndex": 42, "pokemonName": "Overqwil" },
+                { "pokemonIndex": 48, "pokemonName": "Cursola" },
+                { "pokemonIndex": 53, "pokemonName": "Swampert" },
+                { "pokemonIndex": 55, "pokemonName": "Ludicolo" },
+                { "pokemonIndex": 68, "pokemonName": "Cradily" },
+                { "pokemonIndex": 80, "pokemonName": "Bibarel" },
+                { "pokemonIndex": 95, "pokemonName": "Lanturn" },
+                { "pokemonIndex": 121, "pokemonName": "Dragalge" },
+                { "pokemonIndex": 136, "pokemonName": "Golisopod" },
+                { "pokemonIndex": 149, "pokemonName": "Dragapult" },
+                { "pokemonIndex": 183, "pokemonName": "Keldeo-Ordinary" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "25": {
+      "buildingId": "sky-garden",
+      "displayName": "Sky Garden",
+
+      "kingdomIndex": 3,
+      "kingdomName": "Violight",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 13, "pokemonName": "Nidoking" },
+                { "pokemonIndex": 18, "pokemonName": "Golem-Alola" },
+                { "pokemonIndex": 21, "pokemonName": "Magnezone" },
+                { "pokemonIndex": 40, "pokemonName": "Farigiraf" },
+                { "pokemonIndex": 54, "pokemonName": "Obstagoon" },
+                { "pokemonIndex": 98, "pokemonName": "Electrode-Hisui" },
+                { "pokemonIndex": 109, "pokemonName": "Galvantula" },
+                { "pokemonIndex": 119, "pokemonName": "Pangoro" },
+                { "pokemonIndex": 122, "pokemonName": "Heliolisk" },
+                { "pokemonIndex": 138, "pokemonName": "Togedemaru" },
+                { "pokemonIndex": 144, "pokemonName": "Toxtricity-Amped" },
+                { "pokemonIndex": 147, "pokemonName": "Morpeko-Full-Belly" },
+                { "pokemonIndex": 152, "pokemonName": "Lokix" },
+                { "pokemonIndex": 154, "pokemonName": "Pawmot" },
+                { "pokemonIndex": 181, "pokemonName": "Thundurus-Therian" },
+                { "pokemonIndex": 191, "pokemonName": "Regieleki" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "26": {
+      "buildingId": "floating-rock",
+      "displayName": "Floating Rock",
+
+      "kingdomIndex": 3,
+      "kingdomName": "Violight",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 13, "pokemonName": "Nidoking" },
+                { "pokemonIndex": 18, "pokemonName": "Golem-Alola" },
+                { "pokemonIndex": 21, "pokemonName": "Magnezone" },
+                { "pokemonIndex": 40, "pokemonName": "Farigiraf" },
+                { "pokemonIndex": 54, "pokemonName": "Obstagoon" },
+                { "pokemonIndex": 98, "pokemonName": "Electrode-Hisui" },
+                { "pokemonIndex": 109, "pokemonName": "Galvantula" },
+                { "pokemonIndex": 119, "pokemonName": "Pangoro" },
+                { "pokemonIndex": 122, "pokemonName": "Heliolisk" },
+                { "pokemonIndex": 138, "pokemonName": "Togedemaru" },
+                { "pokemonIndex": 144, "pokemonName": "Toxtricity-Amped" },
+                { "pokemonIndex": 147, "pokemonName": "Morpeko-Full-Belly" },
+                { "pokemonIndex": 152, "pokemonName": "Lokix" },
+                { "pokemonIndex": 154, "pokemonName": "Pawmot" },
+                { "pokemonIndex": 181, "pokemonName": "Thundurus-Therian" },
+                { "pokemonIndex": 191, "pokemonName": "Regieleki" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "27": {
+      "buildingId": "idyllic-skies",
+      "displayName": "Idyllic Skies",
+
+      "kingdomIndex": 3,
+      "kingdomName": "Violight",
+
+      "encounters": {
+              "level1": [],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "32": {
+      "buildingId": "ravine",
+      "displayName": "Ravine",
+
+      "kingdomIndex": 4,
+      "kingdomName": "Greenleaf",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 23, "pokemonName": "Exeggutor" },
+                { "pokemonIndex": 28, "pokemonName": "Scyther" },
+                { "pokemonIndex": 41, "pokemonName": "Gliscor" },
+                { "pokemonIndex": 43, "pokemonName": "Heracross" },
+                { "pokemonIndex": 55, "pokemonName": "Ludicolo" },
+                { "pokemonIndex": 56, "pokemonName": "Shiftry" },
+                { "pokemonIndex": 58, "pokemonName": "Breloom" },
+                { "pokemonIndex": 59, "pokemonName": "Slaking" },
+                { "pokemonIndex": 62, "pokemonName": "Roserade" },
+                { "pokemonIndex": 71, "pokemonName": "Tropius" },
+                { "pokemonIndex": 76, "pokemonName": "Torterra" },
+                { "pokemonIndex": 82, "pokemonName": "Rampardos" },
+                { "pokemonIndex": 102, "pokemonName": "Leavanny" },
+                { "pokemonIndex": 127, "pokemonName": "Trevenant" },
+                { "pokemonIndex": 129, "pokemonName": "Decidueye" },
+                { "pokemonIndex": 173, "pokemonName": "Shaymin-Sky" },
+                { "pokemonIndex": 179, "pokemonName": "Virizion" },
+                { "pokemonIndex": 188, "pokemonName": "Kartana" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "33": {
+      "buildingId": "farm",
+      "displayName": "Farm",
+
+      "kingdomIndex": 4,
+      "kingdomName": "Greenleaf",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 23, "pokemonName": "Exeggutor" },
+                { "pokemonIndex": 28, "pokemonName": "Scyther" },
+                { "pokemonIndex": 41, "pokemonName": "Gliscor" },
+                { "pokemonIndex": 43, "pokemonName": "Heracross" },
+                { "pokemonIndex": 55, "pokemonName": "Ludicolo" },
+                { "pokemonIndex": 56, "pokemonName": "Shiftry" },
+                { "pokemonIndex": 58, "pokemonName": "Breloom" },
+                { "pokemonIndex": 59, "pokemonName": "Slaking" },
+                { "pokemonIndex": 62, "pokemonName": "Roserade" },
+                { "pokemonIndex": 71, "pokemonName": "Tropius" },
+                { "pokemonIndex": 76, "pokemonName": "Torterra" },
+                { "pokemonIndex": 82, "pokemonName": "Rampardos" },
+                { "pokemonIndex": 102, "pokemonName": "Leavanny" },
+                { "pokemonIndex": 127, "pokemonName": "Trevenant" },
+                { "pokemonIndex": 129, "pokemonName": "Decidueye" },
+                { "pokemonIndex": 173, "pokemonName": "Shaymin-Sky" },
+                { "pokemonIndex": 179, "pokemonName": "Virizion" },
+                { "pokemonIndex": 188, "pokemonName": "Kartana" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "39": {
+      "buildingId": "snowy-mountain",
+      "displayName": "Snowy Mountain",
+
+      "kingdomIndex": 5,
+      "kingdomName": "Nixtorm",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 12, "pokemonName": "Sandslash-Alola" },
+                { "pokemonIndex": 27, "pokemonName": "Mr. Rime" },
+                { "pokemonIndex": 32, "pokemonName": "Lapras" },
+                { "pokemonIndex": 44, "pokemonName": "Weavile" },
+                { "pokemonIndex": 45, "pokemonName": "Sneasler" },
+                { "pokemonIndex": 47, "pokemonName": "Mamoswine" },
+                { "pokemonIndex": 72, "pokemonName": "Froslass" },
+                { "pokemonIndex": 73, "pokemonName": "Walrein" },
+                { "pokemonIndex": 78, "pokemonName": "Empoleon" },
+                { "pokemonIndex": 92, "pokemonName": "Abomasnow" },
+                { "pokemonIndex": 103, "pokemonName": "Basculegion-Male" },
+                { "pokemonIndex": 105, "pokemonName": "Darmanitan-Galar-Zen" },
+                { "pokemonIndex": 107, "pokemonName": "Zoroark-Hisui" },
+                { "pokemonIndex": 124, "pokemonName": "Aurorus" },
+                { "pokemonIndex": 146, "pokemonName": "Frosmoth" },
+                { "pokemonIndex": 163, "pokemonName": "Baxcalibur" },
+                { "pokemonIndex": 189, "pokemonName": "Marshadow" },
+                { "pokemonIndex": 192, "pokemonName": "Spectrier" },
+                { "pokemonIndex": 194, "pokemonName": "Chien-Pao" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "40": {
+      "buildingId": "sky-garden",
+      "displayName": "Sky Garden",
+
+      "kingdomIndex": 5,
+      "kingdomName": "Nixtorm",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 12, "pokemonName": "Sandslash-Alola" },
+                { "pokemonIndex": 27, "pokemonName": "Mr. Rime" },
+                { "pokemonIndex": 32, "pokemonName": "Lapras" },
+                { "pokemonIndex": 44, "pokemonName": "Weavile" },
+                { "pokemonIndex": 45, "pokemonName": "Sneasler" },
+                { "pokemonIndex": 47, "pokemonName": "Mamoswine" },
+                { "pokemonIndex": 72, "pokemonName": "Froslass" },
+                { "pokemonIndex": 73, "pokemonName": "Walrein" },
+                { "pokemonIndex": 78, "pokemonName": "Empoleon" },
+                { "pokemonIndex": 92, "pokemonName": "Abomasnow" },
+                { "pokemonIndex": 103, "pokemonName": "Basculegion-Male" },
+                { "pokemonIndex": 105, "pokemonName": "Darmanitan-Galar-Zen" },
+                { "pokemonIndex": 107, "pokemonName": "Zoroark-Hisui" },
+                { "pokemonIndex": 124, "pokemonName": "Aurorus" },
+                { "pokemonIndex": 146, "pokemonName": "Frosmoth" },
+                { "pokemonIndex": 163, "pokemonName": "Baxcalibur" },
+                { "pokemonIndex": 189, "pokemonName": "Marshadow" },
+                { "pokemonIndex": 192, "pokemonName": "Spectrier" },
+                { "pokemonIndex": 194, "pokemonName": "Chien-Pao" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "41": {
+      "buildingId": "icy-peak",
+      "displayName": "Icy Peak",
+
+      "kingdomIndex": 5,
+      "kingdomName": "Nixtorm",
+
+      "encounters": {
+              "level1": [],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "46": {
+      "buildingId": "park",
+      "displayName": "Park",
+
+      "kingdomIndex": 6,
+      "kingdomName": "Pugilis",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 13, "pokemonName": "Nidoking" },
+                { "pokemonIndex": 40, "pokemonName": "Farigiraf" },
+                { "pokemonIndex": 43, "pokemonName": "Heracross" },
+                { "pokemonIndex": 52, "pokemonName": "Blaziken" },
+                { "pokemonIndex": 57, "pokemonName": "Gallade" },
+                { "pokemonIndex": 58, "pokemonName": "Breloom" },
+                { "pokemonIndex": 77, "pokemonName": "Infernape" },
+                { "pokemonIndex": 89, "pokemonName": "Lucario" },
+                { "pokemonIndex": 101, "pokemonName": "Conkeldurr" },
+                { "pokemonIndex": 125, "pokemonName": "Hawlucha" },
+                { "pokemonIndex": 130, "pokemonName": "Incineroar" },
+                { "pokemonIndex": 133, "pokemonName": "Mudsdale" },
+                { "pokemonIndex": 135, "pokemonName": "Bewear" },
+                { "pokemonIndex": 139, "pokemonName": "Kommo-o" },
+                { "pokemonIndex": 148, "pokemonName": "Dracozolt" },
+                { "pokemonIndex": 151, "pokemonName": "Quaquaval" },
+                { "pokemonIndex": 166, "pokemonName": "Zapdos-Galar" },
+                { "pokemonIndex": 189, "pokemonName": "Marshadow" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "47": {
+      "buildingId": "farm",
+      "displayName": "Farm",
+
+      "kingdomIndex": 6,
+      "kingdomName": "Pugilis",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 13, "pokemonName": "Nidoking" },
+                { "pokemonIndex": 40, "pokemonName": "Farigiraf" },
+                { "pokemonIndex": 43, "pokemonName": "Heracross" },
+                { "pokemonIndex": 52, "pokemonName": "Blaziken" },
+                { "pokemonIndex": 57, "pokemonName": "Gallade" },
+                { "pokemonIndex": 58, "pokemonName": "Breloom" },
+                { "pokemonIndex": 77, "pokemonName": "Infernape" },
+                { "pokemonIndex": 89, "pokemonName": "Lucario" },
+                { "pokemonIndex": 101, "pokemonName": "Conkeldurr" },
+                { "pokemonIndex": 125, "pokemonName": "Hawlucha" },
+                { "pokemonIndex": 130, "pokemonName": "Incineroar" },
+                { "pokemonIndex": 133, "pokemonName": "Mudsdale" },
+                { "pokemonIndex": 135, "pokemonName": "Bewear" },
+                { "pokemonIndex": 139, "pokemonName": "Kommo-o" },
+                { "pokemonIndex": 148, "pokemonName": "Dracozolt" },
+                { "pokemonIndex": 151, "pokemonName": "Quaquaval" },
+                { "pokemonIndex": 166, "pokemonName": "Zapdos-Galar" },
+                { "pokemonIndex": 189, "pokemonName": "Marshadow" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "53": {
+      "buildingId": "cave",
+      "displayName": "Cave",
+
+      "kingdomIndex": 7,
+      "kingdomName": "Viperia",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 9, "pokemonName": "Beedrill" },
+                { "pokemonIndex": 10, "pokemonName": "Arbok" },
+                { "pokemonIndex": 22, "pokemonName": "Gengar" },
+                { "pokemonIndex": 37, "pokemonName": "Ariados" },
+                { "pokemonIndex": 38, "pokemonName": "Yanmega" },
+                { "pokemonIndex": 39, "pokemonName": "Honchkrow" },
+                { "pokemonIndex": 41, "pokemonName": "Gliscor" },
+                { "pokemonIndex": 62, "pokemonName": "Roserade" },
+                { "pokemonIndex": 91, "pokemonName": "Toxicroak" },
+                { "pokemonIndex": 113, "pokemonName": "Accelgor" },
+                { "pokemonIndex": 114, "pokemonName": "Stunfisk" },
+                { "pokemonIndex": 117, "pokemonName": "Greninja" },
+                { "pokemonIndex": 144, "pokemonName": "Toxtricity-Amped" },
+                { "pokemonIndex": 158, "pokemonName": "Grafaiai" },
+                { "pokemonIndex": 190, "pokemonName": "Naganadel" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "54": {
+      "buildingId": "park",
+      "displayName": "Park",
+
+      "kingdomIndex": 7,
+      "kingdomName": "Viperia",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 9, "pokemonName": "Beedrill" },
+                { "pokemonIndex": 10, "pokemonName": "Arbok" },
+                { "pokemonIndex": 22, "pokemonName": "Gengar" },
+                { "pokemonIndex": 37, "pokemonName": "Ariados" },
+                { "pokemonIndex": 38, "pokemonName": "Yanmega" },
+                { "pokemonIndex": 39, "pokemonName": "Honchkrow" },
+                { "pokemonIndex": 41, "pokemonName": "Gliscor" },
+                { "pokemonIndex": 62, "pokemonName": "Roserade" },
+                { "pokemonIndex": 91, "pokemonName": "Toxicroak" },
+                { "pokemonIndex": 113, "pokemonName": "Accelgor" },
+                { "pokemonIndex": 114, "pokemonName": "Stunfisk" },
+                { "pokemonIndex": 117, "pokemonName": "Greninja" },
+                { "pokemonIndex": 144, "pokemonName": "Toxtricity-Amped" },
+                { "pokemonIndex": 158, "pokemonName": "Grafaiai" },
+                { "pokemonIndex": 190, "pokemonName": "Naganadel" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "60": {
+      "buildingId": "farm",
+      "displayName": "Farm",
+
+      "kingdomIndex": 8,
+      "kingdomName": "Terrera",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 24, "pokemonName": "Rhyperior" },
+                { "pokemonIndex": 64, "pokemonName": "Flygon" },
+                { "pokemonIndex": 67, "pokemonName": "Claydol" },
+                { "pokemonIndex": 90, "pokemonName": "Drapion" },
+                { "pokemonIndex": 96, "pokemonName": "Arctozolt" },
+                { "pokemonIndex": 100, "pokemonName": "Excadrill" },
+                { "pokemonIndex": 101, "pokemonName": "Conkeldurr" },
+                { "pokemonIndex": 104, "pokemonName": "Krookodile" },
+                { "pokemonIndex": 106, "pokemonName": "Sigilyph" },
+                { "pokemonIndex": 114, "pokemonName": "Stunfisk" },
+                { "pokemonIndex": 115, "pokemonName": "Golurk" },
+                { "pokemonIndex": 122, "pokemonName": "Heliolisk" },
+                { "pokemonIndex": 143, "pokemonName": "Sandaconda" },
+                { "pokemonIndex": 159, "pokemonName": "Scovillain" },
+                { "pokemonIndex": 176, "pokemonName": "Volcarona" },
+                { "pokemonIndex": 182, "pokemonName": "Landorus-Therian" },
+                { "pokemonIndex": 193, "pokemonName": "Great Tusk" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "61": {
+      "buildingId": "park",
+      "displayName": "Park",
+
+      "kingdomIndex": 8,
+      "kingdomName": "Terrera",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 24, "pokemonName": "Rhyperior" },
+                { "pokemonIndex": 64, "pokemonName": "Flygon" },
+                { "pokemonIndex": 67, "pokemonName": "Claydol" },
+                { "pokemonIndex": 90, "pokemonName": "Drapion" },
+                { "pokemonIndex": 96, "pokemonName": "Arctozolt" },
+                { "pokemonIndex": 100, "pokemonName": "Excadrill" },
+                { "pokemonIndex": 101, "pokemonName": "Conkeldurr" },
+                { "pokemonIndex": 104, "pokemonName": "Krookodile" },
+                { "pokemonIndex": 106, "pokemonName": "Sigilyph" },
+                { "pokemonIndex": 114, "pokemonName": "Stunfisk" },
+                { "pokemonIndex": 115, "pokemonName": "Golurk" },
+                { "pokemonIndex": 122, "pokemonName": "Heliolisk" },
+                { "pokemonIndex": 143, "pokemonName": "Sandaconda" },
+                { "pokemonIndex": 159, "pokemonName": "Scovillain" },
+                { "pokemonIndex": 176, "pokemonName": "Volcarona" },
+                { "pokemonIndex": 182, "pokemonName": "Landorus-Therian" },
+                { "pokemonIndex": 193, "pokemonName": "Great Tusk" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "62": {
+      "buildingId": "ancient-cave",
+      "displayName": "Ancient Cave",
+
+      "kingdomIndex": 8,
+      "kingdomName": "Terrera",
+
+      "encounters": {
+              "level1": [],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "67": {
+      "buildingId": "sky-garden",
+      "displayName": "Sky Garden",
+
+      "kingdomIndex": 9,
+      "kingdomName": "Avia",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 8, "pokemonName": "Charizard" },
+                { "pokemonIndex": 31, "pokemonName": "Gyarados" },
+                { "pokemonIndex": 35, "pokemonName": "Aerodactyl" },
+                { "pokemonIndex": 49, "pokemonName": "Delibird" },
+                { "pokemonIndex": 50, "pokemonName": "Skarmory" },
+                { "pokemonIndex": 74, "pokemonName": "Salamence" },
+                { "pokemonIndex": 79, "pokemonName": "Staraptor" },
+                { "pokemonIndex": 85, "pokemonName": "Drifblim" },
+                { "pokemonIndex": 88, "pokemonName": "Garchomp" },
+                { "pokemonIndex": 106, "pokemonName": "Sigilyph" },
+                { "pokemonIndex": 128, "pokemonName": "Noivern" },
+                { "pokemonIndex": 165, "pokemonName": "Articuno" },
+                { "pokemonIndex": 167, "pokemonName": "Dragonite" },
+                { "pokemonIndex": 180, "pokemonName": "Tornadus-Therian" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "68": {
+      "buildingId": "snowy-mountain",
+      "displayName": "Snowy Mountain",
+
+      "kingdomIndex": 9,
+      "kingdomName": "Avia",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 8, "pokemonName": "Charizard" },
+                { "pokemonIndex": 31, "pokemonName": "Gyarados" },
+                { "pokemonIndex": 35, "pokemonName": "Aerodactyl" },
+                { "pokemonIndex": 49, "pokemonName": "Delibird" },
+                { "pokemonIndex": 50, "pokemonName": "Skarmory" },
+                { "pokemonIndex": 74, "pokemonName": "Salamence" },
+                { "pokemonIndex": 79, "pokemonName": "Staraptor" },
+                { "pokemonIndex": 85, "pokemonName": "Drifblim" },
+                { "pokemonIndex": 88, "pokemonName": "Garchomp" },
+                { "pokemonIndex": 106, "pokemonName": "Sigilyph" },
+                { "pokemonIndex": 128, "pokemonName": "Noivern" },
+                { "pokemonIndex": 165, "pokemonName": "Articuno" },
+                { "pokemonIndex": 167, "pokemonName": "Dragonite" },
+                { "pokemonIndex": 180, "pokemonName": "Tornadus-Therian" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "74": {
+      "buildingId": "floating-rock",
+      "displayName": "Floating Rock",
+
+      "kingdomIndex": 10,
+      "kingdomName": "Illusio",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 23, "pokemonName": "Exeggutor" },
+                { "pokemonIndex": 26, "pokemonName": "Starmie" },
+                { "pokemonIndex": 36, "pokemonName": "Typhlosion-Hisui" },
+                { "pokemonIndex": 57, "pokemonName": "Gallade" },
+                { "pokemonIndex": 65, "pokemonName": "Lunatone" },
+                { "pokemonIndex": 66, "pokemonName": "Solrock" },
+                { "pokemonIndex": 84, "pokemonName": "Gastrodon-East-Sea" },
+                { "pokemonIndex": 86, "pokemonName": "Bronzong" },
+                { "pokemonIndex": 97, "pokemonName": "Kilowattrel" },
+                { "pokemonIndex": 109, "pokemonName": "Galvantula" },
+                { "pokemonIndex": 110, "pokemonName": "Ferrothorn" },
+                { "pokemonIndex": 111, "pokemonName": "Klinklang" },
+                { "pokemonIndex": 120, "pokemonName": "Malamar" },
+                { "pokemonIndex": 135, "pokemonName": "Bewear" },
+                { "pokemonIndex": 140, "pokemonName": "Orbeetle" },
+                { "pokemonIndex": 147, "pokemonName": "Morpeko-Full-Belly" },
+                { "pokemonIndex": 170, "pokemonName": "Deoxys-Normal" },
+                { "pokemonIndex": 172, "pokemonName": "Manaphy" },
+                { "pokemonIndex": 174, "pokemonName": "Victini" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "75": {
+      "buildingId": "snowy-mountain",
+      "displayName": "Snowy Mountain",
+
+      "kingdomIndex": 10,
+      "kingdomName": "Illusio",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 23, "pokemonName": "Exeggutor" },
+                { "pokemonIndex": 26, "pokemonName": "Starmie" },
+                { "pokemonIndex": 36, "pokemonName": "Typhlosion-Hisui" },
+                { "pokemonIndex": 57, "pokemonName": "Gallade" },
+                { "pokemonIndex": 65, "pokemonName": "Lunatone" },
+                { "pokemonIndex": 66, "pokemonName": "Solrock" },
+                { "pokemonIndex": 84, "pokemonName": "Gastrodon-East-Sea" },
+                { "pokemonIndex": 86, "pokemonName": "Bronzong" },
+                { "pokemonIndex": 97, "pokemonName": "Kilowattrel" },
+                { "pokemonIndex": 109, "pokemonName": "Galvantula" },
+                { "pokemonIndex": 110, "pokemonName": "Ferrothorn" },
+                { "pokemonIndex": 111, "pokemonName": "Klinklang" },
+                { "pokemonIndex": 120, "pokemonName": "Malamar" },
+                { "pokemonIndex": 135, "pokemonName": "Bewear" },
+                { "pokemonIndex": 140, "pokemonName": "Orbeetle" },
+                { "pokemonIndex": 147, "pokemonName": "Morpeko-Full-Belly" },
+                { "pokemonIndex": 170, "pokemonName": "Deoxys-Normal" },
+                { "pokemonIndex": 172, "pokemonName": "Manaphy" },
+                { "pokemonIndex": 174, "pokemonName": "Victini" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "76": {
+      "buildingId": "mystery-rock",
+      "displayName": "Mystery Rock",
+
+      "kingdomIndex": 10,
+      "kingdomName": "Illusio",
+
+      "encounters": {
+              "level1": [],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "81": {
+      "buildingId": "ravine",
+      "displayName": "Ravine",
+
+      "kingdomIndex": 11,
+      "kingdomName": "Chrysalia",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 9, "pokemonName": "Beedrill" },
+                { "pokemonIndex": 11, "pokemonName": "Raichu-Alola" },
+                { "pokemonIndex": 28, "pokemonName": "Scyther" },
+                { "pokemonIndex": 29, "pokemonName": "Scizor" },
+                { "pokemonIndex": 30, "pokemonName": "Kleavor" },
+                { "pokemonIndex": 36, "pokemonName": "Typhlosion-Hisui" },
+                { "pokemonIndex": 37, "pokemonName": "Ariados" },
+                { "pokemonIndex": 52, "pokemonName": "Blaziken" },
+                { "pokemonIndex": 60, "pokemonName": "Shedinja" },
+                { "pokemonIndex": 76, "pokemonName": "Torterra" },
+                { "pokemonIndex": 81, "pokemonName": "Kricketune" },
+                { "pokemonIndex": 83, "pokemonName": "Wormadam-Sandy" },
+                { "pokemonIndex": 97, "pokemonName": "Kilowattrel" },
+                { "pokemonIndex": 102, "pokemonName": "Leavanny" },
+                { "pokemonIndex": 123, "pokemonName": "Tyrantrum" },
+                { "pokemonIndex": 140, "pokemonName": "Orbeetle" },
+                { "pokemonIndex": 148, "pokemonName": "Dracozolt" },
+                { "pokemonIndex": 168, "pokemonName": "Celebi" },
+                { "pokemonIndex": 186, "pokemonName": "Volcanion" },
+                { "pokemonIndex": 187, "pokemonName": "Buzzwole" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "82": {
+      "buildingId": "sky-garden",
+      "displayName": "Sky Garden",
+
+      "kingdomIndex": 11,
+      "kingdomName": "Chrysalia",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 9, "pokemonName": "Beedrill" },
+                { "pokemonIndex": 11, "pokemonName": "Raichu-Alola" },
+                { "pokemonIndex": 28, "pokemonName": "Scyther" },
+                { "pokemonIndex": 29, "pokemonName": "Scizor" },
+                { "pokemonIndex": 30, "pokemonName": "Kleavor" },
+                { "pokemonIndex": 36, "pokemonName": "Typhlosion-Hisui" },
+                { "pokemonIndex": 37, "pokemonName": "Ariados" },
+                { "pokemonIndex": 52, "pokemonName": "Blaziken" },
+                { "pokemonIndex": 60, "pokemonName": "Shedinja" },
+                { "pokemonIndex": 76, "pokemonName": "Torterra" },
+                { "pokemonIndex": 81, "pokemonName": "Kricketune" },
+                { "pokemonIndex": 83, "pokemonName": "Wormadam-Sandy" },
+                { "pokemonIndex": 97, "pokemonName": "Kilowattrel" },
+                { "pokemonIndex": 102, "pokemonName": "Leavanny" },
+                { "pokemonIndex": 123, "pokemonName": "Tyrantrum" },
+                { "pokemonIndex": 140, "pokemonName": "Orbeetle" },
+                { "pokemonIndex": 148, "pokemonName": "Dracozolt" },
+                { "pokemonIndex": 168, "pokemonName": "Celebi" },
+                { "pokemonIndex": 186, "pokemonName": "Volcanion" },
+                { "pokemonIndex": 187, "pokemonName": "Buzzwole" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "88": {
+      "buildingId": "cave",
+      "displayName": "Cave",
+
+      "kingdomIndex": 12,
+      "kingdomName": "Cragspur",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 14, "pokemonName": "Crobat" },
+                { "pokemonIndex": 24, "pokemonName": "Rhyperior" },
+                { "pokemonIndex": 35, "pokemonName": "Aerodactyl" },
+                { "pokemonIndex": 51, "pokemonName": "Tyranitar" },
+                { "pokemonIndex": 61, "pokemonName": "Aggron" },
+                { "pokemonIndex": 65, "pokemonName": "Lunatone" },
+                { "pokemonIndex": 66, "pokemonName": "Solrock" },
+                { "pokemonIndex": 100, "pokemonName": "Excadrill" },
+                { "pokemonIndex": 110, "pokemonName": "Ferrothorn" },
+                { "pokemonIndex": 112, "pokemonName": "Haxorus" },
+                { "pokemonIndex": 131, "pokemonName": "Crabominable" },
+                { "pokemonIndex": 152, "pokemonName": "Lokix" },
+                { "pokemonIndex": 155, "pokemonName": "Garganacl" },
+                { "pokemonIndex": 162, "pokemonName": "Glimmora" },
+                { "pokemonIndex": 177, "pokemonName": "Cobalion" },
+                { "pokemonIndex": 178, "pokemonName": "Terrakion" },
+                { "pokemonIndex": 195, "pokemonName": "Chi-Yu" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "89": {
+      "buildingId": "park",
+      "displayName": "Park",
+
+      "kingdomIndex": 12,
+      "kingdomName": "Cragspur",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 14, "pokemonName": "Crobat" },
+                { "pokemonIndex": 24, "pokemonName": "Rhyperior" },
+                { "pokemonIndex": 35, "pokemonName": "Aerodactyl" },
+                { "pokemonIndex": 51, "pokemonName": "Tyranitar" },
+                { "pokemonIndex": 61, "pokemonName": "Aggron" },
+                { "pokemonIndex": 65, "pokemonName": "Lunatone" },
+                { "pokemonIndex": 66, "pokemonName": "Solrock" },
+                { "pokemonIndex": 100, "pokemonName": "Excadrill" },
+                { "pokemonIndex": 110, "pokemonName": "Ferrothorn" },
+                { "pokemonIndex": 112, "pokemonName": "Haxorus" },
+                { "pokemonIndex": 131, "pokemonName": "Crabominable" },
+                { "pokemonIndex": 152, "pokemonName": "Lokix" },
+                { "pokemonIndex": 155, "pokemonName": "Garganacl" },
+                { "pokemonIndex": 162, "pokemonName": "Glimmora" },
+                { "pokemonIndex": 177, "pokemonName": "Cobalion" },
+                { "pokemonIndex": 178, "pokemonName": "Terrakion" },
+                { "pokemonIndex": 195, "pokemonName": "Chi-Yu" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "95": {
+      "buildingId": "floating-rock",
+      "displayName": "Floating Rock",
+
+      "kingdomIndex": 13,
+      "kingdomName": "Spectra",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 15, "pokemonName": "Annihilape" },
+                { "pokemonIndex": 22, "pokemonName": "Gengar" },
+                { "pokemonIndex": 60, "pokemonName": "Shedinja" },
+                { "pokemonIndex": 70, "pokemonName": "Dusknoir" },
+                { "pokemonIndex": 85, "pokemonName": "Drifblim" },
+                { "pokemonIndex": 93, "pokemonName": "Rotom" },
+                { "pokemonIndex": 94, "pokemonName": "Rotom-Heat" },
+                { "pokemonIndex": 103, "pokemonName": "Basculegion-Male" },
+                { "pokemonIndex": 107, "pokemonName": "Zoroark-Hisui" },
+                { "pokemonIndex": 127, "pokemonName": "Trevenant" },
+                { "pokemonIndex": 129, "pokemonName": "Decidueye" },
+                { "pokemonIndex": 185, "pokemonName": "Hoopa-Confined" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "96": {
+      "buildingId": "cave",
+      "displayName": "Cave",
+
+      "kingdomIndex": 13,
+      "kingdomName": "Spectra",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 15, "pokemonName": "Annihilape" },
+                { "pokemonIndex": 22, "pokemonName": "Gengar" },
+                { "pokemonIndex": 60, "pokemonName": "Shedinja" },
+                { "pokemonIndex": 70, "pokemonName": "Dusknoir" },
+                { "pokemonIndex": 85, "pokemonName": "Drifblim" },
+                { "pokemonIndex": 93, "pokemonName": "Rotom" },
+                { "pokemonIndex": 94, "pokemonName": "Rotom-Heat" },
+                { "pokemonIndex": 103, "pokemonName": "Basculegion-Male" },
+                { "pokemonIndex": 107, "pokemonName": "Zoroark-Hisui" },
+                { "pokemonIndex": 127, "pokemonName": "Trevenant" },
+                { "pokemonIndex": 129, "pokemonName": "Decidueye" },
+                { "pokemonIndex": 185, "pokemonName": "Hoopa-Confined" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "102": {
+      "buildingId": "sky-garden",
+      "displayName": "Sky Garden",
+
+      "kingdomIndex": 14,
+      "kingdomName": "Dragnor",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 74, "pokemonName": "Salamence" },
+                { "pokemonIndex": 75, "pokemonName": "Metagross" },
+                { "pokemonIndex": 88, "pokemonName": "Garchomp" },
+                { "pokemonIndex": 89, "pokemonName": "Lucario" },
+                { "pokemonIndex": 108, "pokemonName": "Sawsbuck-Spring" },
+                { "pokemonIndex": 112, "pokemonName": "Haxorus" },
+                { "pokemonIndex": 115, "pokemonName": "Golurk" },
+                { "pokemonIndex": 116, "pokemonName": "Hydreigon" },
+                { "pokemonIndex": 126, "pokemonName": "Goodra-Hisui" },
+                { "pokemonIndex": 128, "pokemonName": "Noivern" },
+                { "pokemonIndex": 139, "pokemonName": "Kommo-o" },
+                { "pokemonIndex": 142, "pokemonName": "Flapple" },
+                { "pokemonIndex": 169, "pokemonName": "Latios" },
+                { "pokemonIndex": 199, "pokemonName": "Zekrom" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "103": {
+      "buildingId": "ravine",
+      "displayName": "Ravine",
+
+      "kingdomIndex": 14,
+      "kingdomName": "Dragnor",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 74, "pokemonName": "Salamence" },
+                { "pokemonIndex": 75, "pokemonName": "Metagross" },
+                { "pokemonIndex": 88, "pokemonName": "Garchomp" },
+                { "pokemonIndex": 89, "pokemonName": "Lucario" },
+                { "pokemonIndex": 108, "pokemonName": "Sawsbuck-Spring" },
+                { "pokemonIndex": 112, "pokemonName": "Haxorus" },
+                { "pokemonIndex": 115, "pokemonName": "Golurk" },
+                { "pokemonIndex": 116, "pokemonName": "Hydreigon" },
+                { "pokemonIndex": 126, "pokemonName": "Goodra-Hisui" },
+                { "pokemonIndex": 128, "pokemonName": "Noivern" },
+                { "pokemonIndex": 139, "pokemonName": "Kommo-o" },
+                { "pokemonIndex": 142, "pokemonName": "Flapple" },
+                { "pokemonIndex": 169, "pokemonName": "Latios" },
+                { "pokemonIndex": 199, "pokemonName": "Zekrom" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "104": {
+      "buildingId": "infinite-tower",
+      "displayName": "Infinite Tower",
+
+      "kingdomIndex": 14,
+      "kingdomName": "Dragnor",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 199, "pokemonName": "Zekrom" },
+                { "pokemonIndex": 198, "pokemonName": "Arceus" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "109": {
+      "buildingId": "cave",
+      "displayName": "Cave",
+
+      "kingdomIndex": 15,
+      "kingdomName": "Yaksha",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 38, "pokemonName": "Yanmega" },
+                { "pokemonIndex": 39, "pokemonName": "Honchkrow" },
+                { "pokemonIndex": 46, "pokemonName": "Ursaluna" },
+                { "pokemonIndex": 56, "pokemonName": "Shiftry" },
+                { "pokemonIndex": 70, "pokemonName": "Dusknoir" },
+                { "pokemonIndex": 87, "pokemonName": "Spiritomb" },
+                { "pokemonIndex": 90, "pokemonName": "Drapion" },
+                { "pokemonIndex": 91, "pokemonName": "Toxicroak" },
+                { "pokemonIndex": 99, "pokemonName": "Samurott-Hisui" },
+                { "pokemonIndex": 113, "pokemonName": "Accelgor" },
+                { "pokemonIndex": 116, "pokemonName": "Hydreigon" },
+                { "pokemonIndex": 117, "pokemonName": "Greninja" },
+                { "pokemonIndex": 119, "pokemonName": "Pangoro" },
+                { "pokemonIndex": 120, "pokemonName": "Malamar" },
+                { "pokemonIndex": 150, "pokemonName": "Meowscarada" },
+                { "pokemonIndex": 153, "pokemonName": "Darkrai" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "110": {
+      "buildingId": "floating-rock",
+      "displayName": "Floating Rock",
+
+      "kingdomIndex": 15,
+      "kingdomName": "Yaksha",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 38, "pokemonName": "Yanmega" },
+                { "pokemonIndex": 39, "pokemonName": "Honchkrow" },
+                { "pokemonIndex": 46, "pokemonName": "Ursaluna" },
+                { "pokemonIndex": 56, "pokemonName": "Shiftry" },
+                { "pokemonIndex": 70, "pokemonName": "Dusknoir" },
+                { "pokemonIndex": 87, "pokemonName": "Spiritomb" },
+                { "pokemonIndex": 90, "pokemonName": "Drapion" },
+                { "pokemonIndex": 91, "pokemonName": "Toxicroak" },
+                { "pokemonIndex": 99, "pokemonName": "Samurott-Hisui" },
+                { "pokemonIndex": 113, "pokemonName": "Accelgor" },
+                { "pokemonIndex": 116, "pokemonName": "Hydreigon" },
+                { "pokemonIndex": 117, "pokemonName": "Greninja" },
+                { "pokemonIndex": 119, "pokemonName": "Pangoro" },
+                { "pokemonIndex": 120, "pokemonName": "Malamar" },
+                { "pokemonIndex": 150, "pokemonName": "Meowscarada" },
+                { "pokemonIndex": 153, "pokemonName": "Darkrai" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+
+    "116": {
+      "buildingId": "snowy-mountain",
+      "displayName": "Snowy Mountain",
+
+      "kingdomIndex": 16,
+      "kingdomName": "Valora",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 21, "pokemonName": "Magnezone" },
+                { "pokemonIndex": 33, "pokemonName": "Porygon-Z" },
+                { "pokemonIndex": 61, "pokemonName": "Aggron" },
+                { "pokemonIndex": 69, "pokemonName": "Castform-Snowy" },
+                { "pokemonIndex": 75, "pokemonName": "Metagross" },
+                { "pokemonIndex": 93, "pokemonName": "Rotom" },
+                { "pokemonIndex": 94, "pokemonName": "Rotom-Heat" },
+                { "pokemonIndex": 98, "pokemonName": "Electrode-Hisui" },
+                { "pokemonIndex": 111, "pokemonName": "Klinklang" },
+                { "pokemonIndex": 126, "pokemonName": "Goodra-Hisui" },
+                { "pokemonIndex": 160, "pokemonName": "Revavroom" },
+                { "pokemonIndex": 164, "pokemonName": "Gholdengo" },
+                { "pokemonIndex": 184, "pokemonName": "Genesect" },
+                { "pokemonIndex": 197, "pokemonName": "Dialga" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "117": {
+      "buildingId": "park",
+      "displayName": "Park",
+
+      "kingdomIndex": 16,
+      "kingdomName": "Valora",
+
+      "encounters": {
+              "level1": [
+                { "pokemonIndex": 21, "pokemonName": "Magnezone" },
+                { "pokemonIndex": 33, "pokemonName": "Porygon-Z" },
+                { "pokemonIndex": 61, "pokemonName": "Aggron" },
+                { "pokemonIndex": 69, "pokemonName": "Castform-Snowy" },
+                { "pokemonIndex": 75, "pokemonName": "Metagross" },
+                { "pokemonIndex": 93, "pokemonName": "Rotom" },
+                { "pokemonIndex": 94, "pokemonName": "Rotom-Heat" },
+                { "pokemonIndex": 98, "pokemonName": "Electrode-Hisui" },
+                { "pokemonIndex": 111, "pokemonName": "Klinklang" },
+                { "pokemonIndex": 126, "pokemonName": "Goodra-Hisui" },
+                { "pokemonIndex": 160, "pokemonName": "Revavroom" },
+                { "pokemonIndex": 164, "pokemonName": "Gholdengo" },
+                { "pokemonIndex": 184, "pokemonName": "Genesect" },
+                { "pokemonIndex": 197, "pokemonName": "Dialga" }
+              ],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    },
+
+    "118": {
+      "buildingId": "shrine-of-resolve",
+      "displayName": "Shrine of Resolve",
+
+      "kingdomIndex": 16,
+      "kingdomName": "Valora",
+
+      "encounters": {
+              "level1": [],
+              "level2": [],
+              "level3": []
+            },
+
+      "notes": ""
+    }
+  }
+}
