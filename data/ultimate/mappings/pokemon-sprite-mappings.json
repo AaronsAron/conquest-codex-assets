@@ -274,7 +274,7 @@
       "displayName": "Exeggutor",
 
       "pokemonId": "exeggutor",
-      "variantId": "default",
+      "variantId": "kanto",
       "alternateSprites": {},
 
       "notes": ""
@@ -417,7 +417,7 @@
       "displayName": "Typhlosion-Hisui",
 
       "pokemonId": "typhlosion-hisui",
-      "variantId": "default",
+      "variantId": "hisui",
       "alternateSprites": {},
 
       "notes": ""
