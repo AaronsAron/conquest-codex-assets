@@ -865,8 +865,8 @@
 
     "usesValue": false,
 
-    "shortDescription": "Its attacks never miss.",
-    "longDescription": "Has no effect. The intention is for this Pokemon's attacks to never miss, but the never-miss effect is assigned directly to {moveIndex: 128} itself rather than coming from this abiliy. As such, if this ability is given to other Pokemon, the never-miss effect will still be assinged to {moveIndex: 128} and not the new move."
+    "shortDescription": "Its attacks bypass accuracy checks.",
+    "longDescription": "Has no effect. The intention is for this Pokemon's attacks to not check for accuracy and bypass dodge-granting abilities during damage calculation, but the never-miss effect is assigned directly to {moveIndex: 128} itself rather than coming from this abiliy. As such, if this ability is given to other Pokemon, the never-miss effect will still be assinged to {moveIndex: 128} and not the new move."
   },
 
   {
