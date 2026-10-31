@@ -1237,7 +1237,7 @@
 
     "range": { "rangeIndex": 11, "rangeName": "Ahead 2 Tiles" },
     "movement": { "movementIndex": 0, "movementName": "Move User" },
-    "movementFlags": ["Knockback"],
+    "movementFlags": ["Movement Or Knockback", "Invert Movement Direction"],
 
     "effects": {
       "normal": [
