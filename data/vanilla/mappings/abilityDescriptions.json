@@ -636,7 +636,7 @@
     "usesValue": false,
 
     "shortDescription": "If first Pokemon to move during the turn, deals 50% more damage.",
-    "longDescription": "If this Pokemon is the first to move during the turn, its attack deals 50% more damage. If the defending Pokemon has the abiliy {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
+    "longDescription": "If this Pokemon is the first to move during the turn, its attack deals 50% more damage. If the defending Pokemon has the ability {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
   },
 
   {
@@ -646,7 +646,7 @@
     "usesValue": false,
 
     "shortDescription": "Deals 20% more damage per tile traveled before attacking.",
-    "longDescription": "This Pokemon deals 20% more damage for each tile it travels before executing an attack. If the defending Pokemon has the abiliy {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
+    "longDescription": "This Pokemon deals 20% more damage for each tile it travels before executing an attack. If the defending Pokemon has the ability {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
   },
 
   {
@@ -896,7 +896,7 @@
     "usesValue": false,
 
     "shortDescription": "Deals 50% more damage if above the defender.",
-    "longDescription": "This Pokemon deals 50% more damage to targets positioned on lower ground. If the defending Pokemon has the abiliy {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
+    "longDescription": "This Pokemon deals 50% more damage to targets positioned on lower ground. If the defending Pokemon has the ability {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
   },
 
   {
@@ -906,7 +906,7 @@
     "usesValue": false,
 
     "shortDescription": "Deals 50% more damage if below the defender.",
-    "longDescription": "This Pokemon deals 50% more damage to targets positioned on higher ground. This Pokemon's attacks do not suffer the height modifier penalty during damage calculation for being on lower ground than the defender. If the defending Pokemon has the abiliy {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
+    "longDescription": "This Pokemon deals 50% more damage to targets positioned on higher ground. This Pokemon's attacks do not suffer the height modifier penalty during damage calculation for being on lower ground than the defender. If the defending Pokemon has the ability {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
   },
 
   {
@@ -916,7 +916,7 @@
     "usesValue": false,
 
     "shortDescription": "Adjacent allies' Fire-type moves deal 50% more damage.",
-    "longDescription": "Fire-type moves used by adjacent allied Pokemon deal 50% more damage. If the defending Pokemon has the abiliy {abilityIndex: 14} or the attacking Pokemon has the ability {abilityIndex: 65}, {abilityIndex: 66}, {abilityIndex: 97}, {abilityIndex: 93}, or {abilityIndex: 94}, and either triggers from the attack, the damage boost from this effect is negated."
+    "longDescription": "Fire-type moves used by adjacent allied Pokemon deal 50% more damage. If the defending Pokemon has the ability {abilityIndex: 14} or the attacking Pokemon has the ability {abilityIndex: 65}, {abilityIndex: 66}, {abilityIndex: 97}, {abilityIndex: 93}, or {abilityIndex: 94}, and either triggers from the attack, the damage boost from this effect is negated."
   },
 
   {
@@ -926,7 +926,7 @@
     "usesValue": false,
 
     "shortDescription": "Adjacent allies' Water-type moves deal 50% more damage.",
-    "longDescription": "Water-type moves used by adjacent allied Pokemon deal 50% more damage. If the defending Pokemon has the abiliy {abilityIndex: 14} or the attacking Pokemon has the ability {abilityIndex: 65}, {abilityIndex: 66}, {abilityIndex: 97}, {abilityIndex: 93}, or {abilityIndex: 94}, and either triggers from the attack, the damage boost from this effect is negated."
+    "longDescription": "Water-type moves used by adjacent allied Pokemon deal 50% more damage. If the defending Pokemon has the ability {abilityIndex: 14} or the attacking Pokemon has the ability {abilityIndex: 65}, {abilityIndex: 66}, {abilityIndex: 97}, {abilityIndex: 93}, or {abilityIndex: 94}, and either triggers from the attack, the damage boost from this effect is negated."
   },
 
   {
@@ -936,7 +936,7 @@
     "usesValue": false,
 
     "shortDescription": "Deals 12.5% more damage per tile traveled before attacking.",
-    "longDescription": "This Pokemon deals 12.5% more damage for each tile it travels before executing an attack. If the defending Pokemon has the abiliy {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
+    "longDescription": "This Pokemon deals 12.5% more damage for each tile it travels before executing an attack. If the defending Pokemon has the ability {abilityIndex: 14}, and it triggers from the attack, the damage boost is negated."
   },
 
   {
