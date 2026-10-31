@@ -707,7 +707,7 @@
 
     "shortDescription": "Can move again after defeating an enemy (max twice per turn).",
     "longDescription": "The first time this Pokemon defeats an enemy Pokemon with an attack in a turn, it can move and act a second time."
-  
+  },
 
   {
     "abilityIndex": 73,
