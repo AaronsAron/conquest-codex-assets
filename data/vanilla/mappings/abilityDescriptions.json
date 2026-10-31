@@ -785,7 +785,7 @@
 
     "usesValue": true,
 
-    "shortDescription": "Start of its turn: {value:increase-user-defence} Defense to allies within two tiles until they act.",
+    "shortDescription": "Start of its turn: +{value:increase-user-defence} Defense to allies within two tiles until they act.",
     "longDescription": "At the start of this Pokemon's turn, any allied Pokemon within two tiles has its Defense stage increased by {value:increase-user-defence} until it acts this turn or its turn ends."
   },
 
