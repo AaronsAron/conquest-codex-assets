@@ -12,7 +12,7 @@
     "specialityTypeIds": ["normal"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 2, "skillName": "TopSpeed" },
+    "skill": { "skillIndex": 2, "skillName": "Top Speed" },
 
     "stats": {
       "power": 65,
@@ -116,7 +116,7 @@
     "specialityTypeIds": ["normal"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 2, "skillName": "TopSpeed" },
+    "skill": { "skillIndex": 2, "skillName": "Top Speed" },
 
     "stats": {
       "power": 65,
@@ -284,7 +284,7 @@
     "specialityTypeIds": ["normal", "dragon"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 5, "skillName": "SweetSong" },
+    "skill": { "skillIndex": 5, "skillName": "Sweet Song" },
 
     "stats": {
       "power": 48,
@@ -324,7 +324,7 @@
     "specialityTypeIds": ["normal", "dragon"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 27, "skillName": "SoftLight" },
+    "skill": { "skillIndex": 27, "skillName": "Soft Light" },
 
     "stats": {
       "power": 54,
@@ -348,7 +348,7 @@
     "specialityTypeIds": ["fire", "fighting"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 14, "skillName": "QuickStrike" },
+    "skill": { "skillIndex": 14, "skillName": "Quick Strike" },
 
     "stats": {
       "power": 66,
@@ -388,7 +388,7 @@
     "specialityTypeIds": ["fire", "fighting"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 28, "skillName": "GrandDream" },
+    "skill": { "skillIndex": 28, "skillName": "Grand Dream" },
 
     "stats": {
       "power": 76,
@@ -428,7 +428,7 @@
     "specialityTypeIds": ["fire", "fighting"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 29, "skillName": "GreatUniter" },
+    "skill": { "skillIndex": 29, "skillName": "Great Uniter" },
 
     "stats": {
       "power": 80,
@@ -644,7 +644,7 @@
     "specialityTypeIds": ["ice", "flying"],
     "weaknessTypeIds": ["steel", "rock"],
 
-    "skill": { "skillIndex": 9, "skillName": "CrackShot" },
+    "skill": { "skillIndex": 9, "skillName": "Crack Shot" },
 
     "stats": {
       "power": 77,
@@ -684,7 +684,7 @@
     "specialityTypeIds": ["ice", "flying"],
     "weaknessTypeIds": ["steel", "rock"],
 
-    "skill": { "skillIndex": 33, "skillName": "ColdEyes" },
+    "skill": { "skillIndex": 33, "skillName": "Cold Eyes" },
 
     "stats": {
       "power": 88,
@@ -708,7 +708,7 @@
     "specialityTypeIds": ["fighting"],
     "weaknessTypeIds": ["flying"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 90,
@@ -748,7 +748,7 @@
     "specialityTypeIds": ["fighting"],
     "weaknessTypeIds": ["flying"],
 
-    "skill": { "skillIndex": 34, "skillName": "Chesto" },
+    "skill": { "skillIndex": 34, "skillName": "Chesto!" },
 
     "stats": {
       "power": 98,
@@ -812,7 +812,7 @@
     "specialityTypeIds": ["poison", "flying"],
     "weaknessTypeIds": ["psychic", "rock"],
 
-    "skill": { "skillIndex": 35, "skillName": "NeneNinpo" },
+    "skill": { "skillIndex": 35, "skillName": "Nene Ninp?" },
 
     "stats": {
       "power": 75,
@@ -876,7 +876,7 @@
     "specialityTypeIds": ["ground", "rock"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 36, "skillName": "FurinKazan" },
+    "skill": { "skillIndex": 36, "skillName": "F?rin Kazan" },
 
     "stats": {
       "power": 92,
@@ -940,7 +940,7 @@
     "specialityTypeIds": ["flying"],
     "weaknessTypeIds": ["rock"],
 
-    "skill": { "skillIndex": 37, "skillName": "OneEyedDragon" },
+    "skill": { "skillIndex": 37, "skillName": "One-Eyed Dragon" },
 
     "stats": {
       "power": 96,
@@ -1028,7 +1028,7 @@
     "specialityTypeIds": ["bug", "steel"],
     "weaknessTypeIds": ["ice", "ghost"],
 
-    "skill": { "skillIndex": 16, "skillName": "DeepBreath" },
+    "skill": { "skillIndex": 16, "skillName": "Deep Breath" },
 
     "stats": {
       "power": 64,
@@ -1132,7 +1132,7 @@
     "specialityTypeIds": ["rock"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 40, "skillName": "FatherFigure" },
+    "skill": { "skillIndex": 40, "skillName": "Father Figure" },
 
     "stats": {
       "power": 90,
@@ -1156,7 +1156,7 @@
     "specialityTypeIds": ["ghost", "dragon"],
     "weaknessTypeIds": ["bug", "fighting"],
 
-    "skill": { "skillIndex": 12, "skillName": "AddedBonus" },
+    "skill": { "skillIndex": 12, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 48,
@@ -1196,7 +1196,7 @@
     "specialityTypeIds": ["ghost", "dragon"],
     "weaknessTypeIds": ["bug", "fighting"],
 
-    "skill": { "skillIndex": 41, "skillName": "VipersBite" },
+    "skill": { "skillIndex": 41, "skillName": "Viper's Bite" },
 
     "stats": {
       "power": 54,
@@ -1220,7 +1220,7 @@
     "specialityTypeIds": ["dark"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 14, "skillName": "QuickStrike" },
+    "skill": { "skillIndex": 14, "skillName": "Quick Strike" },
 
     "stats": {
       "power": 82,
@@ -1348,7 +1348,7 @@
     "specialityTypeIds": ["electric", "fire"],
     "weaknessTypeIds": ["ground", "rock"],
 
-    "skill": { "skillIndex": 12, "skillName": "AddedBonus" },
+    "skill": { "skillIndex": 12, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 36,
@@ -1540,7 +1540,7 @@
     "specialityTypeIds": ["psychic", "ice"],
     "weaknessTypeIds": ["bug", "fire"],
 
-    "skill": { "skillIndex": 12, "skillName": "AddedBonus" },
+    "skill": { "skillIndex": 12, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 42,
@@ -1732,7 +1732,7 @@
     "specialityTypeIds": ["fire", "flying"],
     "weaknessTypeIds": ["ground", "rock"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 87,
@@ -1796,7 +1796,7 @@
     "specialityTypeIds": ["grass", "flying"],
     "weaknessTypeIds": ["rock", "fighting"],
 
-    "skill": { "skillIndex": 9, "skillName": "CrackShot" },
+    "skill": { "skillIndex": 9, "skillName": "Crack Shot" },
 
     "stats": {
       "power": 89,
@@ -1900,7 +1900,7 @@
     "specialityTypeIds": ["psychic"],
     "weaknessTypeIds": ["ghost"],
 
-    "skill": { "skillIndex": 52, "skillName": "LoveAndHonor" },
+    "skill": { "skillIndex": 52, "skillName": "Love & Honor" },
 
     "stats": {
       "power": 75,
@@ -1924,7 +1924,7 @@
     "specialityTypeIds": ["ice", "ghost"],
     "weaknessTypeIds": ["fighting", "rock"],
 
-    "skill": { "skillIndex": 5, "skillName": "SweetSong" },
+    "skill": { "skillIndex": 5, "skillName": "Sweet Song" },
 
     "stats": {
       "power": 39,
@@ -1988,7 +1988,7 @@
     "specialityTypeIds": ["fire", "rock"],
     "weaknessTypeIds": ["water", "grass"],
 
-    "skill": { "skillIndex": 14, "skillName": "QuickStrike" },
+    "skill": { "skillIndex": 14, "skillName": "Quick Strike" },
 
     "stats": {
       "power": 73,
@@ -2028,7 +2028,7 @@
     "specialityTypeIds": ["fire", "rock"],
     "weaknessTypeIds": ["water", "grass"],
 
-    "skill": { "skillIndex": 54, "skillName": "WarriorWoman" },
+    "skill": { "skillIndex": 54, "skillName": "Warrior Woman" },
 
     "stats": {
       "power": 83,
@@ -2092,7 +2092,7 @@
     "specialityTypeIds": ["bug", "fire"],
     "weaknessTypeIds": ["water", "ground"],
 
-    "skill": { "skillIndex": 55, "skillName": "KabukiDance" },
+    "skill": { "skillIndex": 55, "skillName": "Kabuki Dance" },
 
     "stats": {
       "power": 75,
@@ -2244,7 +2244,7 @@
     "specialityTypeIds": ["water", "steel"],
     "weaknessTypeIds": ["grass", "fire"],
 
-    "skill": { "skillIndex": 9, "skillName": "CrackShot" },
+    "skill": { "skillIndex": 9, "skillName": "Crack Shot" },
 
     "stats": {
       "power": 78,
@@ -2308,7 +2308,7 @@
     "specialityTypeIds": ["rock", "fighting"],
     "weaknessTypeIds": ["grass", "flying"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 92,
@@ -2588,7 +2588,7 @@
     "specialityTypeIds": ["dark"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 14, "skillName": "QuickStrike" },
+    "skill": { "skillIndex": 14, "skillName": "Quick Strike" },
 
     "stats": {
       "power": 70,
@@ -2612,7 +2612,7 @@
     "specialityTypeIds": ["ground", "normal"],
     "weaknessTypeIds": ["ice", "fighting"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 82,
@@ -2852,7 +2852,7 @@
     "specialityTypeIds": ["grass", "dragon"],
     "weaknessTypeIds": ["poison", "ice"],
 
-    "skill": { "skillIndex": 8, "skillName": "EagleEye" },
+    "skill": { "skillIndex": 8, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 7,
@@ -2924,7 +2924,7 @@
     "specialityTypeIds": ["grass", "dragon"],
     "weaknessTypeIds": ["poison", "ice"],
 
-    "skill": { "skillIndex": 2, "skillName": "TopSpeed" },
+    "skill": { "skillIndex": 2, "skillName": "Top Speed" },
 
     "stats": {
       "power": 70,
@@ -2996,7 +2996,7 @@
     "specialityTypeIds": ["dragon"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 5, "skillName": "SweetSong" },
+    "skill": { "skillIndex": 5, "skillName": "Sweet Song" },
 
     "stats": {
       "power": 54,
@@ -3020,7 +3020,7 @@
     "specialityTypeIds": ["dragon"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 9, "skillName": "CrackShot" },
+    "skill": { "skillIndex": 9, "skillName": "Crack Shot" },
 
     "stats": {
       "power": 48,
@@ -3068,7 +3068,7 @@
     "specialityTypeIds": ["fighting", "fire"],
     "weaknessTypeIds": ["water", "ground"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 75,
@@ -3092,7 +3092,7 @@
     "specialityTypeIds": ["flying", "fire"],
     "weaknessTypeIds": ["rock", "ground"],
 
-    "skill": { "skillIndex": 12, "skillName": "AddedBonus" },
+    "skill": { "skillIndex": 12, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 70,
@@ -3140,7 +3140,7 @@
     "specialityTypeIds": ["normal", "fire"],
     "weaknessTypeIds": ["ground", "rock"],
 
-    "skill": { "skillIndex": 16, "skillName": "DeepBreath" },
+    "skill": { "skillIndex": 16, "skillName": "Deep Breath" },
 
     "stats": {
       "power": 31,
@@ -3236,7 +3236,7 @@
     "specialityTypeIds": ["fire"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 16, "skillName": "DeepBreath" },
+    "skill": { "skillIndex": 16, "skillName": "Deep Breath" },
 
     "stats": {
       "power": 48,
@@ -3284,7 +3284,7 @@
     "specialityTypeIds": ["fire"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 9, "skillName": "CrackShot" },
+    "skill": { "skillIndex": 9, "skillName": "Crack Shot" },
 
     "stats": {
       "power": 14,
@@ -3356,7 +3356,7 @@
     "specialityTypeIds": ["fire"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 8, "skillName": "EagleEye" },
+    "skill": { "skillIndex": 8, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 50,
@@ -3380,7 +3380,7 @@
     "specialityTypeIds": ["ghost", "fire"],
     "weaknessTypeIds": ["ground", "water"],
 
-    "skill": { "skillIndex": 12, "skillName": "AddedBonus" },
+    "skill": { "skillIndex": 12, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 57,
@@ -3404,7 +3404,7 @@
     "specialityTypeIds": ["normal"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 5, "skillName": "SweetSong" },
+    "skill": { "skillIndex": 5, "skillName": "Sweet Song" },
 
     "stats": {
       "power": 30,
@@ -3428,7 +3428,7 @@
     "specialityTypeIds": ["steel", "fire"],
     "weaknessTypeIds": ["normal", "grass"],
 
-    "skill": { "skillIndex": 2, "skillName": "TopSpeed" },
+    "skill": { "skillIndex": 2, "skillName": "Top Speed" },
 
     "stats": {
       "power": 62,
@@ -3452,7 +3452,7 @@
     "specialityTypeIds": ["water"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 9, "skillName": "CrackShot" },
+    "skill": { "skillIndex": 9, "skillName": "Crack Shot" },
 
     "stats": {
       "power": 79,
@@ -3500,7 +3500,7 @@
     "specialityTypeIds": ["water"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 8, "skillName": "EagleEye" },
+    "skill": { "skillIndex": 8, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 77,
@@ -3596,7 +3596,7 @@
     "specialityTypeIds": ["electric", "water"],
     "weaknessTypeIds": ["grass", "dark"],
 
-    "skill": { "skillIndex": 16, "skillName": "DeepBreath" },
+    "skill": { "skillIndex": 16, "skillName": "Deep Breath" },
 
     "stats": {
       "power": 16,
@@ -3692,7 +3692,7 @@
     "specialityTypeIds": ["electric"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 16, "skillName": "DeepBreath" },
+    "skill": { "skillIndex": 16, "skillName": "Deep Breath" },
 
     "stats": {
       "power": 38,
@@ -3740,7 +3740,7 @@
     "specialityTypeIds": ["electric"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 2, "skillName": "TopSpeed" },
+    "skill": { "skillIndex": 2, "skillName": "Top Speed" },
 
     "stats": {
       "power": 56,
@@ -3788,7 +3788,7 @@
     "specialityTypeIds": ["dragon", "grass"],
     "weaknessTypeIds": ["ice", "poison"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 92,
@@ -3860,7 +3860,7 @@
     "specialityTypeIds": ["water", "grass"],
     "weaknessTypeIds": ["electric", "poison"],
 
-    "skill": { "skillIndex": 8, "skillName": "EagleEye" },
+    "skill": { "skillIndex": 8, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 80,
@@ -3932,7 +3932,7 @@
     "specialityTypeIds": ["grass"],
     "weaknessTypeIds": ["poison"],
 
-    "skill": { "skillIndex": 8, "skillName": "EagleEye" },
+    "skill": { "skillIndex": 8, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 48,
@@ -4076,7 +4076,7 @@
     "specialityTypeIds": ["psychic", "ice"],
     "weaknessTypeIds": ["bug", "normal"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 76,
@@ -4172,7 +4172,7 @@
     "specialityTypeIds": ["fighting"],
     "weaknessTypeIds": ["flying"],
 
-    "skill": { "skillIndex": 2, "skillName": "TopSpeed" },
+    "skill": { "skillIndex": 2, "skillName": "Top Speed" },
 
     "stats": {
       "power": 73,
@@ -4220,7 +4220,7 @@
     "specialityTypeIds": ["fighting"],
     "weaknessTypeIds": ["flying"],
 
-    "skill": { "skillIndex": 11, "skillName": "HighJump" },
+    "skill": { "skillIndex": 11, "skillName": "High Jump" },
 
     "stats": {
       "power": 71,
@@ -4364,7 +4364,7 @@
     "specialityTypeIds": ["poison"],
     "weaknessTypeIds": ["psychic"],
 
-    "skill": { "skillIndex": 8, "skillName": "EagleEye" },
+    "skill": { "skillIndex": 8, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 42,
@@ -4388,7 +4388,7 @@
     "specialityTypeIds": ["poison"],
     "weaknessTypeIds": ["psychic"],
 
-    "skill": { "skillIndex": 9, "skillName": "CrackShot" },
+    "skill": { "skillIndex": 9, "skillName": "Crack Shot" },
 
     "stats": {
       "power": 80,
@@ -4412,7 +4412,7 @@
     "specialityTypeIds": ["poison"],
     "weaknessTypeIds": ["psychic"],
 
-    "skill": { "skillIndex": 11, "skillName": "HighJump" },
+    "skill": { "skillIndex": 11, "skillName": "High Jump" },
 
     "stats": {
       "power": 60,
@@ -4436,7 +4436,7 @@
     "specialityTypeIds": ["rock", "ground"],
     "weaknessTypeIds": ["grass", "ice"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 82,
@@ -4460,7 +4460,7 @@
     "specialityTypeIds": ["flying", "ground"],
     "weaknessTypeIds": ["grass", "psychic"],
 
-    "skill": { "skillIndex": 14, "skillName": "QuickStrike" },
+    "skill": { "skillIndex": 14, "skillName": "Quick Strike" },
 
     "stats": {
       "power": 41,
@@ -4484,7 +4484,7 @@
     "specialityTypeIds": ["fire", "ground"],
     "weaknessTypeIds": ["grass", "ice"],
 
-    "skill": { "skillIndex": 16, "skillName": "DeepBreath" },
+    "skill": { "skillIndex": 16, "skillName": "Deep Breath" },
 
     "stats": {
       "power": 88,
@@ -4532,7 +4532,7 @@
     "specialityTypeIds": ["ground"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 16, "skillName": "DeepBreath" },
+    "skill": { "skillIndex": 16, "skillName": "Deep Breath" },
 
     "stats": {
       "power": 80,
@@ -4604,7 +4604,7 @@
     "specialityTypeIds": ["ground"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 11, "skillName": "HighJump" },
+    "skill": { "skillIndex": 11, "skillName": "High Jump" },
 
     "stats": {
       "power": 32,
@@ -4628,7 +4628,7 @@
     "specialityTypeIds": ["dark", "ground"],
     "weaknessTypeIds": ["bug", "grass"],
 
-    "skill": { "skillIndex": 9, "skillName": "CrackShot" },
+    "skill": { "skillIndex": 9, "skillName": "Crack Shot" },
 
     "stats": {
       "power": 60,
@@ -4748,7 +4748,7 @@
     "specialityTypeIds": ["flying"],
     "weaknessTypeIds": ["rock"],
 
-    "skill": { "skillIndex": 11, "skillName": "HighJump" },
+    "skill": { "skillIndex": 11, "skillName": "High Jump" },
 
     "stats": {
       "power": 48,
@@ -4772,7 +4772,7 @@
     "specialityTypeIds": ["dragon", "flying"],
     "weaknessTypeIds": ["rock", "psychic"],
 
-    "skill": { "skillIndex": 16, "skillName": "DeepBreath" },
+    "skill": { "skillIndex": 16, "skillName": "Deep Breath" },
 
     "stats": {
       "power": 76,
@@ -4796,7 +4796,7 @@
     "specialityTypeIds": ["flying"],
     "weaknessTypeIds": ["rock"],
 
-    "skill": { "skillIndex": 8, "skillName": "EagleEye" },
+    "skill": { "skillIndex": 8, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 71,
@@ -4844,7 +4844,7 @@
     "specialityTypeIds": ["flying"],
     "weaknessTypeIds": ["rock"],
 
-    "skill": { "skillIndex": 12, "skillName": "AddedBonus" },
+    "skill": { "skillIndex": 12, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 58,
@@ -4940,7 +4940,7 @@
     "specialityTypeIds": ["rock", "psychic"],
     "weaknessTypeIds": ["grass", "ghost"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 90,
@@ -5132,7 +5132,7 @@
     "specialityTypeIds": ["bug"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 12, "skillName": "AddedBonus" },
+    "skill": { "skillIndex": 12, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 6,
@@ -5156,7 +5156,7 @@
     "specialityTypeIds": ["ice", "bug"],
     "weaknessTypeIds": ["normal", "psychic"],
 
-    "skill": { "skillIndex": 14, "skillName": "QuickStrike" },
+    "skill": { "skillIndex": 14, "skillName": "Quick Strike" },
 
     "stats": {
       "power": 50,
@@ -5204,7 +5204,7 @@
     "specialityTypeIds": ["bug"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 71,
@@ -5252,7 +5252,7 @@
     "specialityTypeIds": ["bug"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 2, "skillName": "TopSpeed" },
+    "skill": { "skillIndex": 2, "skillName": "Top Speed" },
 
     "stats": {
       "power": 50,
@@ -5276,7 +5276,7 @@
     "specialityTypeIds": ["bug"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 8, "skillName": "EagleEye" },
+    "skill": { "skillIndex": 8, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 48,
@@ -5300,7 +5300,7 @@
     "specialityTypeIds": ["rock"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 14, "skillName": "QuickStrike" },
+    "skill": { "skillIndex": 14, "skillName": "Quick Strike" },
 
     "stats": {
       "power": 69,
@@ -5516,7 +5516,7 @@
     "specialityTypeIds": ["poison", "ghost"],
     "weaknessTypeIds": ["psychic", "ground"],
 
-    "skill": { "skillIndex": 14, "skillName": "QuickStrike" },
+    "skill": { "skillIndex": 14, "skillName": "Quick Strike" },
 
     "stats": {
       "power": 73,
@@ -5588,7 +5588,7 @@
     "specialityTypeIds": ["ghost"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 12, "skillName": "AddedBonus" },
+    "skill": { "skillIndex": 12, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 62,
@@ -5660,7 +5660,7 @@
     "specialityTypeIds": ["poison", "ghost"],
     "weaknessTypeIds": ["psychic", "ground"],
 
-    "skill": { "skillIndex": 5, "skillName": "SweetSong" },
+    "skill": { "skillIndex": 5, "skillName": "Sweet Song" },
 
     "stats": {
       "power": 57,
@@ -5708,7 +5708,7 @@
     "specialityTypeIds": ["flying", "dark"],
     "weaknessTypeIds": ["psychic", "grass"],
 
-    "skill": { "skillIndex": 2, "skillName": "TopSpeed" },
+    "skill": { "skillIndex": 2, "skillName": "Top Speed" },
 
     "stats": {
       "power": 79,
@@ -5732,7 +5732,7 @@
     "specialityTypeIds": ["flying", "dark"],
     "weaknessTypeIds": ["psychic", "grass"],
 
-    "skill": { "skillIndex": 9, "skillName": "CrackShot" },
+    "skill": { "skillIndex": 9, "skillName": "Crack Shot" },
 
     "stats": {
       "power": 79,
@@ -5756,7 +5756,7 @@
     "specialityTypeIds": ["poison", "dark"],
     "weaknessTypeIds": ["psychic", "normal"],
 
-    "skill": { "skillIndex": 8, "skillName": "EagleEye" },
+    "skill": { "skillIndex": 8, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 80,
@@ -5780,7 +5780,7 @@
     "specialityTypeIds": ["dark"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 2, "skillName": "TopSpeed" },
+    "skill": { "skillIndex": 2, "skillName": "Top Speed" },
 
     "stats": {
       "power": 72,
@@ -5948,7 +5948,7 @@
     "specialityTypeIds": ["normal", "steel"],
     "weaknessTypeIds": ["fire", "electric"],
 
-    "skill": { "skillIndex": 12, "skillName": "AddedBonus" },
+    "skill": { "skillIndex": 12, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 2,
@@ -6020,7 +6020,7 @@
     "specialityTypeIds": ["bug", "steel"],
     "weaknessTypeIds": ["normal", "ghost"],
 
-    "skill": { "skillIndex": 9, "skillName": "CrackShot" },
+    "skill": { "skillIndex": 9, "skillName": "Crack Shot" },
 
     "stats": {
       "power": 62,
@@ -6044,7 +6044,7 @@
     "specialityTypeIds": ["steel"],
     "weaknessTypeIds": ["fire"],
 
-    "skill": { "skillIndex": 12, "skillName": "AddedBonus" },
+    "skill": { "skillIndex": 12, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 44,
@@ -6116,7 +6116,7 @@
     "specialityTypeIds": ["steel"],
     "weaknessTypeIds": ["fire"],
 
-    "skill": { "skillIndex": 14, "skillName": "QuickStrike" },
+    "skill": { "skillIndex": 14, "skillName": "Quick Strike" },
 
     "stats": {
       "power": 53,
@@ -6188,7 +6188,7 @@
     "specialityTypeIds": ["psychic"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 8, "skillName": "EagleEye" },
+    "skill": { "skillIndex": 8, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 66,
@@ -6212,7 +6212,7 @@
     "specialityTypeIds": ["ghost", "fire"],
     "weaknessTypeIds": ["ground", "water"],
 
-    "skill": { "skillIndex": 2, "skillName": "TopSpeed" },
+    "skill": { "skillIndex": 2, "skillName": "Top Speed" },
 
     "stats": {
       "power": 76,
@@ -6236,7 +6236,7 @@
     "specialityTypeIds": ["bug", "fire"],
     "weaknessTypeIds": ["water", "ground"],
 
-    "skill": { "skillIndex": 11, "skillName": "HighJump" },
+    "skill": { "skillIndex": 11, "skillName": "High Jump" },
 
     "stats": {
       "power": 84,
@@ -6260,7 +6260,7 @@
     "specialityTypeIds": ["fighting", "fire"],
     "weaknessTypeIds": ["ground", "water"],
 
-    "skill": { "skillIndex": 11, "skillName": "HighJump" },
+    "skill": { "skillIndex": 11, "skillName": "High Jump" },
 
     "stats": {
       "power": 82,
@@ -6356,7 +6356,7 @@
     "specialityTypeIds": ["dark"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 14, "skillName": "QuickStrike" },
+    "skill": { "skillIndex": 14, "skillName": "Quick Strike" },
 
     "stats": {
       "power": 62,
@@ -6404,7 +6404,7 @@
     "specialityTypeIds": ["steel"],
     "weaknessTypeIds": ["fire"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 95,
@@ -6452,7 +6452,7 @@
     "specialityTypeIds": ["flying"],
     "weaknessTypeIds": ["rock"],
 
-    "skill": { "skillIndex": 5, "skillName": "SweetSong" },
+    "skill": { "skillIndex": 5, "skillName": "Sweet Song" },
 
     "stats": {
       "power": 67,
@@ -6524,7 +6524,7 @@
     "specialityTypeIds": ["water"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 6, "skillName": "MightyBlow" },
+    "skill": { "skillIndex": 6, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 83,
@@ -6572,7 +6572,7 @@
     "specialityTypeIds": ["water"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 14, "skillName": "QuickStrike" },
+    "skill": { "skillIndex": 14, "skillName": "Quick Strike" },
 
     "stats": {
       "power": 77,
@@ -6620,7 +6620,7 @@
     "specialityTypeIds": ["water"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 8, "skillName": "EagleEye" },
+    "skill": { "skillIndex": 8, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 69,

@@ -12,7 +12,7 @@
     "specialityTypeIds": ["normal"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 65,
@@ -116,7 +116,7 @@
     "specialityTypeIds": ["normal"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 65,
@@ -284,7 +284,7 @@
     "specialityTypeIds": ["normal", "dragon"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 48,
@@ -324,7 +324,7 @@
     "specialityTypeIds": ["normal", "dragon"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 27, "skillName": "SoftLight" },
+    "skill": { "skillIndex": 27, "skillName": "Soft Light" },
 
     "stats": {
       "power": 54,
@@ -348,7 +348,7 @@
     "specialityTypeIds": ["fire", "dragon"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 66,
@@ -388,7 +388,7 @@
     "specialityTypeIds": ["fire", "dragon"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 28, "skillName": "GrandDream" },
+    "skill": { "skillIndex": 28, "skillName": "Grand Dream" },
 
     "stats": {
       "power": 76,
@@ -428,7 +428,7 @@
     "specialityTypeIds": ["fire", "dragon"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 29, "skillName": "GreatUniter" },
+    "skill": { "skillIndex": 29, "skillName": "Great Uniter" },
 
     "stats": {
       "power": 80,
@@ -452,7 +452,7 @@
     "specialityTypeIds": ["water", "fighting"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 82,
@@ -516,7 +516,7 @@
     "specialityTypeIds": ["electric", "fighting"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 74,
@@ -580,7 +580,7 @@
     "specialityTypeIds": ["grass", "psychic"],
     "weaknessTypeIds": ["poison"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 69,
@@ -644,7 +644,7 @@
     "specialityTypeIds": ["ice", "dark"],
     "weaknessTypeIds": ["steel", "rock"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 77,
@@ -684,7 +684,7 @@
     "specialityTypeIds": ["ice", "dark"],
     "weaknessTypeIds": ["steel", "rock"],
 
-    "skill": { "skillIndex": 33, "skillName": "ColdEyes" },
+    "skill": { "skillIndex": 33, "skillName": "Cold Eyes" },
 
     "stats": {
       "power": 88,
@@ -708,7 +708,7 @@
     "specialityTypeIds": ["fighting", "normal"],
     "weaknessTypeIds": ["flying"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 90,
@@ -748,7 +748,7 @@
     "specialityTypeIds": ["fighting", "normal"],
     "weaknessTypeIds": ["flying"],
 
-    "skill": { "skillIndex": 34, "skillName": "Chesto" },
+    "skill": { "skillIndex": 34, "skillName": "Chesto!" },
 
     "stats": {
       "power": 98,
@@ -772,7 +772,7 @@
     "specialityTypeIds": ["poison", "flying"],
     "weaknessTypeIds": ["psychic", "rock"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 65,
@@ -812,7 +812,7 @@
     "specialityTypeIds": ["poison", "flying"],
     "weaknessTypeIds": ["psychic", "rock"],
 
-    "skill": { "skillIndex": 35, "skillName": "NeneNinpo" },
+    "skill": { "skillIndex": 35, "skillName": "Nene Ninp?" },
 
     "stats": {
       "power": 75,
@@ -836,7 +836,7 @@
     "specialityTypeIds": ["ground", "rock"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 82,
@@ -876,7 +876,7 @@
     "specialityTypeIds": ["ground", "rock"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 36, "skillName": "FurinKazan" },
+    "skill": { "skillIndex": 36, "skillName": "F?rin Kazan" },
 
     "stats": {
       "power": 92,
@@ -900,7 +900,7 @@
     "specialityTypeIds": ["flying", "dragon"],
     "weaknessTypeIds": ["rock"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 86,
@@ -940,7 +940,7 @@
     "specialityTypeIds": ["flying", "dragon"],
     "weaknessTypeIds": ["rock"],
 
-    "skill": { "skillIndex": 37, "skillName": "OneEyedDragon" },
+    "skill": { "skillIndex": 37, "skillName": "One-Eyed Dragon" },
 
     "stats": {
       "power": 96,
@@ -964,7 +964,7 @@
     "specialityTypeIds": ["psychic", "fighting"],
     "weaknessTypeIds": ["ghost"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 90,
@@ -1028,7 +1028,7 @@
     "specialityTypeIds": ["bug", "ground"],
     "weaknessTypeIds": ["ice", "ghost"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 64,
@@ -1092,7 +1092,7 @@
     "specialityTypeIds": ["rock", "bug"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 80,
@@ -1132,7 +1132,7 @@
     "specialityTypeIds": ["rock", "bug"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 40, "skillName": "FatherFigure" },
+    "skill": { "skillIndex": 40, "skillName": "Father Figure" },
 
     "stats": {
       "power": 90,
@@ -1156,7 +1156,7 @@
     "specialityTypeIds": ["ghost", "dragon"],
     "weaknessTypeIds": ["bug", "fighting"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 48,
@@ -1196,7 +1196,7 @@
     "specialityTypeIds": ["ghost", "dragon"],
     "weaknessTypeIds": ["bug", "fighting"],
 
-    "skill": { "skillIndex": 41, "skillName": "VipersBite" },
+    "skill": { "skillIndex": 41, "skillName": "Viper's Bite" },
 
     "stats": {
       "power": 54,
@@ -1220,7 +1220,7 @@
     "specialityTypeIds": ["dark", "rock"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 82,
@@ -1284,7 +1284,7 @@
     "specialityTypeIds": ["steel", "dragon"],
     "weaknessTypeIds": ["fire", "grass"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 80,
@@ -1348,7 +1348,7 @@
     "specialityTypeIds": ["electric", "fire"],
     "weaknessTypeIds": ["ground", "rock"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 36,
@@ -1412,7 +1412,7 @@
     "specialityTypeIds": ["ghost", "fire"],
     "weaknessTypeIds": ["ground", "water"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 60,
@@ -1476,7 +1476,7 @@
     "specialityTypeIds": ["flying", "electric"],
     "weaknessTypeIds": ["rock", "fighting"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 84,
@@ -1540,7 +1540,7 @@
     "specialityTypeIds": ["grass", "ice"],
     "weaknessTypeIds": ["bug", "fire"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 42,
@@ -1604,7 +1604,7 @@
     "specialityTypeIds": ["ghost", "poison"],
     "weaknessTypeIds": ["ground", "psychic"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 87,
@@ -1668,7 +1668,7 @@
     "specialityTypeIds": ["dark", "fire"],
     "weaknessTypeIds": ["bug", "fire"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 60,
@@ -1732,7 +1732,7 @@
     "specialityTypeIds": ["fire", "flying"],
     "weaknessTypeIds": ["ground", "rock"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 87,
@@ -1796,7 +1796,7 @@
     "specialityTypeIds": ["grass", "flying"],
     "weaknessTypeIds": ["rock", "fighting"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 89,
@@ -1860,7 +1860,7 @@
     "specialityTypeIds": ["psychic", "water"],
     "weaknessTypeIds": ["ghost"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 65,
@@ -1900,7 +1900,7 @@
     "specialityTypeIds": ["psychic", "water"],
     "weaknessTypeIds": ["ghost"],
 
-    "skill": { "skillIndex": 52, "skillName": "LoveAndHonor" },
+    "skill": { "skillIndex": 52, "skillName": "Love & Honor" },
 
     "stats": {
       "power": 75,
@@ -1924,7 +1924,7 @@
     "specialityTypeIds": ["psychic", "ice"],
     "weaknessTypeIds": ["fighting", "rock"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 39,
@@ -1988,7 +1988,7 @@
     "specialityTypeIds": ["fire", "water"],
     "weaknessTypeIds": ["ground", "grass"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 73,
@@ -2028,7 +2028,7 @@
     "specialityTypeIds": ["fire", "water"],
     "weaknessTypeIds": ["ground", "grass"],
 
-    "skill": { "skillIndex": 54, "skillName": "WarriorWoman" },
+    "skill": { "skillIndex": 54, "skillName": "Warrior Woman" },
 
     "stats": {
       "power": 83,
@@ -2052,7 +2052,7 @@
     "specialityTypeIds": ["bug", "fire"],
     "weaknessTypeIds": ["water", "ground"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 65,
@@ -2092,7 +2092,7 @@
     "specialityTypeIds": ["bug", "fire"],
     "weaknessTypeIds": ["water", "ground"],
 
-    "skill": { "skillIndex": 55, "skillName": "KabukiDance" },
+    "skill": { "skillIndex": 55, "skillName": "Kabuki Dance" },
 
     "stats": {
       "power": 75,
@@ -2116,7 +2116,7 @@
     "specialityTypeIds": ["fighting", "steel"],
     "weaknessTypeIds": ["ghost"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 69,
@@ -2180,7 +2180,7 @@
     "specialityTypeIds": ["steel", "bug"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 92,
@@ -2244,7 +2244,7 @@
     "specialityTypeIds": ["water", "steel"],
     "weaknessTypeIds": ["grass", "fire"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 78,
@@ -2308,7 +2308,7 @@
     "specialityTypeIds": ["rock", "fighting"],
     "weaknessTypeIds": ["grass", "flying"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 92,
@@ -2372,7 +2372,7 @@
     "specialityTypeIds": ["steel", "dark"],
     "weaknessTypeIds": ["fire", "electric"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 46,
@@ -2436,7 +2436,7 @@
     "specialityTypeIds": ["ground", "grass"],
     "weaknessTypeIds": ["ice", "flying"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 82,
@@ -2500,7 +2500,7 @@
     "specialityTypeIds": ["ground", "fire"],
     "weaknessTypeIds": ["grass", "psychic"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 88,
@@ -2564,7 +2564,7 @@
     "specialityTypeIds": ["normal", "bug"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 52,
@@ -2588,7 +2588,7 @@
     "specialityTypeIds": ["dark", "normal"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 70,
@@ -2612,7 +2612,7 @@
     "specialityTypeIds": ["ground", "normal"],
     "weaknessTypeIds": ["ice", "fighting"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 82,
@@ -2636,7 +2636,7 @@
     "specialityTypeIds": ["fighting", "normal"],
     "weaknessTypeIds": ["dragon", "bug"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 88,
@@ -2660,7 +2660,7 @@
     "specialityTypeIds": ["normal", "flying"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 84,
@@ -2684,7 +2684,7 @@
     "specialityTypeIds": ["grass", "normal"],
     "weaknessTypeIds": ["poison", "fighting"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 73,
@@ -2708,7 +2708,7 @@
     "specialityTypeIds": ["normal", "rock"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 34,
@@ -2732,7 +2732,7 @@
     "specialityTypeIds": ["water", "normal"],
     "weaknessTypeIds": ["grass", "fighting"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 33,
@@ -2756,7 +2756,7 @@
     "specialityTypeIds": ["normal", "psychic"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 32,
@@ -2780,7 +2780,7 @@
     "specialityTypeIds": ["poison", "dragon"],
     "weaknessTypeIds": ["ground", "psychic"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 79,
@@ -2804,7 +2804,7 @@
     "specialityTypeIds": ["dragon", "rock"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 75,
@@ -2828,7 +2828,7 @@
     "specialityTypeIds": ["water", "dragon"],
     "weaknessTypeIds": ["grass", "psychic"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 74,
@@ -2852,7 +2852,7 @@
     "specialityTypeIds": ["normal", "dragon"],
     "weaknessTypeIds": ["poison", "ice"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 7,
@@ -2876,7 +2876,7 @@
     "specialityTypeIds": ["dragon", "ground"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 79,
@@ -2900,7 +2900,7 @@
     "specialityTypeIds": ["steel", "dragon"],
     "weaknessTypeIds": ["ice", "normal"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 96,
@@ -2924,7 +2924,7 @@
     "specialityTypeIds": ["grass", "dragon"],
     "weaknessTypeIds": ["poison", "ice"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 70,
@@ -2948,7 +2948,7 @@
     "specialityTypeIds": ["dragon", "ghost"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 26,
@@ -2972,7 +2972,7 @@
     "specialityTypeIds": ["fighting", "dragon"],
     "weaknessTypeIds": ["ice", "normal"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 79,
@@ -2996,7 +2996,7 @@
     "specialityTypeIds": ["dragon"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 54,
@@ -3020,7 +3020,7 @@
     "specialityTypeIds": ["dragon", "dark"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 48,
@@ -3044,7 +3044,7 @@
     "specialityTypeIds": ["fire", "dragon"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 68,
@@ -3068,7 +3068,7 @@
     "specialityTypeIds": ["psychic"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 75,
@@ -3092,7 +3092,7 @@
     "specialityTypeIds": ["flying", "fire"],
     "weaknessTypeIds": ["rock", "ground"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 70,
@@ -3116,7 +3116,7 @@
     "specialityTypeIds": ["psychic", "fire"],
     "weaknessTypeIds": ["dark", "water"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 72,
@@ -3140,7 +3140,7 @@
     "specialityTypeIds": ["normal", "fire"],
     "weaknessTypeIds": ["ground", "rock"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 31,
@@ -3164,7 +3164,7 @@
     "specialityTypeIds": ["grass", "fire"],
     "weaknessTypeIds": ["poison", "water"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 68,
@@ -3188,7 +3188,7 @@
     "specialityTypeIds": ["fire", "fighting"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 20,
@@ -3212,7 +3212,7 @@
     "specialityTypeIds": ["ground", "fire"],
     "weaknessTypeIds": ["ice", "grass"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 34,
@@ -3236,7 +3236,7 @@
     "specialityTypeIds": ["fire", "dark"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 48,
@@ -3260,7 +3260,7 @@
     "specialityTypeIds": ["fire", "ice"],
     "weaknessTypeIds": ["rock"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 68,
@@ -3284,7 +3284,7 @@
     "specialityTypeIds": ["fire"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 14,
@@ -3308,7 +3308,7 @@
     "specialityTypeIds": ["bug", "fire"],
     "weaknessTypeIds": ["water", "ground"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 23,
@@ -3332,7 +3332,7 @@
     "specialityTypeIds": ["poison", "fire"],
     "weaknessTypeIds": ["ice", "grass"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 62,
@@ -3356,7 +3356,7 @@
     "specialityTypeIds": ["ice", "electric"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 50,
@@ -3380,7 +3380,7 @@
     "specialityTypeIds": ["ghost", "fire"],
     "weaknessTypeIds": ["ground", "water"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 57,
@@ -3404,7 +3404,7 @@
     "specialityTypeIds": ["normal"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 30,
@@ -3428,7 +3428,7 @@
     "specialityTypeIds": ["normal"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 62,
@@ -3452,7 +3452,7 @@
     "specialityTypeIds": ["water", "flying"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 79,
@@ -3476,7 +3476,7 @@
     "specialityTypeIds": ["water", "rock"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 73,
@@ -3500,7 +3500,7 @@
     "specialityTypeIds": ["water", "steel"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 77,
@@ -3524,7 +3524,7 @@
     "specialityTypeIds": ["water", "ground"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 87,
@@ -3548,7 +3548,7 @@
     "specialityTypeIds": ["psychic", "water"],
     "weaknessTypeIds": ["grass", "dark"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 78,
@@ -3572,7 +3572,7 @@
     "specialityTypeIds": ["electric", "water"],
     "weaknessTypeIds": ["grass", "dark"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 49,
@@ -3596,7 +3596,7 @@
     "specialityTypeIds": ["poison", "water"],
     "weaknessTypeIds": ["grass", "dark"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 16,
@@ -3620,7 +3620,7 @@
     "specialityTypeIds": ["electric", "fire"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 85,
@@ -3644,7 +3644,7 @@
     "specialityTypeIds": ["electric", "ghost"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 90,
@@ -3668,7 +3668,7 @@
     "specialityTypeIds": ["dark", "electric"],
     "weaknessTypeIds": ["psychic", "normal"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 69,
@@ -3692,7 +3692,7 @@
     "specialityTypeIds": ["electric", "bug"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 38,
@@ -3716,7 +3716,7 @@
     "specialityTypeIds": ["electric", "steel"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 58,
@@ -3740,7 +3740,7 @@
     "specialityTypeIds": ["electric", "dragon"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 56,
@@ -3764,7 +3764,7 @@
     "specialityTypeIds": ["electric", "normal"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 15,
@@ -3788,7 +3788,7 @@
     "specialityTypeIds": ["ground", "grass"],
     "weaknessTypeIds": ["ice", "poison"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 92,
@@ -3812,7 +3812,7 @@
     "specialityTypeIds": ["grass", "dark"],
     "weaknessTypeIds": ["poison"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 69,
@@ -3836,7 +3836,7 @@
     "specialityTypeIds": ["grass", "fighting"],
     "weaknessTypeIds": ["poison", "flying"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 41,
@@ -3860,7 +3860,7 @@
     "specialityTypeIds": ["water", "grass"],
     "weaknessTypeIds": ["electric", "poison"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 80,
@@ -3884,7 +3884,7 @@
     "specialityTypeIds": ["grass", "flying"],
     "weaknessTypeIds": ["poison", "ice"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 6,
@@ -3908,7 +3908,7 @@
     "specialityTypeIds": ["grass", "poison"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 71,
@@ -3932,7 +3932,7 @@
     "specialityTypeIds": ["grass", "bug"],
     "weaknessTypeIds": ["poison"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 48,
@@ -3956,7 +3956,7 @@
     "specialityTypeIds": ["ice", "water"],
     "weaknessTypeIds": ["normal"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 78,
@@ -3980,7 +3980,7 @@
     "specialityTypeIds": ["ice", "dark"],
     "weaknessTypeIds": ["normal", "fighting"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 68,
@@ -4004,7 +4004,7 @@
     "specialityTypeIds": ["ice", "poison"],
     "weaknessTypeIds": ["normal"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 60,
@@ -4028,7 +4028,7 @@
     "specialityTypeIds": ["ice", "grass"],
     "weaknessTypeIds": ["normal"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 65,
@@ -4052,7 +4052,7 @@
     "specialityTypeIds": ["ice", "water"],
     "weaknessTypeIds": ["normal"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 52,
@@ -4076,7 +4076,7 @@
     "specialityTypeIds": ["normal", "ice"],
     "weaknessTypeIds": ["bug", "normal"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 76,
@@ -4100,7 +4100,7 @@
     "specialityTypeIds": ["psychic", "ice"],
     "weaknessTypeIds": ["bug", "normal"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 70,
@@ -4124,7 +4124,7 @@
     "specialityTypeIds": ["ice", "ghost"],
     "weaknessTypeIds": ["normal"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 38,
@@ -4148,7 +4148,7 @@
     "specialityTypeIds": ["fighting", "ghost"],
     "weaknessTypeIds": ["flying"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 78,
@@ -4172,7 +4172,7 @@
     "specialityTypeIds": ["fighting", "electric"],
     "weaknessTypeIds": ["flying"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 73,
@@ -4196,7 +4196,7 @@
     "specialityTypeIds": ["fighting"],
     "weaknessTypeIds": ["psychic"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 66,
@@ -4220,7 +4220,7 @@
     "specialityTypeIds": ["poison"],
     "weaknessTypeIds": ["psychic"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 71,
@@ -4244,7 +4244,7 @@
     "specialityTypeIds": ["fighting", "bug"],
     "weaknessTypeIds": ["flying"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 70,
@@ -4268,7 +4268,7 @@
     "specialityTypeIds": ["fighting", "water"],
     "weaknessTypeIds": ["flying"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 30,
@@ -4292,7 +4292,7 @@
     "specialityTypeIds": ["fire", "fighting"],
     "weaknessTypeIds": ["water", "ground"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 56,
@@ -4316,7 +4316,7 @@
     "specialityTypeIds": ["poison", "flying"],
     "weaknessTypeIds": ["psychic"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 87,
@@ -4340,7 +4340,7 @@
     "specialityTypeIds": ["poison", "fighting"],
     "weaknessTypeIds": ["psychic"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 68,
@@ -4364,7 +4364,7 @@
     "specialityTypeIds": ["poison", "ground"],
     "weaknessTypeIds": ["psychic"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 42,
@@ -4388,7 +4388,7 @@
     "specialityTypeIds": ["poison", "bug"],
     "weaknessTypeIds": ["psychic"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 80,
@@ -4412,7 +4412,7 @@
     "specialityTypeIds": ["poison", "dark"],
     "weaknessTypeIds": ["psychic"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 60,
@@ -4436,7 +4436,7 @@
     "specialityTypeIds": ["rock", "ground"],
     "weaknessTypeIds": ["grass", "ice"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 82,
@@ -4460,7 +4460,7 @@
     "specialityTypeIds": ["flying", "ground"],
     "weaknessTypeIds": ["grass", "psychic"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 41,
@@ -4484,7 +4484,7 @@
     "specialityTypeIds": ["ghost", "ground"],
     "weaknessTypeIds": ["grass", "ice"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 88,
@@ -4508,7 +4508,7 @@
     "specialityTypeIds": ["ground", "ice"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 70,
@@ -4532,7 +4532,7 @@
     "specialityTypeIds": ["ground", "water"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 80,
@@ -4556,7 +4556,7 @@
     "specialityTypeIds": ["fighting", "ground"],
     "weaknessTypeIds": ["grass", "ice"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 74,
@@ -4580,7 +4580,7 @@
     "specialityTypeIds": ["psychic", "ground"],
     "weaknessTypeIds": ["grass", "ice"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 58,
@@ -4604,7 +4604,7 @@
     "specialityTypeIds": ["ground", "electric"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 32,
@@ -4628,7 +4628,7 @@
     "specialityTypeIds": ["dark", "ground"],
     "weaknessTypeIds": ["bug", "grass"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 60,
@@ -4652,7 +4652,7 @@
     "specialityTypeIds": ["steel", "ground"],
     "weaknessTypeIds": ["grass", "ice"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 65,
@@ -4676,7 +4676,7 @@
     "specialityTypeIds": ["dragon", "flying"],
     "weaknessTypeIds": ["rock", "psychic"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 70,
@@ -4700,7 +4700,7 @@
     "specialityTypeIds": ["bug", "flying"],
     "weaknessTypeIds": ["dark", "psychic"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 85,
@@ -4724,7 +4724,7 @@
     "specialityTypeIds": ["ice", "flying"],
     "weaknessTypeIds": ["fighting", "rock"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 66,
@@ -4748,7 +4748,7 @@
     "specialityTypeIds": ["grass"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 48,
@@ -4772,7 +4772,7 @@
     "specialityTypeIds": ["dragon", "flying"],
     "weaknessTypeIds": ["rock", "psychic"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 76,
@@ -4796,7 +4796,7 @@
     "specialityTypeIds": ["flying", "steel"],
     "weaknessTypeIds": ["rock"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 71,
@@ -4820,7 +4820,7 @@
     "specialityTypeIds": ["flying", "rock"],
     "weaknessTypeIds": ["electric"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 38,
@@ -4844,7 +4844,7 @@
     "specialityTypeIds": ["flying", "electric"],
     "weaknessTypeIds": ["rock"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 58,
@@ -4868,7 +4868,7 @@
     "specialityTypeIds": ["psychic", "fighting"],
     "weaknessTypeIds": ["ghost"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 82,
@@ -4892,7 +4892,7 @@
     "specialityTypeIds": ["ice"],
     "weaknessTypeIds": ["normal"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 81,
@@ -4916,7 +4916,7 @@
     "specialityTypeIds": ["psychic", "bug"],
     "weaknessTypeIds": ["ghost"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 74,
@@ -4940,7 +4940,7 @@
     "specialityTypeIds": ["rock", "psychic"],
     "weaknessTypeIds": ["grass", "ghost"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 90,
@@ -4964,7 +4964,7 @@
     "specialityTypeIds": ["dark", "psychic"],
     "weaknessTypeIds": ["bug", "electric"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 79,
@@ -4988,7 +4988,7 @@
     "specialityTypeIds": ["psychic", "poison"],
     "weaknessTypeIds": ["ghost"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 55,
@@ -5012,7 +5012,7 @@
     "specialityTypeIds": ["grass", "psychic"],
     "weaknessTypeIds": ["ice", "ghost"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 92,
@@ -5036,7 +5036,7 @@
     "specialityTypeIds": ["psychic", "poison"],
     "weaknessTypeIds": ["ghost"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 37,
@@ -5060,7 +5060,7 @@
     "specialityTypeIds": ["psychic", "electric"],
     "weaknessTypeIds": ["ghost"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 70,
@@ -5084,7 +5084,7 @@
     "specialityTypeIds": ["psychic", "steel"],
     "weaknessTypeIds": ["ghost"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 27,
@@ -5108,7 +5108,7 @@
     "specialityTypeIds": ["bug", "ground"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 73,
@@ -5132,7 +5132,7 @@
     "specialityTypeIds": ["bug", "rock"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 6,
@@ -5156,7 +5156,7 @@
     "specialityTypeIds": ["ice", "bug"],
     "weaknessTypeIds": ["normal", "psychic"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 50,
@@ -5180,7 +5180,7 @@
     "specialityTypeIds": ["bug", "dark"],
     "weaknessTypeIds": ["fire"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 44,
@@ -5204,7 +5204,7 @@
     "specialityTypeIds": ["bug", "flying"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 71,
@@ -5228,7 +5228,7 @@
     "specialityTypeIds": ["bug", "ghost"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 18,
@@ -5252,7 +5252,7 @@
     "specialityTypeIds": ["bug"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 50,
@@ -5276,7 +5276,7 @@
     "specialityTypeIds": ["bug", "poison"],
     "weaknessTypeIds": ["dark"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 48,
@@ -5300,7 +5300,7 @@
     "specialityTypeIds": ["rock", "dark"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 69,
@@ -5324,7 +5324,7 @@
     "specialityTypeIds": ["rock"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 90,
@@ -5348,7 +5348,7 @@
     "specialityTypeIds": ["rock"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 2,
@@ -5372,7 +5372,7 @@
     "specialityTypeIds": ["rock", "electric"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 63,
@@ -5396,7 +5396,7 @@
     "specialityTypeIds": ["rock", "ice"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 74,
@@ -5420,7 +5420,7 @@
     "specialityTypeIds": ["rock", "fire"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 77,
@@ -5444,7 +5444,7 @@
     "specialityTypeIds": ["rock", "grass"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 42,
@@ -5468,7 +5468,7 @@
     "specialityTypeIds": ["rock", "poison"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 62,
@@ -5492,7 +5492,7 @@
     "specialityTypeIds": ["rock", "psychic"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 58,
@@ -5516,7 +5516,7 @@
     "specialityTypeIds": ["dark", "ghost"],
     "weaknessTypeIds": ["bug", "ground"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 73,
@@ -5540,7 +5540,7 @@
     "specialityTypeIds": ["poison", "ghost"],
     "weaknessTypeIds": ["psychic", "ground"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 87,
@@ -5564,7 +5564,7 @@
     "specialityTypeIds": ["steel", "ghost"],
     "weaknessTypeIds": ["normal", "grass"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 70,
@@ -5588,7 +5588,7 @@
     "specialityTypeIds": ["ghost", "water"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 62,
@@ -5612,7 +5612,7 @@
     "specialityTypeIds": ["ghost"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 46,
@@ -5636,7 +5636,7 @@
     "specialityTypeIds": ["rock", "ghost"],
     "weaknessTypeIds": ["psychic", "ground"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 20,
@@ -5660,7 +5660,7 @@
     "specialityTypeIds": ["grass", "ghost"],
     "weaknessTypeIds": ["psychic", "ground"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 57,
@@ -5684,7 +5684,7 @@
     "specialityTypeIds": ["dark", "fighting"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 79,
@@ -5708,7 +5708,7 @@
     "specialityTypeIds": ["flying", "dark"],
     "weaknessTypeIds": ["psychic", "grass"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 79,
@@ -5732,7 +5732,7 @@
     "specialityTypeIds": ["dark"],
     "weaknessTypeIds": ["normal"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 79,
@@ -5756,7 +5756,7 @@
     "specialityTypeIds": ["poison", "dark"],
     "weaknessTypeIds": ["psychic", "normal"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 80,
@@ -5780,7 +5780,7 @@
     "specialityTypeIds": ["dark", "water"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 72,
@@ -5804,7 +5804,7 @@
     "specialityTypeIds": ["steel", "ice"],
     "weaknessTypeIds": ["fire", "fighting"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 72,
@@ -5828,7 +5828,7 @@
     "specialityTypeIds": ["poison", "steel"],
     "weaknessTypeIds": ["normal", "ground"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 87,
@@ -5852,7 +5852,7 @@
     "specialityTypeIds": ["dragon", "bug"],
     "weaknessTypeIds": ["ice", "ghost"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 83,
@@ -5876,7 +5876,7 @@
     "specialityTypeIds": ["ghost", "fire"],
     "weaknessTypeIds": ["ground", "water"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 6,
@@ -5900,7 +5900,7 @@
     "specialityTypeIds": ["steel", "fighting"],
     "weaknessTypeIds": ["fire"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 18,
@@ -5924,7 +5924,7 @@
     "specialityTypeIds": ["steel", "electric"],
     "weaknessTypeIds": ["fire"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 51,
@@ -5948,7 +5948,7 @@
     "specialityTypeIds": ["normal", "steel"],
     "weaknessTypeIds": ["fire", "electric"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 2,
@@ -5972,7 +5972,7 @@
     "specialityTypeIds": ["steel"],
     "weaknessTypeIds": ["normal"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 1,
@@ -5996,7 +5996,7 @@
     "specialityTypeIds": ["bug", "steel"],
     "weaknessTypeIds": ["normal", "ghost"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 90,
@@ -6020,7 +6020,7 @@
     "specialityTypeIds": ["bug", "water"],
     "weaknessTypeIds": ["normal", "ghost"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 62,
@@ -6044,7 +6044,7 @@
     "specialityTypeIds": ["steel", "rock"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 44,
@@ -6068,7 +6068,7 @@
     "specialityTypeIds": ["ghost", "grass"],
     "weaknessTypeIds": ["flying", "ice"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 80,
@@ -6092,7 +6092,7 @@
     "specialityTypeIds": ["flying", "psychic"],
     "weaknessTypeIds": ["rock", "ground"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 81,
@@ -6116,7 +6116,7 @@
     "specialityTypeIds": ["steel", "grass"],
     "weaknessTypeIds": ["fire"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 53,
@@ -6140,7 +6140,7 @@
     "specialityTypeIds": ["ground"],
     "weaknessTypeIds": ["water"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 81,
@@ -6164,7 +6164,7 @@
     "specialityTypeIds": ["ghost", "normal"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 75,
@@ -6188,7 +6188,7 @@
     "specialityTypeIds": ["normal", "poison"],
     "weaknessTypeIds": ["psychic"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 66,
@@ -6212,7 +6212,7 @@
     "specialityTypeIds": ["dragon", "ice"],
     "weaknessTypeIds": ["ground", "rock"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 76,
@@ -6236,7 +6236,7 @@
     "specialityTypeIds": ["electric"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 84,
@@ -6260,7 +6260,7 @@
     "specialityTypeIds": ["fighting", "flying"],
     "weaknessTypeIds": ["electric", "water"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 82,
@@ -6284,7 +6284,7 @@
     "specialityTypeIds": ["fighting", "ice"],
     "weaknessTypeIds": ["flying"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 80,
@@ -6308,7 +6308,7 @@
     "specialityTypeIds": ["water"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 20, "skillName": "Shout" },
+    "skill": { "skillIndex": 20, "skillName": "Added Bonus" },
 
     "stats": {
       "power": 92,
@@ -6332,7 +6332,7 @@
     "specialityTypeIds": ["grass", "electric"],
     "weaknessTypeIds": ["poison", "ice"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 14,
@@ -6356,7 +6356,7 @@
     "specialityTypeIds": ["dark", "water"],
     "weaknessTypeIds": ["bug"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 62,
@@ -6380,7 +6380,7 @@
     "specialityTypeIds": ["psychic", "steel"],
     "weaknessTypeIds": ["ghost", "fire"],
 
-    "skill": { "skillIndex": 63, "skillName": "dummy64" },
+    "skill": { "skillIndex": 63, "skillName": "Fortify" },
 
     "stats": {
       "power": 91,
@@ -6404,7 +6404,7 @@
     "specialityTypeIds": ["poison", "electric"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 95,
@@ -6428,7 +6428,7 @@
     "specialityTypeIds": ["dark", "grass"],
     "weaknessTypeIds": ["fire", "bug"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 95,
@@ -6452,7 +6452,7 @@
     "specialityTypeIds": ["flying", "ghost"],
     "weaknessTypeIds": ["rock"],
 
-    "skill": { "skillIndex": 21, "skillName": "Temperate" },
+    "skill": { "skillIndex": 21, "skillName": "Convalesce" },
 
     "stats": {
       "power": 67,
@@ -6476,7 +6476,7 @@
     "specialityTypeIds": ["normal"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 52,
@@ -6500,7 +6500,7 @@
     "specialityTypeIds": ["normal"],
     "weaknessTypeIds": ["fighting"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 45,
@@ -6524,7 +6524,7 @@
     "specialityTypeIds": ["water"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 69, "skillName": "dummy70" },
+    "skill": { "skillIndex": 69, "skillName": "Mighty Blow" },
 
     "stats": {
       "power": 83,
@@ -6548,7 +6548,7 @@
     "specialityTypeIds": ["ground"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 77,
@@ -6572,7 +6572,7 @@
     "specialityTypeIds": ["water"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 72, "skillName": "dummy73" },
+    "skill": { "skillIndex": 72, "skillName": "Top Speed" },
 
     "stats": {
       "power": 77,
@@ -6596,7 +6596,7 @@
     "specialityTypeIds": ["ground"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 71, "skillName": "dummy72" },
+    "skill": { "skillIndex": 71, "skillName": "Salve" },
 
     "stats": {
       "power": 69,
@@ -6620,7 +6620,7 @@
     "specialityTypeIds": ["water"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 22, "skillName": "Greed" },
+    "skill": { "skillIndex": 22, "skillName": "Eagle Eye" },
 
     "stats": {
       "power": 69,
@@ -6644,7 +6644,7 @@
     "specialityTypeIds": ["ground"],
     "weaknessTypeIds": ["ice"],
 
-    "skill": { "skillIndex": 68, "skillName": "dummy69" },
+    "skill": { "skillIndex": 68, "skillName": "Marksman" },
 
     "stats": {
       "power": 69,
@@ -6668,7 +6668,7 @@
     "specialityTypeIds": ["water"],
     "weaknessTypeIds": ["grass"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 50,
@@ -6692,7 +6692,7 @@
     "specialityTypeIds": ["electric"],
     "weaknessTypeIds": ["ground"],
 
-    "skill": { "skillIndex": 70, "skillName": "dummy71" },
+    "skill": { "skillIndex": 70, "skillName": "Rally" },
 
     "stats": {
       "power": 50,
