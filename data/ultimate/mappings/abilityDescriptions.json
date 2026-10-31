@@ -876,7 +876,7 @@
     "usesValue": false,
 
     "shortDescription": "User Range to 0 turn after successfully hitting a target.",
-    "longDescription": "Has no effect. The intention is for this Pokemon's range to be reduced to zero the turn after succesffuly landing an attack, but range-to-zero effect is assigned directly to {moveIndex: 1} itself rather than coming from this ability. As such, if this ability is given to other Pokemon, the range-to-zero effect will still be assigned to {moveIndex: 1} and not the new move."
+    "longDescription": "Has no effect. The intention is for this Pokemon's range to be reduced to zero the turn after succesffuly landing an attack, but the range-to-zero effect is assigned directly to {moveIndex: 1} itself rather than coming from this ability. As such, if this ability is given to other Pokemon, the range-to-zero effect will still be assigned to {moveIndex: 1} and not the new move."
   },
 
   {
